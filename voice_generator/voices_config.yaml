@@ -30,6 +30,27 @@ voices:
     use_as_spotter: false
     variation_count: 2
 
+  Leonardo:
+    description: "Ingegnere esperto, voce naturale registrata — engineer e spotter"
+    reference_audio: "./reference_audio/leonardo/"
+    language: "it"
+    gpt_cond_len: 30
+    gpt_cond_chunk_len: 6
+    max_ref_length: 60
+    repetition_penalty: 10.0
+    length_penalty: 1.0
+    top_k: 20
+    top_p: 0.6
+    use_as_spotter: true
+    variation_count: 2
+    # Conditioning contestuale per blocco di reference audio
+    block_conditioning: true
+    blocks:
+      A: { prefix: "leonardo_A", type: "tecnico" }
+      B: { prefix: "leonardo_B", type: "spotter" }
+      C: { prefix: "leonardo_C", type: "emotivo" }
+      D: { prefix: "leonardo_D", type: "imprecazione" }
+
 # Parametri globali generazione
 generation:
   output_dir: "./output"

@@ -149,20 +149,12 @@ def load_phrase_inventory(csv_path: str) -> list[PhraseEntry]:
     return entries
 
 
-def init_model(
-    reference_audio_dir: str,
-    language: str = "it",
-    device: str = "cuda",
-    gpt_cond_len: int = 12,
-    gpt_cond_chunk_len: int = 4,
-    max_ref_length: int = 30,
-) -> object:
-    """Carica XTTS v2 e calcola voice embedding da tutti i file reference."""
+def _load_xtts_model(device: str = "cuda"):
+    """Carica il modello XTTS v2 (senza embedding). Ritorna (model, use_gpu)."""
     from TTS.tts.configs.xtts_config import XttsConfig
     from TTS.tts.models.xtts import Xtts
     from TTS.utils.manage import ModelManager
 
-    # Trova modello (scarica se necessario)
     manager = ModelManager()
     model_path, _, _ = manager.download_model(
         "tts_models/multilingual/multi-dataset/xtts_v2"
@@ -179,33 +171,98 @@ def init_model(
     if use_gpu:
         model.cuda()
 
-    # Raccolta file reference
-    ref_dir = Path(reference_audio_dir)
+    return model
+
+
+def _collect_ref_files(ref_dir: Path, prefix_filter: str | None = None) -> list[Path]:
+    """Raccoglie file audio di reference, opzionalmente filtrati per prefisso."""
     ref_files = []
     for ext in ("*.wav", "*.mp3", "*.flac"):
         ref_files.extend(ref_dir.glob(ext))
-    if not ref_files:
-        logger.error(f"Nessun file reference in {reference_audio_dir}")
-        sys.exit(1)
+    if prefix_filter:
+        ref_files = [f for f in ref_files if f.stem.startswith(prefix_filter)]
+    return sorted(ref_files)
 
-    logger.info(f"Reference: {len(ref_files)} file, gpt_cond_len={gpt_cond_len}, "
-                f"chunk_len={gpt_cond_chunk_len}, max_ref={max_ref_length}s")
-    for f in ref_files:
-        logger.info(f"  -> {f}")
 
-    # Calcolo embedding (una volta sola, poi cachato)
-    gpt_cond_latent, speaker_embedding = model.get_conditioning_latents(
+def _compute_latents(model, ref_files, gpt_cond_len, gpt_cond_chunk_len, max_ref_length):
+    """Calcola gpt_cond_latent e speaker_embedding da una lista di file."""
+    return model.get_conditioning_latents(
         audio_path=[str(f) for f in ref_files],
         gpt_cond_len=gpt_cond_len,
         gpt_cond_chunk_len=gpt_cond_chunk_len,
         max_ref_length=max_ref_length,
     )
 
-    model._gpt_cond_latent = gpt_cond_latent
+
+def init_model(
+    reference_audio_dir: str,
+    language: str = "it",
+    device: str = "cuda",
+    gpt_cond_len: int = 12,
+    gpt_cond_chunk_len: int = 4,
+    max_ref_length: int = 30,
+    voice_cfg: dict | None = None,
+) -> object:
+    """Carica XTTS v2 e calcola voice embedding da tutti i file reference.
+
+    Se voice_cfg ha block_conditioning=true, calcola latent separati per blocco
+    (gpt_cond_latent diverso per tipo frase) e speaker_embedding medio da tutti.
+    """
+    model = _load_xtts_model(device)
+    ref_dir = Path(reference_audio_dir)
+
+    # Raccolta TUTTI i file reference (20-40 file supportati)
+    all_ref_files = _collect_ref_files(ref_dir)
+    if not all_ref_files:
+        logger.error(f"Nessun file reference in {reference_audio_dir}")
+        sys.exit(1)
+
+    logger.info(f"Reference: {len(all_ref_files)} file, gpt_cond_len={gpt_cond_len}, "
+                f"chunk_len={gpt_cond_chunk_len}, max_ref={max_ref_length}s")
+    for f in all_ref_files:
+        logger.info(f"  -> {f}")
+
+    # Speaker embedding globale (media di TUTTI i clip — identita' vocale)
+    gpt_cond_latent_all, speaker_embedding = _compute_latents(
+        model, all_ref_files, gpt_cond_len, gpt_cond_chunk_len, max_ref_length,
+    )
+
+    model._gpt_cond_latent = gpt_cond_latent_all
     model._speaker_embedding = speaker_embedding
     model._language = language
-    logger.info("Modello pronto, embedding cachato")
+
+    # Conditioning contestuale per blocco (Leonardo e voci con block_conditioning)
+    model._block_latents = {}
+    if voice_cfg and voice_cfg.get("block_conditioning"):
+        blocks = voice_cfg.get("blocks", {})
+        for block_id, block_cfg in blocks.items():
+            prefix = block_cfg.get("prefix", "")
+            phrase_type = block_cfg.get("type", "tecnico")
+            block_files = _collect_ref_files(ref_dir, prefix_filter=prefix)
+            if block_files:
+                block_latent, _ = _compute_latents(
+                    model, block_files, gpt_cond_len, gpt_cond_chunk_len, max_ref_length,
+                )
+                model._block_latents[phrase_type] = block_latent
+                logger.info(f"  Blocco {block_id} ({phrase_type}): {len(block_files)} file -> latent cachato")
+            else:
+                logger.warning(f"  Blocco {block_id}: nessun file con prefisso '{prefix}', uso latent globale")
+
+    logger.info(f"Modello pronto, embedding cachato"
+                f" ({len(model._block_latents)} blocchi contestuali)" if model._block_latents else
+                "Modello pronto, embedding cachato")
     return model
+
+
+def get_block_latent(model, phrase_level: str):
+    """Ritorna il gpt_cond_latent appropriato per il tipo di frase.
+
+    Se ci sono latent per blocco e il tipo corrisponde, usa quello specifico.
+    Altrimenti usa il latent globale (media di tutti i clip).
+    """
+    if model._block_latents and phrase_level in model._block_latents:
+        return model._block_latents[phrase_level]
+    return model._gpt_cond_latent
 
 
 # ===================================================================
@@ -324,8 +381,9 @@ def generate_audio(
     temperature: float = 0.5,
     speed: float = 1.0,
     seed: int | None = None,
+    phrase_level: str = "tecnico",
 ) -> bool:
-    """Genera WAV con model.inference. Nessun hack di prefix/suffix."""
+    """Genera WAV con model.inference. Usa latent contestuale se disponibile."""
     try:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
@@ -345,10 +403,13 @@ def generate_audio(
         has_repetition = len(words_lower) != len(set(words_lower))
         rep_penalty = 2.0 if has_repetition else 5.0
 
+        # Latent contestuale: usa il blocco appropriato se disponibile
+        gpt_cond = get_block_latent(model, phrase_level)
+
         out = model.inference(
             prepared,
             model._language,
-            model._gpt_cond_latent,
+            gpt_cond,
             model._speaker_embedding,
             temperature=temperature,
             speed=speed,
@@ -616,6 +677,7 @@ def main():
             gpt_cond_len=gpt_cond_len,
             gpt_cond_chunk_len=gpt_cond_chunk_len,
             max_ref_length=max_ref_length,
+            voice_cfg=vcfg,
         )
 
         # Seed per riproducibilita'
@@ -655,7 +717,8 @@ def main():
                         attempt_seed = phrase_seed + attempt * 7
                         if generate_audio(model, entry.text_for_tts, tmp,
                                           temperature=temp, speed=spd,
-                                          seed=attempt_seed):
+                                          seed=attempt_seed,
+                                          phrase_level=tuning.level):
                             postprocess(tmp, out_path, radio_fx=radio_fx)
                             if validate_wav(out_path):
                                 success = True
