@@ -1,0 +1,36 @@
+# Configurazione TEST — solo voce Marco, 0 varianti, subset di frasi
+# Usare con:  python voice_generator/generate_voices.py --config voice_generator/voices_config_test.yaml --voice Marco
+
+voices:
+  Marco:
+    description: "Ingegnere calmo e professionale (TEST)"
+    reference_audio: "./reference_audio/marco/"
+    language: "it"
+    gpt_cond_len: 30
+    repetition_penalty: 10.0
+    length_penalty: 1.0
+    top_k: 20
+    top_p: 0.6
+    # Temperature e speed gestiti dal sistema a 4 livelli automaticamente
+    use_as_spotter: true
+    variation_count: 0
+
+generation:
+  output_dir: "./output/test_marco"
+  format:
+    sample_rate: 22050
+    bit_depth: 16
+    channels: 1
+  audio_effects:
+    enabled: true
+    equalizer:
+      - { freq: 100, q: 0.5, gain: -12 }
+      - { freq: 200, q: 0.5, gain: -6 }
+      - { freq: 300, q: 0.5, gain: -3 }
+      - { freq: 3000, q: 0.5, gain: 6 }
+      - { freq: 6000, q: 0.5, gain: 4 }
+      - { freq: 10000, q: 0.5, gain: 3 }
+    overdrive: { gain: 7, colour: 12 }
+    normalize: -1
+  xtts_integrity_threshold: 0.9
+  max_invalid_attempts: 10

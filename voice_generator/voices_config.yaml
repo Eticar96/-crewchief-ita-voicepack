@@ -6,8 +6,12 @@ voices:
     description: "Ingegnere calmo e professionale"
     reference_audio: "./reference_audio/marco/"
     language: "it"
-    speed: 1.4
-    use_as_spotter: false
+    gpt_cond_len: 30
+    repetition_penalty: 10.0
+    length_penalty: 1.0
+    top_k: 20
+    top_p: 0.6
+    use_as_spotter: true
     variation_count: 2
 
   Gianni:

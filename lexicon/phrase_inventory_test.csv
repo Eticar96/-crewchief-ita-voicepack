@@ -1,0 +1,21 @@
+audio_path,audio_filename,subtitle,text_for_tts,original_english
+\voice\fuel\litres_remaining,1.wav,litri rimasti,litri rimasti,liters remaining
+\voice\tyre_monitor\hot_left_front_tyre,1.wav,la tua anteriore sinistra e' calda,la tua anteriore sinistra e' calda,your left front is hot
+\voice\flags\local_yellow_clear,1.wav,bandiera verde tutto libero,bandiera verde tutto libero,"green flag, all clear"
+\voice\mandatory_pit_stops\box_now,1.wav,box adesso,box adesso,box now
+\voice\timings\seconds,1.wav,secondi,secondi,seconds
+\voice\lap_counter\green_green_green,1.wav,vai vai vai,vai vai vai,"go, go, go"
+\voice\lap_counter\won_race,1.wav,hai vinto guida fantastica,hai vinto guida fantastica,"you won, fantastic drive"
+\voice\position\overtaking,1.wav,bel sorpasso,bel sorpasso,nice pass
+\voice\position\overtaking,2.wav,fantastico bravo,fantastico bravo,"brilliant, nice one"
+\voice\position\being_overtaken,1.wav,dai continua a spingere,dai continua a spingere,"come on, keep pushing"
+\voice\push_now\pits_exit_clear,1.wav,pista libera spingi spingi spingi,pista libera spingi spingi spingi,"track's clear, push, push, push"
+\voice\pearls_of_wisdom\must_do_better,1.wav,dai possiamo fare meglio concentrati,dai possiamo fare meglio concentrati,"come on, we can do better"
+\voice\lap_counter\get_ready,1.wav,preparati guarda i semafori,preparati guarda i semafori,"be ready, watch for the lights"
+\voice\spotter\car_left,1.wav,lato sinistro,lato sinistro,left side
+\voice\spotter\car_right,1.wav,alla tua destra,alla tua destra,on your right
+\voice\spotter\still_there,1.wav,e' ancora li',e' ancora li',still there
+\voice\spotter\clear_all_round,1.wav,libero tutto intorno,libero tutto intorno,clear all around
+\voice\rants\general,1.wav,weekend da incubo del cazzo,weekend da incubo del cazzo,"fucking nightmare weekend"
+\voice\rants\general,2.wav,completamente inutile,completamente inutile,fucking useless
+\voice\rants\general,3.wav,coglione,coglione,Dick
