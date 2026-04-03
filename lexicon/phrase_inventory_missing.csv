@@ -1,0 +1,65 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\acknowledge\spotterDisabled,1.wav,ok niente piu' chiamate spotter,ok niente piu' chiamate spotter
+\voice\acknowledge\spotterDisabled,2.wav,ricevuto spotter disattivato,ricevuto spotter disattivato
+\voice\acknowledge\spotterEnabled,1.wav,capito ti daro' le chiamate,capito ti daro' le chiamate
+\voice\acknowledge\spotterEnabled,2.wav,ok faro' da spotter,ok faro' da spotter
+\voice\acknowledge\spotterEnabled,3.wav,ricevuto spotter attivato,ricevuto spotter attivato
+\voice\damage_reporting\damage,1.wav,abbiamo dei danni,abbiamo dei danni
+\voice\damage_reporting\damage,2.wav,la macchina ha dei danni,la macchina ha dei danni
+\voice\damage_reporting\damage,3.wav,abbiamo preso un colpo ci sono danni,abbiamo preso un colpo ci sono danni
+\voice\damage_reporting\damage,4.wav,la macchina e' danneggiata,la macchina e' danneggiata
+\voice\damage_reporting\severe_engine_damage,1.wav,il motore e' messo male cerca di andare piano,il motore e' messo male cerca di andare piano
+\voice\damage_reporting\severe_engine_damage,2.wav,il motore sta cedendo vai piano,il motore sta cedendo vai piano
+\voice\damage_reporting\wheel_damage,1.wav,hai un danno alla ruota,hai un danno alla ruota
+\voice\damage_reporting\wheel_damage,2.wav,una ruota e' danneggiata,una ruota e' danneggiata
+\voice\damage_reporting\wheel_damage,3.wav,c'e' un problema con una ruota,c'e' un problema con una ruota
+\voice\flags\virtual_safety_car,1.wav,virtual safety car stai attento,virtual safety car stai attento
+\voice\flags\virtual_safety_car,2.wav,virtual safety car attiva rallenta,virtual safety car attiva rallenta
+\voice\flags\virtual_safety_car,3.wav,VSC attiva rispetta il limite di velocita',VSC attiva rispetta il limite di velocita'
+\voice\flags\virtual_safety_car_phase_over,1.wav,virtual safety car finita via libera,virtual safety car finita via libera
+\voice\flags\virtual_safety_car_phase_over,2.wav,VSC finita si riparte,VSC finita si riparte
+\voice\flags\virtual_safety_car_phase_over,3.wav,fine della virtual safety car andiamo,fine della virtual safety car andiamo
+\voice\flags\virtual_safety_car_speed,1.wav,resta sotto la velocita' della virtual safety car,resta sotto la velocita' della virtual safety car
+\voice\flags\virtual_safety_car_speed,2.wav,attenzione al limite VSC,attenzione al limite VSC
+\voice\flags\stay_below_vsc_speed,1.wav,resta sotto la velocita' VSC,resta sotto la velocita' VSC
+\voice\flags\stay_below_vsc_speed,2.wav,rallenta sei sopra il limite VSC,rallenta sei sopra il limite VSC
+\voice\fuel\not_enough_laps_for_average,1.wav,non abbiamo abbastanza giri per calcolare la media carburante,non abbiamo abbastanza giri per calcolare la media carburante
+\voice\fuel\not_enough_laps_for_average,2.wav,servono piu' giri per stimare il consumo,servono piu' giri per stimare il consumo
+\voice\lap_counter\race_starts_in,1.wav,la gara inizia tra,la gara inizia tra
+\voice\lap_counter\race_starts_in,2.wav,partenza tra,partenza tra
+\voice\lap_counter\race_starts_in,3.wav,si parte tra,si parte tra
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,1.wav,le stime carburante non sono affidabili senza tempi pit,le stime carburante non sono affidabili senza tempi pit
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,2.wav,senza cronometro pit le stime carburante sono approssimative,senza cronometro pit le stime carburante sono approssimative
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,1.wav,le stime di posizione non sono affidabili senza tempi pit,le stime di posizione non sono affidabili senza tempi pit
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,2.wav,senza cronometro pit le stime posizione sono approssimative,senza cronometro pit le stime posizione sono approssimative
+\voice\multiclass\lmdh,1.wav,LMDh,elleemmedieacca
+\voice\multiclass\lmdh,2.wav,LMDh,elleemmedieacca
+\voice\multiclass\lmdh_runners,1.wav,macchine LMDh,macchine elleemmedieacca
+\voice\multiclass\lmdh_runners,2.wav,piloti LMDh,piloti elleemmedieacca
+\voice\multiclass\gtp,1.wav,GTP,gitipi'
+\voice\multiclass\gtp,2.wav,GTP,gitipi'
+\voice\multiclass\gtp_runners,1.wav,macchine GTP,macchine gitipi'
+\voice\multiclass\gtp_runners,2.wav,piloti GTP,piloti gitipi'
+\voice\multiclass\faster_car_behind_racing_player_is_class_leader,1.wav,macchina piu' veloce dietro e' il leader della tua classe,macchina piu' veloce dietro e' il leader della tua classe
+\voice\multiclass\faster_car_behind_racing_player_is_class_leader,2.wav,attenzione il leader di classe ti sta raggiungendo,attenzione il leader di classe ti sta raggiungendo
+\voice\multiclass\slower_car_ahead_racing_player_is_class_leader,1.wav,la macchina lenta davanti e' il leader della tua classe,la macchina lenta davanti e' il leader della tua classe
+\voice\multiclass\slower_car_ahead_racing_player_is_class_leader,2.wav,attenzione il leader di classe e' davanti a te,attenzione il leader di classe e' davanti a te
+\voice\penalties\disqualified_no_headlights,1.wav,siamo stati squalificati per guida senza fari,siamo stati squalificati per guida senza fari
+\voice\penalties\disqualified_no_headlights,2.wav,squalificati senza fari accesi,squalificati senza fari accesi
+\voice\penalties\slow_down_penalty_clear,1.wav,penalita' di rallentamento scontata,penalita' di rallentamento scontata
+\voice\penalties\slow_down_penalty_clear,2.wav,ok penalita' scontata,ok penalita' scontata
+\voice\penalties\vsc_violation_penalty,1.wav,penalita' per violazione virtual safety car,penalita' per violazione virtual safety car
+\voice\penalties\vsc_violation_penalty,2.wav,abbiamo preso una penalita' per violazione VSC,abbiamo preso una penalita' per violazione VSC
+\voice\penalties\warning_headlights_required_when_raining,1.wav,piove i fari sono obbligatori accendili,piove i fari sono obbligatori accendili
+\voice\penalties\warning_headlights_required_when_raining,2.wav,devi accendere i fari con la pioggia,devi accendere i fari con la pioggia
+\voice\position\p,1.wav,P,pi
+\voice\rejoining\rejoin_clear,1.wav,puoi rientrare in pista e' libero,puoi rientrare in pista e' libero
+\voice\rejoining\rejoin_clear,2.wav,via libera rientra in pista,via libera rientra in pista
+\voice\rejoining\rejoin_clear,3.wav,pista libera rientra,pista libera rientra
+\voice\rejoining\rejoin_wait,1.wav,aspetta non rientrare ci sono macchine in arrivo,aspetta non rientrare ci sono macchine in arrivo
+\voice\rejoining\rejoin_wait,2.wav,fermo aspetta che passino,fermo aspetta che passino
+\voice\rejoining\rejoin_wait,3.wav,attenzione traffico in arrivo aspetta,attenzione traffico in arrivo aspetta
+\voice\timings\car_behind_is_lapping_us,1.wav,la macchina dietro ci sta doppiando lasciala passare,la macchina dietro ci sta doppiando lasciala passare
+\voice\timings\car_behind_is_lapping_us,2.wav,ci stanno doppiando fai passare,ci stanno doppiando fai passare
+\voice\timings\car_behind_is_unlapping_itself,1.wav,la macchina dietro si sta sdoppiando,la macchina dietro si sta sdoppiando
+\voice\timings\car_behind_is_unlapping_itself,2.wav,si sta sdoppiando lasciala andare,si sta sdoppiando lasciala andare
