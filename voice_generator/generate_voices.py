@@ -95,9 +95,9 @@ _EMOTIVE_PARENTS = {
 
 LEVEL_DEFAULTS = {
     "tecnico":      {"temperature": 0.5,  "speed": 1.0},
-    "emotivo":      {"temperature": 0.7,  "speed": 0.95},
+    "emotivo":      {"temperature": 0.85, "speed": 1.1},
     "spotter":      {"temperature": 0.5,  "speed": 1.15},
-    "imprecazione": {"temperature": 0.75, "speed": 0.95},
+    "imprecazione": {"temperature": 0.8,  "speed": 1.1},
 }
 
 
@@ -313,11 +313,6 @@ _ACCENT_FIXES: dict[str, str] = {
     "arbitro": "àrbitro",
     "limite": "lìmite",
     "obbligo": "òbbligo",
-    "penalita'": "penalità",
-    "velocita'": "velocità",
-    "stabilita'": "stabilità",
-    "visibilita'": "visibilità",
-
     # Participi passati ambigui
     "deciso": "decìso",
     "previsto": "prevìsto",
@@ -350,6 +345,93 @@ _ACCENT_FIXES: dict[str, str] = {
     "stara'": "starà",
     "si'": "sì",
     "e'": "è",
+
+    # Parole comuni con accento ambiguo — ENTRAMBE le forme (con e senza apostrofo)
+    "meta'": "metà", "meta": "metà",
+    "citta'": "città", "citta": "città",
+    "qualita'": "qualità", "qualita": "qualità",
+    "capacita'": "capacità", "capacita": "capacità",
+    "possibilita'": "possibilità", "possibilita": "possibilità",
+    "necessita'": "necessità", "necessita": "necessità",
+    "liberta'": "libertà", "liberta": "libertà",
+    "difficolta'": "difficoltà", "difficolta": "difficoltà",
+    "opportunita'": "opportunità", "opportunita": "opportunità",
+    "penalita'": "penalità", "penalita": "penalità",
+    "velocita'": "velocità", "velocita": "velocità",
+    "stabilita'": "stabilità", "stabilita": "stabilità",
+    "visibilita'": "visibilità", "visibilita": "visibilità",
+    "umidita'": "umidità", "umidita": "umidità",
+    "probabilita'": "probabilità", "probabilita": "probabilità",
+
+    # Verbi comuni accentati — ENTRAMBE le forme
+    "puo'": "può", "puo": "può",
+    "dovro'": "dovrò", "dovro": "dovrò",
+    "potro'": "potrò", "potro": "potrò",
+    "andro'": "andrò", "andro": "andrò",
+    "faro'": "farò", "faro": "farò",
+    "saro'": "sarò", "saro": "sarò",
+    "vedro'": "vedrò", "vedro": "vedrò",
+    "avro'": "avrò", "avro": "avrò",
+    "terro'": "terrò", "terro": "terrò",
+    "vorro'": "vorrò", "vorro": "vorrò",
+    "sara'": "sarà", "sara": "sarà",
+    "fara'": "farà", "fara": "farà",
+    "dovra'": "dovrà", "dovra": "dovrà",
+    "potra'": "potrà", "potra": "potrà",
+    "avra'": "avrà", "avra": "avrà",
+    "terra'": "terrà", "terra": "terrà",
+    "dara'": "darà", "dara": "darà",
+    "andra'": "andrà", "andra": "andrà",
+    "verra'": "verrà", "verra": "verrà",
+    "stara'": "starà", "stara": "starà",
+
+    # Motorsport — accenti specifici
+    "degrado": "degràdo",
+    "consumate": "consumàte",
+    "bilanciamento": "bilanciamènto",
+    "surriscaldati": "surriscaldàti",
+    "surriscaldamento": "surriscaldamènto",
+    "rifornimento": "rifornimènto",
+    "piazzamento": "piazzamènto",
+    "campionato": "campionàto",
+    "traguardo": "traguàrdo",
+    "sorpasso": "sorpàsso",
+    "distacco": "distàcco",
+    "vantaggio": "vantàggio",
+    "svantaggio": "svantàggio",
+    "margine": "màrgine",
+
+    # Aggettivi che XTTS confonde
+    "fantastica": "fantàstica",
+    "fantastico": "fantàstico",
+    "incredibile": "incredìbile",
+    "terribile": "terrìbile",
+    "possibile": "possìbile",
+    "impossibile": "impossìbile",
+    "disponibile": "disponìbile",
+    "significativa": "significatìva",
+    "significativo": "significatìvo",
+
+    # Numeri ordinali
+    "dodicesimo": "dodicèsimo",
+    "tredicesimo": "tredicèsimo",
+    "quattordicesimo": "quattordicèsimo",
+    "quindicesimo": "quindicèsimo",
+    "sedicesimo": "sedicèsimo",
+    "diciassettesimo": "diciassettèsimo",
+    "diciottesimo": "diciottèsimo",
+    "diciannovesimo": "diciannovèsimo",
+    "ventesimo": "ventèsimo",
+
+    # Avverbi
+    "immediatamente": "immediatamènte",
+    "completamente": "completamènte",
+    "facilmente": "facilmènte",
+    "probabilmente": "probabilmènte",
+    "sicuramente": "sicuramènte",
+    "evidentemente": "evidentemènte",
+    "davvero": "davvéro",
+    "adesso": "adèsso",
 }
 
 import re as _re
@@ -452,6 +534,17 @@ def postprocess(input_path: str, output_path: str, radio_fx: bool = False) -> bo
         audio, sr = sf.read(input_path, dtype="float32")
         if audio.ndim > 1:
             audio = audio.mean(axis=1)
+
+        # --- 0. Se skip_postprocessing: solo resample a 22050 ---
+        if os.environ.get("SKIP_POSTPROC") == "1":
+            if sr != 22050:
+                from scipy.signal import resample as scipy_resample
+                n_samples = int(len(audio) * 22050 / sr)
+                audio = scipy_resample(audio, n_samples).astype(np.float32)
+            audio = np.clip(audio, -1.0, 1.0).astype(np.float32)
+            os.makedirs(os.path.dirname(output_path), exist_ok=True)
+            sf.write(output_path, audio, 22050, subtype="PCM_16")
+            return True
 
         # --- 1. Noise reduction (stazionario, leggero) ---
         audio = nr.reduce_noise(
@@ -665,6 +758,14 @@ def main():
         max_ref_length = vcfg.get("max_ref_length", 30)
         var_count = args.variation_count if args.variation_count is not None else vcfg.get("variation_count", 2)
         radio_fx = args.radio_fx or vcfg.get("radio_fx", False)
+        skip_postproc = vcfg.get("skip_postprocessing", False)
+        base_temp_override = vcfg.get("base_temperature", None)
+
+        if skip_postproc:
+            os.environ["SKIP_POSTPROC"] = "1"
+            logger.info("Post-processing DISATTIVATO (timbro fedele)")
+        else:
+            os.environ.pop("SKIP_POSTPROC", None)
 
         logger.info("Sistema 4 livelli:")
         for lvl, p in LEVEL_DEFAULTS.items():
@@ -697,7 +798,7 @@ def main():
                 base_fn = entry.audio_filename.replace(".wav", "")
 
                 tuning = get_phrase_tuning(entry.audio_path, vcfg)
-                temp = tuning.temperature
+                temp = base_temp_override if base_temp_override is not None else tuning.temperature
                 spd = args.xtts_speed or tuning.speed
 
                 for var_idx in range(1 + var_count):

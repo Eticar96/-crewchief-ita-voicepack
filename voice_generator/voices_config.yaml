@@ -35,12 +35,14 @@ voices:
     reference_audio: "./reference_audio/leonardo/"
     language: "it"
     gpt_cond_len: 30
-    gpt_cond_chunk_len: 6
+    gpt_cond_chunk_len: 12
     max_ref_length: 60
-    repetition_penalty: 10.0
+    repetition_penalty: 5.0
     length_penalty: 1.0
-    top_k: 20
-    top_p: 0.6
+    top_k: 50
+    top_p: 0.85
+    base_temperature: 0.3
+    skip_postprocessing: true
     use_as_spotter: true
     variation_count: 2
     # Conditioning contestuale per blocco di reference audio

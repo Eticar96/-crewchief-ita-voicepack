@@ -2078,16 +2078,16 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\conditions\air_and_track_temp_increasing,1.wav,le temperature dell'aria e della pista stanno aumentando,le temperature dell'aria e della pista stanno aumentando,air and track temperatures are increasing
 \voice\conditions\air_and_track_temp_increasing,2.wav,le temperature dell'aria e della pista stanno salendo,le temperature dell'aria e della pista stanno salendo,air and track temperatures are rising
 \voice\conditions\air_and_track_temp_increasing,3.wav,temperature aria e pista in aumento,temperature aria e pista in aumento,air and track temps are increasing
-\voice\conditions\air_temp_decreasing_its_now,1.wav,"air temperatura's sta calando, e' now","air temperatura's sta calando, e' now","air temperature's falling, it's now"
-\voice\conditions\air_temp_decreasing_its_now,2.wav,"air temperatura's sta scendendo, e' now","air temperatura's sta scendendo, e' now","air temperature's decreasing, it's now"
+\voice\conditions\air_temp_decreasing_its_now,1.wav,"la temperatura dell'aria sta calando, e' ora","la temperatura dell'aria sta calando, e' ora","air temperature's falling, it's now"
+\voice\conditions\air_temp_decreasing_its_now,2.wav,"la temperatura dell'aria sta scendendo, e' ora","la temperatura dell'aria sta scendendo, e' ora","air temperature's decreasing, it's now"
 \voice\conditions\air_temp_decreasing_its_now,3.wav,temperatura aria in calo e' ora,temperatura aria in calo e' ora,"air temp's falling, it's now"
-\voice\conditions\air_temp_increasing_its_now,1.wav,"air temperatura's sta salendo, e' now","air temperatura's sta salendo, e' now","air temperature's increasing, it's now"
+\voice\conditions\air_temp_increasing_its_now,1.wav,"la temperatura dell'aria sta salendo, e' ora","la temperatura dell'aria sta salendo, e' ora","air temperature's increasing, it's now"
 \voice\conditions\air_temp_increasing_its_now,2.wav,temperatura aria in aumento e' ora,temperatura aria in aumento e' ora,"air temp's rising, it's now"
 \voice\conditions\air_temp_increasing_its_now,3.wav,temperatura aria in aumento e' ora,temperatura aria in aumento e' ora,"air temp's increasing, it's now"
 \voice\conditions\air_temp_is,1.wav,la temperatura aria e',la temperatura aria e',the air temp is
 \voice\conditions\air_temp_is,2.wav,la temperatura aria e',la temperatura aria e',the air temp is
 \voice\conditions\air_temp_is,3.wav,la temperatura aria e',la temperatura aria e',the air temp is
-\voice\conditions\air_temp_is_now,1.wav,air temperatura's now,air temperatura's now,air temperature's now
+\voice\conditions\air_temp_is_now,1.wav,la temperatura dell'aria e' ora,la temperatura dell'aria e' ora,air temperature's now
 \voice\conditions\air_temp_is_now,2.wav,la temperatura dell'aria e' ora,la temperatura dell'aria e' ora,air temperature is now
 \voice\conditions\air_temp_is_now,3.wav,temperatura aria e' ora,temperatura aria e' ora,air temp is now
 \voice\conditions\celsius,1.wav,gradi,gradi,celsius
