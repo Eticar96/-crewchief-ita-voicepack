@@ -7,7 +7,7 @@
 
 language = it
 
-defaultLocale =
+defaultLocale = it
 
 ######################################################
 # Frasi di riconoscimento statiche - riconosciute esattamente come scritte.
