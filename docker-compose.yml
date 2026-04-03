@@ -1,0 +1,68 @@
+# CrewChief ITA Voice Pack - Docker Compose
+#
+# Configurazione per la generazione di voice pack italiani con supporto GPU NVIDIA.
+#
+# Utilizzo:
+#   docker compose up                           # Genera voce Marco (predefinita)
+#   docker compose run crewchief-ita-voicepack python3 voice_generator/generate_voices.py --voice Gianni
+#
+# NOTA: Sostituire MYUSER con il proprio nome utente Windows nei percorsi dei volumi.
+#       Esempio: C:/Users/Mario/Documents/-crewchief-ita-voicepack/output
+
+services:
+  crewchief-ita-voicepack:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: crewchief-ita-voicepack:latest
+    container_name: crewchief-ita-voicepack
+
+    # Supporto GPU NVIDIA - richiede NVIDIA Container Toolkit
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+    # Comando predefinito: genera voice pack con voce Marco
+    command: >
+      python3 voice_generator/generate_voices.py
+      --voice Marco
+      --config voices_config.yaml
+
+    # Volumi montati per persistenza dei dati
+    # IMPORTANTE: Sostituire MYUSER con il proprio nome utente Windows
+    volumes:
+      # Directory di output per i file audio generati
+      - C:/Users/MYUSER/Documents/-crewchief-ita-voicepack/output:/app/output
+
+      # File audio di riferimento per la clonazione vocale
+      - C:/Users/MYUSER/Documents/-crewchief-ita-voicepack/reference_audio:/app/reference_audio
+
+      # File lessico per la pronuncia italiana
+      - C:/Users/MYUSER/Documents/-crewchief-ita-voicepack/lexicon:/app/lexicon
+
+      # Cache dei modelli PyTorch (evita di riscaricarli ogni volta)
+      - torch-cache:/app/.cache/torch
+
+      # Cache dei modelli HuggingFace
+      - hf-cache:/app/.cache/huggingface
+
+    # Variabili d'ambiente
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - COQUI_TOS_AGREED=1
+      # Livello di log: DEBUG, INFO, WARNING, ERROR
+      - LOG_LEVEL=INFO
+
+    # Riavvio automatico disabilitato (esecuzione singola)
+    restart: "no"
+
+# Volumi con nome per la cache dei modelli (persistenti tra le esecuzioni)
+volumes:
+  torch-cache:
+    name: crewchief-ita-torch-cache
+  hf-cache:
+    name: crewchief-ita-hf-cache

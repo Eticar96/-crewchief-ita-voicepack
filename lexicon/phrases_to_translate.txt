@@ -1,0 +1,3598 @@
+
+=== YOUR_NAME (14) ===
+Ah, YOUR_NAME...
+Ah, bad luck, YOUR_NAME.
+Ahh shit, YOUR_NAME.
+Alright, YOUR_NAME
+Aw shit, YOUR_NAME!
+C'mon, YOUR_NAME
+Good job, YOUR_NAME
+Great job, YOUR_NAME
+Hell yeah, YOUR_NAME!
+Oh, YOUR_NAME
+Okay, YOUR_NAME
+Please, YOUR_NAME
+Shit yeah, YOUR_NAME.
+Shit, YOUR_NAME!
+
+=== composite_personalisation_stubs (17) ===
+Ah man
+Ahh, bad luck
+Ahh, come on
+Ahh, tough luck
+Ahhh
+Come on
+Good job
+Great job
+Hell yeah
+OK
+Oh dear
+Ok
+Oof, bad luck
+Please
+Shit yeah
+Shit, come on
+ok
+
+=== conditions (72) ===
+air and track temperatures are increasing
+air and track temperatures are rising
+air and track temps are decreasing
+air and track temps are falling
+air and track temps are increasing
+air and track temps decreasing
+air temp is now
+air temp's falling, it's now
+air temp's increasing, it's now
+air temp's rising, it's now
+air temperature is now
+air temperature's decreasing, it's now
+air temperature's falling, it's now
+air temperature's increasing, it's now
+air temperature's now
+celsius
+fahrenheit
+getting harder, take it easy
+it looks like it stopped raining
+it looks like it's raining
+it stopped raining
+it's chucking it down now
+it's chucking it down now, but easing off, take it easy
+it's like a fucking monsoon here, watch out
+it's not raining so heavily now, seems to be improving
+it's properly pissing it down here, mate
+it's quite rainy now, and getting harder
+it's raining here
+it's raining now, seems to be increasing
+it's really raining now, seems to be increasing
+it's starting to drizzle
+it's starting to piss down out here
+it's still really raining, but it seems to be decreasing
+it's stopped raining
+just drizzling now, looks like it'll stop soon
+light rain now, looks like it's getting better
+looks like it's gonna rain in the next
+no more rain
+the air temp is
+the rain's absolutely terrible here, be careful
+the rain's almost stopped, just a bit of drizzle now
+the rain's easing now, looks like conditions are improving
+the rain's easing off a bit, but it's still heavy, take care
+the rain's easy right off now
+the track temp is
+the track temp is now
+the track temp's increasing, it's now
+the track temperature is now
+the track temperature's decreasing, it's now
+the track temperature's falling, it's now
+the track temperature's increasing, it's now
+the track temperature's now
+the track temperature's rising, it's now
+there's a bit of drizzle starting
+this rain's really heavy now, and getting harder, take care
+we expect drizzle in the next
+we expect heavy rain in the next
+we expect light rain in the next
+we expect medium rain in the next
+we expect rain in the next
+we expect the rain to stop in the next
+we expect to see some rain in the next
+we expect very heavy rain in the next
+we're getting proper rain now, looks like it's getting harder
+we're seeing a few spots of drizzle now
+we're seeing a few spots of rain, seems to be increasing
+we're seeing some rain
+we're starting to see some rain
+we've got a bit of rain now, looks like it's getting harder
+we've got drizzle now and it's drying out
+we've got light rain here, getting harder
+we've got light rain here, it's clearing up
+
+=== damage_reporting (162) ===
+I assume that means you're okay, thanks, mate
+I think the radio's fucked
+ah shit, that engine's completely gone, no chance of fixing that, mate
+answer me if you can?
+are you all right, mate?
+are you all right, that was a big one?
+are you all right?
+are you okay there?
+are you okay, mate?
+are you okay?
+are you okay? Answer me if you can
+can you confirm you're okay?
+can you hear me, respond, please, are you okay?
+can you hear me? Respond please
+can you respond, please, are you all right?
+can't hear anything, mate, think you've knackered the radio
+can't hear anything, think the radio's gone
+car looks fine, no significant damage
+careful with those gearshifts or the transmission ain't gonna last the race
+come on, are you okay?
+come on, don't do this, tell us you're okay
+come on, mate, are you okay? respond
+come on, respond, please
+come on, we're all shitting ourselves here, tell us you're okay
+didn't really catch that, but at least you're talking
+engine looks fine
+engine looks good, mate
+engine looks okay
+flat front left
+forget about that, it'll probably just polish out
+front left puncture
+fucking hell, man, I hope you're okay
+fucking hell, that looked like it hurt, are you all right?
+go easy on the engine or it's not gonna last the distance
+go easy on the transmission
+good to hear you're okay
+if you can hear me, help's coming
+if you can hear me, help's on the way
+ignore that aero damage, it's nothing
+it goes quicker when it's on its wheels, mate
+it looks like your suspension's a little bit off
+it'll polish out, mate, forget about it
+it's fine mate, it's just a scrape
+it's just a scratch, ignore it
+it's quicker the other way up
+just sit tight, help's on the way
+left rear puncture
+looks like you got some minor bodywork damage
+no chance of getting back to the pits with the transmission in that state, mate, you fucked it
+no idea what you just said, but at least it was something
+no, now you've gone upside-down there
+okay, I can't hear you, maybe the radio's gone
+okay, just sit tight, the team's on it's way
+okay, mate, I think that radio's had it
+okay, mate, just sit tight, the medical team are coming
+okay, mate, thanks for the update
+okay, sounds like you're all right
+pit now, we need to fix these brakes
+rear left puncture
+right front puncture
+right rear puncture
+see if you can get it back to the pits and we can do what we can with these brakes
+shit, I hope it's just the radio that's knackered
+shit, mate, that was bad, are you okay?
+shit, that looked painful, how's your head
+some minor aero damage
+sounds like you're okay, thanks, mate
+switch it off, mate, there's nothing left of the transmission, we're done here
+thanks for the update
+that engine doesn't sound right, mate, we'll keep an eye on it
+that engine's in a bad way, just take it easy, let's see if we can get it to the finish
+that engine's toast, mate, you're gonna have to wait for a tow
+that looked bad, are you okay?
+that looked bad, can you confirm that you're all right?
+that looked bad, you okay?
+that looked like a bad one, are you okay?
+that looked like a big one, are you all right?
+that looked pretty bad, are you okay?
+that looks painful
+that was a big one, are you okay?
+that's a relief
+that's barely a scratch, just ignore it
+that's barely a scratch, mate, just ignore it
+that's good to know
+that's good to know, thanks, mate
+that's not right, it should be the other way up, I'm sure
+the bodywork's in pretty bad shape, we might need to fix that
+the car's looking good, no damage
+the engine sounded absolutely terrible, just do what you can, mate
+the engine's fucked, nicely done, mate
+the engine's on its last legs, mate, try and give it some breathing space
+the suspension's boogered
+the transmission looks fine
+the transmission looks fine, mate
+the transmission's okay
+them brakes are fucked, mate
+there's a garage full of people turning blue, here
+there's no significant damage
+there's nothing left of these brakes, mate, come back into the pit if you can
+there's some minor suspension damage
+there's something not right with those brakes, mate
+tiny bit of aero damage there, you probably won't even feel it
+tiny bit of aero damage, just ignore it
+transmission's completely screwed, that's our race done
+try the other way up
+unlucky mate, that looks painful
+watch those downshifts, go easy on the transmission
+we can't fix our suspension, mate, that's your day over
+we're gonna have to fix these brakes, come in
+we're not seeing any suspension damage
+we're seeing a little bit of aero damage
+we're seeing a little bit of bodywork damage there
+we're seeing a little bit of suspension damage
+we're seeing some minor aero damage
+we're seeing some minor brake damage
+we're seeing some minor suspension damage
+we've lost the engine, it's over
+you got a little bit of suspension damage
+you got a right rear puncture
+you got a tiny bit of bodywork damage there, just ignore it
+you got some serious suspension damage there
+you got us all really worried here, man
+you had some minor aero damage, stay out, it's not that bad
+you made a right mess of this transmission, mate
+you picked up a big of aero damage
+you picked up a bit of aero damage
+you picked up a little bit of bodywork damage
+you picked up some minor aero damage
+you're missing a wheel, mate, let's see if you can get it back to the pits
+you're missing a wheel, you might be able to limp back, but I don't know if we can sort it
+you've got a bit of brake damage
+you've got a little bit of bodywork damage there
+you've got a little bit of suspension damage
+you've got some minor suspension damage there
+you've had a bit of bodywork damage there
+you've had a bit of bodywork damage, stay out, it's not too bad
+you've had a bit of suspension damage
+you've had a bit of suspension damage, it's probably all right
+you've had a lot of aero damage there, mate, the bodywork looks pretty fucked
+you've had quite a lot of aero damage, you might need to come and get it fixed
+you've had some suspension damage there, stay out
+you've lost a wheel, it's not looking good, mate
+you've picked up a little bit of bodywork damage
+you've taken a tiny bit of bodywork damage, but you won't feel it
+your bodywork looks good
+your bodywork's fine
+your bodywork's okay
+your brakes are absolutely fine, mate
+your brakes are good
+your brakes are looking really bad, come in
+your brakes look good from here
+your engine's running a bit rough, mate
+your left rear is punctured
+your right front's punctured
+your right rear's punctured
+your suspension looks fine, mate
+your suspension's completely knackered, there's nothing we can do there
+your suspension's fine
+your suspension's gonna need sorting, you'll need to come in
+your suspension's looking pretty bad, mate
+your transmission looks fucked, I don't think you'll get to the end with that
+your transmission's in a bad way, mate, you might not make it to the end
+
+=== driver_swaps (34) ===
+10 minutes left in this driver stint
+10 minutes left in this stint before we need a driver swap
+10 minutes left in this stint, we'll need a driver swap
+15 minutes before we need a driver swap
+15 minutes before we need to change drivers
+15 minutes of this driver stint remaining
+15 minutes of this stint left
+2 minutes before we gotta swap drivers
+2 minutes remaining on this driver stint
+5 minutes left before we gotta swap
+5 minutes left in this driver stint
+5 minutes left in this stint
+box this lap for a driver change, this is your last time in the car
+box this lap for a driver change, we've got no more stints left
+box this lap for a driver change, we've got no more time left in the car
+box this lap for a driver swap
+box, box, box, we're doing a driver change this time
+driver change, box, box, box
+driver change, pit now
+need to change drivers in 2 minutes
+our time in the car is up, pit this lap for a driver change
+pit this lap for a driver change
+pit this lap for a driver change, our time in the car is up
+pit this lap for a driver swap
+pit this lap for your driver change
+we got 2 minutes left of this driver stint
+we need a driver change in 5 minutes
+we need to pit now for a driver change
+we'll need to swap drivers in 5 minutes
+we'll need to swap in 2 minutes
+we're pitting now for a driver change
+you got 10 minutes before we need to change drivers
+you got 15 minutes before we need a driver swap
+you've got 10 minutes left before we need to change drivers
+
+=== engine_monitor (33) ===
+don't rush, get it running, back it back in the race
+fire it back up, get back into the fray
+if you don't cool this engine you're really gonna fuck it up
+keep an eye on your oil temperature, it's creeping up
+looks like we got oil pressure issues
+looks like you got oil pressure issues here
+low fuel pressure
+okay, mate, take a breath, fire it back up, get back on it
+okay, mate, your fuel pressure's dropping
+okay, take your time, just get it started
+restart it and get on it
+restart it, get the clutch it next time
+take your time, start it back up and get back in the race
+watch your oil temperature, it's pretty high
+we got a fuel pressure warning here
+we're seeing a low oil pressure warning
+we're seeing a low oil pressure warning here
+we're seeing low oil pressure, better keep an eye on it
+you have low fuel pressure
+you want to watch your water temperature, it's looking a little high
+your engine temperatures are looking better now
+your engine temperatures are now back to normal
+your engine temperatures are okay, all clear on engine temperatures
+your fuel pressure's dropping
+your fuel pressure's dropping, it doesn't look good
+your oil and water temperatures are both high, you might need to take it easy for a bit
+your oil and water temperatures are high, you need to back off a little
+your oil temp is
+your oil temperature's getting a bit high
+your water and your oil are both looking pretty hot right now, try and take it easy
+your water temp is
+your water temperature looks quite high
+your water temperature's creeping up
+
+=== flags (331) ===
+I think P4's gone off
+P3 has gone off
+allow the lucky dog to pass on the outside
+and
+be careful, we got a full course caution
+be ready, we're going green
+black flag
+black flag, we're being shown the black flag
+blue flag
+car stopped in the tri-oval, stay high
+car stopped in turn 1, stay high
+car stopped in turn 2
+car stopped in turn 3
+car stopped in turn 3, stay high
+car stopped in turn 4
+car stopped in turn 4, stay high
+car stopped turn 4, stay high
+catch the rear of the field, we've been waved around
+double yellow flag, keep an eye out, mate
+double yellows, watch out
+full course caution
+full course caution, be careful
+full course caution, watch out
+full course yellow, be careful
+full course yellow, lead lap vehicles can now pit
+full course yellow, pace car is out
+full course yellow, pits are closed
+full course yellow, pits are open
+full course yellow, safety car's coming out
+full course yellow, watch out
+full course yellow, we're under caution
+get ready, race will resume at the end of this lap
+get ready, safety car's coming in
+give this place back
+green flag
+green flag sector 2
+green flag sector 3
+green flag, all clear
+green flag, sector 1
+green flag, we're racing
+green flag, you're clear
+green, green, green, let's go
+has binned it
+has binned it in
+has crashed
+has crashed in
+has gone off
+has gone off in
+has spun off
+has stacked it
+has stacked it in
+have binned it
+have binned it in
+have crashed in
+have gone off
+have gone off in
+have spun off
+have spun off in
+have spun out
+have stacked it
+heads up, prepare for green flag
+incident clear, green flag
+incident in
+incident in sector 1, sector 1 is yellow
+incident in sector 2, sector 2 is yellow
+incident in sector 3, sector 3 is yellow
+incident up ahead
+incidents ahead, heads up
+is the lucky dog
+it looks like
+it looks like it's
+let's pass the pace car, we are waved around
+looks like P1 has gone off in
+looks like P2's gone off
+looks like P2's gone off in
+looks like P2's off
+looks like P3's gone off
+looks like P3's gone off in
+looks like P4 has binned it in
+looks like P4 has gone off in
+looks like P4's gone off
+looks like P5's binned it
+looks like P5's gone off in
+looks like P6 has binned it
+looks like P6 has gone off
+looks like P6 has gone off in
+looks like the leader has gone off in
+looks like the leader's binned it
+looks like the leader's binned it in
+looks like the leader's gone off
+lucky dog has taken his lap back, watch out for him
+lucky dog, pass the field on the outside
+move to the left or right to choose a lane
+move to the left or right to choose your lane
+move to the left or the right to choose a lane
+move to the left or to the right to choose your lane
+no overtaking
+no passing
+okay, all sorted
+okay, pass this guy, let's get the lucky dog position
+okay, that's enough
+okay, they're telling us to pass the pace car to get our wave-around lap back
+okay, we got the lucky dog, let's pass the field to get our lap back
+okay, we have a penalty, we need to fall back to the end of the longest line
+okay, we'll be the lucky dog, let's keep this position
+okay, we're a wave-around, let's get our lap back
+okay, we're a wave-around, pass the pace car, let's get the lap back
+okay, we're all good now
+okay, we're the leader, let's choose the lane we're gonna start in
+okay, you can overtake
+okay, you're clear to pass
+okay, you've passed under yellow, you need to give back
+on the inside line
+on the outside line
+pace car is out, pits are closed
+pace car is out, we're under caution
+pace car still out, lead lap cars can pit
+pace car's coming in end of next lap
+pace car's coming in this lap
+pace car's coming in, be ready
+pace car's coming in, get ready
+pace car's in at the end of the next lap
+pace car's in this lap
+pace car's out
+pace car's out, we're under caution
+pass this guy, we want the lucky dog position
+pits are open
+places
+places or we'll get a penalty
+positions
+positions or we'll be penalized
+positions, or we'll be black flagged
+push hard, we need to pass
+push now, we need to pass this guy to get the lucky dog position
+push so we can pass
+race will resume at the end of the next lap
+rare will resume at the end of the next lap
+safety car deployed
+safety car in at end of next lap
+safety car in at the end of the next lap
+safety car in this lap
+safety car is out, pits are now open
+safety car is out, pits open to lead lap vehicles only
+safety car out
+safety car out, we're under caution
+safety car phase
+safety car's coming out, full course yellow
+safety car's coming out, yellow flag
+safety car's out, full course yellow
+safety car's out, pits are closed
+sector 1 is clear
+sector 1 is yellow
+sector 2 is clear
+sector 2 is yellow
+sector 3 is clear
+sector 3 is yellow
+slow car ahead
+slow car ahead, stay high
+slow car in the tri-oval
+slow car in the tri-oval, stay high
+slow car in turn 1
+slow car in turn 1, stay high
+slow car in turn 2, stay high
+slow car in turn 3
+slow car in turn 3, stay high
+slow car in turn 4
+slow car in turn 4, stay high
+so we can get the lucky dog position
+stay behind
+stay behind the pace car
+stay high in turn 1, we got a slow car
+stay high in turn 2, we've got a slow car
+stay high in turn 3, we've got a slow car
+stay high, we got a slow car ahead
+stopped car in turn 2, stay high
+stopped car in turn 3, stay high
+the pace car is in
+the pace car's in
+the safety car's out
+the safety car's out, yellow flag
+there's a big mess in
+there's a big pileup in
+there's a car stopped ahead
+there's a car stopped ahead, stay high
+there's a car stopped in
+there's a car stopped in the tri-oval
+there's a car stopped in the tri-oval, stay high
+there's a car stopped in turn 1
+there's a car stopped in turn 1, stay high
+there's a car stopped in turn 2
+there's a car stopped in turn 2, stay high
+there's a car stopped in turn 3
+there's a car stopped in turn 4
+there's a car stopped in turn 4, stay high
+there's a slow car ahead
+there's a slow car ahead, stay high
+there's a slow car in
+there's a slow car in the tri-oval
+there's a slow car in the tri-oval, stay high
+there's a slow car in turn 1
+there's a slow car in turn 1, stay high
+there's a slow car in turn 2
+there's a slow car in turn 2, stay high
+there's a slow car in turn 3
+there's a slow car in turn 3, stay high
+there's a slow car in turn 4
+there's a slow car in turn 4, stay high
+there's a stopped car ahead
+there's a stopped car ahead, stay high
+there's a stopped car in turn 1, stay high
+there's a stopped car in turn 2
+there's a stopped car in turn 3, stay high
+there's a stopped car in turn 4
+there's a stopped car in turn 4, stay high
+there's a white flag
+there's an incident in
+to get the lucky dog position
+to put us in the lucky dog position
+two more to green
+two more to green, you were the lucky dog
+two to green
+two to green, you were the lucky dog
+watch out for the lucky dog, he's taking his lap back
+watch out for the lucky dog, he's taking his lap back now
+wave around, catch the rear of the field
+wave around, we need to catch the rear of the field
+we are the lucky dog, go ahead, take your lap back
+we can overtake this guy
+we can see
+we got a car stopped in
+we got a car stopped in the tri-oval
+we got a car stopped in turn 2
+we got a car stopped in turn 3
+we got a car stopped in turn 3, stay high
+we got a car stopped in turn 4
+we got a car stopped in turn 4, stay high
+we got a full course caution, watch out
+we got a full course yellow
+we got a slow car ahead, stay high
+we got a slow car in
+we got a slow car in the tri-oval
+we got a slow car in turn 1
+we got a slow car in turn 1, stay high
+we got a slow car in turn 2
+we got a slow car in turn 3
+we got a slow car in turn 4
+we got a slow car in turn 4, stay high
+we got a stopped car in turn 1
+we got double yellows, double yellows
+we got the lucky dog, let's get our lap back, pass the field on the left
+we need to fall back for our end of longest line penalty
+we need to fall back to the end of the longest line for our penalty
+we need to get by
+we need to give this place back
+we need to give up one more position
+we need to let this guy through
+we need to pass
+we need to pass this guy to get the lucky dog position
+we still need to give back
+we still need to give one place back
+we still need to give up
+we think
+we think P2's binned it
+we think P2's binned it in
+we think P2's gone off in
+we think P3 has binned it in
+we think P3's binned it
+we think P3's gone off in
+we think P4 has gone off in
+we think P4's binned it
+we think P5 has binned it in
+we think P5 has gone off
+we think P5's gone off
+we think P6 has binned it in
+we think P6 has gone off
+we think P6 has gone off in
+we think it might be
+we think that
+we'll be the lucky dog, keep the position
+we're going green next time by
+we're in the lucky dog position right now
+we're in the lucky dog position, let's push hard to keep it
+we're in the lucky dog position, let's see if we can keep it
+we're running behind the safety car
+we're shown the black flag
+we're the lucky dog, pass the field on the outside
+we're under caution, full course yellow
+we're under caution, pits are closed
+we're under caution, pits are open to lead lap cars
+we're under caution, pits closed
+we're under caution, the pace car is out
+we've been waved around, catch the rear of the field
+we've got a car stopped in the tri-oval
+we've got a car stopped in the tri-oval, stay high
+we've got a car stopped in turn 1
+we've got a car stopped in turn 1, stay high
+we've got a slow car in
+we've got a slow car in the tri-oval
+we've got a slow car in the tri-oval, stay high
+we've got a slow car in turn 1
+we've got a slow car in turn 2
+we've got a slow car in turn 2, stay high
+we've got a stopped car ahead
+we've got a stopped car in turn 2, stay high
+we've got a stopped car in turn 3, stay high
+white flag
+white flag, mate
+yellow flag
+yellow flag ahead
+yellow flag in sector 1
+yellow flag in sector 2
+yellow flag in sector 3
+yellow flag, keep your wits about you, mate
+yellow flag, safety car is out
+yellow flag, safety car phase
+yellow flag, sector 1
+yellow flag, sector 2
+yellow flag, sector 3
+yellow flag, stay sharp
+yellow flag, the safety car's out
+yellow flag, watch out
+you are the leader, choose the lane you want to start in
+you are the lucky dog
+you got a car stopped ahead, stay high
+you got a slow car ahead
+you need to pass
+you're clear, incident clear
+you're the leader, you can choose the lane you want to start in
+you've passed under yellow flag, you need to give back
+you've passed under yellow, give the place back
+you've passed under yellow, you need to give back
+
+=== frozen_order (100) ===
+allow
+allow car number
+allow the car behind to pass
+allow this guy to pass
+catch up to
+catch up to car number
+follow
+follow car number
+form up in the inside column
+form up in the left column
+form up in the outside column
+form up in the outside line
+form up in the right column
+form up on the left-hand side
+form up on the outside
+get closer to
+hold position behind
+in the inside column
+in the inside lane
+in the left column
+in the left lane
+in the outside column
+in the outside lane
+in the right column
+in the right lane
+kilometres per hour
+let this guy through
+line up in the inside column
+line up in the left column
+line up in the outside column
+line up in the right column
+line up on the inside
+line up on the left
+line up on the outside
+line up on the outside line
+line up on the right-hand side
+line up single file
+line up single-file behind
+line up single-file behind car
+line up single-file behind car number
+line up single-file behind the pace car
+line up single-file behind the safety car
+miles per hour
+move back to the pole
+move back to the pole position
+move back to the pole row
+okay, rolling start
+okay, standing start
+pace car is out
+pass car number
+pass the pace car
+pass the safety car
+please catch up to
+rolling start, get ready
+row
+safety car is out
+standing start now
+stay behind
+stay in pole
+stay in the pole
+stay in the pole row in the inside column
+stay in the pole row in the left column
+stay in the pole row in the outside column
+stay in the pole row in the right column
+the pace car
+the pace car has just left
+the pace car is out
+the pace car speed is
+the pace car's out
+the safety car
+the safety car has just left
+the safety car is out
+the safety car speed is
+the safety car's just left
+the safety car's out
+this is a rolling start
+this'll be a standing start
+to pass
+we need to allow car number
+we need to catch car number
+we need to catch up to car number
+we need to follow car number
+we need to let car number
+we need to line up single file
+we need to pass car number
+we're starting from pole
+we're starting from position
+we're starting in position
+you need to catch up to
+you need to catch up to the guy ahead
+you need to close the gap to the guy ahead
+you need to follow
+you need to get closer to
+you need to move back to the pole
+you need to move back to the pole position
+you need to move back to the pole row
+you should catch up to
+you're ahead of a guy you should be behind
+you're ahead of a guy you should be following
+you're ahead of this guy, you should be behind him
+
+=== fuel (131) ===
+1 gallon remaining
+10 minutes of fuel remaining
+2 laps of fuel remaining
+2 minutes of fuel remaining
+3 laps of fuel remaining
+5 minutes of fuel remaining, 5 minutes
+and closes after
+and closes at about
+and it should close on lap
+and it'll close on lap
+and should close at about
+for
+fuel is tight, you might need to save some fuel to get to the end
+fuel looks tight, you might make it to the end
+fuel's gonna be tight, we're not sure you'll make it to the end
+gallon
+gallons
+gallons per lap
+gallons remaining
+gallons to get to the end
+gallons to get to the end of the race
+gallons to reach the end of the race
+half a gallon of fuel remaining
+half a gallon remaining
+half-distance, fuel looks good
+half-way home, fuel looks good
+half-way home, fuel's good
+half-way home, we got plenty of fuel
+into the race
+it looks like we'll need to add
+it will end on lap
+it'll close on lap
+it'll end on lap
+it's fine, you got loads
+laps of fuel left
+laps of fuel remaining
+laps remaining on this tank
+liter
+liters
+liters left
+liters per lap
+liters remaining
+liters to get to the end
+liters to get to the end of the race
+liters to reach the end
+minutes of fuel left
+minutes of fuel remaining
+one liter remaining
+only 2 laps of fuel left
+only 2 more laps of fuel
+our fuel window opens on lap
+our fuel window will open after
+our refueling window opens after
+our refueling window opens on lap
+our refueling window will open after
+should be about
+that's 5 minutes of fuel left
+that's half a gallon of fuel left
+that's half-distance, fuel levels are fine
+that's half-distance, looks like you're gonna need to save some fuel
+that's half-distance, the fuel's okay
+that's half-distance, you'll need to save some fuel
+that's half-distance, you're looking good for fuel
+that's half-fuel, you've used half your fuel
+the fuel will be tight, we think you'll get to the end but we're not sure
+the fuel window opens on lap
+the pit window for fuel will open on lap
+the pit window for refueling should open about lap
+this is the last lap of fuel
+very little fuel left
+we estimate
+we estimate 3 laps of fuel left
+we estimate 4 laps fuel remaining
+we estimate that we'll need
+we estimate we'll need
+we estimate we'll need about
+we estimate we're gonna need to add
+we estimate you got 5 minutes of fuel remaining
+we predict the fuel window will open on lap
+we predict your refuel window will open after
+we reckon we'll need about
+we should have enough fuel to get to the end, but it'll be tight
+we should have just enough fuel to get us to the end
+we should have just enough fuel to the end
+we should have just enough to get us to the end
+we should need
+we should need about
+we think about
+we think our refueling window will open after
+we think the fuel's gonna be tight, you might need to save some
+we think the pit window for refueling will open on lap
+we think we'll need
+we think we'll need to add
+we think we'll need to stop again
+we think you'll be out of fuel on the next lap
+we think you're okay for fuel, but there's not much to spare
+we think your pit window for fuel should open after
+we think your pit window for refuel will open after
+we will need to add
+we'll need 1 gallon to get to the end
+we'll need to 1 gallon to get to the end
+we'll need to 1 gallon to get to the end of the race
+we'll need to add
+we'll need to add 1 gallon to get to the end
+we'll need to pit for fuel
+we'll need to pit for fuel by lap
+we'll need to pit for refueling
+we'll need to pit to refuel by lap
+we'll need to refuel
+we'll need to refuel by lap
+we'll need to stop again
+we'll need to stop again to get to the end
+we're half-way home, fuel looks okay
+we're half-way home, we're okay on fuel
+we're running on fumes, mate
+you got about 4 laps of fuel left
+you got half a gallon left
+you got loads of fuel
+you got plenty of fuel
+you're half-way home, but you will not make it to the end on fuel
+you're half-way home, got plenty of fuel
+you're half-way home, your fuel is fine
+you've got 1 gallon left
+you've got 10 minutes of fuel remaining
+you've got 2 minutes of fuel remaining
+you've got about 3 laps of fuel left
+you've got half your fuel left
+you've only got enough fuel for this lap
+you've used half your fuel
+your fuel should be okay if your consumption remains like it is
+your refuel window will open on lap
+
+=== incidents (7) ===
+incident points
+incidents
+the incident limit is
+the incident points limit is
+there's no incident limit
+there's no incident points limit
+you have
+
+=== lap_counter (140) ===
+acknowledged, manual rolling start
+acknowledged, no formation lap
+and there's the finish, good result, mate, well done
+be ready
+be ready, watch for the lights
+be ready, we're about to go green
+concentrate, be ready
+floor it
+floor it, green, green, green
+form up behind
+fucking awesome result, mate, well done
+get ready
+get ready, keep your nose clean
+get ready, mate
+get ready, mate, it's hammer time
+get ready, time to focus
+give that position back
+go
+go, go, go
+go, nail it
+great drive, that's a podium
+great win, you deserve that today
+green, green, green
+green, let's go, let's go
+heads up, get ready
+heads up, we're going green
+here we go
+here we go, be ready
+here we go, don't fuck this up
+here we go, get ready
+hold position behind
+hold this position until the start line
+hold your position
+hold your position behind
+laps, let's make 'em count
+laps, let's make them count
+laps, make 'em count
+last lap
+last lap, bring it on home
+last lap, keep your shit together, you're not home yet
+last lap, looking good for a podium
+let's get this right, no fuck ups
+let's go
+line up behind
+maintain this position until the start line
+minutes, you really need to get on with it
+minutes, you'll need to get on with this
+minutes, you've not got much time to sort this out
+nice and neat, stay out of trouble
+okay that's the end, good finish, mate, well done
+okay, get ready
+okay, it's over
+okay, it's over, bloody awful result, mate
+okay, it's over, good drive
+okay, it's over, well done, mate, good finish
+okay, let's try to avoid the turn 1 clusterfuck
+okay, mate, get ready
+okay, mate, get ready, relax
+okay, rolling start
+okay, that's the end, let's get out of here, try and forget this one, eh
+okay, that's the finish, well done, mate
+okay, we're done
+okay, we're starting in
+okay, you're in
+one more lap for the win, come on
+one more lap to go
+one more lap to go, stay focused
+one more lap, keep it together, we'll win this
+one more lap, you're P1
+one more to go
+one more to go, keep it together, we'll be on the podium
+perfect drive, absolutely flawless
+podium finish, nice one
+shit result, mate, hard luck
+shit, we won, wow
+stay behind
+stay calm, focus
+stay in this position until the start line
+take position behind
+that was a fucking waste of time
+that's a win, great job, well done
+that's it, we're done
+that's the end of the race, bad luck, mate
+that's the end of the race, never mind
+that's the end of the race, we'll get 'em next time
+that's the end of the session
+that's the end of the session, pole position, nice one
+that's the end of the session, pole position, well done, mate
+that's the end of the session, you're on pole, well done
+the leader has gone
+the leader's accelerating
+the leader's crossed the line
+the leader's floored it
+the leader's gone
+the leader's started
+the leaders are under green
+the race leader's crossed the line
+there we go, it's over, bring it back round
+there's the checkered flag
+there's the checkered flag, shit day, mate, let's just pack up and go home
+there's the checkered flag, that's disappointing
+there's the finish, good drive
+there's the finish, well done
+two laps left
+two laps left, come on, you're looking good for a podium
+two laps left, we're on for a podium here
+two laps left, you're P1
+two laps remaining
+two to go
+two to go, come on, you're the man
+two to go, keep it together, we'll be on the podium
+two to go, stay focused, we can win this
+two to go, you're in the lead
+understood, manual formation lap
+understood, no rolling start
+until the start line
+until we cross the line
+watch for the lights
+we need to give that position back
+we'll be in the left column behind
+we'll be in the left pace line behind
+we'll be in the right lane behind
+we'll be in the right pace column behind
+we'll be on the left-hand side behind
+we'll be on the right-hand side behind
+we're on the podium, good drive
+we're starting in
+well done, decent drive
+well done, mate, good finish
+well done, mate, that was absolutely perfect, great win
+well done, mate, you made 'em all look silly today
+white flag, last lap
+white flag, one more lap
+white flag, one more to go
+you need to hold your position
+you won, fantastic drive
+you'll need to rejoin at the back
+you'll need to rejoin at the back of the field
+you'll need to wait for the field and rejoin at the back
+you're in
+
+=== lap_times (227) ===
+ahead of P2
+all 3 sectors are
+all 3 sectors are 2 tenths off the pace
+all 3 sectors are 2 tenths off your best
+all 3 sectors are a about a second off the pace
+all 3 sectors are a few tenths off
+all 3 sectors are a second off the pace
+all 3 sectors are a second off your best
+all 3 sectors are a tenth off the pace
+all 3 sectors are a tenth off your best
+all 3 sectors are fastest
+all 3 sectors are more than a second off the pace
+all 3 sectors are pretty quick
+all 3 sectors are the quickest
+decent lap, but you can go quicker
+fastest lap
+good consistency, keep 'em coming
+good lap
+good lap, that's your best in the session
+good lap, that's your quickest so far
+good lap, that's your quickest today
+it's not good at the moment
+just one more tenth, that's all we need
+nice lap
+off the leader's pace
+off the pace
+off your best
+pace is good
+pace is great
+pace is okay
+pace is perfect
+pace is really good
+quicker than second
+quicker than second place
+quickest in sector 3
+sector 1 is
+sector 1 is a second off your best
+sector 1 is a second off your own best
+sector 1 is a tenth off your best
+sector 1 is a tenth off your pace
+sector 1 is two tenths off your best
+sector 1 time is good
+sector 1 time is quick
+sector 1 time's okay
+sector 2 and 3 are a second off the pace
+sector 2 and 3 are fast
+sector 2 and 3 are pretty good
+sector 2 is
+sector 2 is 1 tenth off your best
+sector 2 is 2 tenths off the pace
+sector 2 is 2 tenths off your best
+sector 2 is a second off the pace
+sector 2 is a second off your best
+sector 2 is a tenth off your best
+sector 2 is fastest
+sector 2 time is good
+sector 2 time is okay
+sector 3 is
+sector 3 is 2 tenths off the pace
+sector 3 is 2 tenths off your best
+sector 3 is a second off the pace
+sector 3 is a second off your best
+sector 3 is a tenth off the pace
+sector 3 is a tenth off your best
+sector 3 time is fast
+sector 3 time is quick
+sector 3 time's okay
+sectors 1 and 2 are
+sectors 1 and 2 are 1 tenth off your best
+sectors 1 and 2 are 2 tenths off the pace
+sectors 1 and 2 are 2 tenths off your best
+sectors 1 and 2 are a second off the pace
+sectors 1 and 2 are a second off your best
+sectors 1 and 2 are a tenth down
+sectors 1 and 2 are a tenth off the pace
+sectors 1 and 2 are a tenth off your best
+sectors 1 and 2 are fast
+sectors 1 and 2 are fastest
+sectors 1 and 2 are quick
+sectors 1 and 2 are the quickest
+sectors 1 and 3 are
+sectors 1 and 3 are 1 tenth off your best
+sectors 1 and 3 are 2 tenths off the pace
+sectors 1 and 3 are 2 tenths off your best
+sectors 1 and 3 are a second off the pace
+sectors 1 and 3 are a second off your best
+sectors 1 and 3 are a tenth off the pace
+sectors 1 and 3 are a tenth off your best
+sectors 1 and 3 are fast
+sectors 1 and 3 are fastest
+sectors 1 and 3 are good
+sectors 1 and 3 are looking quick
+sectors 1 and 3 are purple
+sectors 2 and 3 are
+sectors 2 and 3 are 1 tenth off your best
+sectors 2 and 3 are 2 tenths down
+sectors 2 and 3 are 2 tenths off the pace
+sectors 2 and 3 are 2 tenths off your best
+sectors 2 and 3 are a second off your best
+sectors 2 and 3 are a tenth down
+sectors 2 and 3 are a tenth off the pace
+sectors 2 and 3 are a tenth off your best
+sectors 2 and 3 are fastest
+slower than your best
+that lap time was
+that lap was a
+that last lap was a
+that puts you
+that was a
+that's a decent lap
+that's good consistency, keep it up
+that's the best lap in your class
+that's the fastest lap
+that's the fastest lap of the race
+that's the quickest lap for your class
+that's your best lap in this session
+that's your fastest lap
+that's your fastest lap today
+that's your quickest lap
+that's your quickest lap in this session
+we need more than a second a lap here
+we need one more tenth a lap
+we need to find a few more tenths
+we need to find a few tenths
+we need to find a second
+we need to find a tenth in sector 2
+we need to find just one more tenth
+we need to find more than a second a lap
+we need to improve by more than a second a lap
+we need to shave off a few tenths
+we need to shave off a second or so
+we really need to pick it up
+we're current setting the pace
+we're matching race pace
+we're quickest at the moment
+we're quickest right now
+we're setting the pace
+you need to find a tenth in sector 3
+you need to get back on it
+you're 2 tenths down in all 3 sectors
+you're 2 tenths down in sectors 1 and 3
+you're 2 tenths off the pace in sector 1
+you're 2 tenths off the pace in sector 2
+you're 2 tenths off the pace in sector 3
+you're 2 tenths off the pace in sectors 1 and 2
+you're 2 tenths off the pace in sectors 1 and 3
+you're 2 tenths off your best in all 3 sectors
+you're 2 tenths off your best in sector 1
+you're 2 tenths off your best in sector 2
+you're 2 tenths off your best in sector 3
+you're 2 tenths off your best in sectors 1 and 2
+you're 2 tenths off your best in sectors 1 and 3
+you're 2 tenths off your best in sectors 2 and 3
+you're a few tenths off the pace in all 3 sectors
+you're a few tenths off the pace in all sectors
+you're a second down in all 3 sectors
+you're a second down in sector 3
+you're a second down in sectors 1 and 2
+you're a second down in sectors 1 and 3
+you're a second down in sectors 2 and 3
+you're a second down on your best in all 3 sectors
+you're a second off in sector one
+you're a second off the pace in sector 2
+you're a second off the pace in sector 3
+you're a second off the pace in sector one
+you're a second off the pace in sectors 1 and 2
+you're a second off the pace in sectors 1 and 3
+you're a second off your best in all 3 sectors
+you're a second off your best in sector 1
+you're a second off your best in sector 2
+you're a second off your best in sector 3
+you're a second off your best in sectors 1 and 2
+you're a second off your best in sectors 1 and 3
+you're a second off your best in sectors 2 and 3
+you're a tenth down in sectors 1 and 2
+you're a tenth down in sectors 1 and 3
+you're a tenth off in sector 1
+you're a tenth off the pace in all 3 sectors
+you're a tenth off the pace in sector 1
+you're a tenth off the pace in sector 2
+you're a tenth off the pace in sector 3
+you're a tenth off the pace in sectors 1 and 3
+you're a tenth off your best in all 3 sectors
+you're currently
+you're fastest in sector 1
+you're fastest in sector 3
+you're fastest overall in sectors 1 and 3
+you're less than a tenth off a second off your best
+you're less than a tenth off the pace
+you're less than a tenth off your best
+you're less than a tenth off your own pace
+you're losing 2 tenths in sectors 1 and 2
+you're losing 2 tenths in sectors 2 and 3
+you're losing a second in sectors 2 and 3
+you're losing a tenth in sectors 2 and 3
+you're matching race pace
+you're matching race pace, this is good
+you're more than a second down in all 3 sectors
+you're more than a second off the pace in all 3 sectors
+you're now
+you're one tenth off your best in all 3 sectors
+you're purple in sectors 1 and 2
+you're quickest in sector 2
+you're quickest in sector 2 and 3
+you're quickest in sector 3
+you're quickest in your class
+you're quickest overall
+you're times are good in all 3 sectors
+you've gone purple in all 3 sectors
+you've gone purple in sectors 2 and 3
+you've just done a
+your lap time was
+your lap time was a
+your lap times are dropping off, come on, stay focused
+your lap times are dropping off, come on, you can do better than this
+your lap times are improving
+your lap times are improving, this is exactly what we need
+your lap times are improving, this is good
+your lap times are increasing, come on, get back on it
+your lap times are increasing, come on, keep your focus
+your lap times are pretty consistent
+your lap times have gone to crap, come on, sort it out
+your last lap time was a
+your pace is all right
+your pace is good in sectors 1 and 2
+your sector 2 and 3 times are good
+your sector 2 time is quick
+
+=== licence (6) ===
+A license
+B license
+C license
+D license
+Pro license
+Rookie license
+
+=== mandatory_pit_stops (337) ===
+100 feet
+100 metres
+300 feet
+5 seconds
+50 metres
+acknowledged, alternate tyres this time
+acknowledged, dry tyres
+acknowledged, hard tyres
+acknowledged, hyper-soft tyres
+acknowledged, intermediate tyres
+acknowledged, medium tyres
+acknowledged, monsoon tyres
+acknowledged, next tyre compound
+acknowledged, no aero fix at the next pit stop
+acknowledged, no repairs
+acknowledged, no tyres at the next pit stop
+acknowledged, pit request cancelled
+acknowledged, pit stop requested
+acknowledged, prime tyres
+acknowledged, super-soft tyres
+acknowledged, ultra-soft tyres
+acknowledged, we won't fix the suspension
+acknowledged, we won't refuel you
+acknowledged, we'll change all 4 tyres
+acknowledged, we'll change front left only
+acknowledged, we'll change front right only
+acknowledged, we'll change front tyres this time
+acknowledged, we'll change left side tyres only
+acknowledged, we'll change rear left only
+acknowledged, we'll change rear right only
+acknowledged, we'll change right side tyres only
+acknowledged, we'll change the rear tyres only
+acknowledged, we'll change tyres
+acknowledged, we'll fit tyre set
+acknowledged, we'll fix everything we can
+acknowledged, we'll fix front and rear aero
+acknowledged, we'll fix the bodywork
+acknowledged, we'll fix the front aero only
+acknowledged, we'll fix the rear aero only
+acknowledged, we'll fix the suspension
+acknowledged, we'll put option tyres on
+acknowledged, we're already expecting you in
+acknowledged, we're changing all 4 tyres
+acknowledged, we're changing front tyres only this time
+acknowledged, we're changing your front tyres only
+acknowledged, we're going for soft tyres
+acknowledged, we're gonna refuel you
+acknowledged, we're not gonna fix the aero
+acknowledged, wet tyres
+activate limiter
+all done, go
+box in
+box now
+box now, please, box, box, box
+box this lap
+box this lap for options
+box this lap for prime tyres
+box this lap for primes
+box this lap, haul ass or you'll miss the window
+box this lap, push, we're short of time
+box this lap, we might miss the pit window
+box, box, box, pit now
+come in to the pits at the end of this lap, box this lap
+copy that, alternate tyres
+copy that, front tyres only
+copy that, medium tyres
+copy that, no aero fixes
+copy that, no aero fixes this time
+copy that, no fuel this time
+copy that, no refueling
+copy that, no tyre change at the next stop
+copy that, no tyres at the next stop
+copy that, rear aero only
+copy that, we'll change all 4 tyres
+copy that, we'll change all your tyres
+copy that, we'll change rear tyres only
+copy that, we'll fix the front aero
+copy that, we'll fix the front aero only
+copy that, we'll fix the suspension
+copy that, we'll fix your front and your rear aero
+copy that, we'll refuel you
+copy that, we're changing rear tyres only
+copy that, we're going for hard tyres
+copy that, we're going for medium tyres
+copy that, we're going for option tyres
+copy that, we're going for prime tyres
+copy that, we're going for soft tyres
+copy that, we're gonna fix the suspension at the next stop
+copy that, we're not gonna fix the suspension
+disengage limiter
+engage limiter
+engage the limiter
+feet
+go, go
+go, go, go
+hold, we need to be stationary for another
+hold, we need to wait
+hold, we need to wait another
+in this lap for option tyres
+in this lap for options
+in this lap for primes
+in this lap for primes tyres
+in this lap, box this lap
+in this lap, this is gonna be tight to make the pit window
+laps in total
+limiter's still on, disengage it
+look out for the limiter line
+look out for the pit speed limit
+metres
+minutes
+nah, we weren't expecting you, anyway
+no fuel or tyres
+no fuel this time
+no refueling and no tyres
+no tyres or fuel this time
+no tyres this time
+no tyres this time, we're refueling only
+okay we'll put medium tyres on
+okay, alternate tyres
+okay, no refueling this time
+okay, option tyres
+okay, pit request cancelled
+okay, pit stop requested
+okay, that's option tyres
+okay, we are already expecting you
+okay, we weren't expecting you, anyway
+okay, we'll add the fuel
+okay, we'll change your rear tyres only
+okay, we'll fix rear aero only at the next stop
+okay, we'll fix your front and your rear aero
+okay, we'll put hard tyres on
+okay, we'll put soft tyres on
+okay, we're going for hard tyres
+okay, we're going for prime tyres
+okay, we're gonna fix the front aero
+okay, we're gonna fix the suspension
+okay, we're gonna fix the suspension at the next stop
+okay, we're not gonna fix the suspension
+okay, we're putting alternate tyres on
+okay, we're putting prime tyres on
+option tyres
+options
+our pit stall's available now
+pit crew is ready
+pit lane speed limit is
+pit now, box, box, box
+pit speed limit
+pit stop already requested, we know
+pit stop cancelled
+pit stop's already been requested, we are ready
+pit this lap for options
+pit this lap for prime tyres
+pit this lap, in this lap
+pit window closes at the end of this lap
+pit window closes in 1 minute
+pit window closes in 2 minutes
+pit window closing in 1 minute
+pit window closing in 2 minutes
+pit window is closed
+pit window is now closed
+pit window is open
+pit window open
+pit window open in 1 minute
+pit window opens after
+pit window opens in 1 minute
+pit window opens in 2 minutes
+pit window opens on lap
+prime tyres
+primes
+sorry, are not available
+sorry, they're not available
+the car has too much damage, we can't fix this
+the car's got too much damage, mate, we're done
+the pit crew is ready
+the pit crew's ready
+the pit lane speed limit is
+the pit stall is available
+the pit stall is now available
+the pit window closes at the end of this lap
+the pit window closes in 2 minutes
+the pit window is closing
+the pit window is now open
+the pit window opens at the end of this lap
+the pit window opens in 1 minute
+the pit window opens in 2 minutes
+the pit window opens next lap
+the pit window opens on lap
+there's no pit lane speed limit
+there's no pit speed limit
+there's too much damage here, there's nothing we can do
+they've done
+this stop won't count, you've left the pit too soon
+those tyres aren't available
+uh, we weren't expecting you, mate
+understood, change front tyres only
+understood, hard tyres
+understood, medium tyres
+understood, no tyres for the next pit stop
+understood, rear tyres only
+understood, soft tyres this time
+understood, we won't add any fuel
+understood, we won't add fuel
+understood, we won't fix the suspension
+understood, we'll add fuel
+understood, we'll change all your tyres
+understood, we'll fix front and rear aero
+understood, we'll fix the front and rear aero
+understood, we'll fix the suspension at the next stop
+understood, we'll go for option tyres
+understood, we'll put prime tyres on
+understood, we'll put soft tyres on
+understood, we're already expecting you
+understood, we're changing all 4 tyres
+understood, we're changing front tyres only this time
+understood, we're changing your rear tyres only
+understood, we're fixing rear aero only
+understood, we're fixing the front aero
+understood, we're fixing the rear aero only
+understood, we're gonna add fuel
+understood, we're not gonna change the tyres this time around
+understood, we're not gonna fix the aero
+understood, we're putting alternate tyres on
+wait
+wait, we need to be stationary for another
+wait, we need to be stopped for another
+watch your pit speed
+watch your speed
+watch your speed in the pits
+watch your speed limit in the pits
+we can now fit options
+we can now switch to primes
+we can't change those
+we can't do that
+we can't do that, they're not available
+we know, pit stop's already been requested
+we need to be stationary for a total of
+we need to be stationary for at least
+we need to be stopped for
+we need to be stopped for at least
+we weren't expecting you, anyway
+we will not be serving the penalty
+we won't fix the suspension
+we'll add fuel and change all 4 tyres
+we'll be refueling
+we'll be refueling only, no tyres
+we'll be refueling, no tyres this time
+we'll be refueling, we're not changing tyres
+we'll be serving the penalty
+we'll change all 4 tyres
+we'll change the front tyres only
+we'll change the front tyres only this time
+we'll change the rear tyres only this time
+we'll change your rear tyres only
+we'll fix the front aero
+we'll fix the front aero and leave the rear
+we'll fix the front and rear aero
+we'll fix the front and the rear aero
+we'll fix the front and we'll leave the rear aero
+we'll fix the rear aero
+we'll fix the rear aero and leave the front
+we'll fix the rear aero and we'll leave the front
+we'll fix the suspension
+we'll leave the suspension, we're not fixing it
+we'll need to be stationary for
+we'll put fuel in
+we'll refuel you
+we're adding fuel and we're gonna change all 4 tyres
+we're changing all 4 tyres
+we're changing all 4 tyres and we're adding fuel
+we're changing all 4 tyres and we're gonna add fuel
+we're changing all 4 tyres, no fuel
+we're changing all 4 tyres, no fuel this time
+we're changing all 4 tyres, no refueling
+we're changing all 4 tyres, we are not refueling
+we're changing all 4 tyres, we're not refueling this time
+we're changing front tyres only
+we're changing front tyres only this time
+we're changing rear tyres only
+we're changing rear tyres only this time
+we're changing the rear tyres only
+we're changing your front tyres only
+we're done, go, go
+we're fixing front aero only
+we're fixing front and rear aero
+we're fixing the rear aero
+we're fixing the rear aero only
+we're going to put fuel in
+we're gonna change all 4 tyres
+we're gonna change all 4 tyres and refuel
+we're gonna change all 4 tyres and we're gonna refuel you
+we're gonna fix the front aero
+we're gonna fix the front aero and leave the rear
+we're gonna fix the front aero only
+we're gonna fix the rear aero
+we're gonna fix the rear aero only
+we're gonna fix the suspension
+we're gonna fix your front and rear aero
+we're gonna leave the suspension
+we're gonna refuel
+we're not changing any tyres
+we're not changing our tyres
+we're not changing tyres
+we're not changing tyres or refueling this time
+we're not fixing the suspension
+we're not gonna fix the suspension
+we're not gonna refuel
+we're not putting fuel in
+we're not refueling
+we're not refueling and we're not changing tyres
+we're putting fuel in
+we're refueling only, no tyres
+we're serving the penalty
+will be serving that penalty
+will be serving this penalty
+yeah, but the pit window's closed now
+yep, pit window's closed now, you missed your chance
+yep, the pit window opens on lap
+yes, pit window opens after
+yes, the pit window opens after
+yes, the pit window opens on lap
+you can now fit option tyres
+you can now fit prime tyres
+you can now put primes on
+you can now switch to options
+you can now switch to primes
+you can put options on
+you missed the pit window
+you missed your chance, mate
+you needed to wait longer, this won't count as your stop
+you needed to wait, this won't count as your mandatory stop
+you've exited too soon, this one won't count
+you've left the box too soon, you'll need to come back and do it again
+your pit box is currently occupied
+your pit stall is now available
+your pit stall is occupied
+your pit stall is unavailable
+your pit stall's now free
+
+=== multiclass (183) ===
+Carrera Cup
+DTM
+DTM cars
+DTM runners
+DTM-class cars
+GT Two
+GT Two cars
+GT Two class cars
+GT Two runners
+GT-E
+GT-E cars
+GT-E class cars
+GT-E runners
+GT1
+GT3
+GT3 Hundred
+GT3 cars
+GT3 class cars
+GT3 runners
+GT4
+GT4 cars
+GT4 class cars
+GT4 runners
+GT5
+GT5 cars
+GT5 class cars
+GT5 runners
+GT500
+GTC
+GTC cars
+GTC class cars
+GTC runners
+GTLM
+GTO
+Group 4
+Group 5
+Group 6
+Group A
+Group A class cars
+Group A runners
+Group B
+Group C
+Group C cars
+Group C class cars
+Group C runners
+LMP1
+LMP1 cars
+LMP1 class cars
+LMP1 runners
+LMP2
+LMP2 cars
+LMP2 class cars
+LMP2 runners
+LMP3
+LMP3 cars
+LMP3 class cars
+LMP3 runners
+TC1
+TC1 cars
+TC1 class cars
+TC1 runners
+TC2
+TC2 cars
+TC2 class cars
+TC2 runners
+class cars
+class drivers
+class runners
+faster car approaching, he's racing us for position, don't expect a blue
+faster car approaching, it's their class leader
+faster car approaching, they're racing us for position - don't expect and blue flag
+faster car approaching, this guy's the class leader
+faster car approaching, this guy's their class leader
+faster car behind
+faster car behind, he's racing us for position, don't expect a blue flag
+faster car behind, they're racing us for position, there'll be no blue flag
+faster car behind, this guy's their class leader
+faster cars approaching
+faster cars approaching, they're battling for position, the group includes the class leader
+faster cars approaching, they're scrapping for position, the class leader's in this group
+here come the
+is in a faster class
+it's a faster class
+it's a slower class
+same as our class
+same as us
+same as we are
+same class as us
+same class as we are
+slow car ahead, there'll be no blue flag here, we're on the same lap
+slow car ahead, this guy's on our lap, he won't get a blue flag, he's racing us for position
+slow car ahead, this guy's racing us for position, don't expect a blue flag
+slow car ahead, this guy's racing us for position, he won't get a blue flag
+slow car ahead, this guy's their class leader
+slow car ahead, this is for position so don't expect a blue flag
+slow car ahead, this is the leader for their class
+slow car ahead, we're on the same lap so they'll get no blue flag
+slow cars ahead, including the class leader
+slower car ahead, he's the class leader for these guys
+slower car ahead, it's their class leader
+slower car ahead, it's their class leader, there'll be no blue flag here cos we're on the same lap
+slower car ahead, it's their class leader, we're racing this car for position so there'll be no blue flag
+slower car ahead, this guy won't get a blue flag because he's racing us for position
+slower car ahead, this guy won't see the blue flag because he's racing us for position, he's their class leader
+slower car ahead, this guy won't see the blue flag, he's racing us for position, he's the class leader
+slower car ahead, this guy's racing us for position, he won't get a blue flag
+slower car ahead, this guy's the class leader
+slower car ahead, this guy's their class leader
+slower car ahead, this guy's their class leader, he won't see the blue flag because he's racing us for position
+slower car ahead, this guys their class leader but we're racing for position, he won't see the blue flag
+slower car ahead, this is their class leader
+slower car ahead, we're racing them for position so they'll get no blue flag
+slower car ahead, we're racing this car for position so there'll be no blue flag, it's their class leader
+slower car ahead, we're racing this guy for position, don't expect a blue flag
+slower cars ahead, the class leader's in this group, these guys are scrapping for position
+slower cars ahead, the class leader's up here
+slower cars ahead, these guys are fighting for position, the group includes their class leader
+slower cars ahead, these guys are scrapping for position, they might not see you
+slower cars ahead, these guys are slugging it out for position, the class leader's in this group
+slower cars ahead, these guys will be fighting for position, they might not see you
+slower class car ahead
+slower class car ahead, he's their class leader
+slower class cars ahead
+that's a faster class
+that's a slower class
+the car behind's a faster class
+the class leader from a faster class is behind
+the faster class cars are catching
+the faster class cars are catching you up
+there's a faster car approaching
+there's a faster car approaching, he's racing us for position, don't expect a blue flag
+there's a faster car approaching, it's their class leader but we're on the same lap so there'll be no blue flag
+there's a faster car approaching, they're on our lap so there'll be no blue flag
+there's a faster car approaching, this guy's class leader but he's racing us for position, we won't get a blue flag
+there's a faster car approaching, we're not gonna get a blue flag here, he's on our lap, he's the class leader
+there's a faster car bearing down on you, he's the class leader
+there's a faster car bearing down on you, it's their class leader
+there's a faster car behind, he's class leader
+there's a faster car behind, he's on our lap, we're not gonna get a blue flag
+there's a faster car behind, he's racing us for position, I don't think we'll get a blue flag
+there's a faster car behind, he's the class leader but he's racing you for position, you won't get a blue flag
+there's a faster car behind, it's their class leader but we're on the same lap so there'll be no blue flag
+there's a faster car behind, it's their class leader but we're racing for position for there'll be no blue flag
+there's a faster car behind, this guy's the class leader but he's racing us for position, don't expect a blue flag
+there's a faster car behind, this is their class leader
+there's a faster car behind, we're racing them for position so there'll be no blue flag
+there's a faster class car approaching
+there's a faster class car behind
+there's a group of faster cars approaching, they're fighting for position, their class leader's in the group
+there's a group of faster cars bearing down on you
+there's a group of faster cars bearing down on you, these guys are scrapping for position
+there's a group of faster cars behind
+there's a group of faster cars behind you, they're racing for position
+there's a group of faster cars behind, they're racing for position
+there's a group of slower cars ahead
+there's a group of slower cars ahead, these guys are busy fighting each other
+there's faster cars approaching, the group includes the class leader
+there's faster cars approaching, this group includes the class leader
+there's faster cars behind, along with the class leader
+there's faster cars behind, this group includes their class leader
+there's some faster cars approaching, their fighting for position
+there's some faster cars approaching, they're fighting for position, the group includes the class leader
+you're approaching a group of slower cars
+you're approaching a group of slower class cars
+you're approaching some slower cars, these guys are fighting for position
+you're approaching the
+you're being caught by the
+you're being caught by the faster class
+you're being caught by the faster class cars
+you're catching the
+you're catching the slower cars
+you're catching the slower cars now
+you're catching the slower class cars
+you're catching up with the slower class cars
+you're catching up with the slower class cars now
+you're coming up on a slower car
+you're coming up on a slower class car
+you're coming up on some slow cars, their class leader's in this group
+you're coming up on some slower cars, including their class leader
+you're coming up on some slower cars, their class leader's in this group
+you're coming up on some slower cars, these guys are busy fighting, they might not notice you
+you're coming up on some slower cars, these guys are fighting for position, the class leader's in this group
+you're coming up on the
+
+=== opponents (74) ===
+I can't pronounce that
+I can't pronounce the name, mate
+I don't know
+I don't know his name
+I really don't know
+a lap behind
+ahead is pitting
+and their rating is
+behind is pitting
+behind is pitting no
+car number
+fastest lap for
+has been disqualified
+has just been disqualified
+has just retired
+has just retired from the race
+has now retired
+has retired
+has retired from the race
+in front is pitting
+is leading the race
+is now in the lead
+is now leading
+is now on
+is pitting
+lead car's pitting
+new fastest lap for
+one lap ahead
+one lap behind
+one lap in front
+right, the guy ahead of us is
+that's a new fastest lap for
+that's us
+the car ahead has just done a
+the car ahead is
+the car ahead is now on
+the car ahead is on
+the car ahead's now on
+the car ahead's pitting
+the car ahead's pitting now
+the car behind is now on
+the car behind is on
+the car behind is pitting
+the car behind's pitting
+the car behind's pitting now
+the car in front has just done a
+the car in front has just posted a
+the car in front is
+the car in front is pitting
+the car in front of us is
+the car in front of us is now
+the car in front's lap time is a
+the driver in front of us is
+the guy ahead has just done a
+the guy ahead has just posted a
+the guy ahead is
+the guy ahead's lap time is a
+the guy ahead's last lap time is a
+the guy behind has just done a
+the guy in front has just done a
+the guy in front is
+the leader
+the leader has just done a
+the leader is now on
+the leader is pitting now
+the leader's pitting now
+the next car is
+their reputation is
+there's a car exiting the pits, be careful
+there's a car exiting the pits, take care
+there's a car leaving the pits, be careful
+there's a slow car ahead
+we are
+you got a slow car ahead
+
+=== overtaking_aids (52) ===
+10 push to pass activations left
+10 push to pass activations remaining
+3 push to pass activations left
+3 push to pass activations remaining
+5 push to pass activations left
+5 push to pass activations remaining
+DRS has been disabled
+DRS has been enabled
+DRS is disabled
+DRS is enabled
+DRS is no longer available
+DRS is now available
+DRS is now disabled
+a few more tenths and we'll be in DRS range
+activations left
+activations remaining
+don't forget push-to-pass
+don't forget to use your DRS
+don't forget your DRS
+don't forget your push-to-pass
+don't forget your push-to-pass allocation
+just a few more tenths for DRS range
+no more push-to-pass activations
+no more push-to-pass activations remaining
+okay, push-to-pass is now available
+one activation remaining
+one more push-to-pass activation
+push-to-pass is available
+push-to-pass is now available
+remember to use your push-to-pass allocation
+remember, use your push-to-pass
+remember, use your push-to-pass allocation
+that's 10 push to pass activations left
+that's 5 push to pass activations left
+the car behind has now got DRS
+the guy behind has now got DRS
+the race director has disabled DRS
+the race director has enabled DRS
+this car will now have DRS
+this car's in DRS range
+this guy will now have DRS
+this guy's in DRS range
+use your DRS when it's available
+we have 3 push to pass activations left
+we need to be a few tenths closer for DRS
+we need to be a second closer for DRS
+we need to close up a second for DRS
+we're about a second outside of DRS range
+you got no more push-to-pass
+you got one more push-to-pass
+you've got 10 push to pass activations left
+you've got 5 push to pass activations left
+
+=== pace_notes (14) ===
+acknowledged, pace notes are now enabled
+ok, enabling pace notes
+ok, pace notes are now stopped
+ok, pace notes completed
+ok, pace notes finished
+ok, pace notes will now play
+ok, we're now recording pace notes
+pace notes are now recording
+pace notes are stopped
+pace notes completed
+pace notes recording started
+pace notes recording stopped
+playing pace notes
+stopping pace notes
+
+=== pearls_of_wisdom (68) ===
+awesome stuff, mate, keep it coming
+come on, focus, we need more speed, don't try to brake later, just concentrate harder
+come on, get your head back into it, keep it smooth, focus on these lines
+come on, head up, keep your focus further down the track
+come on, keep digging
+come on, let's put this hard work to good use
+come on, man, if somebody fucks up in front we need to be able to take advantage
+come on, man, keep pushing
+come on, man, smooth is fast, and we need fast right now
+come on, man, stop fucking it up
+come on, man, this is disappointing, there's decent pace in this car
+come on, mate, get your ass in gear, we can do better than this
+come on, mate, we really need to get the hammer down now
+come on, no more mistakes, concentrate
+come on, stay focused, apexes and exits, apexes and exits
+come on, stop being so shit, try bloody harder
+come on, stop fucking it up
+come on, try fucking harder
+come on, we can do better than this, focus on your exits, keep it smooth
+come on, we should be doing better than this
+don't panic, you got time to sort this out
+don't think about the lap times, just hit each and every apex
+focus on the exits, we can go faster here
+fucking hell, get your head down
+good stuff, mate, this is fucking excellent
+great driving, keep it up
+great stuff, keep it coming, mate
+hit all your apexes, wait for the chances to come, mate
+just keep hitting your marks, this is looking good
+keep digging
+keep digging, this isn't over yet
+keep doing what you're doing, this is spot on
+keep it coming, man, this is great
+keep it neat and tidy, we still might get something out of this
+keep it nice and smooth, come on, let the race come to us
+keep it together, come on, the race isn't over yet
+keep it up, we're looking good here
+loving this, mate, this is perfect
+maximize every lap, let's salvage what we can
+nail every corner, let's take whatever chances we can
+nice and smooth with that throttle, keep it balanced
+nice and smooth, don't overdrive the car
+push now, we need more speed
+qualifying pace now, come on, you can salvage something here
+relax, focus, keep it smooth
+stay calm, keep it smooth
+stay focused, we're still in this
+stay on it, keep digging
+stay on it, this isn't over yet
+there'll be chances here, let's make sure we can take them
+this is a bit crap, come on, mate, get your act together
+this is a bit shit, come on, make it less shit
+this is brilliant, keep it up
+this is excellent, mate, keep it up
+this is fucking great, mate, keep it coming
+this is good, keep banging out them laptimes
+this is great, come on, keep nailing those exits
+this is okay, keep those exit speeds up
+this is terrific, exactly what we came here for
+this really isn't good enough, come on, start concentrating
+we like this, keep doing it
+we need quali-pace every lap now, mate, there might still be chances here
+we're looking all right here, keep your concentration, nice and smooth
+what's going on, mate, come on, get your act together
+you're all over the place, come on, man, get your head back together
+you're better than this, the car's better than this, get it together, man
+you're looking really good, come on, keep your focus
+you're the man, stay on it
+
+=== penalties (345) ===
+1 lap left to serve this stop-go penalty
+1 lap to serve the drive-through penalty
+You still have a penalty
+ah shit, man, that's another lap deleted, track limits
+ah, we're disqualified, mate, we ignored a stop-and-go penalty
+another lap deleted, pay attention
+are you even trying to keep it on the track
+aw shit, we've just been given a drive-through
+aw, crap, we've just had a stop-go penalty
+be careful
+be careful please
+be careful, you're not racing bangers
+black flag, we'll need to come into the pits to serve the penalty
+bloody hell, man, track limits, come on
+blue flag, let him go or we'll be penalized
+blue flag, let him go or we'll get a penalty
+blue flag, move now or we'll be penalized
+blue flag, move over or we will be penalized
+blue flag, you've got to let this guy through or they'll give us a penalty
+bollocks, we've had a stop-go
+bollocks, we've just had a time penalty
+box for your stop-go penalty on this lap
+box now for your drive-through
+box this lap to avoid exceeding your lap allowance
+box, box, box for this stop-go penalty
+box, box, box, pit now for your penalty
+box, box, box, serve this drive-through now
+calm down please, they're disqualify us for one more track limit violation or bump
+calm it down please, one more collision and we'll be out
+can you even see the track? stop cutting
+cock, just had a drive-through
+come in at the end of this lap for your drive-through penalty
+come in for your stop-go on this lap
+come in for your stop-go penalty at the end of this lap
+come in to serve this penalty in the next 2 laps
+come on I'm sick of telling you, watch the bloody track limits
+come on mate, this ain't banger racing
+come on, at least try and keep it on the track
+come on, be careful
+come on, concentrate, keep it between the white lines, you've lost this lap and the next one
+come on, get it together, you keep cutting
+come on, keep it between the lines, they'll delete this lap
+come on, keep it between the white lines, this lap won't count
+come on, man, watch them track limits, this lap won't count
+come on, stop cutting
+come on, stop driving into people
+come on, this ain't banger racing, one more collision and we'll be disqualified
+come on, this ain't bumper-cars
+come on, this is bollocks, stop cutting
+come on, track limits
+come on, track limits, keep it between the lines
+come on, track limits, that's another cut
+come on, track limits, they're there for a reason, stop taking the piss
+come on, track limits, this lap won't count
+come on, track limits, you're starting to take the piss now
+come on, track limits, you're taking the absolute piss now
+come on, wake up
+come on, watch these fucking track limits
+come on, watch these track limits
+come on, watch those track limits, this lap will be deleted
+come on, you're still cutting, track limits
+concentrate please, we're on the verge of being disqualified here, keep it clean
+drive-through penalty for a false-start
+enter the pits to avoid exceeding the lap allowance
+enter the pits to avoid exceeding your lap allowance
+headlights are now required
+headlights are required, turn them on, please
+if you don't stop cutting we will get a penalty
+just been disqualified, you've been driving without headlights
+just watch these fucking track limits
+keep it between the lines, track limits
+keep it between the white lines
+keep it between the white lines or we'll get a penalty
+keep it between the white lines, they'll delete the lap and they'll delete the next one, too
+keep it between the white lines, this lap's been invalidated
+keep it clean, no more track limits violations or bumps, we'll be disqualified
+keep it within the track limits
+lap deleted, this is getting silly
+let this guy through or we'll be penalized, blue flag
+let this guy through, or we're gonna get penalized
+looks like that was outside track limits
+looks like we've been disqualified
+meatball flag, we'll need to come into the pits for repairs
+mind these track limits
+no more collisions or cut tracks please, they're disqualify us if we do
+okay, mate, we've been disqualified for ignoring a drive-through
+one more collision and we're out, stop with the banger racing
+one more track limits violation and you're out, you're about to be disqualified
+pay attention to track limits
+pay more attention to track limits
+pay some attention to the track limits
+penalty points will be awarded this lap
+pit for your stop-go penalty now, box, box, box
+pit now for your drive-through penalty
+please watch the track limits
+shit, I'm sick of saying this, track limits
+shit, man, that's another cut, come on, track limits
+start respecting the track limits
+start taking these track limits seriously
+stay between the lines
+stay calm, mate, we've had a warning for unsportsmanlike driving
+stay within the track limits
+step it down a bit, mate, we've had a warning for unsportsmanlike driving
+stop driving into people, they'll disqualify us if we do it again
+stop fucking cutting
+stop this persistent cutting
+take care please
+that might be outside track limits
+that's another cut, come on, pay attention
+that's another cut, this lap will be deleted
+that's another cut, track limits
+that's another deleted lap, track limits
+that's the wrong way, turn around
+the bastards have just disqualified us, missed that stupid penalty
+the light was red when we exited the pits, we're gonna have a stop-go penalty
+the light was red when you left the pits, we're gonna get a stop-go penalty
+the stewards have called us into the pits for repairs
+the stewards have warned us about track limits
+the stewards have warned us about track limits, keep it between the lines
+the stewards have warned us again, track limits
+the stewards have warned us for cutting the track, keep it between the white lines
+the stewards have warned us for cutting the track, they'll delete this lap
+they'll delete this lap, stay within the track limits
+they'll delete this lap, track limits
+they'll delete this lap, you cut the track
+they'll delete this lap, you've cut the track
+they'll invalidate this lap, track limits
+they're about to disqualify us, keep it clean, no more track limits violations or car bumps
+they've just disqualified us, we've ignored a drive-through penalty
+they've just disqualified us, we've ignored a stop-and-go penalty
+this lap will be deleted, watch the track limits
+this lap will be deleted, watch those track limits
+this lap will be invalidated, watch the track limits
+this lap won't count, track limits
+this lap won't count, watch those track limits
+this lap won't count, you cut the track
+this lap won't count, you're cutting the track
+this lap won't count, you've cut the track
+this lap's been invalidated, watch those track limits
+track fucking limits
+track limits
+track limits again, come on
+track limits, again
+track limits, come on
+track limits, come on, concentrate
+track limits, come on, concentrate, they're gonna delete the next lap, too
+track limits, come on, keep it between the white lines
+track limits, come on, they're gonna delete this lap and they'll delete the next one, too
+track limits, come on, this lap will be deleted
+track limits, come on, this lap won't count
+track limits, for fuck's sake, come on, track limits
+track limits, keep it between the lines
+track limits, please, we don't want a penalty
+track limits, the lap won't count
+track limits, they'll delete the next lap as well as this one
+track limits, they'll delete this lap
+track limits, they'll delete this lap and the next one
+track limits, they'll invalidate this lap
+track limits, this lap will be deleted
+track limits, watch those lines
+track limits, what the hell's wrong with you
+watch the track limits
+watch the track limits, please
+watch the track limits, we'll get a penalty if we don't
+watch these track limits
+watch those track limits
+watch those track limits or we'll get a penalty
+watch those track limits, they'll delete this lap
+watch those track limits, we don't want a penalty
+we got 1 lap to serve this drive-through penalty
+we got 2 laps left to come in and serve this penalty
+we got 2 laps to come in for this penalty
+we just had a drive-through for overtaking on the formation lap
+we just had a drive-through for passing on the formation lap
+we just had a drive-through for speeding in the pit lane
+we just had a warning for cutting the track
+we need to come and serve our penalty on this lap
+we need to come in for this drive-through at the end of the lap
+we need to come in for this penalty in the next 2 laps
+we need to enter the pits now to serve this penalty, we've just had a warning
+we need to serve this drive-through penalty at the end of this lap
+we need to serve this drive-through penalty on this lap
+we need to serve this stop-go penalty on this lap
+we need to slow down and give back some time
+we need to watch the track limits
+we need to watch these track limits
+we still got to serve this drive-through penalty
+we still need to serve our drive-through penalty
+we still need to serve this stop-go penalty
+we think you might have gone outside of track limits there
+we'll be disqualified if we hit another car, calm down
+we'll need to pit for repairs, we've been called in by the stewards
+we're about to be disqualified from this race, calm down, keep it clean
+we're going the wrong way
+we're going too slowly, speed up
+we're on the verge of being disqualified here, any more cut-tracks and you're out
+we're on the verge of being disqualified here, keep it clean please
+we're still cutting, get on top of it, please
+we've been called into the pits by the stewards for repairs
+we've been called into the pits for repairs
+we've been disqualified
+we've been disqualified for driving in the dark without headlights
+we've been disqualified for exceeding the maximum number of laps allowed
+we've been disqualified for ignoring a stop-and-go penalty
+we've been driving in the dark without headlights, we've been disqualified
+we've been given a drive-through penalty for a false-start
+we've been given a stop-go penalty for exiting the pits under red light
+we've been warned about track limits
+we've done as many laps as we're allowed, box this lap
+we've done more laps than we're allowed here, we've been disqualified
+we've exceeded our allotted laps, we've been disqualified
+we've exceeding the maximum driver stint time, you've got a drive-through penalty
+we've gone out of track limits, keep it between the white lines
+we've got 1 lap left to serve the stop-go penalty
+we've got 1 lap left to serve this drive-through penalty
+we've got 1 lap left to serve this stop-go penalty
+we've got 1 lap to serve this drive-through penalty
+we've got 1 lap to serve this stop-go penalty
+we've got a drive-through for a false start
+we've got a stop-go penalty for jumping the start
+we've got had a stop-go penalty for speeding in the pit lane
+we've got to pay attention to the track limits
+we've had a cut warning, keep it tidy
+we've had a drive-through for a false-start
+we've had a drive-through for cutting the track
+we've had a drive-through for ignoring blue flags
+we've had a drive-through for ignoring the blue flags
+we've had a drive-through for track limits violations
+we've had a drive-through penalty for a false-start
+we've had a drive-through penalty for cutting the track
+we've had a drive-through penalty for exceeding the maximum driver stint time
+we've had a drive-through penalty for track limits violations
+we've had a drive-through penalty, you've exceeded the maximum driver stint time
+we've had a slowdown penalty for cutting the track
+we've had a stop-go penalty for a false start
+we've had a stop-go penalty for exiting the pits under red
+we've had a stop-go penalty for exiting the pits under red lights
+we've had a stop-go penalty, we've exceeded the driver stint time maximum
+we've had a warning for driving too slowly
+we've had a warning for unsportsmanlike driving
+we've had a warning for unsportsmanlike driving, come on, get your act together
+we've had a warning, we need to enter the pits now to serve this penalty
+we've had another track limits warning
+we've had another warning about track limits
+we've just been disqualified for driving in the dark without headlights
+we've just been disqualified for ignoring a drive-through penalty
+we've just been disqualified for ignoring the drive-through
+we've just been given a drive-through
+we've just been given a drive-through for speeding in the pit lane
+we've just been given a stop-go penalty
+we've just been given a time penalty
+we've just been handed a drive-through penalty
+we've just been handed a stop-go penalty
+we've just been handed a time penalty
+we've just been warned, we've got to enter the pits to serve this penalty
+we've just cut the track
+we've just had a drive-through for a false-start
+we've just had a drive-through for cutting the track
+we've just had a drive-through for ignoring blue flags
+we've just had a drive-through for jumping the start
+we've just had a drive-through for overtaking under pace car
+we've just had a drive-through for overtaking under the pace car
+we've just had a drive-through for overtaking under yellow
+we've just had a drive-through for passing under the pace car
+we've just had a drive-through for passing under the safety car
+we've just had a drive-through for passing under yellow
+we've just had a drive-through penalty
+we've just had a drive-through penalty for cutting the track
+we've just had a drive-through penalty for passing on the formation lap
+we've just had a drive-through penalty for passing under the safety car
+we've just had a drive-through penalty for passing under yellow
+we've just had a drive-through penalty for speeding in the pit lane
+we've just had a slowdown penalty for cutting the track
+we've just had a stop-go for passing under the safety car
+we've just had a stop-go penalty
+we've just had a stop-go penalty for cutting the track
+we've just had a stop-go penalty for exceeding the maximum driver stint time
+we've just had a stop-go penalty for jumping the start
+we've just had a stop-go penalty for overtaking on the formation lap
+we've just had a stop-go penalty for overtaking under yellow
+we've just had a stop-go penalty for passing on the formation lap
+we've just had a stop-go penalty for passing under the pace car
+we've just had a stop-go penalty for passing under the safety car
+we've just had a stop-go penalty for passing under yellow
+we've just had a stop-go penalty for passing under yellow flag
+we've just had a stop-go penalty for speeding in the pit lane
+we've just had a time penalty
+we've just had a warning for unsportsmanlike driving
+we've just had a warning for unsportsmanlike driving, come on, calm it down
+we've just had a warning for unsportsmanlike driving, come on, keep cool
+we've just had a warning, we need to enter the pits now to serve our penalty
+we've just had a warning, we've got to enter the pits to serve our penalty
+we've still got to serve our stop-go penalty
+we've still got to serve this drive-through penalty
+we've used our lap allowance, pit this lap
+we've used our lap allowance, we need to pit this lap
+you cut the track, keep it nice and tidy
+you don't have a penalty
+you got 3 laps to serve this penalty
+you gotta watch these track limits
+you have a penalty
+you keep cutting, come on, track limits
+you need to come in for this penalty in the next 3 laps
+you need to turn your headlights on, headlights are required now
+you served your penalty
+you still have to serve this drive-through penalty
+you still have to serve your stop-go penalty
+you still haven't served this penalty
+you still need to serve your drive-through penalty
+you still need to serve your penalty
+you were out of track limits there
+you'll need to give back the time gained
+you'll need to slow down a bit if you don't want a penalty
+you'll need to slow down if you don't want a penalty
+you'll need to slow down to give back the time gained
+you're driving too slowly
+you're going the wrong way
+you're going too slowly, speed up
+you're one collision away from being disqualified, calm down
+you're outside of track limits there
+you're outside track limits there
+you've been disqualified for exceeding the number of qualification laps allowed
+you've cut again, stop taking the piss
+you've cut the track again, concentrate
+you've cut the track, they'll delete the lap
+you've cut the track, they're gonna delete the lap and they'll delete the next one, too
+you've exceeded the driver stint time, you got a stop-go penalty
+you've exceeded the maximum driver stint time, we got a stop-go penalty
+you've exceeded your allotted laps, you've been disqualified
+you've exceeding the driver stint time, you got a drive-through penalty
+you've gone out of track limits again, they'll delete this lap
+you've gone out of track limits, they'll delete this lap and the one after it
+you've gone outside of track limits there
+you've gone outside track limits, come on, keep it between the lines
+you've got 3 laps to serve this penalty
+you've ignored your drive-through penalty, they've just disqualified you
+you've just been disqualified, you've ignored your stop-and-go penalty
+you've just gone outside of track limits, this lap will be deleted
+you've just got out of track limits
+you've really gotta pay attention to these track limits
+you've served your penalty
+you've still got a penalty
+you've still got an outstanding penalty
+you've still got to serve your stop-go penalty
+your penalty's completed
+
+=== position (230) ===
+10th position
+13th place
+14th
+15th place
+16th place
+17th place
+18th
+20th place
+21st
+22nd place
+23rd place
+6th place
+7th position
+8th place
+P1
+P10
+P11
+P12
+P13
+P14
+P15
+P16
+P17
+P18
+P19
+P2
+P20
+P21
+P22
+P23
+P24
+P25
+P26
+P27
+P28
+P29
+P3
+P30
+P31
+P32
+P33
+P34
+P35
+P36
+P37
+P38
+P39
+P4
+P40
+P41
+P42
+P43
+P44
+P45
+P46
+P47
+P48
+P49
+P5
+P50
+P51
+P52
+P53
+P54
+P55
+P56
+P6
+P7
+P8
+P9
+ah, bollocks, see if you can get him back
+ahead
+awesome, well done
+awful start, mate, but don't give up
+bad luck on the start, mate, but you're gonna have to make your own luck now
+bad luck, mate
+bad start, mate, but there's plenty of time to make it up
+bad start, mate, let's get to work
+bad start, unlucky mate, but let's get stuck in
+behind
+bollocks start mate, get your head down, fix it
+brilliant, nice one
+come on, don't let him get away
+come on, keep pushing
+come on, man, defend harder
+come on, mate, defend your position
+come on, mate, don't spend all day bringing up the rear
+come on, mate, go fucking faster
+come on, mate, we didn't come here for this
+come on, more gas, less brake
+come on, push like a bastard, we'll get this guy
+come on, sort yourself out, this is hopeless
+come on, stick with the bastard
+come on, that's the stuff
+crap start, but we got time to sort this out
+crap start, mate, but we need you to recover something here
+decent start, we can build something from here
+disappointing start, let's get those places back
+don't give up, keep him under pressure
+don't let him get away
+don't panic
+don't panic, we'll get him back
+fan-fucking-tastic, now keep pushing
+forget about the start, find your rhythm, mate
+forget the start, let's just get stuck in, mate
+forget what happened at the start, let's try and salvage something
+fucking awesome move, mate
+fucking bollocks start, mate, it's damage limitation from here
+fucking come on, you nailed him
+fucking excellent pass, nice one, mate
+fucking excellent start, well done
+fucking great pass, mate, well done
+fucking hell, defend these positions
+fucking hell, nightmare start mate, damage limitation from here
+good move, mate
+good pass
+good pass, eyes front
+good pass, mate, fucking awesome
+good pass, mate, that was fucking brilliant
+good pass, now keep pushing
+good pass, well done
+good start
+good start, keep it up
+good start, mate
+good start, mate, nice one
+good stuff, keep it coming
+good work on the start, mate, this is great
+good work, mate, keep it up
+great move, keep it up
+great start, well done
+have it, nice one
+it's a strong field, you'll be doing well to be in the top
+it's a strong grid, we're expecting you to finish in the top
+it's a tough field, we're expecting you to finish in at least P
+just settle down, find your rhythm
+keep pushing, we might get him back
+laps ahead
+laps behind
+laps in front
+let's see if we can get those places back
+let's see what we can salvage from this, mate
+nice move, mate
+nice one, mate
+nice pass
+nice start
+nice start, mate, well done
+nicely done
+not a good start, but it'll get better
+okay, bit of a mountain to climb now, but let's get started
+okay, let's find a good rhythm, make some places
+okay, stay with him
+okay, the start will do, time to get to work
+our original target was P
+our original target was to finish in the top
+our pace should be OK, we're aiming for around P
+our pace should be strong today, aim to finish in the top
+our target today to finish around P
+our target was to finish around P
+our target was to win this
+perfect start, mate, this is great
+pole position
+rough start, mate, we got a lot of work to do now
+shit start, but don't panic, we can salvage this
+shit start, come on, sort it out
+shit start, mate, we got a lot of work to do here
+shite, stay close, you might get him back
+shitty start, but don't panic, there's time to recover
+shocking start, come on, get it together
+shocking start, mate, settle down, start working your way back up the order
+start's okay, let's get settled in
+start's okay, we're still in this
+sweet pass, mate
+sweet start, mate, keep it coming
+terrible start, mate, but the rest isn't over, yet
+that's disappointing, but shit happens, keep pushing
+that's last
+that's pole
+that's the stuff, we'll have some more of that
+the start's all right, let's build on it
+the start's all right, time to get stuck in
+the start's okay, let's get stuck in
+the start's okay, now find your groove
+the start's okay, we're still in good shape here
+there's some good drivers out there, our target is to finish around P
+this'll be a tough race, we're aiming to be in the top
+we expect to do really well here, we're favourites to win
+we expect to do well here, our target is to finish around P
+we expected to be at the front
+we got some work to do now, mate
+we might struggle today, a decent finish will be around P
+we should be competitive here, we're aiming for around P
+we should do well here, we should be aiming for a win
+we should do well here, we're expecting you to finish in the top
+we were expecting a win
+we were expecting to finish in the top
+we'be in the mid-pack here, we're expecting you to finish in position
+we're confident of a great result here, hopefully a win
+we're currently P
+we're currently P1
+we're currently leading
+we're in P
+we're in position
+we're in the mid-pack here, we expecting you to finish in the top
+we're leading
+we're looking to finish in the top
+we're pretty confident here, a decent finish will be around P
+we're running in P
+we're running in P1
+we're very competitive here, we ought to win this
+well done, eyes front now
+well done, fella'
+well done, good pass
+well done, mate, that was great
+yeah, nailed that fucker
+you fucked up the start, now come on, don't fuck up the race
+you should do OK here, we're aiming to finish in the top
+you should do well here, we're optimistic we can finish in the top
+you should win this, you're the clear favourite
+you're 1 lap ahead
+you're 1 lap down
+you're 1 lap in front
+you're 1 lap up
+you're a lap down
+you're in pole
+you're in the lead
+you're last
+you're leading
+you're now in the lead
+you're running last
+your start's okay, we can build something from this
+
+=== push_now (66) ===
+all clear on pit exit
+all clear on pit exit, you can push now
+all clear, push now
+car approaching, watch your mirrors
+exit's clear, push
+heads up, there's a car exiting the pits
+heads up, there's a car rejoining
+laps to get the job done
+laps to get the job done, mate
+laps to set a decent time
+laps, let's get this done
+looks like you're clear on the pit exit
+minutes to do the business
+minutes to get a decent lap in
+minutes to get the job done
+minutes to set a lap
+pit exit is clear
+pit exit's clear
+pit exit's clear, don't cross the white line
+pit exit's clear, stay behind the white line
+push harder, we can get a podium here
+push like a bastard, there's a win to be had here
+push now, the guy behind is catching
+push now, we can catch this guy
+push now, we can catch up here
+push now, we might get second place
+push now, we might win this
+push push push, we can catch this car
+push push push, we can get this position
+push, push, push, or we'll lose this place
+push, push, push, we can get this guy
+push, push, push, we can win this
+push, push, push, we could be second here
+push, push, push, we're in with a chance of winning this
+push, we can get second place here
+push, we can get this guy
+push, we might get third here
+take care, there's a car approaching
+the pit exit is clear, push now
+the pit exit looks clear
+the pit exit's clear
+the pit exit's clear, push
+there's a car approaching, don't cross the white line
+there's a car approaching, don't cross the white line, watch your mirrors
+there's a car approaching, stay behind the white line
+there's a car approaching, watch your mirrors, stay behind the white line
+there's a car behind, take care rejoining
+there's a car exiting the pits
+there's a car leaving the pit lane
+there's a car leaving the pits
+there's a car leaving the pits, heads up
+there's a car rejoining
+there's a car rejoining in front
+there's a chance of a podium here, push, push, push
+there's traffic approaching, watch your mirrors
+there's traffic behind
+there's traffic behind, keep your wits about you
+there's traffic behind, take care
+there's traffic behind, watch your mirrors
+track's clear, push, push, push
+watch your mirrors, there's a car approaching
+we have
+we've got
+you need to push if we're gonna hold this position
+your exit is clear, watch the white line
+your exit's clear, don't cross the white line
+
+=== race_time (56) ===
+1 minute left
+1 minute left, 1 minute
+1 minute remaining
+1 more lap after this one
+1 more lap for the win, come on
+1 more lap to go
+1 more lap to go, stay focused
+1 more lap, keep it together, we'll win this
+1 more lap, you're P1
+1 more remaining after this one
+1 more to go after this
+1 more to go, keep it together, we'll be on the podium
+10 minutes remaining, 10 minutes
+10 minutes to go, that's 10 minutes left
+15 minutes left
+15 minutes left, that's 15 minutes
+15 minutes remaining, 15 minutes to go
+2 minutes to go, 2 minutes
+20 minutes remaining, you got 20 minutes left
+5 minutes left, come on, keep your shit together, we can win this
+5 minutes remaining, 5 minutes left
+5 minutes remaining, bring it on home, you're the man
+5 minutes to go, 5 minutes left
+5 minutes to go, this is good, we'll be on the podium if we can keep it together
+5 minutes to go, you're looking good for a podium
+checkered flag
+checkered flag's out
+half-distance
+just 2 minutes left, 2 minutes to go
+just 5 minutes left, hold your nerve, we can win this
+laps left
+laps remaining
+laps to go
+last lap
+last lap, bring it on home
+last lap, looking good for a podium
+less than 1 minute
+less than a minute
+remaining
+that's 2 minutes left, 2 minutes
+that's 20 minutes to go
+that's 20 minutes to go, 20 minutes
+that's 5 minutes remaining, P1, come on, bring it home
+that's 5 minutes remaining, we can win this
+that's 5 minutes to go, 5 minutes
+that's 5 minutes to go, come on, keep it together, we'll be on the podium here
+that's half-distance
+that's half-way
+this is the last lap
+this is your last lap
+to go
+we're at the half-way point
+we're half-way home
+we're half-way through
+you got 10 minutes left, 10 minutes to go
+you're half-way home
+
+=== radio_check (1) ===
+radio check
+
+=== rants (30) ===
+Absolutely bloody terrible
+Dick
+Honestly, I've seen better performances fall out of my arse
+I don't wanna work with you anymore. Fuck off
+I think that's the worst you've ever driven, I hope you're proud of yourself
+I've shat better drives than that
+I've shat better performances than that
+Right, bring it back. If you think can get back to the pits without fucking that up
+That was... shit
+The fuck was all that? You're just fucking shit
+You fucking berk
+You're just hopeless, just absolutely fucking hopeless
+all weekend, just useless, useless. Fucking tired of seeing this, man, we're all tired of seeing it. It's like, it's like just wasting our time
+fucking nightmare weekend, man, nightmare. We'll clear up and clear out, then we'll try and work out what the hell's just happened
+fucking useless
+fucking useless, just fucking useless. Good car, good team, shit driver. Stop playing racing car and actually make a fucking effort
+great, well, there we are, another weekend down the toilet. You might be content to throw your money away, just making up the numbers, but we've got a strong car and a competitive crew here, and we want some results for our hard work
+honestly mate, this is the last weekend we're gonna watch you drive like that. If it doesn't improve, I will buy my own fucking race car
+it's been one of them weekends. We need to just pack everything up, get away from here, start out fresh next time, work out what went wrong. We've gotta get better
+right this, this isn't good enough, not by a long shot. I'm starting to wonder why we're bothering here. There's guys finishing way ahead of us who've got half the budget and cars that barely work. You're the weak link.
+right, we're out of here. You can pack all this shit up yourself, we've all had enough, mate
+stay away from the crew when you get back to the pits. They're all really fucking pissed off. I am, too. I mean, it was shit man, really shit, waste of a weekend
+stay away from the crew, they're ready to pull your arms off
+this is embarrassing. You've got one job to do, one job. Fumbling around at the back might be a laugh for you, but we are absolutely sick of it. We've got better things we could be doing with our weekends
+this really isn't good for morale, we've been busting our asses here, we might as well not have bothered. Look, we need to sit down, and talk properly when you get back to the pits
+we were up all night prepping this fucking car, and this is the best you can do? We're not pissing our weekends away to watch you fuck it all up, get your head out of your ass, man
+we're all working our asses off here, you got to start delivering. The car's quick and it's solid, and you've got to get your shit together
+well that went well, we're all properly thrilled that you stayed up half the night getting hammered while we worked on the car, just so we could watch you screw it all up in a hungover haze, well done, man
+what, what the fuck just happened? How'd you manage to fuck it up so badly
+you've been a shambles all day, man, total shit show. We're all sat here wondering why we bothered
+
+=== spotter (58) ===
+3 wide, you're down low
+3 wide, you're in the middle
+3 wide, you're inside
+3 wide, you're on the bottom
+3 wide, you're on the left
+3 wide, you're on the outside
+3 wide, you're on the right
+3 wide, you're up high
+3 wide, you're up top
+all clear
+car down low
+car high
+car inside
+car left
+car low
+car outside
+car right
+clear
+clear all around
+clear high
+clear inside
+clear left
+clear low
+clear outside
+clear right
+got a car high
+got a car low
+got a car outside
+he's still there
+hold your line
+inside
+inside's clear
+left side
+okay, all clear
+okay, you're clear
+on your left
+on your right
+outside
+right side
+right side's clear
+still there
+we're 3 wide, you're down low
+we're going 3 wide, you're on the inside
+we're going 3 wide, you're on the outside
+we're up high, 3 wide
+you're clear
+you're clear high
+you're clear outside
+you're down low, 3 wide
+you're going 3 wide, you're up top
+you're in the middle
+you're in the middle, 3 wide
+you're inside, 3 wide
+you're on the inside, 3 wide
+you're on the left, 3 wide
+you're on the outside, 3 wide
+you're on the right, 3 wide
+you're up high, 3 wide
+
+=== strategy (79) ===
+a few seconds ahead of
+a few seconds behind
+a few seconds in front of
+a pit stop will cost us
+a pit stop will lose us about
+acknowledged, we'll time this stop, race pace on the in-lap and out-lap until sector 2, please
+ahead of
+and
+behind
+between
+close between
+expect a clear track on exit
+expect him to come out a bit behind you
+expect traffic on exit
+expect traffic when you come out
+expect traffic when you exit the pits
+he should be a little bit behind when he comes out
+he should come out a little way behind you
+he should come out close in front of you
+he should come out just in front of you
+immediately behind
+in between
+in front of
+is entering the pits, he's in P
+is pitting from P
+is pitting from position
+it looks like he'll come out just behind you
+it looks like pitting will lose us about
+just ahead of
+just behind
+just in front of
+looks like a pit stop costs us about
+looks like he'll come out just in front of you
+okay, race pace on the outlap until sector 2, this'll be our benchmark stop
+okay, this is our benchmark stop, race pace until sector 2
+okay, we'll time this stop
+okay, we'll use this stop as a benchmark
+on exit we should be in position
+really close between
+really close to
+right ahead of
+right behind
+right in front of
+right with
+there'll be traffic on the exit
+there'll be traffic when you exit the pits
+this is our benchmark pit stop, we need race pace on the in-lap and the out-lap
+this is our benchmark stop, we'll be timing the in-lap and the out-lap, race pace
+this'll be our benchmark pit stop, race pace on the in-lap and the out-lap
+understood, we'll time this stop, use it as a benchmark
+we are sharing our pit box with
+we don't expect any traffic on the pit exit
+we expect there'll be no traffic on exit
+we expect to exit the pits in position
+we expect you'll be coming out of the pits into clear air
+we need race pace on the in-lap and the out-lap, this'll be our benchmark
+we need to set a benchmark lap time first
+we need to set a decent lap first
+we need to set some laptimes first
+we should come out into position
+we think a pit stop costs about
+we think a pit stop costs us
+we think he'll be close in front of you when he exits
+we think he'll come out a little way behind you
+we think he'll come out close in front
+we think he'll come out just behind you
+we think he'll come out just in front
+we think he'll come out just in front of you
+we think you'll be exiting the pits into clear air
+we'll calculate the time loss based on your next flying lap
+we'll calculate your time loss from your next flying lap
+we'll work out the time loss based on your next flying lap
+when we exit the pits we should be in P
+when we exit the pits we should be in position
+when we exit the pits we'll be in P
+when we leave the pits we think we'll be in P
+you should be coming out into clear air
+you should have plenty of space on the exit
+you'll be coming out into traffic
+
+=== timings (191) ===
+ahead is increasing, it's now
+ahead is now
+be careful here, the guy in front's not known for playing fair
+be careful with this guy, he's got a bad reputation
+behind is increasing, it's now
+behind is now
+come on, don't make it easy for him, make him go the long way around
+come on, find a gap
+come on, find a way around, we're losing time
+come on, just fucking send it
+come on, just send it
+come on, keep pressing him, force that mistake
+come on, man, send it already
+come on, nail him already
+come on, nail this fucker
+come on, pass him already
+come on, stop fannying about, fucking pass him
+come on, we can have this bastard
+come on, we need to be in front of this guy
+defend hard, make them work for it
+defend your position, don't let him through
+don't be distracted, defend your position
+don't be intimidated by this little shit, make him work for it
+don't be intimidated, keep him behind you
+don't be pressured, keep your exit speeds up
+don't let this guy distract you
+don't let this guy intimidate you
+don't wait too long, find that gap
+he's all over you, keep your exit speeds up, stay smooth
+he's faster than you entering
+he's faster than you into
+he's faster than you through
+he's pretty slow into
+he's pretty slow through
+he's quicker than us in
+he's quicker than us through
+he's quicker than you into
+he's slow into
+he's slow through
+he's slower than us into
+he's slower than us through
+hold your nerve, just keep it smooth, no mistakes
+hold your nerve, make them do the work
+ignore that fucker in the mirror, stick to your line, nail those exits
+in front is now
+in, the gap is
+in, the gap is now
+is closing in, the gap is now
+is closing the gap, it's now
+is closing you down, the gap has come down to
+is gaining on you, the gap is now
+is gaining on you, the gap's now
+is getting closer, the gap is now
+is getting closer, the gap's come down to
+is getting closer, the gap's now
+is reeling you in, the gap's now
+just ignore him, he'll go away
+keep him in your sights, force the mistake
+keep piling on the pressure, he'll make a mistake
+keep pushing him, there'll be a chance here
+keep putting the pressure on, force a mistake
+keep searching, you'll find a gap
+keep the pressure on, don't give him a break
+keep the pressure on, don't give him any respite
+keep your concentration, make the bastard work for it
+let's see how wide you can make this thing
+make him do all the work, focus on your exits
+okay, mate, watch for a mistake
+okay, mate, we really think you should pass this guy
+pass the bastard, come on, do it now
+seconds
+slow in, fast out, keep the inside line covered
+stay close
+stay close, keep the pressure on
+stay close, see if we can unsettle him
+stay close, there might be a chance here
+stay close, wait for him to crack
+stay close, wait for him to make a mistake
+stay on him, there'll be a chance
+stick to the plan, don't be intimidated
+stick with him, keep him under pressure
+take care here, the driver in front's got previous
+take care here, the driver in front's not know for playing fair
+take care, the guy in front's got previous
+take care, this driver's got a bad rep
+take care, this guy's got a bad reputation
+that's enough dicking about, come on, send it
+the car behind is catching, the gap's now
+the car behind is reeling you in, the gap is now
+the driver behind has got a bad rep, take care
+the driver behind is not known for driving clean, watch out
+the driver behind is not the cleanest racer, take care here
+the driver behind is really accident prone, be careful here
+the driver behind's a bit sketchy, watch your mirrors here
+the driver behind's got a poor reputation, expect trouble
+the driver behind's got a sketchy reputation, be careful
+the driver behind's had a few incidents lately, bare it in mind
+the driver behind's had loads of incidents, be careful
+the driver behind's had lots of incidents lately, bare it in mind
+the driver behind's reputation is not good
+the driver behind's reputation is really bad, be careful
+the driver in front's got a bad reputation
+the driver in front's had a lot of incidents, bare it in mind
+the driver in front's not a clean racer, bare it in mind
+the driver in front's not known for playing fair, be careful
+the driver in front's reputation isn't great
+the driver in front's reputation's not good, take care
+the gap ahead is now
+the gap behind has now decreased to
+the gap behind is now
+the gap behind's increased to
+the gap in front has increased to
+the gap in front has increased, it's now about
+the gap in front is increasing, the gap is now
+the gap in front is now
+the gap to
+the guy behind doesn't race very clean
+the guy behind isn't the cleanest racer, watch yourself
+the guy behind's a bit sketchy, watch your mirrors here
+the guy behind's catching, the gap is now
+the guy behind's got a bad rep
+the guy behind's got a bad reputation
+the guy behind's got a bad reputation, take care
+the guy behind's got a bit of a sketchy reputation, be careful
+the guy behind's got a poor reputation, prepare for trouble
+the guy behind's had a few incidents recently
+the guy behind's had a lot of incidents recently, bear it in mind
+the guy behind's had loads of incidents, be careful
+the guy behind's not know for driving clean, watch yourself here
+the guy behind's not the cleanest racer, take care here
+the guy behind's really accident-prone, be careful
+the guy behind's really accident-prone, be careful here
+the guy behind's reeling you in, the gap's now
+the guy behind's reputation isn't as good as it should be, take care
+the guy behind's reputation isn't great
+the guy in front's got a bad reputation
+the guy in front's had a lot of incidents, give him a wide berth
+the guy in front's not a clean racer, bear it in mind
+the guy in front's reputation is not good, take care
+the guys in front's a bit incident prone, be careful here
+there's gotta be a chance here, keep harrying him
+they're faster than us in
+they're faster than us into
+they're faster than use through
+they're pretty slow into
+they're pretty slow through
+they're quicker than us entering
+they're quicker than us through
+they're quicker than you entering
+they're slow into
+they're slow through
+they're slower than us into
+they're slower than us through
+this bastard's holding you up, you've gotta find a way past
+this driver's got a bad reputation, don't expect a fair fight
+this driver's got a bad reputation, watch yourself when you pass
+this driver's not got a good reputation, be careful
+this driver's rep is below average, watch yourself
+this driver's reputation's a it sketchy, bare it in mind
+this driver's reputation's not great
+this fucker's trying to distract you, don't let him
+this guy's got a bad rep, don't expect a fair fight
+this guy's got a bad reputation, watch yourself
+this guy's got a bad reputation, watch yourself when you pass
+this guy's had a lot of incidents, bear it in mind
+this guy's not got a good reputation, be a bit careful here
+this guy's rep is below average, watch yourself
+this guy's reputation's a bit sketchy, bear it in mind
+this guy's reputation's not great
+time to get defensive, mate
+use all the track, force him to find the gap
+use all the track, force them to find the gap
+watch your mirrors here, the driver behind's reputation is not great
+watch your mirrors here, the guy behind's reputation's not great
+watch your mirrors, this guy's had a lot of incidents
+we need to be in front of this guy
+we really need to be in front of this car
+we're wasting a lot of time here, get your elbows out and force the pass
+you need to pass this twat, you're losing too much time
+you're gaining on the car in front, the gap's now
+you're gaining on the guy in front, the gap is
+you're gaining on this car, the gap is
+you're gaining on this guy, the gap's now
+you're just gonna have to send it, mate
+you're losing time here, man, we need to pass him
+you're pulling away from the guy behind, the gap's now
+you're pulling away, the gap behind is now
+you're reeling
+you're reeling this car in, the gap's now
+you're reeling this guy in, the gap's now
+you're wasting time behind this guy, get your elbows out and get around him
+
+=== tyre_monitor (399) ===
+A's
+B's
+C's
+D's
+I think your left front's gone
+I think your left side tyres will be wearing out now
+all your tyres are looking hot
+alternates
+are about
+back off a bit, these tyres are not gonna last like this
+bar
+be careful, mate, your front brakes are cold
+celsius colder than the outer
+celsius colder than the outers
+celsius colder than your outers
+celsius hotter than the outer
+celsius hotter than the outers
+celsius hotter than your outers
+cold tyres all around
+faster than
+front left
+front right
+front tyres are hot, fronts are hot
+hards
+hyper softs
+intermediates
+inters
+it looks about right
+it looks like your left side tyres are knackered, mate
+it looks okay
+it looks okay to us
+it's probably fine
+it's probably okay
+left front
+left rear
+left rear tyre looks a little hot
+left side tyres are cold
+let's get some heat into these brakes
+lookout for your right rear tyre, mate, it's looking pretty worn
+looks like a bit of wear on your left front
+mediums
+more laps from this set of tyres
+more laps on this set of tyres
+more laps out of this set of tyres
+more minutes for this set of tyres
+more minutes on these tyres
+option tyres
+options
+primaries
+prime tyres
+primes
+psi
+quicker than
+rear left
+rear right
+rear tyres are hot, your rear tyres are getting hot
+right front
+right rear
+right rear is hot, your right rear is hot
+right side tyres are hot
+slicks
+softs
+super softs
+take it easy, you got cold tyres
+that left front will be past its best soon
+that left front's looking heavily worn
+that left rear tyre's shot
+that right front tyre looks knackered
+that right front's gone, mate
+that right rear's had it
+the inner and outer temperatures on your left front are about the same
+the inner and outer temps of your right front are about the same
+there's a bit of wear on your left side tyres
+there's a bit of wear on your right side tyres
+there's some wear on those front tyres, mate
+tyre temperatures are good
+tyre temps are good
+ultra softs
+watch your rear tyre temperatures, they're getting hot
+watch your rear tyres, they're pretty cold
+watch your right front temperature, it's hot
+watch your right rear temperature, it's getting hot
+we can see some wear on those rear tyres, keep and eye out
+we estimate about
+we need to cool these tyres down, mate, they're really hot
+we need to get some head into these brakes
+we need to get some heat into these brakes
+we think that right rear is probably gone
+we think you should get about
+we think you'll get about
+we think your left side tyres have had it
+we're looking at significant wear on those rear tyres
+we're not seeing any significant tyre wear
+we're seeing a bit of wear all around
+we're seeing a bit of wear on your front tyres
+we're seeing a bit of wear on your left rear
+we're seeing a bit of wear on your right front
+we're seeing a bit of wear on your right rear
+we're seeing a bit of wear on your right side tyres
+we're seeing front locking going into
+we're seeing left front wheel spin on the exit of
+we're seeing left rear wheel spin in
+we're seeing left rear wheel spin on the exit of
+we're seeing loads of rear left wheel spin
+we're seeing loads of wheel spin
+we're seeing loads of wheelspin
+we're seeing lots of front locking
+we're seeing lots of front right locking
+we're seeing lots of left rear locking
+we're seeing lots of rear brake locking
+we're seeing lots of rear left wheel spin
+we're seeing lots of rear locking
+we're seeing lots of rear right wheel spin
+we're seeing lots of rear wheel spin
+we're seeing lots of right rear locking
+we're seeing minor wear all around
+we're seeing minor wear on the fronts
+we're seeing minor wear on your left front
+we're seeing minor wear on your left rear
+we're seeing minor wear on your left side tyres
+we're seeing minor wear on your rear tyres
+we're seeing rear locking into
+we're seeing rear wheel spin on the exit of
+we're seeing right front locking into
+we're seeing right front wheel spin coming out of
+we're seeing right rear wheel spin on the exit of
+we're seeing significant wear on both left side tyres
+we're seeing significant wear on both tyres on the right side
+we're seeing significant wear on the fronts
+we're seeing significant wear on your left front
+we're seeing significant wear on your left rear
+we're seeing significant wear on your right front
+we're seeing some wear on each corner
+we're seeing some wear on your right rear
+wets
+you got cold brakes all around, be careful
+you got cold front tyres
+you got significant tyre wear all around
+you got some wear on your front tyres
+you have dirt on all your tyres
+you have dirt on your left side tyres
+you have dirt on your right side tyres
+you might need more negative camber
+you might need more negative camber on the fronts
+you might need more negative camber on the rears
+you might need more positive camber
+you might need more positive camber on the fronts
+you might need more positive camber on the rears
+you need to watch your left side tyre temperatures
+you need to watch your right side tyre temperatures
+you're carrying minor wear on your right side tyres
+you're cooking your front tyres, mate
+you're cooking your left front tyre
+you're cooking your left rear tyre
+you're cooking your left side tyres
+you're cooking your rear tyres, mate
+you're cooking your right front tyre
+you're cooking your right rear tyre, mate
+you're cooking your right side tyres, mate
+you're getting a lot of front wheel spin
+you're getting a lot of right front wheel spin
+you're getting lots of right front wheel spin
+you're getting lots of wheel spin
+you're gonna need new tyres all around
+you're locking up your fronts a lot
+you're locking your front brakes
+you're locking your front left
+you're locking your front left tyre a lot
+you're locking your front left wheel
+you're locking your front right
+you're locking your front right wheel
+you're locking your fronts going into
+you're locking your fronts into
+you're locking your left front braking for
+you're locking your left front going into
+you're locking your left front into
+you're locking your left rear
+you're locking your rears a lot
+you're locking your rears going into
+you're locking your rears into
+you're locking your right front going into
+you're locking your right front into
+you're locking your right rear
+you're spinning up your fronts
+you're spinning up your left front
+you're spinning up your rear right
+you're spinning up your rears
+you're spinning up your right front
+you're spinning your fronts coming out of
+you're spinning your fronts in
+you're spinning your fronts on the exit of
+you're spinning your left front
+you're spinning your left front coming out of
+you're spinning your left front in
+you're spinning your left front wheel
+you're spinning your left rear coming out of
+you're spinning your rear left
+you're spinning your rear right tyre
+you're spinning your rear tyres coming out of
+you're spinning your rears
+you're spinning your rears on the exit of
+you're spinning your right front coming out of
+you're spinning your right front in
+you're spinning your right rear coming out of
+you're spinning your right rear in
+you've damaged both front tyres
+you've damaged both rear tyres
+you've damaged your left front tyre
+you've damaged your left rear tyre
+you've damaged your right front tyre
+you've damaged your right rear tyre
+you've got a bit of tyre wear on all your tyres
+you've got cold brakes all around
+your average front inner and outer temperatures are about the same
+your average front inner and outer temps are about the same
+your average front inner temperatures are
+your average front inner temps are
+your average rear inner and outer temperatures are about the same
+your average rear inner and outer temps are about the same
+your average rear inner temperatures are
+your average rear inner temps are
+your brake temperatures are all really high, we're gonna have to cool them
+your brake temperatures are far too high
+your brake temperatures are fine
+your brake temperatures are fine, mate
+your brake temperatures are looking good
+your brake temperatures are low, we need to get some heat into them
+your brake temperatures are okay
+your brake temperatures are pretty high
+your brake temperatures are really high, mate, they're cooking
+your brake temperatures look good
+your brake temps are good
+your brake temps look good
+your brakes are cold, be careful
+your brakes are cold, let's get some heat into them
+your brakes are cold, take it easy
+your brakes are cold, we need to get some heat into them
+your brakes are hot
+your brakes are hot all around
+your front brakes are cold
+your front brakes are cold, take care
+your front brakes are cooking, mate
+your front brakes are far too hot
+your front brakes are getting a bit hot
+your front brakes are getting pretty hot
+your front brakes are pretty hot now
+your front brakes are really hot
+your front left tyre is flat spotted
+your front pressures are a bit low
+your front pressures are very high
+your front pressures are very low
+your front pressures look a bit high
+your front pressures look okay
+your front tyres are cold
+your front tyres are far too hot
+your front tyres are flat spotted
+your front tyres are hot
+your front tyres are looking a little hot
+your front tyres are pretty knackered
+your front tyres are really hot
+your front tyres are worn out, mate
+your front tyres have gone
+your front tyres have got minor wear
+your inner and outer temps are about the same for your left rear
+your inner and outer temps are about the same for your right rear
+your left front has a bit of wear
+your left front inner and outer temperatures are about the same
+your left front inner and outer temps are about the same
+your left front inner is
+your left front inner is running
+your left front is hot
+your left front pressure looks okay
+your left front pressure looks quite high
+your left front pressure looks quite low
+your left front pressure looks very high
+your left front pressure looks very low
+your left front tyre is really hot
+your left front tyre is running hot
+your left front tyre looks knackered, mate
+your left front's cooking
+your left front's hot
+your left front's showing some wear, keep an eye on it
+your left rear has got some wear on it mate, keep an eye out
+your left rear has minor wear
+your left rear inner and outer temperatures are about the same
+your left rear inner and outer temps are about the same
+your left rear inner is
+your left rear inner is running
+your left rear is hot
+your left rear is really hot
+your left rear looks worn out to us
+your left rear pressure is a bit high
+your left rear pressure is very high
+your left rear pressure is very low
+your left rear pressure looks a bit low
+your left rear pressure looks okay
+your left rear's cooking, mate
+your left rear's had it, mate
+your left rear's showing some significant wear
+your left side tyres are both past their best
+your left side tyres are carrying minor wear
+your left side tyres are cold
+your left side tyres are far too hot
+your left side tyres are looking pretty worn now
+your left side tyres are really hot
+your left side tyres are running hot
+your left side tyres hot
+your left sides are running hot
+your rear brakes are cold
+your rear brakes are cold, be careful
+your rear brakes are cold, mate
+your rear brakes are getting pretty hot
+your rear brakes are hot
+your rear brakes are really hot
+your rear brakes are starting to overheat
+your rear brakes are too hot, mate
+your rear brakes have overheated, they're really hot
+your rear left tyre is flat spotted
+your rear pressures are a bit high
+your rear pressures are a bit low
+your rear pressures are very high
+your rear pressures are very low
+your rear pressures look okay
+your rear tyres are cold
+your rear tyres are flat spotted
+your rear tyres are getting hot
+your rear tyres are knackered, mate
+your rear tyres are really hot
+your rear tyres are too hot, they're not gonna last
+your rear tyres are worn out
+your rear tyres have got a bit of wear
+your rear tyres look pretty shot
+your rear tyres will be past their best soon
+your rears are cold
+your right front has got minor wear
+your right front inner and outer temperatures are about the same
+your right front inner and outer temps are about the same
+your right front inner is
+your right front inner is running
+your right front is spinning
+your right front looks pretty worn out
+your right front pressure is quite high
+your right front pressure is quite low
+your right front pressure is very high
+your right front pressure is very low
+your right front pressure looks okay
+your right front tyre is cooking
+your right front tyre is flat spotted
+your right front tyre is hot, right front is hot
+your right front tyre looks like it's wearing out
+your right front tyre's getting hot
+your right front's carrying a bit of wear
+your right front's carrying some wear now
+your right front's really hot
+your right rear has got minor wear
+your right rear inner and outer temperatures are about the same
+your right rear inner and outer temps are about the same
+your right rear inner is
+your right rear inner is running
+your right rear is carrying a bit of wear
+your right rear pressure is a bit low
+your right rear pressure is very high
+your right rear pressure is very low
+your right rear pressure looks a bit high
+your right rear pressure looks okay
+your right rear tyre is cooking
+your right rear tyre is flat spotted
+your right rear tyre is hot
+your right rear tyre's got some wear now
+your right rear's completely worn out, mate
+your right rear's really, really hot
+your right side tyres are cold
+your right side tyres are far too hot
+your right side tyres are getting hot
+your right side tyres are getting old
+your right side tyres are looking quite worn now
+your right side tyres are really hot
+your right side tyres are worn out
+your right side tyres have had it
+your right sides are cold
+your right sides are knackered, mate
+your right tyres are cold
+your tyre temperatures are fine
+your tyre temperatures are good
+your tyre temperatures are hot all around
+your tyre temperatures are okay
+your tyre temperatures look good
+your tyre temps are all fine
+your tyre temps are all good
+your tyre temps are good
+your tyre temps are looking good
+your tyre wear looks fine, mate
+your tyres all look pretty bad, mate
+your tyres are all looking a bit worn
+your tyres are all worn out
+your tyres are cold, watch out
+your tyres are cooking all around, they're really hot
+your tyres are fine, mate, just push
+your tyres are looking pretty hot now
+
+=== watched_opponents (81) ===
+OK, no more monitoring calls for
+OK, no more monitoring of
+OK, no more monitoring of our rival
+OK, no more monitoring of our teammate
+OK, we'll stop monitoring
+OK, we'll stop monitoring car number
+OK, we'll stop monitoring our teammate
+OK, we'll stop watching our rival
+OK, we'll tell you about
+OK, we'll watch
+OK, we'll watch car number
+acknowledged, no more monitoring
+acknowledged, no more monitoring of our teammate
+acknowledged, this guy's our rival, we'll monitor him
+acknowledged, we'll monitor car number
+acknowledged, we'll monitor this guy as our teammate
+acknowledged, we'll stop monitoring
+acknowledged, we'll stop monitoring car number
+acknowledged, we'll stop monitoring our rival
+acknowledged, we'll watch our teammate
+acknowledged, we're now watching
+don't know who that guy is
+has just done a
+has just posted a
+is exiting the pit
+is exiting the pits
+is in position
+is leaving the pits
+is now in position
+sorry, we don't know who he is
+sorry, we don't know who that driver is
+understood, no more monitoring
+understood, no more monitoring of car number
+understood, this guy's a rival, we'll watch him
+understood, this guy's our rival, we'll watch him
+understood, this guy's out teammate, we'll monitor him
+understood, we won't watch
+understood, we won't watch car number
+understood, we'll monitor
+understood, we'll monitor car number
+understood, we'll monitor this guy as a rival
+understood, we'll stop all monitoring
+understood, we'll stop monitoring
+understood, we'll stop monitoring our rival
+understood, we'll stop watching our teammate
+understood, we'll stop watching this rival
+understood, we'll tell you about
+understood, we'll watch car number
+understood, we'll watch this guy as our teammate
+understood, we'll watch this guy, he's our rival
+we don't know his name or his car number
+we don't know who that driver is
+we don't know who that guy is
+we have no car number or name to refer to him
+we've got no car number or name for that driver
+we've got no car number or name to refer to that driver
+we've no car number or name for that guy
+you rival has just posted a
+you rival's lap time is a
+your rival
+your rival has just done a
+your rival has just posted a
+your rival is exiting the pits
+your rival is leaving the pits
+your rival is now in position
+your rival is pitting from position
+your rival's exiting the pits
+your rival's leaving the pits
+your rival's now in position
+your rival's pitting from position
+your teammate
+your teammate has just done a
+your teammate is leaving the pits
+your teammate is now in position
+your teammate is pitting from position
+your teammate's just done a
+your teammate's just posted a
+your teammate's just posted a 
+your teammate's leaving the pits
+your teammate's now in position
+your teammate's pitting from position

@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(ls /tmp/autovoicepack/*.py)",
+      "Bash(ls /tmp/autovoicepack/*.sh)",
+      "Bash(cut -d'\\\\\\\\' -f2)",
+      "Bash(mkdir:*)",
+      "Bash(split -l 500 -d -a 2 - /tmp/ita_blocks/block_)",
+      "Bash(ls /tmp/ita_blocks/block_*)",
+      "Bash(wc -l /tmp/ita_blocks/block_*)",
+      "Bash(python3:*)",
+      "Bash(py --version)",
+      "Bash(grep -v 'codriver\\\\|\\\\\\\\numbers\\\\\\\\\\\\|\\\\\\\\corners\\\\\\\\')",
+      "Bash(grep -vi \"\\\\\\\\\\\\\\\\numbers\\\\\\\\\\\\\\\\\")",
+      "Bash(grep \"\\\\\\\\\\\\\\\\spotter\\\\\\\\\\\\\\\\\")",
+      "Bash(grep \"\\\\\\\\\\\\\\\\spotter\\\\\\\\\\\\\\\\\" /tmp/autovoicepack/phrase_inventory.csv)",
+      "Bash(grep '\\\\\\\\spotter\\\\\\\\' /tmp/autovoicepack/phrase_inventory.csv)",
+      "Bash(ls /c/Python*/python.exe)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/utente/AppData/Local/Programs/**)",
+      "Read(//c/ProgramData/miniconda3/**)",
+      "Read(//c//**)",
+      "Bash(docker --version)",
+      "Bash(docker run:*)",
+      "Bash(where python:*)",
+      "Bash(where python3:*)",
+      "Bash(where py:*)",
+      "Bash(/c/Users/utente/AppData/Local/Programs/Python/Python*/python.exe --version)"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+# Configurazione voci per CrewChief ITA Voice Pack
+# Ogni voce richiede file audio di riferimento (~30 secondi) nella cartella reference_audio/<nome>/
+
+voices:
+  Marco:
+    description: "Ingegnere calmo e professionale"
+    reference_audio: "./reference_audio/marco/"
+    language: "it"
+    speed: 1.4
+    use_as_spotter: false
+    variation_count: 2
+
+  Gianni:
+    description: "Ingegnere aggressivo e motivante"
+    reference_audio: "./reference_audio/gianni/"
+    language: "it"
+    speed: 1.5
+    use_as_spotter: true
+    variation_count: 2
+
+  Chiara:
+    description: "Voce femminile, precisa e tecnica"
+    reference_audio: "./reference_audio/chiara/"
+    language: "it"
+    speed: 1.4
+    use_as_spotter: false
+    variation_count: 2
+
+# Parametri globali generazione
+generation:
+  output_dir: "./output"
+  format:
+    sample_rate: 22050
+    bit_depth: 16
+    channels: 1  # mono
+  audio_effects:
+    enabled: true
+    equalizer:
+      - { freq: 100, q: 0.5, gain: -12 }
+      - { freq: 200, q: 0.5, gain: -6 }
+      - { freq: 300, q: 0.5, gain: -3 }
+      - { freq: 3000, q: 0.5, gain: 6 }
+      - { freq: 6000, q: 0.5, gain: 4 }
+      - { freq: 10000, q: 0.5, gain: 3 }
+    overdrive: { gain: 7, colour: 12 }
+    normalize: -1
+  xtts_integrity_threshold: 0.9
+  max_invalid_attempts: 30
