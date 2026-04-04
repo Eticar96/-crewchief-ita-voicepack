@@ -1,0 +1,2539 @@
+Analisi di: phrase_inventory_ita.csv
+  -> 215 frasi con problemi trovate
+Analisi di: lmu_specific_phrases.csv
+  -> 1 frasi con problemi trovate
+Analisi di: custom_phrases.csv
+  -> 0 frasi con problemi trovate
+Analisi di: swear_phrases.csv
+  -> 0 frasi con problemi trovate
+Analisi di: phrase_inventory_missing.csv
+  -> 0 frasi con problemi trovate
+
+====================================================================================================
+AUDIT TRADUZIONI VOICE PACK ITALIANO - PAROLE INGLESI NON TRADOTTE (v2)
+====================================================================================================
+
+### CATEGORIA: composite_personalisation_stubs/well_done (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 9143)
+  Path:     \composite_personalisation_stubs\well_done
+  Filename: 1.wav
+  English:  Good job
+  [subtitle]: "buono job"
+    >>> [parola inglese] "job"  -->  "lavoro"
+  [text_for_tts]: "buono job"
+    >>> [parola inglese] "job"  -->  "lavoro"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 9144)
+  Path:     \composite_personalisation_stubs\well_done
+  Filename: 2.wav
+  English:  Great job
+  [subtitle]: "ottimo job"
+    >>> [parola inglese] "job"  -->  "lavoro"
+  [text_for_tts]: "ottimo job"
+    >>> [parola inglese] "job"  -->  "lavoro"
+
+### CATEGORIA: personalisations/YOUR_NAME/prefixes_and_suffixes (4 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 9121)
+  Path:     \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done
+  Filename: 3.wav
+  English:  Good job, YOUR_NAME
+  [subtitle]: "buono job, your_name"
+    >>> [parola inglese] "job"  -->  "lavoro"
+  [text_for_tts]: "buono job, your_name"
+    >>> [parola inglese] "job"  -->  "lavoro"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 9125)
+  Path:     \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done
+  Filename: 7.wav
+  English:  Great job, YOUR_NAME
+  [subtitle]: "ottimo job, your_name"
+    >>> [parola inglese] "job"  -->  "lavoro"
+  [text_for_tts]: "ottimo job, your_name"
+    >>> [parola inglese] "job"  -->  "lavoro"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 9126)
+  Path:     \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done
+  Filename: 8.wav
+  English:  Good job, YOUR_NAME
+  [subtitle]: "buono job, your_name"
+    >>> [parola inglese] "job"  -->  "lavoro"
+  [text_for_tts]: "buono job, your_name"
+    >>> [parola inglese] "job"  -->  "lavoro"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 9127)
+  Path:     \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done
+  Filename: 9.wav
+  English:  Great job, YOUR_NAME
+  [subtitle]: "ottimo job, your_name"
+    >>> [parola inglese] "job"  -->  "lavoro"
+  [text_for_tts]: "ottimo job, your_name"
+    >>> [parola inglese] "job"  -->  "lavoro"
+
+### CATEGORIA: voice/codriver/detail_big_jump (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1044)
+  Path:     \voice\codriver\detail_big_jump
+  Filename: 1.wav
+  English:  big jump
+  [subtitle]: "big salto"
+    >>> [parola inglese] "big"  -->  "grande"
+  [text_for_tts]: "big salto"
+    >>> [parola inglese] "big"  -->  "grande"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1045)
+  Path:     \voice\codriver\detail_big_jump
+  Filename: 2.wav
+  English:  big jump
+  [subtitle]: "big salto"
+    >>> [parola inglese] "big"  -->  "grande"
+  [text_for_tts]: "big salto"
+    >>> [parola inglese] "big"  -->  "grande"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1046)
+  Path:     \voice\codriver\detail_big_jump
+  Filename: 3.wav
+  English:  big jump
+  [subtitle]: "big salto"
+    >>> [parola inglese] "big"  -->  "grande"
+  [text_for_tts]: "big salto"
+    >>> [parola inglese] "big"  -->  "grande"
+
+### CATEGORIA: voice/codriver/detail_small_crest (4 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1698)
+  Path:     \voice\codriver\detail_small_crest
+  Filename: 161.wav
+  English:  small crest
+  [subtitle]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+  [text_for_tts]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1699)
+  Path:     \voice\codriver\detail_small_crest
+  Filename: 162.wav
+  English:  small crest
+  [subtitle]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+  [text_for_tts]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1700)
+  Path:     \voice\codriver\detail_small_crest
+  Filename: 163.wav
+  English:  small crest
+  [subtitle]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+  [text_for_tts]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1701)
+  Path:     \voice\codriver\detail_small_crest
+  Filename: 164.wav
+  English:  small crest
+  [subtitle]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+  [text_for_tts]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+
+### CATEGORIA: voice/codriver/detail_small_crest_rushed (4 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1702)
+  Path:     \voice\codriver\detail_small_crest_rushed
+  Filename: 261.wav
+  English:  small crest
+  [subtitle]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+  [text_for_tts]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1703)
+  Path:     \voice\codriver\detail_small_crest_rushed
+  Filename: 262.wav
+  English:  small crest
+  [subtitle]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+  [text_for_tts]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1704)
+  Path:     \voice\codriver\detail_small_crest_rushed
+  Filename: 263.wav
+  English:  small crest
+  [subtitle]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+  [text_for_tts]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 1705)
+  Path:     \voice\codriver\detail_small_crest_rushed
+  Filename: 264.wav
+  English:  small crest
+  [subtitle]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+  [text_for_tts]: "small dosso"
+    >>> [parola inglese] "small"  -->  "piccolo"
+
+### CATEGORIA: voice/conditions/light_rain_decreasing (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 2114)
+  Path:     \voice\conditions\light_rain_decreasing
+  Filename: 2_op_prefix_ok.wav
+  English:  light rain now, looks like it's getting better
+  [subtitle]: "light pioggia now, sembra che e' getting better"
+    >>> [parola inglese] "better"  -->  "migliore/meglio"
+  [text_for_tts]: "light pioggia now, sembra che e' getting better"
+    >>> [parola inglese] "better"  -->  "migliore/meglio"
+
+### CATEGORIA: voice/corners/the_left_right_before_the_mountain (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 2997)
+  Path:     \voice\corners\the_left_right_before_the_mountain
+  Filename: 27.wav
+  English:  The Left-Right before the Mountain
+  [subtitle]: "The Left-Right before the Mountain"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "The Left-Right before the Mountain"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 2998)
+  Path:     \voice\corners\the_left_right_before_the_mountain
+  Filename: 28.wav
+  English:  The Left-Right before the Mountain
+  [subtitle]: "The Left-Right before the Mountain"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "The Left-Right before the Mountain"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/corners/the_right_hander_before_charlies (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3007)
+  Path:     \voice\corners\the_right_hander_before_charlies
+  Filename: 13.wav
+  English:  The Right-Hander before Charlies
+  [subtitle]: "The Right-Hander before Charlies"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "The Right-Hander before Charlies"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3008)
+  Path:     \voice\corners\the_right_hander_before_charlies
+  Filename: 14.wav
+  English:  The Right-Hander before Charlies
+  [subtitle]: "The Right-Hander before Charlies"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "The Right-Hander before Charlies"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/corners/the_right_left_after_mansfield (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3011)
+  Path:     \voice\corners\the_right_left_after_mansfield
+  Filename: 25.wav
+  English:  The Right-Left after Mansfield
+  [subtitle]: "The Right-Left dopo Mansfield"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "The Right-Left dopo Mansfield"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3012)
+  Path:     \voice\corners\the_right_left_after_mansfield
+  Filename: 26.wav
+  English:  The Right-Left after Mansfield
+  [subtitle]: "The Right-Left dopo Mansfield"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "The Right-Left dopo Mansfield"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/flags/fc_yellow_pits_closed (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3476)
+  Path:     \voice\flags\fc_yellow_pits_closed
+  Filename: 1.wav
+  English:  we're under caution, pits closed
+  [subtitle]: "siamo under caution, pits closed"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+  [text_for_tts]: "siamo under caution, pits closed"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+
+### CATEGORIA: voice/flags/fc_yellow_pits_closed_usa (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3483)
+  Path:     \voice\flags\fc_yellow_pits_closed_usa
+  Filename: 3.wav
+  English:  we're under caution, pits closed
+  [subtitle]: "siamo under caution, pits closed"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+  [text_for_tts]: "siamo under caution, pits closed"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+
+### CATEGORIA: voice/flags/fc_yellow_prepare_for_green (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3499)
+  Path:     \voice\flags\fc_yellow_prepare_for_green
+  Filename: 3_op_prefix_ok.wav
+  English:  be ready, we're going green
+  [subtitle]: "be ready, stiamo andando green"
+    >>> [parola inglese] "green"  -->  "verde"
+  [text_for_tts]: "be ready, stiamo andando green"
+    >>> [parola inglese] "green"  -->  "verde"
+
+### CATEGORIA: voice/flags/fc_yellow_prepare_for_green_eu (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3502)
+  Path:     \voice\flags\fc_yellow_prepare_for_green_eu
+  Filename: 3_op_prefix_ok.wav
+  English:  be ready, we're going green
+  [subtitle]: "be ready, stiamo andando green"
+    >>> [parola inglese] "green"  -->  "verde"
+  [text_for_tts]: "be ready, stiamo andando green"
+    >>> [parola inglese] "green"  -->  "verde"
+
+### CATEGORIA: voice/flags/fc_yellow_prepare_for_green_usa (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3505)
+  Path:     \voice\flags\fc_yellow_prepare_for_green_usa
+  Filename: 3_op_prefix_ok.wav
+  English:  be ready, we're going green
+  [subtitle]: "be ready, stiamo andando green"
+    >>> [parola inglese] "green"  -->  "verde"
+  [text_for_tts]: "be ready, stiamo andando green"
+    >>> [parola inglese] "green"  -->  "verde"
+
+### CATEGORIA: voice/flags/fc_yellow_start (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3509)
+  Path:     \voice\flags\fc_yellow_start
+  Filename: 3.wav
+  English:  safety car out, we're under caution
+  [subtitle]: "safety macchina out, siamo under caution"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+  [text_for_tts]: "safety macchina out, siamo under caution"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3512)
+  Path:     \voice\flags\fc_yellow_start
+  Filename: 6.wav
+  English:  safety car out, we're under caution
+  [subtitle]: "safety macchina out, siamo under caution"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+  [text_for_tts]: "safety macchina out, siamo under caution"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+
+### CATEGORIA: voice/flags/fc_yellow_start_eu (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3519)
+  Path:     \voice\flags\fc_yellow_start_eu
+  Filename: 7.wav
+  English:  safety car's out, full course yellow
+  [subtitle]: "safety macchina's out, full course yellow"
+    >>> [parola inglese] "yellow"  -->  "giallo/gialla"
+  [text_for_tts]: "safety macchina's out, full course yellow"
+    >>> [parola inglese] "yellow"  -->  "giallo/gialla"
+
+### CATEGORIA: voice/flags/fc_yellow_start_usa (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3525)
+  Path:     \voice\flags\fc_yellow_start_usa
+  Filename: 1.wav
+  English:  pace car's out, we're under caution
+  [subtitle]: "pace macchina's out, siamo under caution"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+  [text_for_tts]: "pace macchina's out, siamo under caution"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+
+### CATEGORIA: voice/flags/fc_yellow_start_usa_no_safetycar (4 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3528)
+  Path:     \voice\flags\fc_yellow_start_usa_no_safetycar
+  Filename: 1.wav
+  English:  full course caution, be careful
+  [subtitle]: "caution totale stai attento"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+  [text_for_tts]: "caution totale stai attento"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3529)
+  Path:     \voice\flags\fc_yellow_start_usa_no_safetycar
+  Filename: 2.wav
+  English:  full course caution, watch out
+  [subtitle]: "caution totale attenzione"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+  [text_for_tts]: "caution totale attenzione"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3530)
+  Path:     \voice\flags\fc_yellow_start_usa_no_safetycar
+  Filename: 3.wav
+  English:  be careful, we got a full course caution
+  [subtitle]: "be careful, abbiamo a full course caution"
+    >>> [parola inglese] "careful"  -->  "attento"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+  [text_for_tts]: "be careful, abbiamo a full course caution"
+    >>> [parola inglese] "careful"  -->  "attento"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3531)
+  Path:     \voice\flags\fc_yellow_start_usa_no_safetycar
+  Filename: 4.wav
+  English:  full course caution
+  [subtitle]: "caution totale"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+  [text_for_tts]: "caution totale"
+    >>> [parola inglese] "caution"  -->  "prudenza/attenzione"
+
+### CATEGORIA: voice/flags/give_positions_back_completed (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3541)
+  Path:     \voice\flags\give_positions_back_completed
+  Filename: 3.wav
+  English:  okay, that's enough
+  [subtitle]: "ok, enough"
+    >>> [parola inglese] "enough"  -->  "abbastanza"
+  [text_for_tts]: "ok, enough"
+    >>> [parola inglese] "enough"  -->  "abbastanza"
+
+### CATEGORIA: voice/flags/green_flag_sector_1 (7 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3554)
+  Path:     \voice\flags\green_flag_sector_1
+  Filename: 1.wav
+  English:  green flag, sector 1
+  [subtitle]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3555)
+  Path:     \voice\flags\green_flag_sector_1
+  Filename: 2.wav
+  English:  green flag, sector 1
+  [subtitle]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3557)
+  Path:     \voice\flags\green_flag_sector_1
+  Filename: 4.wav
+  English:  green flag, sector 1
+  [subtitle]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3558)
+  Path:     \voice\flags\green_flag_sector_1
+  Filename: 5.wav
+  English:  green flag, sector 1
+  [subtitle]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3559)
+  Path:     \voice\flags\green_flag_sector_1
+  Filename: 6.wav
+  English:  green flag, sector 1
+  [subtitle]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3560)
+  Path:     \voice\flags\green_flag_sector_1
+  Filename: 7.wav
+  English:  green flag, sector 1
+  [subtitle]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3561)
+  Path:     \voice\flags\green_flag_sector_1
+  Filename: 8.wav
+  English:  green flag, sector 1
+  [subtitle]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "green flag, settore 1"
+    >>> [parola inglese] "green"  -->  "verde"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+### CATEGORIA: voice/flags/slow_car_ahead (4 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3740)
+  Path:     \voice\flags\slow_car_ahead
+  Filename: 1.wav
+  English:  slow car ahead
+  [subtitle]: "slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+  [text_for_tts]: "slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3741)
+  Path:     \voice\flags\slow_car_ahead
+  Filename: 2.wav
+  English:  you got a slow car ahead
+  [subtitle]: "hai a slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+  [text_for_tts]: "hai a slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3742)
+  Path:     \voice\flags\slow_car_ahead
+  Filename: 3.wav
+  English:  slow car ahead
+  [subtitle]: "slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+  [text_for_tts]: "slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3744)
+  Path:     \voice\flags\slow_car_ahead
+  Filename: 5.wav
+  English:  slow car ahead
+  [subtitle]: "slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+  [text_for_tts]: "slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+
+### CATEGORIA: voice/flags/slow_car_ahead_stay_high (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3745)
+  Path:     \voice\flags\slow_car_ahead_stay_high
+  Filename: 1.wav
+  English:  slow car ahead, stay high
+  [subtitle]: "slow macchina davanti, stay alta"
+    >>> [parola inglese] "slow"  -->  "lento"
+  [text_for_tts]: "slow macchina davanti, stay alta"
+    >>> [parola inglese] "slow"  -->  "lento"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3747)
+  Path:     \voice\flags\slow_car_ahead_stay_high
+  Filename: 3.wav
+  English:  slow car ahead, stay high
+  [subtitle]: "slow macchina davanti, stay alta"
+    >>> [parola inglese] "slow"  -->  "lento"
+  [text_for_tts]: "slow macchina davanti, stay alta"
+    >>> [parola inglese] "slow"  -->  "lento"
+
+### CATEGORIA: voice/flags/white_flag (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3908)
+  Path:     \voice\flags\white_flag
+  Filename: 3.wav
+  English:  white flag, mate
+  [subtitle]: "white flag,"
+    >>> [parola inglese] "white"  -->  "bianco/bianca"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "white flag,"
+    >>> [parola inglese] "white"  -->  "bianco/bianca"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+### CATEGORIA: voice/flags/yellow_flag_sector_1 (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3918)
+  Path:     \voice\flags\yellow_flag_sector_1
+  Filename: 1.wav
+  English:  yellow flag, sector 1
+  [subtitle]: "yellow flag, settore 1"
+    >>> [parola inglese] "yellow"  -->  "giallo/gialla"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "yellow flag, settore 1"
+    >>> [parola inglese] "yellow"  -->  "giallo/gialla"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+### CATEGORIA: voice/flags/yellow_flag_sector_2 (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3930)
+  Path:     \voice\flags\yellow_flag_sector_2
+  Filename: 2.wav
+  English:  yellow flag, sector 2
+  [subtitle]: "yellow flag, settore 2"
+    >>> [parola inglese] "yellow"  -->  "giallo/gialla"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "yellow flag, settore 2"
+    >>> [parola inglese] "yellow"  -->  "giallo/gialla"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+### CATEGORIA: voice/flags/yellow_flag_sector_3 (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 3938)
+  Path:     \voice\flags\yellow_flag_sector_3
+  Filename: 1.wav
+  English:  yellow flag, sector 3
+  [subtitle]: "yellow flag, settore 3"
+    >>> [parola inglese] "yellow"  -->  "giallo/gialla"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "yellow flag, settore 3"
+    >>> [parola inglese] "yellow"  -->  "giallo/gialla"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+### CATEGORIA: voice/frozen_order/thats_a_rolling_start (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4138)
+  Path:     \voice\frozen_order\thats_a_rolling_start
+  Filename: 1.wav
+  English:  okay, rolling start
+  [subtitle]: "ok, rolling start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "ok, rolling start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+### CATEGORIA: voice/frozen_order/thats_a_standing_start (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4142)
+  Path:     \voice\frozen_order\thats_a_standing_start
+  Filename: 5.wav
+  English:  okay, standing start
+  [subtitle]: "ok, standing start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "ok, standing start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+### CATEGORIA: voice/fuel/five_minutes_fuel (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4179)
+  Path:     \voice\fuel\five_minutes_fuel
+  Filename: 1_op_prefix_ok.wav
+  English:  5 minutes of fuel remaining, 5 minutes
+  [subtitle]: "5 minutes of carburante remaining, 5 minutes"
+    >>> [parola inglese] "minutes"  -->  "minuti"
+  [text_for_tts]: "5 minutes of carburante remaining, 5 minutes"
+    >>> [parola inglese] "minutes"  -->  "minuti"
+
+### CATEGORIA: voice/fuel/half_tank_warning (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4238)
+  Path:     \voice\fuel\half_tank_warning
+  Filename: 2.wav
+  English:  that's half-fuel, you've used half your fuel
+  [subtitle]: "half-carburante, hai used half your carburante"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "half-carburante, hai used half your carburante"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+### CATEGORIA: voice/fuel/two_minutes_fuel (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4316)
+  Path:     \voice\fuel\two_minutes_fuel
+  Filename: 1.wav
+  English:  you've got 2 minutes of fuel remaining
+  [subtitle]: "hai 2 minutes of carburante remaining"
+    >>> [parola inglese] "minutes"  -->  "minuti"
+  [text_for_tts]: "hai 2 minutes of carburante remaining"
+    >>> [parola inglese] "minutes"  -->  "minuti"
+
+### CATEGORIA: voice/lap_counter/finished_race_good_finish (6 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4379)
+  Path:     \voice\lap_counter\finished_race_good_finish
+  Filename: 1.wav
+  English:  okay, it's over, well done, mate, good finish
+  [subtitle]: "ok, e' over, ben fatto, , buono finish"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+  [text_for_tts]: "ok, e' over, ben fatto, , buono finish"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4380)
+  Path:     \voice\lap_counter\finished_race_good_finish
+  Filename: 2.wav
+  English:  okay, that's the finish, well done, mate
+  [subtitle]: "ok, the finish, ben fatto"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+  [text_for_tts]: "ok, the finish, ben fatto"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4382)
+  Path:     \voice\lap_counter\finished_race_good_finish
+  Filename: 4.wav
+  English:  well done, mate, good finish
+  [subtitle]: "well done, , buono finish"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+  [text_for_tts]: "well done, , buono finish"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4383)
+  Path:     \voice\lap_counter\finished_race_good_finish
+  Filename: 5.wav
+  English:  there's the finish, good drive
+  [subtitle]: "c'e' the finish, buono drive"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+  [text_for_tts]: "c'e' the finish, buono drive"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4384)
+  Path:     \voice\lap_counter\finished_race_good_finish
+  Filename: 6.wav
+  English:  and there's the finish, good result, mate, well done
+  [subtitle]: "e c'e' the finish, buono result, , ben fatto"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+  [text_for_tts]: "e c'e' the finish, buono result, , ben fatto"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4386)
+  Path:     \voice\lap_counter\finished_race_good_finish
+  Filename: 8.wav
+  English:  okay that's the end, good finish, mate, well done
+  [subtitle]: "ok the end, buono finish, , ben fatto"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+  [text_for_tts]: "ok the end, buono finish, , ben fatto"
+    >>> [parola inglese] "finish"  -->  "traguardo/fine"
+
+### CATEGORIA: voice/lap_counter/get_ready (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4399)
+  Path:     \voice\lap_counter\get_ready
+  Filename: 11.wav
+  English:  get ready, mate, it's hammer time
+  [subtitle]: "preparati, , e' hammer time"
+    >>> [parola inglese] "time"  -->  "tempo"
+  [text_for_tts]: "preparati, , e' hammer time"
+    >>> [parola inglese] "time"  -->  "tempo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4418)
+  Path:     \voice\lap_counter\get_ready
+  Filename: 33.wav
+  English:  heads up, we're going green
+  [subtitle]: "heads up, stiamo andando green"
+    >>> [parola inglese] "green"  -->  "verde"
+  [text_for_tts]: "heads up, stiamo andando green"
+    >>> [parola inglese] "green"  -->  "verde"
+
+### CATEGORIA: voice/lap_counter/last_lap_leading (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4472)
+  Path:     \voice\lap_counter\last_lap_leading
+  Filename: 3.wav
+  English:  one more lap, you're P1
+  [subtitle]: "one more giro, p1"
+    >>> [numero in inglese] "one"  -->  "uno"
+  [text_for_tts]: "one more giro, p1"
+    >>> [numero in inglese] "one"  -->  "uno"
+
+### CATEGORIA: voice/lap_counter/manual_formation_lap_mode_disabled (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4488)
+  Path:     \voice\lap_counter\manual_formation_lap_mode_disabled
+  Filename: 1.wav
+  English:  acknowledged, no formation lap
+  [subtitle]: "ricevuto, no formation giro"
+    >>> [parola inglese] "formation"  -->  "formazione"
+  [text_for_tts]: "ricevuto, no formation giro"
+    >>> [parola inglese] "formation"  -->  "formazione"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4490)
+  Path:     \voice\lap_counter\manual_formation_lap_mode_disabled
+  Filename: 3.wav
+  English:  acknowledged, no formation lap
+  [subtitle]: "ricevuto, no formation giro"
+    >>> [parola inglese] "formation"  -->  "formazione"
+  [text_for_tts]: "ricevuto, no formation giro"
+    >>> [parola inglese] "formation"  -->  "formazione"
+
+### CATEGORIA: voice/lap_counter/manual_formation_lap_mode_enabled (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4492)
+  Path:     \voice\lap_counter\manual_formation_lap_mode_enabled
+  Filename: 2.wav
+  English:  understood, manual formation lap
+  [subtitle]: "capito, manual formation giro"
+    >>> [parola inglese] "formation"  -->  "formazione"
+  [text_for_tts]: "capito, manual formation giro"
+    >>> [parola inglese] "formation"  -->  "formazione"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4493)
+  Path:     \voice\lap_counter\manual_formation_lap_mode_enabled
+  Filename: 3.wav
+  English:  okay, rolling start
+  [subtitle]: "ok, rolling start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "ok, rolling start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+### CATEGORIA: voice/lap_counter/podium_finish (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4505)
+  Path:     \voice\lap_counter\podium_finish
+  Filename: 3_op_prefix_well_done.wav
+  English:  great drive, that's a podium
+  [subtitle]: "ottimo drive, a podium"
+    >>> [parola inglese] "podium"  -->  "podio"
+  [text_for_tts]: "ottimo drive, a podium"
+    >>> [parola inglese] "podium"  -->  "podio"
+
+### CATEGORIA: voice/lap_counter/two_to_go (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4518)
+  Path:     \voice\lap_counter\two_to_go
+  Filename: 1.wav
+  English:  two laps left
+  [subtitle]: "two giri left"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [numero in inglese] "two"  -->  "due"
+  [text_for_tts]: "two giri left"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [numero in inglese] "two"  -->  "due"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4520)
+  Path:     \voice\lap_counter\two_to_go
+  Filename: 3.wav
+  English:  two laps remaining
+  [subtitle]: "two giri remaining"
+    >>> [numero in inglese] "two"  -->  "due"
+  [text_for_tts]: "two giri remaining"
+    >>> [numero in inglese] "two"  -->  "due"
+
+### CATEGORIA: voice/lap_counter/two_to_go_leading (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4522)
+  Path:     \voice\lap_counter\two_to_go_leading
+  Filename: 2_op_prefix_come_on.wav
+  English:  two laps left, you're P1
+  [subtitle]: "two giri left, p1"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [numero in inglese] "two"  -->  "due"
+  [text_for_tts]: "two giri left, p1"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [numero in inglese] "two"  -->  "due"
+
+### CATEGORIA: voice/lap_counter/white_flag_last_lap (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4533)
+  Path:     \voice\lap_counter\white_flag_last_lap
+  Filename: 3.wav
+  English:  white flag, last lap
+  [subtitle]: "white flag, last giro"
+    >>> [parola inglese] "white"  -->  "bianco/bianca"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "white flag, last giro"
+    >>> [parola inglese] "white"  -->  "bianco/bianca"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+### CATEGORIA: voice/lap_counter/won_race (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4535)
+  Path:     \voice\lap_counter\won_race
+  Filename: 2.wav
+  English:  well done, mate, that was absolutely perfect, great win
+  [subtitle]: "ben fatto, , that was absolutely perfect, ottimo win"
+    >>> [parola inglese] "perfect"  -->  "perfetto"
+    >>> [parola inglese] "win"  -->  "vittoria/vincere"
+  [text_for_tts]: "ben fatto, , that was absolutely perfect, ottimo win"
+    >>> [parola inglese] "perfect"  -->  "perfetto"
+    >>> [parola inglese] "win"  -->  "vittoria/vincere"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4537)
+  Path:     \voice\lap_counter\won_race
+  Filename: 4.wav
+  English:  that's a win, great job, well done
+  [subtitle]: "a win, ottimo job, ben fatto"
+    >>> [frase inglese] "a win"  -->  "una vittoria"
+    >>> [parola inglese] "job"  -->  "lavoro"
+  [text_for_tts]: "a win, ottimo job, ben fatto"
+    >>> [frase inglese] "a win"  -->  "una vittoria"
+    >>> [parola inglese] "job"  -->  "lavoro"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4540)
+  Path:     \voice\lap_counter\won_race
+  Filename: sweary_7.wav
+  English:  fucking awesome result, mate, well done
+  [subtitle]: "fucking awesome result, , well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+    >>> [parola inglese] "awesome"  -->  "fantastico"
+  [text_for_tts]: "fucking awesome result, , well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+    >>> [parola inglese] "awesome"  -->  "fantastico"
+
+### CATEGORIA: voice/lap_times/good_lap (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4560)
+  Path:     \voice\lap_times\good_lap
+  Filename: 3.wav
+  English:  nice lap
+  [subtitle]: "nice giro"
+    >>> [parola inglese] "nice"  -->  "bello/ben"
+  [text_for_tts]: "nice giro"
+    >>> [parola inglese] "nice"  -->  "bello/ben"
+
+### CATEGORIA: voice/lap_times/personal_best (5 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4605)
+  Path:     \voice\lap_times\personal_best
+  Filename: 1.wav
+  English:  that's your fastest lap today
+  [subtitle]: "your il piu' veloce giro today"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "your il piu' veloce giro today"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4606)
+  Path:     \voice\lap_times\personal_best
+  Filename: 10.wav
+  English:  good lap, that's your quickest so far
+  [subtitle]: "buono giro, your il piu' veloce finora"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "buono giro, your il piu' veloce finora"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4609)
+  Path:     \voice\lap_times\personal_best
+  Filename: 3.wav
+  English:  good lap, that's your quickest today
+  [subtitle]: "buono giro, your il piu' veloce today"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "buono giro, your il piu' veloce today"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4610)
+  Path:     \voice\lap_times\personal_best
+  Filename: 4.wav
+  English:  that's your fastest lap
+  [subtitle]: "your il piu' veloce giro"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "your il piu' veloce giro"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4611)
+  Path:     \voice\lap_times\personal_best
+  Filename: 5.wav
+  English:  that's your quickest lap
+  [subtitle]: "your il piu' veloce giro"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "your il piu' veloce giro"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+### CATEGORIA: voice/lap_times/sector1_and_2_two_tenths_off_pace (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4660)
+  Path:     \voice\lap_times\sector1_and_2_two_tenths_off_pace
+  Filename: 3.wav
+  English:  you're losing 2 tenths in sectors 1 and 2
+  [subtitle]: "losing 2 decimi in settori 1 e 2"
+    >>> [parola inglese] "losing"  -->  "perdendo"
+  [text_for_tts]: "losing 2 decimi in settori 1 e 2"
+    >>> [parola inglese] "losing"  -->  "perdendo"
+
+### CATEGORIA: voice/lap_times/sector1_fast (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4691)
+  Path:     \voice\lap_times\sector1_fast
+  Filename: 1.wav
+  English:  sector 1 time is good
+  [subtitle]: "settore 1 time e' buono"
+    >>> [parola inglese] "time"  -->  "tempo"
+  [text_for_tts]: "settore 1 time e' buono"
+    >>> [parola inglese] "time"  -->  "tempo"
+
+### CATEGORIA: voice/lap_times/sector2_and_3_two_tenths_off_pace (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4739)
+  Path:     \voice\lap_times\sector2_and_3_two_tenths_off_pace
+  Filename: 2.wav
+  English:  you're losing 2 tenths in sectors 2 and 3
+  [subtitle]: "losing 2 decimi in settori 2 e 3"
+    >>> [parola inglese] "losing"  -->  "perdendo"
+  [text_for_tts]: "losing 2 decimi in settori 2 e 3"
+    >>> [parola inglese] "losing"  -->  "perdendo"
+
+### CATEGORIA: voice/lap_times/sector2_fast (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4744)
+  Path:     \voice\lap_times\sector2_fast
+  Filename: 1.wav
+  English:  sector 2 time is good
+  [subtitle]: "settore 2 time e' buono"
+    >>> [parola inglese] "time"  -->  "tempo"
+  [text_for_tts]: "settore 2 time e' buono"
+    >>> [parola inglese] "time"  -->  "tempo"
+
+### CATEGORIA: voice/lap_times/setting_current_race_pace (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4821)
+  Path:     \voice\lap_times\setting_current_race_pace
+  Filename: 3.wav
+  English:  we're quickest right now
+  [subtitle]: "siamo quickest right now"
+    >>> [frase inglese] "right now"  -->  "adesso/subito"
+  [text_for_tts]: "siamo quickest right now"
+    >>> [frase inglese] "right now"  -->  "adesso/subito"
+
+### CATEGORIA: voice/lap_times/time_intro (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4824)
+  Path:     \voice\lap_times\time_intro
+  Filename: 10.wav
+  English:  that lap time was
+  [subtitle]: "that giro time was"
+    >>> [parola inglese] "time"  -->  "tempo"
+  [text_for_tts]: "that giro time was"
+    >>> [parola inglese] "time"  -->  "tempo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 4836)
+  Path:     \voice\lap_times\time_intro
+  Filename: 9.wav
+  English:  that lap time was
+  [subtitle]: "that giro time was"
+    >>> [parola inglese] "time"  -->  "tempo"
+  [text_for_tts]: "that giro time was"
+    >>> [parola inglese] "time"  -->  "tempo"
+
+### CATEGORIA: voice/lmu/weather (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     lmu_specific_phrases.csv (riga 26)
+  Path:     \voice\lmu\weather
+  Filename: 2.wav
+  [subtitle]: "pioggia in aumento, valuta la sosta per le rain"
+    >>> [parola inglese] "rain"  -->  "pioggia"
+
+### CATEGORIA: voice/mandatory_pit_stops/no_pit_speed_limit (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5136)
+  Path:     \voice\mandatory_pit_stops\no_pit_speed_limit
+  Filename: 3.wav
+  English:  there's no pit lane speed limit
+  [subtitle]: "c'e' no corsia box speed limit"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+  [text_for_tts]: "c'e' no corsia box speed limit"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5137)
+  Path:     \voice\mandatory_pit_stops\no_pit_speed_limit
+  Filename: 4.wav
+  English:  there's no pit lane speed limit
+  [subtitle]: "c'e' no corsia box speed limit"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+  [text_for_tts]: "c'e' no corsia box speed limit"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+
+### CATEGORIA: voice/mandatory_pit_stops/pit_speed_limit (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5172)
+  Path:     \voice\mandatory_pit_stops\pit_speed_limit
+  Filename: 2.wav
+  English:  pit lane speed limit is
+  [subtitle]: "corsia box speed limit is"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+  [text_for_tts]: "corsia box speed limit is"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5174)
+  Path:     \voice\mandatory_pit_stops\pit_speed_limit
+  Filename: 4.wav
+  English:  pit lane speed limit is
+  [subtitle]: "corsia box speed limit is"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+  [text_for_tts]: "corsia box speed limit is"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5175)
+  Path:     \voice\mandatory_pit_stops\pit_speed_limit
+  Filename: 5.wav
+  English:  pit lane speed limit is
+  [subtitle]: "corsia box speed limit is"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+  [text_for_tts]: "corsia box speed limit is"
+    >>> [parola inglese] "speed"  -->  "velocita'"
+
+### CATEGORIA: voice/mandatory_pit_stops/pit_window_opens_on_lap (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5237)
+  Path:     \voice\mandatory_pit_stops\pit_window_opens_on_lap
+  Filename: 1.wav
+  English:  pit window opens on lap
+  [subtitle]: "pit window opens on giro"
+    >>> [parola inglese] "window"  -->  "finestra"
+  [text_for_tts]: "pit window opens on giro"
+    >>> [parola inglese] "window"  -->  "finestra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5238)
+  Path:     \voice\mandatory_pit_stops\pit_window_opens_on_lap
+  Filename: 2.wav
+  English:  pit window opens on lap
+  [subtitle]: "pit window opens on giro"
+    >>> [parola inglese] "window"  -->  "finestra"
+  [text_for_tts]: "pit window opens on giro"
+    >>> [parola inglese] "window"  -->  "finestra"
+
+### CATEGORIA: voice/multiclass/faster_car_behind (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5386)
+  Path:     \voice\multiclass\faster_car_behind
+  Filename: 2.wav
+  English:  faster car behind
+  [subtitle]: "faster macchina dietro"
+    >>> [parola inglese] "faster"  -->  "piu' veloce"
+  [text_for_tts]: "faster macchina dietro"
+    >>> [parola inglese] "faster"  -->  "piu' veloce"
+
+### CATEGORIA: voice/multiclass/faster_car_behind_racing_player (4 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5402)
+  Path:     \voice\multiclass\faster_car_behind_racing_player
+  Filename: 1_male.wav
+  English:  there's a faster car approaching, he's racing us for position, don't expect a blue flag
+  [subtitle]: "c'e' a macchina piu' veloce in arrivo, lui e' in lotta con noi per posizione, non expect a blue flag"
+    >>> [parola inglese] "blue"  -->  "blu"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "c'e' a macchina piu' veloce in arrivo, lui e' in lotta con noi per posizione, non expect a blue flag"
+    >>> [parola inglese] "blue"  -->  "blu"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5405)
+  Path:     \voice\multiclass\faster_car_behind_racing_player
+  Filename: 3.wav
+  English:  faster car approaching, they're racing us for position - don't expect and blue flag
+  [subtitle]: "macchina piu' veloce in arrivo, they're in lotta con noi per posizione - non expect e blue flag"
+    >>> [parola inglese] "blue"  -->  "blu"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+    >>> [parola funzionale inglese in frase italiana] "they're"  -->  "sono/stanno"
+  [text_for_tts]: "macchina piu' veloce in arrivo, they're in lotta con noi per posizione - non expect e blue flag"
+    >>> [parola inglese] "blue"  -->  "blu"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+    >>> [parola funzionale inglese in frase italiana] "they're"  -->  "sono/stanno"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5406)
+  Path:     \voice\multiclass\faster_car_behind_racing_player
+  Filename: 3_male.wav
+  English:  faster car approaching, he's racing us for position, don't expect a blue
+  [subtitle]: "macchina piu' veloce in arrivo, lui e' in lotta con noi per posizione, non expect a blue"
+    >>> [parola inglese] "blue"  -->  "blu"
+  [text_for_tts]: "macchina piu' veloce in arrivo, lui e' in lotta con noi per posizione, non expect a blue"
+    >>> [parola inglese] "blue"  -->  "blu"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5409)
+  Path:     \voice\multiclass\faster_car_behind_racing_player
+  Filename: 5_male.wav
+  English:  faster car behind, he's racing us for position, don't expect a blue flag
+  [subtitle]: "macchina piu' veloce dietro, lui e' in lotta con noi per posizione, non expect a blue flag"
+    >>> [parola inglese] "blue"  -->  "blu"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+  [text_for_tts]: "macchina piu' veloce dietro, lui e' in lotta con noi per posizione, non expect a blue flag"
+    >>> [parola inglese] "blue"  -->  "blu"
+    >>> [parola inglese] "flag"  -->  "bandiera"
+
+### CATEGORIA: voice/multiclass/faster_cars_fighting_behind_inc_class_leader (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5432)
+  Path:     \voice\multiclass\faster_cars_fighting_behind_inc_class_leader
+  Filename: 4.wav
+  English:  there's some faster cars approaching, they're fighting for position, the group includes the class leader
+  [subtitle]: "c'e' some faster cars in arrivo, they're in lotta per posizione, the group includes the leader di classe"
+    >>> [parola inglese] "faster"  -->  "piu' veloce"
+    >>> [parola funzionale inglese in frase italiana] "they're"  -->  "sono/stanno"
+  [text_for_tts]: "c'e' some faster cars in arrivo, they're in lotta per posizione, the group includes the leader di classe"
+    >>> [parola inglese] "faster"  -->  "piu' veloce"
+    >>> [parola funzionale inglese in frase italiana] "they're"  -->  "sono/stanno"
+
+### CATEGORIA: voice/multiclass/slower_car_ahead (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5562)
+  Path:     \voice\multiclass\slower_car_ahead
+  Filename: 1.wav
+  English:  slower class car ahead
+  [subtitle]: "slower class macchina davanti"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+  [text_for_tts]: "slower class macchina davanti"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5564)
+  Path:     \voice\multiclass\slower_car_ahead
+  Filename: 3.wav
+  English:  slower class car ahead
+  [subtitle]: "slower class macchina davanti"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+  [text_for_tts]: "slower class macchina davanti"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5567)
+  Path:     \voice\multiclass\slower_car_ahead
+  Filename: 6.wav
+  English:  slower class car ahead
+  [subtitle]: "slower class macchina davanti"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+  [text_for_tts]: "slower class macchina davanti"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+
+### CATEGORIA: voice/multiclass/slower_car_ahead_is_class_leader (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5573)
+  Path:     \voice\multiclass\slower_car_ahead_is_class_leader
+  Filename: 3_male.wav
+  English:  slower car ahead, he's the class leader for these guys
+  [subtitle]: "macchina piu' lenta davanti, lui e' the leader di classe per these guys"
+    >>> [parola inglese] "guys"  -->  "ragazzi"
+  [text_for_tts]: "macchina piu' lenta davanti, lui e' the leader di classe per these guys"
+    >>> [parola inglese] "guys"  -->  "ragazzi"
+
+### CATEGORIA: voice/multiclass/slower_cars_ahead (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5597)
+  Path:     \voice\multiclass\slower_cars_ahead
+  Filename: 5.wav
+  English:  slower class cars ahead
+  [subtitle]: "slower class cars davanti"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+  [text_for_tts]: "slower class cars davanti"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+
+### CATEGORIA: voice/multiclass/slower_cars_ahead_fighting (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5599)
+  Path:     \voice\multiclass\slower_cars_ahead_fighting
+  Filename: 1_op_prefix_ok.wav
+  English:  you're approaching some slower cars, these guys are fighting for position
+  [subtitle]: "in arrivo some slower cars, these guys are in lotta per posizione"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+    >>> [parola inglese] "guys"  -->  "ragazzi"
+  [text_for_tts]: "in arrivo some slower cars, these guys are in lotta per posizione"
+    >>> [parola inglese] "slower"  -->  "piu' lento"
+    >>> [parola inglese] "guys"  -->  "ragazzi"
+
+### CATEGORIA: voice/opponents/new_fastest_lap_for (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5694)
+  Path:     \voice\opponents\new_fastest_lap_for
+  Filename: 1.wav
+  English:  that's a new fastest lap for
+  [subtitle]: "a new il piu' veloce giro for"
+    >>> [parola inglese] "new"  -->  "nuovo"
+  [text_for_tts]: "a new il piu' veloce giro for"
+    >>> [parola inglese] "new"  -->  "nuovo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5695)
+  Path:     \voice\opponents\new_fastest_lap_for
+  Filename: 2.wav
+  English:  new fastest lap for
+  [subtitle]: "new fastest giro for"
+    >>> [parola inglese] "new"  -->  "nuovo"
+  [text_for_tts]: "new fastest giro for"
+    >>> [parola inglese] "new"  -->  "nuovo"
+
+### CATEGORIA: voice/opponents/one_lap_ahead (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5714)
+  Path:     \voice\opponents\one_lap_ahead
+  Filename: 1.wav
+  English:  one lap ahead
+  [subtitle]: "one giro davanti"
+    >>> [numero in inglese] "one"  -->  "uno"
+  [text_for_tts]: "one giro davanti"
+    >>> [numero in inglese] "one"  -->  "uno"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5715)
+  Path:     \voice\opponents\one_lap_ahead
+  Filename: 2.wav
+  English:  one lap ahead
+  [subtitle]: "one giro davanti"
+    >>> [numero in inglese] "one"  -->  "uno"
+  [text_for_tts]: "one giro davanti"
+    >>> [numero in inglese] "one"  -->  "uno"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5716)
+  Path:     \voice\opponents\one_lap_ahead
+  Filename: 3.wav
+  English:  one lap in front
+  [subtitle]: "one giro davanti"
+    >>> [numero in inglese] "one"  -->  "uno"
+  [text_for_tts]: "one giro davanti"
+    >>> [numero in inglese] "one"  -->  "uno"
+
+### CATEGORIA: voice/opponents/one_lap_behind (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5717)
+  Path:     \voice\opponents\one_lap_behind
+  Filename: 4.wav
+  English:  one lap behind
+  [subtitle]: "one giro dietro"
+    >>> [numero in inglese] "one"  -->  "uno"
+  [text_for_tts]: "one giro dietro"
+    >>> [numero in inglese] "one"  -->  "uno"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5719)
+  Path:     \voice\opponents\one_lap_behind
+  Filename: 6.wav
+  English:  one lap behind
+  [subtitle]: "one giro dietro"
+    >>> [numero in inglese] "one"  -->  "uno"
+  [text_for_tts]: "one giro dietro"
+    >>> [numero in inglese] "one"  -->  "uno"
+
+### CATEGORIA: voice/opponents/slow_car_ahead (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5728)
+  Path:     \voice\opponents\slow_car_ahead
+  Filename: 1.wav
+  English:  you got a slow car ahead
+  [subtitle]: "hai a slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+  [text_for_tts]: "hai a slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5730)
+  Path:     \voice\opponents\slow_car_ahead
+  Filename: 3.wav
+  English:  you got a slow car ahead
+  [subtitle]: "hai a slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+  [text_for_tts]: "hai a slow macchina davanti"
+    >>> [parola inglese] "slow"  -->  "lento"
+
+### CATEGORIA: voice/pearls_of_wisdom/must_do_better (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5875)
+  Path:     \voice\pearls_of_wisdom\must_do_better
+  Filename: 27.wav
+  English:  qualifying pace now, come on, you can salvage something here
+  [subtitle]: "qualifying pace now, come on, puoi salvage something qui"
+    >>> [parola inglese] "qualifying"  -->  "qualifiche"
+  [text_for_tts]: "qualifying pace now, come on, puoi salvage something qui"
+    >>> [parola inglese] "qualifying"  -->  "qualifiche"
+
+### CATEGORIA: voice/penalties/cut_track_in_prac_or_qual (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5951)
+  Path:     \voice\penalties\cut_track_in_prac_or_qual
+  Filename: 6.wav
+  English:  track limits, they'll invalidate this lap
+  [subtitle]: "track limits, they'll invalidate this giro"
+    >>> [parola inglese] "track"  -->  "pista"
+  [text_for_tts]: "track limits, they'll invalidate this giro"
+    >>> [parola inglese] "track"  -->  "pista"
+
+### CATEGORIA: voice/penalties/cut_track_in_prac_or_qual_next_invalid (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5957)
+  Path:     \voice\penalties\cut_track_in_prac_or_qual_next_invalid
+  Filename: 3.wav
+  English:  you've cut the track, they're gonna delete the lap and they'll delete the next one, too
+  [subtitle]: "hai cut the track, they're gonna cancellare the giro e they'll cancellare the next one, too"
+    >>> [parola inglese] "track"  -->  "pista"
+    >>> [numero in inglese] "one"  -->  "uno"
+    >>> [parola funzionale inglese in frase italiana] "they're"  -->  "sono/stanno"
+  [text_for_tts]: "hai cut the track, they're gonna cancellare the giro e they'll cancellare the next one, too"
+    >>> [parola inglese] "track"  -->  "pista"
+    >>> [numero in inglese] "one"  -->  "uno"
+    >>> [parola funzionale inglese in frase italiana] "they're"  -->  "sono/stanno"
+
+### CATEGORIA: voice/penalties/cut_track_prac_or_qual_1 (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5986)
+  Path:     \voice\penalties\cut_track_prac_or_qual_1
+  Filename: 1.wav
+  English:  they'll invalidate this lap, track limits
+  [subtitle]: "they'll invalidate this giro, track limits"
+    >>> [parola inglese] "track"  -->  "pista"
+  [text_for_tts]: "they'll invalidate this giro, track limits"
+    >>> [parola inglese] "track"  -->  "pista"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 5995)
+  Path:     \voice\penalties\cut_track_prac_or_qual_1
+  Filename: 3.wav
+  English:  they'll delete this lap, track limits
+  [subtitle]: "they'll delete this giro, track limits"
+    >>> [parola inglese] "track"  -->  "pista"
+  [text_for_tts]: "they'll delete this giro, track limits"
+    >>> [parola inglese] "track"  -->  "pista"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6001)
+  Path:     \voice\penalties\cut_track_prac_or_qual_1
+  Filename: 7.wav
+  English:  track limits, they'll invalidate this lap
+  [subtitle]: "track limits, they'll invalidate this giro"
+    >>> [parola inglese] "track"  -->  "pista"
+  [text_for_tts]: "track limits, they'll invalidate this giro"
+    >>> [parola inglese] "track"  -->  "pista"
+
+### CATEGORIA: voice/penalties/cut_track_prac_or_qual_2 (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6008)
+  Path:     \voice\penalties\cut_track_prac_or_qual_2
+  Filename: 2.wav
+  English:  track limits, they'll delete this lap
+  [subtitle]: "track limits, they'll delete this giro"
+    >>> [parola inglese] "track"  -->  "pista"
+  [text_for_tts]: "track limits, they'll delete this giro"
+    >>> [parola inglese] "track"  -->  "pista"
+
+### CATEGORIA: voice/penalties/cut_track_race_3 (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6094)
+  Path:     \voice\penalties\cut_track_race_3
+  Filename: 9.wav
+  English:  we've had another track limits warning
+  [subtitle]: "we've had another track limits attenzione"
+    >>> [parola inglese] "track"  -->  "pista"
+  [text_for_tts]: "we've had another track limits attenzione"
+    >>> [parola inglese] "track"  -->  "pista"
+
+### CATEGORIA: voice/penalties/lap_deleted (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6173)
+  Path:     \voice\penalties\lap_deleted
+  Filename: 2_op_prefix_oh_dear.wav
+  English:  you've cut the track, they'll delete the lap
+  [subtitle]: "hai cut the track, they'll cancellare the giro"
+    >>> [parola inglese] "track"  -->  "pista"
+  [text_for_tts]: "hai cut the track, they'll cancellare the giro"
+    >>> [parola inglese] "track"  -->  "pista"
+
+### CATEGORIA: voice/position/expected_position_current_position_intro (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6419)
+  Path:     \voice\position\expected_position_current_position_intro
+  Filename: 1.wav
+  English:  we're currently P
+  [subtitle]: "siamo currently p"
+    >>> [parola inglese] "currently"  -->  "attualmente"
+  [text_for_tts]: "siamo currently p"
+    >>> [parola inglese] "currently"  -->  "attualmente"
+
+### CATEGORIA: voice/position/expected_position_current_position_leading (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6424)
+  Path:     \voice\position\expected_position_current_position_leading
+  Filename: 1.wav
+  English:  we're currently P1
+  [subtitle]: "siamo currently p1"
+    >>> [parola inglese] "currently"  -->  "attualmente"
+  [text_for_tts]: "siamo currently p1"
+    >>> [parola inglese] "currently"  -->  "attualmente"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6426)
+  Path:     \voice\position\expected_position_current_position_leading
+  Filename: 3.wav
+  English:  we're leading
+  [subtitle]: "siamo leading"
+    >>> [parola inglese] "leading"  -->  "in testa"
+  [text_for_tts]: "siamo leading"
+    >>> [parola inglese] "leading"  -->  "in testa"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6428)
+  Path:     \voice\position\expected_position_current_position_leading
+  Filename: 5.wav
+  English:  we're currently leading
+  [subtitle]: "siamo currently leading"
+    >>> [parola inglese] "currently"  -->  "attualmente"
+    >>> [parola inglese] "leading"  -->  "in testa"
+  [text_for_tts]: "siamo currently leading"
+    >>> [parola inglese] "currently"  -->  "attualmente"
+    >>> [parola inglese] "leading"  -->  "in testa"
+
+### CATEGORIA: voice/position/expected_position_win (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6454)
+  Path:     \voice\position\expected_position_win
+  Filename: 4_op_prefix_ok.wav
+  English:  you should win this, you're the clear favourite
+  [subtitle]: "dovresti win this, the clear favourite"
+    >>> [parola inglese] "win"  -->  "vittoria/vincere"
+  [text_for_tts]: "dovresti win this, the clear favourite"
+    >>> [parola inglese] "win"  -->  "vittoria/vincere"
+
+### CATEGORIA: voice/position/good_start (6 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6461)
+  Path:     \voice\position\good_start
+  Filename: 1.wav
+  English:  good start, mate, nice one
+  [subtitle]: "buono start, , nice one"
+    >>> [frase inglese] "nice one"  -->  "bella/ben fatto"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "buono start, , nice one"
+    >>> [frase inglese] "nice one"  -->  "bella/ben fatto"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6464)
+  Path:     \voice\position\good_start
+  Filename: 13.wav
+  English:  great start, well done
+  [subtitle]: "ottimo start, well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "ottimo start, well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6465)
+  Path:     \voice\position\good_start
+  Filename: 2.wav
+  English:  nice start, mate, well done
+  [subtitle]: "nice start, , well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+    >>> [parola inglese] "nice"  -->  "bello/ben"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "nice start, , well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+    >>> [parola inglese] "nice"  -->  "bello/ben"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6466)
+  Path:     \voice\position\good_start
+  Filename: 3_op_prefix_well_done.wav
+  English:  good start
+  [subtitle]: "buono start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "buono start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6467)
+  Path:     \voice\position\good_start
+  Filename: 4_op_suffix_well_done.wav
+  English:  good start
+  [subtitle]: "buono start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "buono start"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6468)
+  Path:     \voice\position\good_start
+  Filename: 5.wav
+  English:  good start, mate
+  [subtitle]: "buono start,"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "buono start,"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+### CATEGORIA: voice/position/overtaking (10 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6502)
+  Path:     \voice\position\overtaking
+  Filename: 1.wav
+  English:  good pass, well done
+  [subtitle]: "buono pass, well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+  [text_for_tts]: "buono pass, well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6515)
+  Path:     \voice\position\overtaking
+  Filename: 26.wav
+  English:  good pass, now keep pushing
+  [subtitle]: "buono pass, now keep pushing"
+    >>> [parola inglese] "keep"  -->  "mantieni"
+  [text_for_tts]: "buono pass, now keep pushing"
+    >>> [parola inglese] "keep"  -->  "mantieni"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6518)
+  Path:     \voice\position\overtaking
+  Filename: 2_op_suffix_well_done.wav
+  English:  nice one, mate
+  [subtitle]: "nice one,"
+    >>> [frase inglese] "nice one"  -->  "bella/ben fatto"
+  [text_for_tts]: "nice one,"
+    >>> [frase inglese] "nice one"  -->  "bella/ben fatto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6520)
+  Path:     \voice\position\overtaking
+  Filename: 4_op_prefix_well_done.wav
+  English:  nice move, mate
+  [subtitle]: "nice move,"
+    >>> [parola inglese] "nice"  -->  "bello/ben"
+  [text_for_tts]: "nice move,"
+    >>> [parola inglese] "nice"  -->  "bello/ben"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6523)
+  Path:     \voice\position\overtaking
+  Filename: 6.wav
+  English:  well done, good pass
+  [subtitle]: "well done, buono pass"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+  [text_for_tts]: "well done, buono pass"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6525)
+  Path:     \voice\position\overtaking
+  Filename: sweary_10.wav
+  English:  good pass, mate, that was fucking brilliant
+  [subtitle]: "buono pass, , that was fucking brilliant"
+    >>> [parola inglese] "brilliant"  -->  "brillante"
+  [text_for_tts]: "buono pass, , that was fucking brilliant"
+    >>> [parola inglese] "brilliant"  -->  "brillante"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6526)
+  Path:     \voice\position\overtaking
+  Filename: sweary_11.wav
+  English:  good pass, mate, fucking awesome
+  [subtitle]: "buono pass, , fucking awesome"
+    >>> [parola inglese] "awesome"  -->  "fantastico"
+  [text_for_tts]: "buono pass, , fucking awesome"
+    >>> [parola inglese] "awesome"  -->  "fantastico"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6530)
+  Path:     \voice\position\overtaking
+  Filename: sweary_7.wav
+  English:  fucking great pass, mate, well done
+  [subtitle]: "fucking ottimo pass, , well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+  [text_for_tts]: "fucking ottimo pass, , well done"
+    >>> [frase inglese] "well done"  -->  "ben fatto/bravo"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6531)
+  Path:     \voice\position\overtaking
+  Filename: sweary_8.wav
+  English:  fucking awesome move, mate
+  [subtitle]: "fucking awesome move,"
+    >>> [parola inglese] "awesome"  -->  "fantastico"
+  [text_for_tts]: "fucking awesome move,"
+    >>> [parola inglese] "awesome"  -->  "fantastico"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6532)
+  Path:     \voice\position\overtaking
+  Filename: sweary_9.wav
+  English:  fucking excellent pass, nice one, mate
+  [subtitle]: "fucking excellent pass, nice one,"
+    >>> [frase inglese] "nice one"  -->  "bella/ben fatto"
+    >>> [parola inglese] "excellent"  -->  "eccellente"
+  [text_for_tts]: "fucking excellent pass, nice one,"
+    >>> [frase inglese] "nice one"  -->  "bella/ben fatto"
+    >>> [parola inglese] "excellent"  -->  "eccellente"
+
+### CATEGORIA: voice/position/terrible_start (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6638)
+  Path:     \voice\position\terrible_start
+  Filename: 13.wav
+  English:  awful start, mate, but don't give up
+  [subtitle]: "awful start, , ma non mollare"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "awful start, , ma non mollare"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6648)
+  Path:     \voice\position\terrible_start
+  Filename: sweary_10.wav
+  English:  fucking hell, nightmare start mate, damage limitation from here
+  [subtitle]: "fucking hell, da incubo start , danno limitation da qui"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "fucking hell, da incubo start , danno limitation da qui"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6650)
+  Path:     \voice\position\terrible_start
+  Filename: sweary_16.wav
+  English:  fucking bollocks start, mate, it's damage limitation from here
+  [subtitle]: "fucking bollocks start, , e' danno limitation da qui"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+  [text_for_tts]: "fucking bollocks start, , e' danno limitation da qui"
+    >>> [parola inglese] "start"  -->  "partenza/inizio"
+
+### CATEGORIA: voice/push_now/pits_exit_clear (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6679)
+  Path:     \voice\push_now\pits_exit_clear
+  Filename: 17.wav
+  English:  pit exit's clear, don't cross the white line
+  [subtitle]: "uscita box's clear, non cross the white line"
+    >>> [parola inglese] "white"  -->  "bianco/bianca"
+  [text_for_tts]: "uscita box's clear, non cross the white line"
+    >>> [parola inglese] "white"  -->  "bianco/bianca"
+
+### CATEGORIA: voice/race_time/laps_remaining (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6760)
+  Path:     \voice\race_time\laps_remaining
+  Filename: 1.wav
+  English:  laps left
+  [subtitle]: "giri left"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "giri left"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/race_time/twenty_minutes_left (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6792)
+  Path:     \voice\race_time\twenty_minutes_left
+  Filename: 2.wav
+  English:  20 minutes remaining, you got 20 minutes left
+  [subtitle]: "20 minutes remaining, hai 20 minutes left"
+    >>> [parola inglese] "minutes"  -->  "minuti"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "20 minutes remaining, hai 20 minutes left"
+    >>> [parola inglese] "minutes"  -->  "minuti"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/spotter/car_inside (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6836)
+  Path:     \voice\spotter\car_inside
+  Filename: 5.wav
+  English:  car inside
+  [subtitle]: "macchina inside"
+    >>> [parola inglese] "inside"  -->  "interno"
+  [text_for_tts]: "macchina inside"
+    >>> [parola inglese] "inside"  -->  "interno"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6840)
+  Path:     \voice\spotter\car_inside
+  Filename: 9.wav
+  English:  car inside
+  [subtitle]: "macchina inside"
+    >>> [parola inglese] "inside"  -->  "interno"
+  [text_for_tts]: "macchina inside"
+    >>> [parola inglese] "inside"  -->  "interno"
+
+### CATEGORIA: voice/spotter/car_outside (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6851)
+  Path:     \voice\spotter\car_outside
+  Filename: 3.wav
+  English:  car outside
+  [subtitle]: "macchina outside"
+    >>> [parola inglese] "outside"  -->  "esterno"
+  [text_for_tts]: "macchina outside"
+    >>> [parola inglese] "outside"  -->  "esterno"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6853)
+  Path:     \voice\spotter\car_outside
+  Filename: 5.wav
+  English:  car outside
+  [subtitle]: "macchina outside"
+    >>> [parola inglese] "outside"  -->  "esterno"
+  [text_for_tts]: "macchina outside"
+    >>> [parola inglese] "outside"  -->  "esterno"
+
+### CATEGORIA: voice/strategy/acknowledge_time_pitstop (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 6972)
+  Path:     \voice\strategy\acknowledge_time_pitstop
+  Filename: 1.wav
+  English:  okay, we'll time this stop
+  [subtitle]: "ok, time this stop"
+    >>> [parola inglese] "time"  -->  "tempo"
+  [text_for_tts]: "ok, time this stop"
+    >>> [parola inglese] "time"  -->  "tempo"
+
+### CATEGORIA: voice/strategy/just_ahead_of (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7048)
+  Path:     \voice\strategy\just_ahead_of
+  Filename: 3.wav
+  English:  right ahead of
+  [subtitle]: "right davanti of"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "right davanti of"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7051)
+  Path:     \voice\strategy\just_ahead_of
+  Filename: 6.wav
+  English:  right in front of
+  [subtitle]: "right davanti of"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "right davanti of"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7052)
+  Path:     \voice\strategy\just_ahead_of
+  Filename: 7.wav
+  English:  right ahead of
+  [subtitle]: "right davanti of"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "right davanti of"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/strategy/just_behind (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7054)
+  Path:     \voice\strategy\just_behind
+  Filename: 2.wav
+  English:  right behind
+  [subtitle]: "right dietro"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "right dietro"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7057)
+  Path:     \voice\strategy\just_behind
+  Filename: 5.wav
+  English:  right behind
+  [subtitle]: "right dietro"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "right dietro"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7058)
+  Path:     \voice\strategy\just_behind
+  Filename: 6.wav
+  English:  right behind
+  [subtitle]: "right dietro"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "right dietro"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/strategy/will_calculate_time_loss_from_next_lap (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7077)
+  Path:     \voice\strategy\will_calculate_time_loss_from_next_lap
+  Filename: 1.wav
+  English:  we'll calculate your time loss from your next flying lap
+  [subtitle]: "calculate your time loss da your next flying giro"
+    >>> [parola inglese] "time"  -->  "tempo"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "calculate your time loss da your next flying giro"
+    >>> [parola inglese] "time"  -->  "tempo"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+### CATEGORIA: voice/timings/being_held_up (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7098)
+  Path:     \voice\timings\being_held_up
+  Filename: 16.wav
+  English:  don't wait too long, find that gap
+  [subtitle]: "non wait too long, find that distacco"
+    >>> [parola inglese] "long"  -->  "lungo"
+  [text_for_tts]: "non wait too long, find that distacco"
+    >>> [parola inglese] "long"  -->  "lungo"
+
+### CATEGORIA: voice/timings/gap_behind_increasing (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7162)
+  Path:     \voice\timings\gap_behind_increasing
+  Filename: 1.wav
+  English:  you're pulling away, the gap behind is now
+  [subtitle]: "pulling away, il distacco dietro e' ora"
+    >>> [parola inglese] "pulling"  -->  "allontanandosi"
+  [text_for_tts]: "pulling away, il distacco dietro e' ora"
+    >>> [parola inglese] "pulling"  -->  "allontanandosi"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7163)
+  Path:     \voice\timings\gap_behind_increasing
+  Filename: 2_male.wav
+  English:  you're pulling away from the guy behind, the gap's now
+  [subtitle]: "pulling away da the guy dietro, il distacco's now"
+    >>> [parola inglese] "pulling"  -->  "allontanandosi"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+  [text_for_tts]: "pulling away da the guy dietro, il distacco's now"
+    >>> [parola inglese] "pulling"  -->  "allontanandosi"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+
+### CATEGORIA: voice/timings/gap_in_front_decreasing (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7171)
+  Path:     \voice\timings\gap_in_front_decreasing
+  Filename: 2_op_prefix_ok_male.wav
+  English:  you're reeling this guy in, the gap's now
+  [subtitle]: "reeling this guy in, il distacco's now"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+  [text_for_tts]: "reeling this guy in, il distacco's now"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+
+### CATEGORIA: voice/timings/is_reeling_you_in (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7208)
+  Path:     \voice\timings\is_reeling_you_in
+  Filename: 10.wav
+  English:  is closing the gap, it's now
+  [subtitle]: "is closing il distacco, e' now"
+    >>> [parola inglese] "closing"  -->  "avvicinandosi"
+  [text_for_tts]: "is closing il distacco, e' now"
+    >>> [parola inglese] "closing"  -->  "avvicinandosi"
+
+### CATEGORIA: voice/timings/opponent_behind_has_bad_reputation (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7256)
+  Path:     \voice\timings\opponent_behind_has_bad_reputation
+  Filename: 2_male.wav
+  English:  the guy behind's really accident-prone, be careful here
+  [subtitle]: "the guy dietro's davvero accident-prone, fai attenzione qui"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+    >>> [parola inglese] "accident"  -->  "incidente"
+  [text_for_tts]: "the guy dietro's davvero accident-prone, fai attenzione qui"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+    >>> [parola inglese] "accident"  -->  "incidente"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7265)
+  Path:     \voice\timings\opponent_behind_has_bad_reputation
+  Filename: 7_male.wav
+  English:  the guy behind's really accident-prone, be careful
+  [subtitle]: "the guy dietro's davvero accident-prone, fai attenzione"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+    >>> [parola inglese] "accident"  -->  "incidente"
+  [text_for_tts]: "the guy dietro's davvero accident-prone, fai attenzione"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+    >>> [parola inglese] "accident"  -->  "incidente"
+
+### CATEGORIA: voice/timings/opponent_behind_has_below_average_reputation (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7282)
+  Path:     \voice\timings\opponent_behind_has_below_average_reputation
+  Filename: 7_male.wav
+  English:  the guy behind doesn't race very clean
+  [subtitle]: "the guy dietro doesn't gara molto clean"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+  [text_for_tts]: "the guy dietro doesn't gara molto clean"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+
+### CATEGORIA: voice/tyre_monitor/camber_ok (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7329)
+  Path:     \voice\tyre_monitor\camber_ok
+  Filename: 1.wav
+  English:  it's probably okay
+  [subtitle]: "e' probably ok"
+    >>> [parola inglese] "probably"  -->  "probabilmente"
+  [text_for_tts]: "e' probably ok"
+    >>> [parola inglese] "probably"  -->  "probabilmente"
+
+### CATEGORIA: voice/tyre_monitor/cooking_left_front_tyre (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7407)
+  Path:     \voice\tyre_monitor\cooking_left_front_tyre
+  Filename: 1.wav
+  English:  you're cooking your left front tyre
+  [subtitle]: "stai cuocendo le tue left gomma anteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "stai cuocendo le tue left gomma anteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/tyre_monitor/cooking_left_rear_tyre (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7410)
+  Path:     \voice\tyre_monitor\cooking_left_rear_tyre
+  Filename: 1.wav
+  English:  you're cooking your left rear tyre
+  [subtitle]: "stai cuocendo le tue left gomma posteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "stai cuocendo le tue left gomma posteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7412)
+  Path:     \voice\tyre_monitor\cooking_left_rear_tyre
+  Filename: 3.wav
+  English:  your left rear's cooking, mate
+  [subtitle]: "your left rear's stai surriscaldando"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "your left rear's stai surriscaldando"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/tyre_monitor/cooking_right_front_tyre (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7422)
+  Path:     \voice\tyre_monitor\cooking_right_front_tyre
+  Filename: 1.wav
+  English:  you're cooking your right front tyre
+  [subtitle]: "stai cuocendo le tue right gomma anteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "stai cuocendo le tue right gomma anteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/tyre_monitor/cooking_right_rear_tyre (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7425)
+  Path:     \voice\tyre_monitor\cooking_right_rear_tyre
+  Filename: 1.wav
+  English:  you're cooking your right rear tyre, mate
+  [subtitle]: "stai cuocendo le tue right gomma posteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "stai cuocendo le tue right gomma posteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/tyre_monitor/damage_to_left_front_tyre (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7437)
+  Path:     \voice\tyre_monitor\damage_to_left_front_tyre
+  Filename: 1.wav
+  English:  you've damaged your left front tyre
+  [subtitle]: "hai danneggiato your left gomma anteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "hai danneggiato your left gomma anteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7438)
+  Path:     \voice\tyre_monitor\damage_to_left_front_tyre
+  Filename: 2.wav
+  English:  you've damaged your left front tyre
+  [subtitle]: "hai danneggiato your left gomma anteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "hai danneggiato your left gomma anteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7439)
+  Path:     \voice\tyre_monitor\damage_to_left_front_tyre
+  Filename: 3.wav
+  English:  you've damaged your left front tyre
+  [subtitle]: "hai danneggiato your left gomma anteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "hai danneggiato your left gomma anteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/tyre_monitor/damage_to_left_rear_tyre (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7440)
+  Path:     \voice\tyre_monitor\damage_to_left_rear_tyre
+  Filename: 1.wav
+  English:  you've damaged your left rear tyre
+  [subtitle]: "hai danneggiato your left gomma posteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "hai danneggiato your left gomma posteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7441)
+  Path:     \voice\tyre_monitor\damage_to_left_rear_tyre
+  Filename: 2.wav
+  English:  you've damaged your left rear tyre
+  [subtitle]: "hai danneggiato your left gomma posteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "hai danneggiato your left gomma posteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7442)
+  Path:     \voice\tyre_monitor\damage_to_left_rear_tyre
+  Filename: 3.wav
+  English:  you've damaged your left rear tyre
+  [subtitle]: "hai danneggiato your left gomma posteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "hai danneggiato your left gomma posteriore"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/tyre_monitor/damage_to_right_front_tyre (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7446)
+  Path:     \voice\tyre_monitor\damage_to_right_front_tyre
+  Filename: 1.wav
+  English:  you've damaged your right front tyre
+  [subtitle]: "hai danneggiato your right gomma anteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "hai danneggiato your right gomma anteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7447)
+  Path:     \voice\tyre_monitor\damage_to_right_front_tyre
+  Filename: 2.wav
+  English:  you've damaged your right front tyre
+  [subtitle]: "hai danneggiato your right gomma anteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "hai danneggiato your right gomma anteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7448)
+  Path:     \voice\tyre_monitor\damage_to_right_front_tyre
+  Filename: 3.wav
+  English:  you've damaged your right front tyre
+  [subtitle]: "hai danneggiato your right gomma anteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "hai danneggiato your right gomma anteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/tyre_monitor/damage_to_right_rear_tyre (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7449)
+  Path:     \voice\tyre_monitor\damage_to_right_rear_tyre
+  Filename: 1.wav
+  English:  you've damaged your right rear tyre
+  [subtitle]: "hai danneggiato your right gomma posteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "hai danneggiato your right gomma posteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7450)
+  Path:     \voice\tyre_monitor\damage_to_right_rear_tyre
+  Filename: 2.wav
+  English:  you've damaged your right rear tyre
+  [subtitle]: "hai danneggiato your right gomma posteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "hai danneggiato your right gomma posteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7451)
+  Path:     \voice\tyre_monitor\damage_to_right_rear_tyre
+  Filename: 3.wav
+  English:  you've damaged your right rear tyre
+  [subtitle]: "hai danneggiato your right gomma posteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "hai danneggiato your right gomma posteriore"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/tyre_monitor/knackered_all_round (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7539)
+  Path:     \voice\tyre_monitor\knackered_all_round
+  Filename: 1.wav
+  English:  you're gonna need new tyres all around
+  [subtitle]: "gonna need new gomme all around"
+    >>> [parola inglese] "new"  -->  "nuovo"
+  [text_for_tts]: "gonna need new gomme all around"
+    >>> [parola inglese] "new"  -->  "nuovo"
+
+### CATEGORIA: voice/tyre_monitor/knackered_left_front (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7546)
+  Path:     \voice\tyre_monitor\knackered_left_front
+  Filename: 2.wav
+  English:  your left front tyre looks knackered, mate
+  [subtitle]: "your left gomma anteriore sembra distrutta"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "your left gomma anteriore sembra distrutta"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/tyre_monitor/knackered_right_front (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7558)
+  Path:     \voice\tyre_monitor\knackered_right_front
+  Filename: 2.wav
+  English:  that right front's gone, mate
+  [subtitle]: "that right front's gone,"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "that right front's gone,"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/tyre_monitor/knackered_right_rear (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7562)
+  Path:     \voice\tyre_monitor\knackered_right_rear
+  Filename: 3.wav
+  English:  your right rear's completely worn out, mate
+  [subtitle]: "your right rear's completamente consumata"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "your right rear's completamente consumata"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/tyre_monitor/left_front_pressure_very_high (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7583)
+  Path:     \voice\tyre_monitor\left_front_pressure_very_high
+  Filename: 1.wav
+  English:  your left front pressure looks very high
+  [subtitle]: "your left front la pressione sembra molto alta"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "your left front la pressione sembra molto alta"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+### CATEGORIA: voice/tyre_monitor/left_front_pressure_very_low (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7584)
+  Path:     \voice\tyre_monitor\left_front_pressure_very_low
+  Filename: 5.wav
+  English:  your left front pressure looks very low
+  [subtitle]: "your left front la pressione sembra molto bassa"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "your left front la pressione sembra molto bassa"
+    >>> [parola inglese] "left"  -->  "sinistra"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+### CATEGORIA: voice/tyre_monitor/locking_left_rear_lap_warning (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7626)
+  Path:     \voice\tyre_monitor\locking_left_rear_lap_warning
+  Filename: 1.wav
+  English:  we're seeing lots of left rear locking
+  [subtitle]: "stiamo vedendo lots of left bloccaggio delle posteriori"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "stiamo vedendo lots of left bloccaggio delle posteriori"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7628)
+  Path:     \voice\tyre_monitor\locking_left_rear_lap_warning
+  Filename: 3.wav
+  English:  we're seeing lots of left rear locking
+  [subtitle]: "stiamo vedendo lots of left bloccaggio delle posteriori"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "stiamo vedendo lots of left bloccaggio delle posteriori"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/tyre_monitor/locking_rears_lap_warning (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7633)
+  Path:     \voice\tyre_monitor\locking_rears_lap_warning
+  Filename: 2.wav
+  English:  we're seeing lots of rear brake locking
+  [subtitle]: "stiamo vedendo lots of rear brake locking"
+    >>> [parola inglese] "brake"  -->  "freno/frena"
+  [text_for_tts]: "stiamo vedendo lots of rear brake locking"
+    >>> [parola inglese] "brake"  -->  "freno/frena"
+
+### CATEGORIA: voice/tyre_monitor/locking_right_front_corner_warning (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7637)
+  Path:     \voice\tyre_monitor\locking_right_front_corner_warning
+  Filename: 6.wav
+  English:  we're seeing right front locking into
+  [subtitle]: "stiamo vedendo right bloccaggio delle anteriori into"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "stiamo vedendo right bloccaggio delle anteriori into"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/tyre_monitor/locking_right_rear_lap_warning (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7642)
+  Path:     \voice\tyre_monitor\locking_right_rear_lap_warning
+  Filename: 2.wav
+  English:  we're seeing lots of right rear locking
+  [subtitle]: "stiamo vedendo lots of right bloccaggio delle posteriori"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "stiamo vedendo lots of right bloccaggio delle posteriori"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/tyre_monitor/spinning_left_rear_corner_warning (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7785)
+  Path:     \voice\tyre_monitor\spinning_left_rear_corner_warning
+  Filename: 3.wav
+  English:  we're seeing left rear wheel spin in
+  [subtitle]: "stiamo vedendo left rear pattinamento in"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "stiamo vedendo left rear pattinamento in"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/tyre_monitor/spinning_left_rear_lap_warning (3 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7787)
+  Path:     \voice\tyre_monitor\spinning_left_rear_lap_warning
+  Filename: 2.wav
+  English:  we're seeing lots of rear left wheel spin
+  [subtitle]: "stiamo vedendo lots of rear left pattinamento"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "stiamo vedendo lots of rear left pattinamento"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7788)
+  Path:     \voice\tyre_monitor\spinning_left_rear_lap_warning
+  Filename: 3.wav
+  English:  we're seeing lots of rear left wheel spin
+  [subtitle]: "stiamo vedendo lots of rear left pattinamento"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "stiamo vedendo lots of rear left pattinamento"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7789)
+  Path:     \voice\tyre_monitor\spinning_left_rear_lap_warning
+  Filename: 4.wav
+  English:  we're seeing loads of rear left wheel spin
+  [subtitle]: "stiamo vedendo loads of rear left pattinamento"
+    >>> [parola inglese] "left"  -->  "sinistra"
+  [text_for_tts]: "stiamo vedendo loads of rear left pattinamento"
+    >>> [parola inglese] "left"  -->  "sinistra"
+
+### CATEGORIA: voice/tyre_monitor/spinning_right_rear_lap_warning (2 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7809)
+  Path:     \voice\tyre_monitor\spinning_right_rear_lap_warning
+  Filename: 2.wav
+  English:  you're spinning your rear right tyre
+  [subtitle]: "spinning your rear right gomma"
+    >>> [parola inglese] "spinning"  -->  "testacoda/in rotazione"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "spinning your rear right gomma"
+    >>> [parola inglese] "spinning"  -->  "testacoda/in rotazione"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7810)
+  Path:     \voice\tyre_monitor\spinning_right_rear_lap_warning
+  Filename: 3.wav
+  English:  we're seeing lots of rear right wheel spin
+  [subtitle]: "stiamo vedendo lots of rear right pattinamento"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+  [text_for_tts]: "stiamo vedendo lots of rear right pattinamento"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+
+### CATEGORIA: voice/tyre_monitor/worn_right_rear (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7843)
+  Path:     \voice\tyre_monitor\worn_right_rear
+  Filename: 3.wav
+  English:  lookout for your right rear tyre, mate, it's looking pretty worn
+  [subtitle]: "lookout per your right gomma posteriore, , e' looking piuttosto worn"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+  [text_for_tts]: "lookout per your right gomma posteriore, , e' looking piuttosto worn"
+    >>> [parola inglese] "right"  -->  "destra/giusto"
+    >>> [parola funzionale inglese in frase italiana] "your"  -->  "tuo/il tuo"
+
+### CATEGORIA: voice/watched_opponents/acknowledge_watch_team_mate (1 frasi) ###
+
+------------------------------------------------------------------------------------------
+  File:     phrase_inventory_ita.csv (riga 7918)
+  Path:     \voice\watched_opponents\acknowledge_watch_team_mate
+  Filename: 2.wav
+  English:  acknowledged, we'll monitor this guy as our teammate
+  [subtitle]: "ricevuto, monitor this guy as our compagno di squadra"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+  [text_for_tts]: "ricevuto, monitor this guy as our compagno di squadra"
+    >>> [parola inglese] "guy"  -->  "ragazzo/tipo"
+
+====================================================================================================
+RIEPILOGO GENERALE
+====================================================================================================
+  Frasi problematiche trovate: 216
+  Parole/frasi inglesi totali: 523
+
+  Per file:
+    lmu_specific_phrases.csv: 1 frasi problematiche
+    phrase_inventory_ita.csv: 215 frasi problematiche
+
+  Parole inglesi piu' frequenti:
+    "right": 54 occorrenze
+    "left": 52 occorrenze
+    "flag": 30 occorrenze
+    "start": 24 occorrenze
+    "green": 22 occorrenze
+    "your": 20 occorrenze
+    "caution": 18 occorrenze
+    "small": 16 occorrenze
+    "slow": 16 occorrenze
+    "track": 16 occorrenze
+    "job": 14 occorrenze
+    "well done": 14 occorrenze
+    "time": 14 occorrenze
+    "one": 14 occorrenze
+    "finish": 12 occorrenze
+    "guy": 12 occorrenze
+    "speed": 10 occorrenze
+    "slower": 10 occorrenze
+    "yellow": 8 occorrenze
+    "blue": 8 occorrenze
+    "big": 6 occorrenze
+    "white": 6 occorrenze
+    "minutes": 6 occorrenze
+    "formation": 6 occorrenze
+    "two": 6 occorrenze
+    "awesome": 6 occorrenze
+    "nice": 6 occorrenze
+    "they're": 6 occorrenze
+    "new": 6 occorrenze
+    "currently": 6 occorrenze
+
+====================================================================================================

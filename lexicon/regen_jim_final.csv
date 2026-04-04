@@ -1,0 +1,26 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\codriver\number_3,48.wav,3,3
+\voice\damage_reporting\are_you_ok_second_try,1_rq_suffix_please.wav,are you okay? Answer me if you can,are you okay? Answer me if you can
+\voice\lap_counter\finished_race_last,sweary_8.wav,"there's the checkered flag, shit day, mate, let's just pack up and go home","there's the checkered flag, shit day, mate, let's just pack up and go home"
+\voice\lap_counter\finished_race_last,sweary_9.wav,"there's the checkered flag, shit day, mate, let's just pack up and go home","there's the checkered flag, shit day, mate, let's just pack up and go home"
+\voice\lap_counter\podium_finish,1.wav,"podium finish, nice one","podium finish, nice one"
+\voice\lap_counter\podium_finish,2.wav,"we're on the podium, good drive","we're on the podium, good drive"
+\voice\lap_counter\podium_finish,3.wav,"great drive, that's a podium","great drive, that's a podium"
+\voice\lap_counter\won_race,sweary_15.wav,"fucking awesome result, mate, well done","fucking awesome result, mate, well done"
+\voice\lap_counter\won_race,sweary_16.wav,"fucking awesome result, mate, well done","fucking awesome result, mate, well done"
+\voice\lap_counter\won_race,sweary_17.wav,"fucking awesome result, mate, well done","fucking awesome result, mate, well done"
+\voice\push_now\push_to_improve,1_prefix_come_on.wav,"push, push, push, we can get this guy","push, push, push, we can get this guy"
+\voice\push_now\push_to_improve,2_prefix_ok.wav,"push now, we can catch this guy","push now, we can catch this guy"
+\voice\push_now\push_to_improve,3_suffix_come_on.wav,"push, we can get this guy","push, we can get this guy"
+\voice\rants\general,10.wav,"this really isn't good for morale, we've been busting our asses here, we might as well not have bothered. Look, we need to sit down, and talk properly when you get back to the pits","this really isn't good for morale, we've been busting our asses here, we might as well not have bothered. Look, we need to sit down, and talk properly when you get back to the pits"
+\voice\rants\general,15_male.wav,"all weekend, just useless, useless. Fucking tired of seeing this, man, we're all tired of seeing it. It's like, it's like just wasting our time","all weekend, just useless, useless. Fucking tired of seeing this, man, we're all tired of seeing it. It's like, it's like just wasting our time"
+\voice\rants\general,2.wav,"we're all working our asses off here, you got to start delivering. The car's quick and it's solid, and you've got to get your shit together","we're all working our asses off here, you got to start delivering. The car's quick and it's solid, and you've got to get your shit together"
+\voice\rants\general,3.wav,"great, well, there we are, another weekend down the toilet. You might be content to throw your money away, just making up the numbers, but we've got a strong car and a competitive crew here, and we want some results for our hard work","great, well, there we are, another weekend down the toilet. You might be content to throw your money away, just making up the numbers, but we've got a strong car and a competitive crew here, and we want some results for our hard work"
+\voice\rants\general,5.wav,"right this, this isn't good enough, not by a long shot. I'm starting to wonder why we're bothering here. There's guys finishing way ahead of us who've got half the budget and cars that barely work. You're the weak link. The results are not gonna improve unless you do","right this, this isn't good enough, not by a long shot. I'm starting to wonder why we're bothering here. There's guys finishing way ahead of us who've got half the budget and cars that barely work. You're the weak link. The results are not gonna improve unless you do"
+\voice\timings\he_is_faster_through_corner,4.wav,he's faster than you through,he's faster than you through
+\voice\timings\he_is_faster_through_corner,5.wav,he's quicker than us through,he's quicker than us through
+\voice\timings\he_is_faster_through_corner,6.wav,he's quicker than us in,he's quicker than us in
+\voice\timings\he_is_slower_through_corner,4.wav,he's pretty slow through,he's pretty slow through
+\voice\timings\he_is_slower_through_corner,5.wav,he's slower than us through,he's slower than us through
+\voice\timings\he_is_slower_through_corner,6.wav,he's slow through,he's slow through
+\voice\timings\opponent_ahead_has_bad_reputation,3_male.wav,"be careful here, the guy in front's not known for playing fair","be careful here, the guy in front's not known for playing fair"

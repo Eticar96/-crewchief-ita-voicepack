@@ -1,0 +1,7 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\driver_swaps\pit_now_for_driver_change,1.wav,"cambio pilota, box box box","cambio pilota, box box box"
+\voice\penalties\cut_track_race_3,9.wav,"ancora limiti di pista, attenzione","ancora limiti di pista, attenzione"
+\voice\penalties\lap_deleted,2_op_prefix_oh_dear.wav,"hai tagliato la pista, cancelleranno il giro","hai tagliato la pista, cancelleranno il giro"
+\voice\penalties\warning_wrong_way,3.wav,stai andando nella direzione sbagliata,stai andando nella direzione sbagliata
+\voice\position\expected_position_win,4_op_prefix_ok.wav,"dovresti vincere, sei il favorito","dovresti vincere, sei il favorito"
+\voice\push_now\pits_exit_clear,17.wav,"uscita box libera, non superare la linea bianca","uscita box libera, non superare la linea bianca"

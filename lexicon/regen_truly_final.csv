@@ -1,0 +1,41 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\codriver\number_3,48.wav,tre,tre
+\voice\damage_reporting\are_you_ok_second_try,1_rq_suffix_please.wav,"stai bene, rispondimi","stai bene, rispondimi"
+\voice\damage_reporting\busted_transmission,2.wav,il cambio e' andato,il cambio e' andato
+\voice\damage_reporting\severe_aero_damage,3.wav,danni aerodinamici gravi,danni aerodinamici gravi
+\voice\lap_counter\finished_race,15.wav,gara finita,gara finita
+\voice\lap_counter\finished_race,16.wav,gara finita,gara finita
+\voice\lap_counter\finished_race,17.wav,gara finita,gara finita
+\voice\lap_counter\finished_race,18.wav,gara finita,gara finita
+\voice\lap_counter\finished_race_last,4.wav,"gara finita, non e' andata bene","gara finita, non e' andata bene"
+\voice\lap_counter\podium_finish,sweary_9.wav,"podio, cavolo che risultato!","podio, cavolo che risultato!"
+\voice\penalties\disqualified_no_headlights,sweary_5.wav,"squalificato per fari spenti, porca miseria","squalificato per fari spenti, porca miseria"
+\voice\penalties\disqualified_no_headlights,sweary_6.wav,"squalificato per fari spenti, porca miseria","squalificato per fari spenti, porca miseria"
+\voice\penalties\disqualified_no_headlights,sweary_7.wav,"squalificato per fari spenti, porca miseria","squalificato per fari spenti, porca miseria"
+\voice\position\bad_start,7.wav,brutta partenza,brutta partenza
+\voice\position\leading,3.wav,"sei al comando, grande!","sei al comando, grande!"
+\voice\position\overtaking,8.wav,bel sorpasso!,bel sorpasso!
+\voice\position\overtaking,9.wav,bel sorpasso!,bel sorpasso!
+\voice\timings\car_behind_is_lapping_us,3.wav,quello dietro ci sta doppiando,quello dietro ci sta doppiando
+\voice\timings\opponent_ahead_has_bad_reputation,sweary_10.wav,"quello davanti e' pericoloso, accidenti","quello davanti e' pericoloso, accidenti"
+\voice\timings\opponent_ahead_has_bad_reputation,sweary_11.wav,"quello davanti e' pericoloso, accidenti","quello davanti e' pericoloso, accidenti"
+\voice\timings\opponent_ahead_has_bad_reputation,sweary_8.wav,"quello davanti e' pericoloso, accidenti","quello davanti e' pericoloso, accidenti"
+\voice\timings\opponent_ahead_has_bad_reputation,sweary_9.wav,"quello davanti e' pericoloso, accidenti","quello davanti e' pericoloso, accidenti"
+\voice\timings\opponent_ahead_has_below_average_reputation,14.wav,quello davanti non e' pulitissimo,quello davanti non e' pulitissimo
+\voice\timings\opponent_ahead_has_below_average_reputation,15.wav,quello davanti non e' pulitissimo,quello davanti non e' pulitissimo
+\voice\timings\opponent_ahead_has_below_average_reputation,16.wav,quello davanti non e' pulitissimo,quello davanti non e' pulitissimo
+\voice\timings\opponent_ahead_has_below_average_reputation,17.wav,quello davanti non e' pulitissimo,quello davanti non e' pulitissimo
+\voice\timings\opponent_ahead_has_below_average_reputation,18.wav,quello davanti non e' pulitissimo,quello davanti non e' pulitissimo
+\voice\timings\opponent_ahead_has_below_average_reputation,19.wav,quello davanti non e' pulitissimo,quello davanti non e' pulitissimo
+\voice\timings\opponent_behind_has_bad_reputation,16.wav,quello dietro e' un pilota pericoloso,quello dietro e' un pilota pericoloso
+\voice\timings\opponent_behind_has_bad_reputation,sweary_10.wav,quello dietro e' un pilota pericoloso,quello dietro e' un pilota pericoloso
+\voice\timings\opponent_behind_has_bad_reputation,sweary_11.wav,quello dietro e' un pilota pericoloso,quello dietro e' un pilota pericoloso
+\voice\timings\opponent_behind_has_bad_reputation,sweary_12.wav,quello dietro e' un pilota pericoloso,quello dietro e' un pilota pericoloso
+\voice\timings\opponent_behind_has_bad_reputation,sweary_8.wav,quello dietro e' un pilota pericoloso,quello dietro e' un pilota pericoloso
+\voice\timings\opponent_behind_has_bad_reputation,sweary_9.wav,quello dietro e' un pilota pericoloso,quello dietro e' un pilota pericoloso
+\voice\timings\opponent_behind_has_below_average_reputation,14.wav,quello dietro non e' il piu' corretto,quello dietro non e' il piu' corretto
+\voice\timings\opponent_behind_has_below_average_reputation,15.wav,quello dietro non e' il piu' corretto,quello dietro non e' il piu' corretto
+\voice\timings\opponent_behind_has_below_average_reputation,16.wav,quello dietro non e' il piu' corretto,quello dietro non e' il piu' corretto
+\voice\timings\opponent_behind_has_below_average_reputation,17.wav,quello dietro non e' il piu' corretto,quello dietro non e' il piu' corretto
+\voice\timings\opponent_behind_has_below_average_reputation,18.wav,quello dietro non e' il piu' corretto,quello dietro non e' il piu' corretto
+\voice\timings\opponent_behind_has_below_average_reputation,19.wav,quello dietro non e' il piu' corretto,quello dietro non e' il piu' corretto

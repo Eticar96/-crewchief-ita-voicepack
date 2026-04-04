@@ -13,14 +13,14 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\conditions\light_rain_decreasing,2_op_prefix_ok.wav,"pioggia leggera ora, sembra che stia migliorando","pioggia leggera ora, sembra che stia migliorando",traduzione_mista
 \voice\conditions\light_rain_decreasing,4.wav,"abbiamo pioggia leggera qui, si sta schiarendo","abbiamo pioggia leggera qui, si sta schiarendo",traduzione_mista
 \voice\conditions\light_rain_increasing,3.wav,"abbiamo pioggia leggera qui, sta aumentando","abbiamo pioggia leggera qui, sta aumentando",traduzione_mista
-\voice\conditions\mid_rain_increasing,1_op_prefix_ok.wav,"sta arrivando pioggia vera adesso, sembra che stia aumentando","sta arrivando pioggia vera adesso, sembra che stia aumentando",traduzione_mista
+\voice\conditions\mid_rain_increasing,1_op_prefix_ok.wav,"arriva pioggia vera, sembra in aumento","arriva pioggia vera, sembra in aumento",traduzione_mista
 \voice\conditions\seeing_some_rain,1_op_prefix_ok.wav,stiamo vedendo un po' di pioggia,stiamo vedendo un po' di pioggia,traduzione_mista
 \voice\conditions\seeing_some_rain,5_op_prefix_ok.wav,stiamo vedendo un po' di pioggia,stiamo vedendo un po' di pioggia,traduzione_mista
-\voice\conditions\track_temp_decreasing_its_now,1.wav,"la temperatura della pista sta scendendo, adesso è","la temperatura della pista sta scendendo, adesso è",traduzione_mista
-\voice\conditions\track_temp_decreasing_its_now,2.wav,"la temperatura della pista sta calando, adesso è","la temperatura della pista sta calando, adesso è",traduzione_mista
-\voice\conditions\track_temp_decreasing_its_now,3.wav,"la temperatura della pista sta scendendo, adesso è","la temperatura della pista sta scendendo, adesso è",traduzione_mista
-\voice\conditions\track_temp_increasing_its_now,1.wav,"la temperatura della pista sta salendo, adesso è","la temperatura della pista sta salendo, adesso è",traduzione_mista
-\voice\conditions\track_temp_increasing_its_now,2.wav,"la temperatura della pista sta aumentando, adesso è","la temperatura della pista sta aumentando, adesso è",traduzione_mista
+\voice\conditions\track_temp_decreasing_its_now,1.wav,"la temperatura della pista scende, adesso e'","la temperatura della pista scende, adesso e'",traduzione_mista
+\voice\conditions\track_temp_decreasing_its_now,2.wav,"la temperatura della pista cala, adesso e'","la temperatura della pista cala, adesso e'",traduzione_mista
+\voice\conditions\track_temp_decreasing_its_now,3.wav,"la temperatura della pista scende, adesso e'","la temperatura della pista scende, adesso e'",traduzione_mista
+\voice\conditions\track_temp_increasing_its_now,1.wav,"la temperatura della pista sale, adesso e'","la temperatura della pista sale, adesso e'",traduzione_mista
+\voice\conditions\track_temp_increasing_its_now,2.wav,"la temperatura della pista aumenta, adesso e'","la temperatura della pista aumenta, adesso e'",traduzione_mista
 \voice\corners\the_left_right_before_the_mountain,27.wav,La sinistra-destra prima della Montagna,La sinistra-destra prima della Montagna,traduzione_mista
 \voice\corners\the_left_right_before_the_mountain,28.wav,La sinistra-destra prima della Montagna,La sinistra-destra prima della Montagna,traduzione_mista
 \voice\corners\the_right_hander_before_charlies,13.wav,La destra prima di Charlies,La destra prima di Charlies,traduzione_mista
@@ -44,23 +44,23 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\flags\fc_yellow_prepare_for_green,3_op_prefix_ok.wav,"preparati, si riparte","preparati, si riparte",traduzione_mista
 \voice\flags\fc_yellow_prepare_for_green_eu,3_op_prefix_ok.wav,"preparati, si riparte","preparati, si riparte",traduzione_mista
 \voice\flags\fc_yellow_prepare_for_green_usa,3_op_prefix_ok.wav,"preparati, si riparte","preparati, si riparte",traduzione_mista
-\voice\flags\fc_yellow_start,3.wav,"safety car in pista, siamo in regime di neutralizzazione","safety car in pista, siamo in regime di neutralizzazione",traduzione_mista
-\voice\flags\fc_yellow_start,6.wav,"safety car in pista, siamo in regime di neutralizzazione","safety car in pista, siamo in regime di neutralizzazione",traduzione_mista
-\voice\flags\fc_yellow_start_eu,7.wav,"safety car in pista, bandiera gialla su tutto il circuito","safety car in pista, bandiera gialla su tutto il circuito",traduzione_mista
-\voice\flags\fc_yellow_start_usa,1.wav,"pace car in pista, siamo in regime di neutralizzazione","pace car in pista, siamo in regime di neutralizzazione",traduzione_mista
+\voice\flags\fc_yellow_start,3.wav,"safety car in pista, gara neutralizzata","safety car in pista, gara neutralizzata",traduzione_mista
+\voice\flags\fc_yellow_start,6.wav,"safety car in pista, gara neutralizzata","safety car in pista, gara neutralizzata",traduzione_mista
+\voice\flags\fc_yellow_start_eu,7.wav,"safety car in pista, gialla su tutto il circuito","safety car in pista, gialla su tutto il circuito",traduzione_mista
+\voice\flags\fc_yellow_start_usa,1.wav,"pace car in pista, gara neutralizzata","pace car in pista, gara neutralizzata",traduzione_mista
 \voice\flags\fc_yellow_start_usa_no_safetycar,1.wav,"neutralizzazione totale, stai attento","neutralizzazione totale, stai attento",traduzione_mista
 \voice\flags\fc_yellow_start_usa_no_safetycar,2.wav,"neutralizzazione totale, attenzione","neutralizzazione totale, attenzione",traduzione_mista
 \voice\flags\fc_yellow_start_usa_no_safetycar,3.wav,"stai attento, abbiamo una neutralizzazione totale","stai attento, abbiamo una neutralizzazione totale",traduzione_mista
 \voice\flags\fc_yellow_start_usa_no_safetycar,4.wav,neutralizzazione totale,neutralizzazione totale,traduzione_mista
 \voice\flags\give_positions_back_completed,1.wav,"ok, siamo a posto adesso","ok, siamo a posto adesso",traduzione_mista
 \voice\flags\give_positions_back_completed,3.wav,"ok, abbastanza","ok, abbastanza",traduzione_mista
-\voice\flags\green_flag_sector_1,1.wav,"bandiera verde, settore 1","bandiera verde, settore 1",traduzione_mista
-\voice\flags\green_flag_sector_1,2.wav,"bandiera verde, settore 1","bandiera verde, settore 1",traduzione_mista
-\voice\flags\green_flag_sector_1,4.wav,"bandiera verde, settore 1","bandiera verde, settore 1",traduzione_mista
-\voice\flags\green_flag_sector_1,5.wav,"bandiera verde, settore 1","bandiera verde, settore 1",traduzione_mista
-\voice\flags\green_flag_sector_1,6.wav,"bandiera verde, settore 1","bandiera verde, settore 1",traduzione_mista
-\voice\flags\green_flag_sector_1,7.wav,"bandiera verde, settore 1","bandiera verde, settore 1",traduzione_mista
-\voice\flags\green_flag_sector_1,8.wav,"bandiera verde, settore 1","bandiera verde, settore 1",traduzione_mista
+\voice\flags\green_flag_sector_1,1.wav,"bandiera verde, settore 1",bandiera verde settore uno,traduzione_mista
+\voice\flags\green_flag_sector_1,2.wav,"bandiera verde, settore 1",bandiera verde settore uno,traduzione_mista
+\voice\flags\green_flag_sector_1,4.wav,"bandiera verde, settore 1",bandiera verde settore uno,traduzione_mista
+\voice\flags\green_flag_sector_1,5.wav,"bandiera verde, settore 1",bandiera verde settore uno,traduzione_mista
+\voice\flags\green_flag_sector_1,6.wav,"bandiera verde, settore 1",bandiera verde settore uno,traduzione_mista
+\voice\flags\green_flag_sector_1,7.wav,"bandiera verde, settore 1",bandiera verde settore uno,traduzione_mista
+\voice\flags\green_flag_sector_1,8.wav,"bandiera verde, settore 1",bandiera verde settore uno,traduzione_mista
 \voice\flags\slow_car_ahead,1.wav,macchina lenta davanti,macchina lenta davanti,traduzione_mista
 \voice\flags\slow_car_ahead,2.wav,hai a macchina lenta davanti,hai a macchina lenta davanti,traduzione_mista
 \voice\flags\slow_car_ahead,3.wav,macchina lenta davanti,macchina lenta davanti,traduzione_mista
@@ -75,8 +75,8 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\frozen_order\thats_a_standing_start,5.wav,"ok, partenza da fermo","ok, partenza da fermo",traduzione_mista
 \voice\fuel\five_minutes_fuel,1_op_prefix_ok.wav,"5 minuti di carburante rimasti, 5 minuti","5 minuti di carburante rimasti, 5 minuti",traduzione_mista
 \voice\fuel\half_distance_good_fuel,1_op_prefix_ok.wav,"metà distanza, sembra buono per il carburante","metà distanza, sembra buono per il carburante",traduzione_mista
-\voice\fuel\half_distance_low_fuel,1.wav,"metà distanza, sembra che dovremo risparmiare un po' di carburante","metà distanza, sembra che dovremo risparmiare un po' di carburante",traduzione_mista
-\voice\fuel\half_distance_low_fuel,3.wav,"metà distanza, dovrai risparmiare un po' di carburante","metà distanza, dovrai risparmiare un po' di carburante",traduzione_mista
+\voice\fuel\half_distance_low_fuel,1.wav,"meta' distanza, dovremo risparmiare carburante","meta' distanza, dovremo risparmiare carburante",traduzione_mista
+\voice\fuel\half_distance_low_fuel,3.wav,"meta' distanza, dovrai risparmiare carburante","meta' distanza, dovrai risparmiare carburante",traduzione_mista
 \voice\fuel\half_tank_warning,2.wav,"metà carburante, hai usato metà del tuo carburante","metà carburante, hai usato metà del tuo carburante",traduzione_mista
 \voice\fuel\two_laps_fuel,2.wav,2 giri di carburante rimasti,2 giri di carburante rimasti,traduzione_mista
 \voice\fuel\two_minutes_fuel,1.wav,hai 2 minuti di carburante rimasti,hai 2 minuti di carburante rimasti,traduzione_mista
@@ -99,7 +99,7 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\lap_counter\two_to_go,3.wav,two giri rimasti,two giri rimasti,traduzione_mista
 \voice\lap_counter\two_to_go_leading,2_op_prefix_come_on.wav,"due giri rimasti, primo","due giri rimasti, primo",traduzione_mista
 \voice\lap_counter\white_flag_last_lap,3.wav,"bandiera bianca, ultimo giro","bandiera bianca, ultimo giro",traduzione_mista
-\voice\lap_counter\won_race,2.wav,"ben fatto, è stato assolutamente perfetto, ottima vittoria","ben fatto, è stato assolutamente perfetto, ottima vittoria",traduzione_mista
+\voice\lap_counter\won_race,2.wav,"ben fatto, perfetto, ottima vittoria","ben fatto, perfetto, ottima vittoria",traduzione_mista
 \voice\lap_counter\won_race,4.wav,"una vittoria, ottimo lavoro, ben fatto","una vittoria, ottimo lavoro, ben fatto",traduzione_mista
 \voice\lap_counter\won_race,sweary_7.wav,"risultato pazzesco, ben fatto","risultato pazzesco, ben fatto",traduzione_mista
 \voice\lap_times\good_lap,3.wav,bel giro,bel giro,traduzione_mista
@@ -112,21 +112,21 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\mandatory_pit_stops\can_now_fit_options,4.wav,puoi adesso passare alle opzioni,puoi adesso passare alle opzioni,traduzione_mista
 \voice\mandatory_pit_stops\can_now_fit_primes,1.wav,puoi adesso passare alle prime,puoi adesso passare alle prime,traduzione_mista
 \voice\mandatory_pit_stops\will_change_front_tyres_only,1.wav,stiamo cambiando il tuo gomme anteriori solo,stiamo cambiando il tuo gomme anteriori solo,traduzione_mista
-\voice\multiclass\faster_car_behind_racing_player,3.wav,"macchina più veloce in arrivo, sono in lotta con noi per la posizione, non aspettarti bandiere blu","macchina più veloce in arrivo, sono in lotta con noi per la posizione, non aspettarti bandiere blu",traduzione_mista
-\voice\multiclass\faster_cars_fighting_behind_inc_class_leader,4.wav,"ci sono macchine più veloci in arrivo, sono in lotta per la posizione, il gruppo include il leader di classe","ci sono macchine più veloci in arrivo, sono in lotta per la posizione, il gruppo include il leader di classe",traduzione_mista
+\voice\multiclass\faster_car_behind_racing_player,3.wav,"macchina veloce in arrivo, in lotta con noi, niente bandiere blu","macchina veloce in arrivo, in lotta con noi, niente bandiere blu",traduzione_mista
+\voice\multiclass\faster_cars_fighting_behind_inc_class_leader,4.wav,"macchine veloci in arrivo, in lotta per posizione col leader di classe","macchine veloci in arrivo, in lotta per posizione col leader di classe",traduzione_mista
 \voice\multiclass\slower_car_ahead,1.wav,macchina di classe più lenta davanti,macchina di classe più lenta davanti,traduzione_mista
 \voice\multiclass\slower_car_ahead,3.wav,macchina di classe più lenta davanti,macchina di classe più lenta davanti,traduzione_mista
 \voice\multiclass\slower_car_ahead,6.wav,macchina di classe più lenta davanti,macchina di classe più lenta davanti,traduzione_mista
-\voice\multiclass\slower_car_ahead_is_class_leader,3_male.wav,"macchina più lenta davanti, lui è il leader di classe per quelli","macchina più lenta davanti, lui è il leader di classe per quelli",traduzione_mista
-\voice\multiclass\slower_cars_ahead_fighting,1_op_prefix_ok.wav,"in arrivo macchine più lente, sono in lotta per la posizione","in arrivo macchine più lente, sono in lotta per la posizione",traduzione_mista
+\voice\multiclass\slower_car_ahead_is_class_leader,3_male.wav,"macchina lenta davanti, e' il leader di classe","macchina lenta davanti, e' il leader di classe",traduzione_mista
+\voice\multiclass\slower_cars_ahead_fighting,1_op_prefix_ok.wav,"in arrivo macchine lente, in lotta per posizione","in arrivo macchine lente, in lotta per posizione",traduzione_mista
 \voice\opponents\slow_car_ahead,1.wav,hai a macchina lenta davanti,hai a macchina lenta davanti,traduzione_mista
 \voice\opponents\slow_car_ahead,3.wav,hai a macchina lenta davanti,hai a macchina lenta davanti,traduzione_mista
 \voice\pace_notes\recording_started,1.wav,"ok, stiamo registrando le note di passo","ok, stiamo registrando le note di passo",traduzione_mista
-\voice\pearls_of_wisdom\must_do_better,19.wav,"dobbiamo avere ritmo da qualifica ogni giro adesso, potrebbero esserci ancora possibilità","dobbiamo avere ritmo da qualifica ogni giro adesso, potrebbero esserci ancora possibilità",traduzione_mista
-\voice\pearls_of_wisdom\must_do_better,27.wav,"ritmo da qualifica adesso, dai, puoi salvare qualcosa qui","ritmo da qualifica adesso, dai, puoi salvare qualcosa qui",traduzione_mista
-\voice\penalties\cut_track_in_prac_or_qual_next_invalid,3.wav,"hai tagliato la pista, cancelleranno il giro e they'll cancellare the next one, too","hai tagliato la pista, cancelleranno il giro e they'll cancellare the next one, too",traduzione_mista
+\voice\pearls_of_wisdom\must_do_better,19.wav,"ritmo da qualifica ogni giro, ci sono ancora possibilita'","ritmo da qualifica ogni giro, ci sono possibilita",traduzione_mista
+\voice\pearls_of_wisdom\must_do_better,27.wav,"ritmo da qualifica, dai puoi salvare qualcosa","ritmo da qualifica, dai puoi salvare qualcosa",traduzione_mista
+\voice\penalties\cut_track_in_prac_or_qual_next_invalid,3.wav,"hai tagliato la pista, cancelleranno questo giro e il prossimo","hai tagliato la pista, cancelleranno questo giro e il prossimo",traduzione_mista
 \voice\penalties\penalty_served,3.wav,hai scontata il tuo penalita',hai scontata il tuo penalita',traduzione_mista
-\voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,3.wav,"abbiamo esaurito i giri consentiti, ai box questo giro","abbiamo esaurito i giri consentiti, ai box questo giro",traduzione_mista
+\voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,3.wav,"giri esauriti, ai box questo giro","giri esauriti, ai box questo giro",traduzione_mista
 \voice\position\good_start,1.wav,"buona partenza, , nice one","buona partenza, , nice one",traduzione_mista
 \voice\position\good_start,13.wav,"ottimo start, ben fatto","ottimo start, ben fatto",traduzione_mista
 \voice\position\good_start,2.wav,"bella partenza, ben fatto","bella partenza, ben fatto",traduzione_mista
@@ -144,27 +144,27 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\position\overtaking,sweary_7.wav,"fucking ottimo pass, , ben fatto","fucking ottimo pass, , ben fatto",traduzione_mista
 \voice\race_time\laps_remaining,3.wav,giri rimasti,giri rimasti,traduzione_mista
 \voice\race_time\twenty_minutes_left,2.wav,"20 minuti rimasti, hai 20 minuti left","20 minuti rimasti, hai 20 minuti left",traduzione_mista
-\voice\strategy\will_calculate_time_loss_from_next_lap,1.wav,calcola la tua perdita di tempo dal tuo prossimo giro veloce,calcola la tua perdita di tempo dal tuo prossimo giro veloce,traduzione_mista
-\voice\timings\ahead_is_increasing,1.wav,"davanti sta salendo, adesso è","davanti sta salendo, adesso è",traduzione_mista
-\voice\timings\ahead_is_increasing,2.wav,"davanti sta salendo, adesso è","davanti sta salendo, adesso è",traduzione_mista
-\voice\timings\ahead_is_increasing,3.wav,"davanti sta salendo, adesso è","davanti sta salendo, adesso è",traduzione_mista
-\voice\timings\behind_is_increasing,1.wav,"dietro sta salendo, adesso è","dietro sta salendo, adesso è",traduzione_mista
-\voice\timings\behind_is_increasing,2.wav,"dietro sta salendo, adesso è","dietro sta salendo, adesso è",traduzione_mista
-\voice\timings\behind_is_increasing,3.wav,"dietro sta salendo, adesso è","dietro sta salendo, adesso è",traduzione_mista
+\voice\strategy\will_calculate_time_loss_from_next_lap,1.wav,calcola la perdita tempo dal prossimo giro veloce,calcola la perdita tempo dal prossimo giro veloce,traduzione_mista
+\voice\timings\ahead_is_increasing,1.wav,"davanti sta salendo, adesso e'","davanti sta salendo, adesso e",traduzione_mista
+\voice\timings\ahead_is_increasing,2.wav,"davanti sta salendo, adesso e'","davanti sta salendo, adesso e",traduzione_mista
+\voice\timings\ahead_is_increasing,3.wav,"davanti sta salendo, adesso e'","davanti sta salendo, adesso e",traduzione_mista
+\voice\timings\behind_is_increasing,1.wav,"dietro sta salendo, adesso e'","dietro sta salendo, adesso e'",traduzione_mista
+\voice\timings\behind_is_increasing,2.wav,"dietro sta salendo, adesso e'","dietro sta salendo, adesso e'",traduzione_mista
+\voice\timings\behind_is_increasing,3.wav,"dietro sta salendo, adesso e'","dietro sta salendo, adesso e'",traduzione_mista
 \voice\timings\being_held_up,16.wav,"non aspettare troppo, trova quel distacco","non aspettare troppo, trova quel distacco",traduzione_mista
 \voice\timings\being_pressured,13.wav,"non be distracted, defend il tuo posizione","non be distracted, defend il tuo posizione",traduzione_mista
 \voice\timings\gap_behind_increasing,2_male.wav,"pulling away da quello dietro, il distacco's now","pulling away da quello dietro, il distacco's now",traduzione_mista
-\voice\timings\gap_in_front_increasing,2.wav,"il distacco davanti è aumentato, adesso è circa","il distacco davanti è aumentato, adesso è circa",traduzione_mista
-\voice\timings\is_reeling_you_in,10.wav,"sta chiudendo il distacco, adesso è","sta chiudendo il distacco, adesso è",traduzione_mista
-\voice\timings\is_reeling_you_in,11.wav,"si sta avvicinando, il distacco adesso è","si sta avvicinando, il distacco adesso è",traduzione_mista
-\voice\timings\is_reeling_you_in,8.wav,"si sta avvicinando, il distacco adesso è","si sta avvicinando, il distacco adesso è",traduzione_mista
-\voice\timings\opponent_behind_has_bad_reputation,2_male.wav,"quello dietro's davvero accident-prone, fai attenzione qui","quello dietro's davvero accident-prone, fai attenzione qui",traduzione_mista
-\voice\timings\opponent_behind_has_bad_reputation,7_male.wav,"quello dietro's davvero accident-prone, fai attenzione","quello dietro's davvero accident-prone, fai attenzione",traduzione_mista
+\voice\timings\gap_in_front_increasing,2.wav,"il distacco davanti e' aumentato, adesso e' circa","il distacco davanti e' aumentato, adesso e' circa",traduzione_mista
+\voice\timings\is_reeling_you_in,10.wav,"sta chiudendo il distacco, adesso e'","sta chiudendo il distacco, adesso e'",traduzione_mista
+\voice\timings\is_reeling_you_in,11.wav,"si sta avvicinando, il distacco adesso e'","si sta avvicinando, il distacco adesso e'",traduzione_mista
+\voice\timings\is_reeling_you_in,8.wav,"si sta avvicinando, il distacco adesso e'","si sta avvicinando, il distacco adesso e'",traduzione_mista
+\voice\timings\opponent_behind_has_bad_reputation,2_male.wav,"quello dietro e' pericoloso, fai attenzione","quello dietro e' pericoloso, fai attenzione",traduzione_mista
+\voice\timings\opponent_behind_has_bad_reputation,7_male.wav,"quello dietro e' pericoloso, stai attento","quello dietro e' pericoloso, stai attento",traduzione_mista
 \voice\timings\opponent_behind_has_below_average_reputation,7_male.wav,quello dietro non gareggia molto pulito,quello dietro non gareggia molto pulito,traduzione_mista
 \voice\tyre_monitor\cooking_left_front_tyre,1.wav,stai cuocendo le tue gomma anteriore sinistra,stai cuocendo le tue gomma anteriore sinistra,traduzione_mista
 \voice\tyre_monitor\cooking_left_rear_tyre,1.wav,stai cuocendo le tue gomma posteriore sinistra,stai cuocendo le tue gomma posteriore sinistra,traduzione_mista
 \voice\tyre_monitor\cooking_left_rear_tyre,3.wav,la tua posteriore sinistra's stai surriscaldando,la tua posteriore sinistra's stai surriscaldando,traduzione_mista
-\voice\tyre_monitor\cooking_rear_brakes,1.wav,"i tuoi freni posteriori si sono surriscaldati, sono davvero caldi","i tuoi freni posteriori si sono surriscaldati, sono davvero caldi",traduzione_mista
+\voice\tyre_monitor\cooking_rear_brakes,1.wav,"freni posteriori surriscaldati, sono bollenti","freni posteriori surriscaldati, sono bollenti",traduzione_mista
 \voice\tyre_monitor\cooking_right_front_tyre,1.wav,stai cuocendo le tue gomma anteriore destra,stai cuocendo le tue gomma anteriore destra,traduzione_mista
 \voice\tyre_monitor\cooking_right_rear_tyre,1.wav,stai cuocendo le tue gomma posteriore destra,stai cuocendo le tue gomma posteriore destra,traduzione_mista
 \voice\tyre_monitor\damage_to_left_front_tyre,1.wav,hai danneggiato la tua gomma anteriore sinistra,hai danneggiato la tua gomma anteriore sinistra,traduzione_mista
@@ -185,13 +185,13 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\tyre_monitor\knackered_left_front,2.wav,la tua gomma anteriore sinistra sembra distrutta,la tua gomma anteriore sinistra sembra distrutta,traduzione_mista
 \voice\tyre_monitor\knackered_right_front,2.wav,"that anteriore destra's gone,","that anteriore destra's gone,",traduzione_mista
 \voice\tyre_monitor\knackered_right_rear,3.wav,la tua posteriore destra's completamente consumata,la tua posteriore destra's completamente consumata,traduzione_mista
-\voice\tyre_monitor\left_front_pressure_very_high,1.wav,la tua anteriore sinistra la pressione sembra molto alta,la tua anteriore sinistra la pressione sembra molto alta,traduzione_mista
-\voice\tyre_monitor\left_front_pressure_very_low,5.wav,la tua anteriore sinistra la pressione sembra molto bassa,la tua anteriore sinistra la pressione sembra molto bassa,traduzione_mista
+\voice\tyre_monitor\left_front_pressure_very_high,1.wav,anteriore sinistra la pressione sembra alta,anteriore sinistra la pressione sembra alta,traduzione_mista
+\voice\tyre_monitor\left_front_pressure_very_low,5.wav,anteriore sinistra la pressione sembra bassa,anteriore sinistra la pressione sembra bassa,traduzione_mista
 \voice\tyre_monitor\locking_fronts_lap_warning,2.wav,locking il tuo front freni,locking il tuo front freni,traduzione_mista
-\voice\tyre_monitor\locking_rears_lap_warning,2.wav,stiamo vedendo molti bloccaggi del freno posteriore,stiamo vedendo molti bloccaggi del freno posteriore,traduzione_mista
+\voice\tyre_monitor\locking_rears_lap_warning,2.wav,vediamo molti bloccaggi freno posteriore,vediamo molti bloccaggi freno posteriore,traduzione_mista
 \voice\tyre_monitor\spinning_left_rear_corner_warning,3.wav,stiamo vedendo posteriore sinistra pattinamento in,stiamo vedendo posteriore sinistra pattinamento in,traduzione_mista
 \voice\tyre_monitor\spinning_right_rear_lap_warning,2.wav,spinning il tuo rear right gomma,spinning il tuo rear right gomma,traduzione_mista
-\voice\tyre_monitor\worn_right_rear,3.wav,"attenzione alla tua gomma posteriore destra, sembra piuttosto consumata","attenzione alla tua gomma posteriore destra, sembra piuttosto consumata",traduzione_mista
+\voice\tyre_monitor\worn_right_rear,3.wav,"attenzione alla posteriore destra, sembra consumata","attenzione alla posteriore destra, sembra consumata",traduzione_mista
 \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,3.wav,"bravo, your_name","bravo, your_name",traduzione_mista
 \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,7.wav,"ottimo lavoro, your_name","ottimo lavoro, your_name",traduzione_mista
 \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,8.wav,"bravo, your_name","bravo, your_name",traduzione_mista
@@ -201,48 +201,48 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\lmu\class_info,1.wav,"Hypercar davanti a te, fai attenzione","Hypercar davanti a te, fai attenzione",frase_mancante
 \voice\lmu\class_info,2.wav,"LMDh in arrivo da dietro, lascia spazio","elleemmedieacca in arrivo da dietro, lascia spazio",frase_mancante
 \voice\lmu\class_info,3.wav,"LMP2 davanti, ti sta per sdoppiare","elleemmepidue davanti, ti sta per sdoppiare",frase_mancante
-\voice\lmu\class_info,4.wav,"LMGT3 più lenta davanti, preparati a doppiare","elleemmegitiTre più lenta davanti, preparati a doppiare",frase_mancante
+\voice\lmu\class_info,4.wav,"LMGT3 più lenta davanti, preparati a doppiare","elleemmegititre lenta davanti, preparati a doppiare",frase_mancante
 \voice\lmu\class_info,5.wav,"traffico di GT davanti, attenzione al doppiaggio","traffico di giTi davanti, attenzione al doppiaggio",frase_mancante
 \voice\lmu\class_info,6.wav,"Hypercar in avvicinamento, lascia passare","Hypercar in avvicinamento, lascia passare",frase_mancante
-\voice\lmu\class_info,7.wav,"gruppo di LMP2 davanti, cerca spazio pulito","gruppo di elleemmepidue davanti, cerca spazio pulito",frase_mancante
+\voice\lmu\class_info,7.wav,"gruppo di LMP2 davanti, cerca spazio pulito","elleemmepidue davanti, cerca spazio pulito",frase_mancante
 \voice\lmu\class_info,8.wav,"macchina di un'altra classe in lotta, stai attento","macchina di un'altra classe in lotta, stai attento",frase_mancante
 \voice\lmu\endurance,1.wav,"gestisci le gomme, lo stint è lungo","gestisci le gomme, lo stint è lungo",frase_mancante
 \voice\lmu\endurance,2.wav,prossimo cambio pilota tra due giri,prossimo cambio pilota tra due giri,frase_mancante
 \voice\lmu\endurance,3.wav,"preparati al pit stop, cambio gomme e rifornimento","preparati al pit stop, cambio gomme e rifornimento",frase_mancante
 \voice\lmu\endurance,4.wav,"stint lungo, conserva le gomme posteriori","stint lungo, conserva le gomme posteriori",frase_mancante
 \voice\lmu\endurance,5.wav,"siamo a metà stint, le gomme reggono bene","siamo a metà stint, le gomme reggono bene",frase_mancante
-\voice\lmu\endurance,6.wav,"finestra di pit stop aperta, rientri al prossimo giro","finestra di pit stop aperta, rientri al prossimo giro",frase_mancante
-\voice\lmu\endurance,7.wav,"cambio pilota completato, stint pulito davanti a noi","cambio pilota completato, stint pulito davanti a noi",frase_mancante
-\voice\lmu\endurance,8.wav,"dobbiamo fare un doppio stint con queste gomme, gestiscile","dobbiamo fare un doppio stint con queste gomme, gestiscile",frase_mancante
+\voice\lmu\endurance,6.wav,"finestra pit aperta, rientri al prossimo giro","finestra pit aperta, rientri al prossimo giro",frase_mancante
+\voice\lmu\endurance,7.wav,"cambio pilota completato, stint pulito davanti","cambio pilota completato, stint pulito davanti",frase_mancante
+\voice\lmu\endurance,8.wav,"doppio stint con queste gomme, gestiscile bene","doppio stint con queste gomme, gestiscile bene",frase_mancante
 \voice\lmu\night_stint,1.wav,"si sta facendo buio, accendi i fari","si sta facendo buio, accendi i fari",frase_mancante
 \voice\lmu\night_stint,2.wav,"stint notturno, attenzione alla visibilità ridotta","stint notturno, attenzione alla visibilità ridotta",frase_mancante
 \voice\lmu\night_stint,3.wav,"occhio alle zone d'ombra, frena con anticipo","occhio alle zone d'ombra, frena con anticipo",frase_mancante
 \voice\lmu\night_stint,4.wav,"la pista è più fredda di notte, le gomme faticano","la pista è più fredda di notte, le gomme faticano",frase_mancante
 \voice\lmu\night_stint,5.wav,"sta albeggiando, la visibilità migliora","sta albeggiando, la visibilità migliora",frase_mancante
-\voice\lmu\night_stint,6.wav,"attenzione ai fari delle altre macchine, non farti abbagliare","attenzione ai fari delle altre macchine, non farti abbagliare",frase_mancante
+\voice\lmu\night_stint,6.wav,"attenzione ai fari delle altre, non farti abbagliare","attenzione ai fari delle altre, non farti abbagliare",frase_mancante
 \voice\lmu\night_stint,7.wav,"stint notturno quasi finito, tieni duro","stint notturno quasi finito, tieni duro",frase_mancante
 \voice\lmu\weather,1.wav,"prime gocce di pioggia, potrebbe peggiorare","prime gocce di pioggia, potrebbe peggiorare",frase_mancante
 \voice\lmu\weather,2.wav,"pioggia in aumento, valuta la sosta per le rain","pioggia in aumento, valuta la sosta per le rein",frase_mancante
-\voice\lmu\weather,3.wav,"la pista si asciuga, prepariamoci a passare alle slick","la pista si asciuga, prepariamoci a passare alle slik",frase_mancante
+\voice\lmu\weather,3.wav,"la pista si asciuga, prepariamoci a passare alle slick","pista si asciuga, prepariamoci per le slik",frase_mancante
 \voice\lmu\weather,4.wav,"zone bagnate in curva, attenzione ai cordoli","zone bagnate in curva, attenzione ai cordoli",frase_mancante
-\voice\lmu\weather,5.wav,"pista mista, bagnato e asciutto, vai piano nelle zone umide","pista mista, bagnato e asciutto, vai piano nelle zone umide",frase_mancante
-\voice\lmu\weather,6.wav,"il radar dice pioggia fra dieci minuti, prepariamoci","il radar dice pioggia fra dieci minuti, prepariamoci",frase_mancante
-\voice\lmu\weather,7.wav,"la pioggia sta smettendo, ancora qualche giro e asciuga","la pioggia sta smettendo, ancora qualche giro e asciuga",frase_mancante
+\voice\lmu\weather,5.wav,"pista mista bagnato e asciutto, piano nelle zone umide","pista mista bagnato e asciutto, piano nelle zone umide",frase_mancante
+\voice\lmu\weather,6.wav,"pioggia fra dieci minuti, prepariamoci","pioggia fra dieci minuti, prepariamoci",frase_mancante
+\voice\lmu\weather,7.wav,"pioggia in calo, qualche giro e asciuga","pioggia in calo, qualche giro e asciuga",frase_mancante
 \voice\lmu\energy_management,1.wav,usa il deploy in uscita di curva,usa il diploi in uscita di curva,frase_mancante
-\voice\lmu\energy_management,2.wav,"risparmia energia in questo tratto, ricarica la batteria","risparmia energia in questo tratto, ricarica la batteria",frase_mancante
-\voice\lmu\energy_management,3.wav,"deploy disponibile, usalo nel rettilineo principale","diploi disponibile, usalo nel rettilineo principale",frase_mancante
-\voice\lmu\energy_management,4.wav,"batteria bassa, vai in modalità ricarica per un giro","batteria bassa, vai in modalità ricarica per un giro",frase_mancante
+\voice\lmu\energy_management,2.wav,"risparmia energia qui, ricarica la batteria","risparmia energia, ricarica la batteria",frase_mancante
+\voice\lmu\energy_management,3.wav,"deploy disponibile, usalo nel rettilineo principale","diploi disponibile, usalo nel rettilineo",frase_mancante
+\voice\lmu\energy_management,4.wav,"batteria bassa, modalita' ricarica per un giro","batteria bassa, modalita' ricarica per un giro",frase_mancante
 \voice\lmu\energy_management,5.wav,"energia piena, puoi spingere col deploy","energia piena, puoi spingere col diploi",frase_mancante
-\voice\lmu\energy_management,6.wav,"gestisci l'ibrido, non sprecare energia nelle curve lente","gestisci l'ibrido, non sprecare energia nelle curve lente",frase_mancante
-\voice\lmu\energy_management,7.wav,"ottimo recupero energetico in frenata, continua così","ottimo recupero energetico in frenata, continua così",frase_mancante
+\voice\lmu\energy_management,6.wav,"gestisci l'ibrido, non sprecare nelle curve lente","gestisci l'ibrido, non sprecare nelle curve lente",frase_mancante
+\voice\lmu\energy_management,7.wav,"ottimo recupero energetico, continua cosi'","ottimo recupero energetico, continua cosi'",frase_mancante
 \voice\sweary_messages\bad_start,1.wav,"accidenti, che partenza orribile!","accidenti, che partenza orribile!",frase_mancante
 \voice\sweary_messages\bad_start,2.wav,ma che cavolo di partenza è stata?,ma che cavolo di partenza è stata?,frase_mancante
 \voice\sweary_messages\bad_start,3.wav,"mannaggia, partenza da dimenticare","mannaggia, partenza da dimenticare",frase_mancante
-\voice\sweary_messages\bad_start,4.wav,"porco giuda, che disastro alla partenza","porco giuda, che disastro alla partenza",frase_mancante
+\voice\sweary_messages\bad_start,4.wav,"porco giuda, che disastro alla partenza",porco giuda che disastro alla partenza,frase_mancante
 \voice\sweary_messages\bad_start,5.wav,"dai cavolo, dovevi fare meglio!","dai cavolo, dovevi fare meglio!",frase_mancante
 \voice\sweary_messages\good_start,1.wav,"accidenti che partenza, grande!","accidenti che partenza, grande!",frase_mancante
 \voice\sweary_messages\good_start,2.wav,"caspita, che razzo alla partenza!","caspita, che razzo alla partenza!",frase_mancante
-\voice\sweary_messages\good_start,3.wav,"porca miseria, che partenza fantastica!","porca miseria, che partenza fantastica!",frase_mancante
+\voice\sweary_messages\good_start,3.wav,porca miseria che partenza fantastica,porca miseria che partenza fantastica,frase_mancante
 \voice\sweary_messages\good_start,4.wav,"cavolo, li hai bruciati tutti!","cavolo, li hai bruciati tutti!",frase_mancante
 \voice\sweary_messages\good_start,5.wav,"madonna che partenza, sei un fenomeno!","madonna che partenza, sei un fenomeno!",frase_mancante
 \voice\sweary_messages\after_crash,1.wav,che macello! ma dove andavi?,che macello! ma dove andavi?,frase_mancante
@@ -252,19 +252,19 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\sweary_messages\after_crash,5.wav,"cavolo, che botto! tutto a posto?","cavolo, che botto! tutto a posto?",frase_mancante
 \voice\sweary_messages\after_crash,6.wav,"porca vacca, che disastro!","porca vacca, che disastro!",frase_mancante
 \voice\sweary_messages\lost_position,1.wav,"accidenti, ti ha passato! reagisci!","accidenti, ti ha passato! reagisci!",frase_mancante
-\voice\sweary_messages\lost_position,2.wav,"mannaggia, posizione persa! dai, riprendilo!","mannaggia, posizione persa! dai, riprendilo!",frase_mancante
-\voice\sweary_messages\lost_position,3.wav,ma dove va questo? ti ha fregato la posizione!,ma dove va questo? ti ha fregato la posizione!,frase_mancante
-\voice\sweary_messages\lost_position,4.wav,"cavolo, ti sei fatto passare! sveglia!","cavolo, ti sei fatto passare! sveglia!",frase_mancante
-\voice\sweary_messages\lost_position,5.wav,"porco giuda, ti ha superato! muoviti!","porco giuda, ti ha superato! muoviti!",frase_mancante
-\voice\sweary_messages\gained_position,1.wav,"dai cavolo, lo hai fregato! grande!","dai cavolo, lo hai fregato! grande!",frase_mancante
+\voice\sweary_messages\lost_position,2.wav,"mannaggia, posizione persa! dai, riprendilo!","mannaggia posizione persa, dai riprendilo",frase_mancante
+\voice\sweary_messages\lost_position,3.wav,"ma dove va questo, ti ha fregato la posizione","ma dove va questo, ti ha fregato la posizione",frase_mancante
+\voice\sweary_messages\lost_position,4.wav,"cavolo ti sei fatto passare, sveglia","cavolo ti sei fatto passare, sveglia",frase_mancante
+\voice\sweary_messages\lost_position,5.wav,"porco giuda, ti ha superato! muoviti!","porco giuda ti ha superato, muoviti",frase_mancante
+\voice\sweary_messages\gained_position,1.wav,"dai cavolo, lo hai fregato! grande!","dai cavolo lo hai fregato, grande",frase_mancante
 \voice\sweary_messages\gained_position,2.wav,"porca miseria, che sorpasso! fantastico!","porca miseria, che sorpasso! fantastico!",frase_mancante
 \voice\sweary_messages\gained_position,3.wav,"accidenti, che manovra! bravo!","accidenti, che manovra! bravo!",frase_mancante
 \voice\sweary_messages\gained_position,4.wav,"caspita, che sorpasso da paura!","caspita, che sorpasso da paura!",frase_mancante
-\voice\sweary_messages\race_win,1.wav,"porca miseria, abbiamo vinto! grande!","porca miseria, abbiamo vinto! grande!",frase_mancante
-\voice\sweary_messages\race_win,2.wav,mannaggia che emozione! vittoria! sei un mito!,mannaggia che emozione! vittoria! sei un mito!,frase_mancante
-\voice\sweary_messages\race_win,3.wav,"cavolo, ce l'abbiamo fatta! che gara!","cavolo, ce l'abbiamo fatta! che gara!",frase_mancante
-\voice\sweary_messages\race_win,4.wav,"porco giuda, che gara incredibile! primo!","porco giuda, che gara incredibile! primo!",frase_mancante
-\voice\sweary_messages\race_win,5.wav,"accidenti, che vittoria pazzesca! sei un fenomeno!","accidenti, che vittoria pazzesca! sei un fenomeno!",frase_mancante
+\voice\sweary_messages\race_win,1.wav,"porca miseria abbiamo vinto, grande","porca miseria abbiamo vinto, grande",frase_mancante
+\voice\sweary_messages\race_win,2.wav,"mannaggia che emozione, vittoria, sei un mito","mannaggia che emozione, vittoria, sei un mito",frase_mancante
+\voice\sweary_messages\race_win,3.wav,"cavolo ce l'abbiamo fatta, che gara","cavolo ce l'abbiamo fatta, che gara",frase_mancante
+\voice\sweary_messages\race_win,4.wav,"porco giuda che gara incredibile, primo","porco giuda che gara incredibile, primo",frase_mancante
+\voice\sweary_messages\race_win,5.wav,"accidenti che vittoria pazzesca, sei un fenomeno","accidenti che vittoria pazzesca, sei un fenomeno",frase_mancante
 \voice\damage_reporting\damage,1.wav,abbiamo dei danni,abbiamo dei danni,frase_mancante
 \voice\damage_reporting\damage,2.wav,la macchina ha dei danni,la macchina ha dei danni,frase_mancante
 \voice\damage_reporting\damage,3.wav,abbiamo preso un colpo ci sono danni,abbiamo preso un colpo ci sono danni,frase_mancante
@@ -274,23 +274,23 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\damage_reporting\wheel_damage,3.wav,c'e' un problema con una ruota,c'e' un problema con una ruota,frase_mancante
 \voice\flags\virtual_safety_car,1.wav,virtual safety car stai attento,virtual safety car stai attento,frase_mancante
 \voice\flags\virtual_safety_car,2.wav,virtual safety car attiva rallenta,virtual safety car attiva rallenta,frase_mancante
-\voice\flags\virtual_safety_car,3.wav,VSC attiva rispetta il limite di velocita',VSC attiva rispetta il limite di velocita',frase_mancante
+\voice\flags\virtual_safety_car,3.wav,"vi esse ci attiva, rispetta il limite","vi esse ci attiva, rispetta il limite",frase_mancante
 \voice\flags\virtual_safety_car_phase_over,1.wav,virtual safety car finita via libera,virtual safety car finita via libera,frase_mancante
-\voice\flags\virtual_safety_car_phase_over,2.wav,VSC finita si riparte,VSC finita si riparte,frase_mancante
+\voice\flags\virtual_safety_car_phase_over,2.wav,"vi esse ci finita, si riparte","vi esse ci finita, si riparte",frase_mancante
 \voice\flags\virtual_safety_car_phase_over,3.wav,fine della virtual safety car andiamo,fine della virtual safety car andiamo,frase_mancante
 \voice\flags\virtual_safety_car_speed,1.wav,resta sotto la velocita' della virtual safety car,resta sotto la velocita' della virtual safety car,frase_mancante
-\voice\flags\virtual_safety_car_speed,2.wav,attenzione al limite VSC,attenzione al limite VSC,frase_mancante
-\voice\flags\stay_below_vsc_speed,1.wav,resta sotto la velocita' VSC,resta sotto la velocita' VSC,frase_mancante
-\voice\flags\stay_below_vsc_speed,2.wav,rallenta sei sopra il limite VSC,rallenta sei sopra il limite VSC,frase_mancante
-\voice\fuel\not_enough_laps_for_average,1.wav,non abbiamo abbastanza giri per calcolare la media carburante,non abbiamo abbastanza giri per calcolare la media carburante,frase_mancante
+\voice\flags\virtual_safety_car_speed,2.wav,attenzione al limite vi esse ci,attenzione al limite vi esse ci,frase_mancante
+\voice\flags\stay_below_vsc_speed,1.wav,resta sotto la velocita' vi esse ci,resta sotto la velocita' vi esse ci,frase_mancante
+\voice\flags\stay_below_vsc_speed,2.wav,"rallenta, sei sopra il limite vi esse ci","rallenta, sei sopra il limite vi esse ci",frase_mancante
+\voice\fuel\not_enough_laps_for_average,1.wav,non abbastanza giri per la media carburante,non abbastanza giri per la media carburante,frase_mancante
 \voice\fuel\not_enough_laps_for_average,2.wav,servono piu' giri per stimare il consumo,servono piu' giri per stimare il consumo,frase_mancante
 \voice\lap_counter\race_starts_in,1.wav,la gara inizia tra,la gara inizia tra,frase_mancante
 \voice\lap_counter\race_starts_in,2.wav,partenza tra,partenza tra,frase_mancante
 \voice\lap_counter\race_starts_in,3.wav,si parte tra,si parte tra,frase_mancante
-\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,1.wav,le stime carburante non sono affidabili senza tempi pit,le stime carburante non sono affidabili senza tempi pit,frase_mancante
-\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,2.wav,senza cronometro pit le stime carburante sono approssimative,senza cronometro pit le stime carburante sono approssimative,frase_mancante
-\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,1.wav,le stime di posizione non sono affidabili senza tempi pit,le stime di posizione non sono affidabili senza tempi pit,frase_mancante
-\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,2.wav,senza cronometro pit le stime posizione sono approssimative,senza cronometro pit le stime posizione sono approssimative,frase_mancante
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,1.wav,stime carburante non affidabili senza tempi pit,stime carburante non affidabili senza tempi pit,frase_mancante
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,2.wav,senza tempi pit le stime carburante sono approssimative,senza tempi pit le stime carburante sono approssimative,frase_mancante
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,1.wav,stime posizione non affidabili senza tempi pit,stime posizione non affidabili senza tempi pit,frase_mancante
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,2.wav,senza tempi pit le stime posizione sono approssimative,senza tempi pit le stime posizione sono approssimative,frase_mancante
 \voice\multiclass\lmdh,1.wav,LMDh,elleemmedieacca,frase_mancante
 \voice\multiclass\lmdh,2.wav,LMDh,elleemmedieacca,frase_mancante
 \voice\multiclass\lmdh_runners,1.wav,macchine LMDh,macchine elleemmedieacca,frase_mancante
@@ -304,7 +304,7 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\penalties\slow_down_penalty_clear,1.wav,penalita' di rallentamento scontata,penalita' di rallentamento scontata,frase_mancante
 \voice\penalties\slow_down_penalty_clear,2.wav,ok penalita' scontata,ok penalita' scontata,frase_mancante
 \voice\penalties\vsc_violation_penalty,1.wav,penalita' per violazione virtual safety car,penalita' per violazione virtual safety car,frase_mancante
-\voice\penalties\vsc_violation_penalty,2.wav,abbiamo preso una penalita' per violazione VSC,abbiamo preso una penalita' per violazione VSC,frase_mancante
+\voice\penalties\vsc_violation_penalty,2.wav,penalita' per violazione vi esse ci,penalita' per violazione vi esse ci,frase_mancante
 \voice\penalties\warning_headlights_required_when_raining,1.wav,piove i fari sono obbligatori accendili,piove i fari sono obbligatori accendili,frase_mancante
 \voice\penalties\warning_headlights_required_when_raining,2.wav,devi accendere i fari con la pioggia,devi accendere i fari con la pioggia,frase_mancante
 \voice\position\p,1.wav,P,pi,frase_mancante
@@ -314,7 +314,7 @@ audio_path,audio_filename,subtitle,text_for_tts,reason
 \voice\rejoining\rejoin_wait,1.wav,aspetta non rientrare ci sono macchine in arrivo,aspetta non rientrare ci sono macchine in arrivo,frase_mancante
 \voice\rejoining\rejoin_wait,2.wav,fermo aspetta che passino,fermo aspetta che passino,frase_mancante
 \voice\rejoining\rejoin_wait,3.wav,attenzione traffico in arrivo aspetta,attenzione traffico in arrivo aspetta,frase_mancante
-\voice\timings\car_behind_is_lapping_us,1.wav,la macchina dietro ci sta doppiando lasciala passare,la macchina dietro ci sta doppiando lasciala passare,frase_mancante
+\voice\timings\car_behind_is_lapping_us,1.wav,"la macchina dietro ci doppia, lasciala passare","la macchina dietro ci doppia, lasciala passare",frase_mancante
 \voice\timings\car_behind_is_lapping_us,2.wav,ci stanno doppiando fai passare,ci stanno doppiando fai passare,frase_mancante
 \voice\timings\car_behind_is_unlapping_itself,1.wav,la macchina dietro si sta sdoppiando,la macchina dietro si sta sdoppiando,frase_mancante
 \voice\timings\car_behind_is_unlapping_itself,2.wav,si sta sdoppiando lasciala andare,si sta sdoppiando lasciala andare,frase_mancante

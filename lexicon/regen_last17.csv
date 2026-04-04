@@ -1,0 +1,10 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\damage_reporting\wheel_damage,4.wav,danno alla ruota fai attenzione,danno alla ruota fai attenzione
+\voice\damage_reporting\wheel_damage,5.wav,la ruota e' danneggiata gestiscila,la ruota e' danneggiata gestiscila
+\voice\damage_reporting\wheel_damage,6.wav,problemi alla ruota vai piano,problemi alla ruota vai piano
+\voice\lap_counter\laps_make_them_count,5.wav,pochi giri falli valere,pochi giri falli valere
+\voice\lap_counter\last_lap_leading,5.wav,ultimo giro sei primo non mollare!,ultimo giro sei primo non mollare!
+\voice\lap_counter\race_starts_in,4.wav,la gara inizia tra,la gara inizia tra
+\voice\penalties\vsc_violation_penalty,sweary_5.wav,accidenti penalita' per violazione vi esse ci,accidenti penalita' per violazione vi esse ci
+\voice\penalties\vsc_violation_penalty,sweary_6.wav,cavolo penalita' vi esse ci che errore,cavolo penalita' vi esse ci che errore
+\voice\position\terrible_start,3.wav,partenza orribile dai recupera,partenza orribile dai recupera

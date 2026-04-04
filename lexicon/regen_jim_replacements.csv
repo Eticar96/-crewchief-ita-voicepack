@@ -1,0 +1,236 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\acknowledge\spotterDisabled_Billy,1.wav,"all right, no more spotter calls for you","all right, no more spotter calls for you"
+\voice\acknowledge\spotterDisabled_Billy,2.wav,"okay, no more spotting","okay, no more spotting"
+\voice\acknowledge\spotterDisabled_Billy,3.wav,"all right, I'm out","all right, I'm out"
+\voice\acknowledge\spotterDisabled_Billy,4.wav,"all right, peace","all right, peace"
+\voice\acknowledge\spotterDisabled_Billy,5.wav,"okay, good luck, have fun on your own","okay, good luck, have fun on your own"
+\voice\acknowledge\spotterDisabled_Clare,1.wav,"okay, no more spotter calls, please, Clare","okay, no more spotter calls, please, Clare"
+\voice\acknowledge\spotterDisabled_Clare,2.wav,"acknowledged, no more spot calls, please, Clare","acknowledged, no more spot calls, please, Clare"
+\voice\acknowledge\spotterDisabled_Clare,3.wav,"okay, no more spotter calls, please, Clare","okay, no more spotter calls, please, Clare"
+\voice\acknowledge\spotterDisabled_Clare,4.wav,"okay, no more spot calls, Clare","okay, no more spot calls, Clare"
+\voice\acknowledge\spotterDisabled_Florian,1.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Florian,10.wav,"okay, understood, I will shut up","okay, understood, I will shut up"
+\voice\acknowledge\spotterDisabled_Florian,2.wav,"okay, no more spotter call","okay, no more spotter call"
+\voice\acknowledge\spotterDisabled_Florian,3.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Florian,4.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Florian,5.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Florian,6.wav,"okay, no spotter call","okay, no spotter call"
+\voice\acknowledge\spotterDisabled_Florian,7.wav,"okay, no spotter calls","okay, no spotter calls"
+\voice\acknowledge\spotterDisabled_Florian,8.wav,"okay, okay, I will shut up","okay, okay, I will shut up"
+\voice\acknowledge\spotterDisabled_Florian,9.wav,"okay, I will be quiet from here on","okay, I will be quiet from here on"
+\voice\acknowledge\spotterDisabled_Geoffrey,1.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Geoffrey,10.wav,"okay, no more calls for you","okay, no more calls for you"
+\voice\acknowledge\spotterDisabled_Geoffrey,11.wav,"all right, I'll stop","all right, I'll stop"
+\voice\acknowledge\spotterDisabled_Geoffrey,12.wav,"okay, no more calls","okay, no more calls"
+\voice\acknowledge\spotterDisabled_Geoffrey,13.wav,"well, fine then","well, fine then"
+\voice\acknowledge\spotterDisabled_Geoffrey,14.wav,"what else do you want from me, jeez, I'll stop calling","what else do you want from me, jeez, I'll stop calling"
+\voice\acknowledge\spotterDisabled_Geoffrey,2.wav,"all right, no more","all right, no more"
+\voice\acknowledge\spotterDisabled_Geoffrey,3.wav,shuttin' up,shuttin' up
+\voice\acknowledge\spotterDisabled_Geoffrey,4.wav,"okay, no more calls","okay, no more calls"
+\voice\acknowledge\spotterDisabled_Geoffrey,5.wav,"you got it, no more","you got it, no more"
+\voice\acknowledge\spotterDisabled_Geoffrey,6.wav,"okay, no more calls","okay, no more calls"
+\voice\acknowledge\spotterDisabled_Geoffrey,8.wav,"okay, no more calls","okay, no more calls"
+\voice\acknowledge\spotterDisabled_Geoffrey,9.wav,no more calls? sure,no more calls? sure
+\voice\acknowledge\spotterDisabled_Jerry,1.wav,"Roger that, I'll leave you to it.","Roger that, I'll leave you to it."
+\voice\acknowledge\spotterDisabled_Jerry,2.wav,"Okay, I'll leave you to it.","Okay, I'll leave you to it."
+\voice\acknowledge\spotterDisabled_Jerry,3_male.wav,"Alright, man; you know best.","Alright, man; you know best."
+\voice\acknowledge\spotterDisabled_Jerry,4.wav,"Alright, I'm here if you need me.","Alright, I'm here if you need me."
+\voice\acknowledge\spotterDisabled_Jerry,5.wav,"Alright, I'll shut up.","Alright, I'll shut up."
+\voice\acknowledge\spotterDisabled_Jerry,6.wav,Copy that; do your thing!,Copy that; do your thing!
+\voice\acknowledge\spotterDisabled_Jerry,7.wav,Copy that; I'll leave you alone.,Copy that; I'll leave you alone.
+\voice\acknowledge\spotterDisabled_Lee,1.wav,"okay, no more spotting","okay, no more spotting"
+\voice\acknowledge\spotterDisabled_Lee,2.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Lee,3.wav,"okay, mate, I'll stop spotting","okay, mate, I'll stop spotting"
+\voice\acknowledge\spotterDisabled_Lee,4.wav,"okay, mate, no more spotting calls","okay, mate, no more spotting calls"
+\voice\acknowledge\spotterDisabled_Lee,5.wav,"okay, no more spotting","okay, no more spotting"
+\voice\acknowledge\spotterDisabled_Lee,6.wav,"okay, mate, I won't do the spotting","okay, mate, I won't do the spotting"
+\voice\acknowledge\spotterDisabled_Lee,7.wav,"okay, mate, no problem, no more spotting","okay, mate, no problem, no more spotting"
+\voice\acknowledge\spotterDisabled_Matt,1.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Matt,2.wav,"okay, no spotter calls","okay, no spotter calls"
+\voice\acknowledge\spotterDisabled_Matt,3.wav,"if you wreck, it's on you","if you wreck, it's on you"
+\voice\acknowledge\spotterDisabled_Matt,4.wav,"if you wreck, it's on you","if you wreck, it's on you"
+\voice\acknowledge\spotterDisabled_Micha,01.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Micha,02.wav,"okay, I'll shut my mouth","okay, I'll shut my mouth"
+\voice\acknowledge\spotterDisabled_Micha,03.wav,"all right, I'll be silent","all right, I'll be silent"
+\voice\acknowledge\spotterDisabled_Mike,1.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Mike,2.wav,"okay, no spotter call","okay, no spotter call"
+\voice\acknowledge\spotterDisabled_Mike,3.wav,"okay, I'll shut the hell up","okay, I'll shut the hell up"
+\voice\acknowledge\spotterDisabled_Phil,1.wav,"you got it, no more spotter calls","you got it, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Phil,10.wav,"10-4, no spotter calls","10-4, no spotter calls"
+\voice\acknowledge\spotterDisabled_Phil,2.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Phil,3.wav,"all right, no spotter calls","all right, no spotter calls"
+\voice\acknowledge\spotterDisabled_Phil,4.wav,"you got it, no spotter calls","you got it, no spotter calls"
+\voice\acknowledge\spotterDisabled_Phil,5.wav,"sure thing, no spotter calls","sure thing, no spotter calls"
+\voice\acknowledge\spotterDisabled_Phil,6.wav,"all right, you're on your own","all right, you're on your own"
+\voice\acknowledge\spotterDisabled_Phil,7.wav,"you're on your own, buddy, no spotter calls","you're on your own, buddy, no spotter calls"
+\voice\acknowledge\spotterDisabled_Phil,8.wav,"all right, I won't spot anymore","all right, I won't spot anymore"
+\voice\acknowledge\spotterDisabled_Phil,9.wav,"no more spotter calls, you got it","no more spotter calls, you got it"
+\voice\acknowledge\spotterDisabled_Ross,1.wav,"spotter, out","spotter, out"
+\voice\acknowledge\spotterDisabled_Ross,2.wav,this spotter has left the building,this spotter has left the building
+\voice\acknowledge\spotterDisabled_Ross,3.wav,I'll see you after the race,I'll see you after the race
+\voice\acknowledge\spotterDisabled_Ross,4.wav,"if you don't need me for a while, I've got an ice cream craving","if you don't need me for a while, I've got an ice cream craving"
+\voice\acknowledge\spotterDisabled_Ross,5.wav,"well, fine, if you think you can do it better","well, fine, if you think you can do it better"
+\voice\acknowledge\spotterDisabled_Ross,6.wav,"okay, I'll be taking a nap if you need me","okay, I'll be taking a nap if you need me"
+\voice\acknowledge\spotterDisabled_Ross,7.wav,are you not entertained?,are you not entertained?
+\voice\acknowledge\spotterDisabled_Ross,8.wav,are you not entertained?,are you not entertained?
+\voice\acknowledge\spotterDisabled_Ross,9.wav,"hasta la vista, baby","hasta la vista, baby"
+\voice\acknowledge\spotterDisabled_Sammy,1.wav,"okay, no more spotting","okay, no more spotting"
+\voice\acknowledge\spotterDisabled_Sammy,2.wav,"okay, no more calls","okay, no more calls"
+\voice\acknowledge\spotterDisabled_Sammy,3.wav,"okay, no more spotter calls","okay, no more spotter calls"
+\voice\acknowledge\spotterDisabled_Sammy,4.wav,"okay, no spotter calls","okay, no spotter calls"
+\voice\acknowledge\spotterEnabled_Billy,1.wav,"all right, I'm here","all right, I'm here"
+\voice\acknowledge\spotterEnabled_Billy,2.wav,"okay, I'll spot you","okay, I'll spot you"
+\voice\acknowledge\spotterEnabled_Billy,3.wav,I am your spotter,I am your spotter
+\voice\acknowledge\spotterEnabled_Billy,4.wav,this spotter is available,this spotter is available
+\voice\acknowledge\spotterEnabled_Billy,5.wav,"oh, so now you want me to spot you","oh, so now you want me to spot you"
+\voice\acknowledge\spotterEnabled_Clare,1.wav,"acknowledged, we'll have spotter calls from here, please, Clare","acknowledged, we'll have spotter calls from here, please, Clare"
+\voice\acknowledge\spotterEnabled_Clare,2.wav,"okay, make those calls, please, Clare","okay, make those calls, please, Clare"
+\voice\acknowledge\spotterEnabled_Clare,3.wav,"okay, spotter calls, please, Clare","okay, spotter calls, please, Clare"
+\voice\acknowledge\spotterEnabled_Florian,1.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Florian,10.wav,"okay, I will give those calls","okay, I will give those calls"
+\voice\acknowledge\spotterEnabled_Florian,2.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Florian,3.wav,"okay, I will spot","okay, I will spot"
+\voice\acknowledge\spotterEnabled_Florian,4.wav,"okay, I will spot","okay, I will spot"
+\voice\acknowledge\spotterEnabled_Florian,5.wav,"okay, I will be spotting","okay, I will be spotting"
+\voice\acknowledge\spotterEnabled_Florian,6.wav,"okay, I will give those calls","okay, I will give those calls"
+\voice\acknowledge\spotterEnabled_Florian,7.wav,"okay, I will give those calls","okay, I will give those calls"
+\voice\acknowledge\spotterEnabled_Florian,8.wav,"okay, I will give those calls","okay, I will give those calls"
+\voice\acknowledge\spotterEnabled_Florian,9.wav,"okay, I'll give those calls","okay, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Geoffrey,1.wav,"okay, I'll give those calls","okay, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Geoffrey,10.wav,"okay, I'll give those calls","okay, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Geoffrey,11.wav,"all right, I'll give those calls for you","all right, I'll give those calls for you"
+\voice\acknowledge\spotterEnabled_Geoffrey,12.wav,"you got it, man, I'll give you those calls","you got it, man, I'll give you those calls"
+\voice\acknowledge\spotterEnabled_Geoffrey,13.wav,"sure thing, I'm calling","sure thing, I'm calling"
+\voice\acknowledge\spotterEnabled_Geoffrey,14.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Geoffrey,15.wav,"sure, I'll spot","sure, I'll spot"
+\voice\acknowledge\spotterEnabled_Geoffrey,16.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Geoffrey,17.wav,"yes, I'll spot","yes, I'll spot"
+\voice\acknowledge\spotterEnabled_Geoffrey,18.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Geoffrey,19.wav,"you got it, buddy, I'm spotting","you got it, buddy, I'm spotting"
+\voice\acknowledge\spotterEnabled_Geoffrey,2.wav,"you got it, I'm calling","you got it, I'm calling"
+\voice\acknowledge\spotterEnabled_Geoffrey,20.wav,"you got it, I'm spotting","you got it, I'm spotting"
+\voice\acknowledge\spotterEnabled_Geoffrey,21.wav,"you got it, I'll spot","you got it, I'll spot"
+\voice\acknowledge\spotterEnabled_Geoffrey,22.wav,spottin',spottin'
+\voice\acknowledge\spotterEnabled_Geoffrey,23.wav,"yes, I'll spot","yes, I'll spot"
+\voice\acknowledge\spotterEnabled_Geoffrey,24.wav,"yep, spotting","yep, spotting"
+\voice\acknowledge\spotterEnabled_Geoffrey,25.wav,I'm spotting,I'm spotting
+\voice\acknowledge\spotterEnabled_Geoffrey,26.wav,I'll spot for ya,I'll spot for ya
+\voice\acknowledge\spotterEnabled_Geoffrey,27.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Geoffrey,28.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Geoffrey,3.wav,"okay, I'm calling","okay, I'm calling"
+\voice\acknowledge\spotterEnabled_Geoffrey,4.wav,"all right, I'll give those calls","all right, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Geoffrey,5.wav,"you got it, I'm giving those calls","you got it, I'm giving those calls"
+\voice\acknowledge\spotterEnabled_Geoffrey,6.wav,"you got it, I'm calling","you got it, I'm calling"
+\voice\acknowledge\spotterEnabled_Geoffrey,7.wav,"sure, I'll give those calls","sure, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Geoffrey,8.wav,"yeah, I'll give those calls","yeah, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Geoffrey,9.wav,"sure, I'll give those calls","sure, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Jerry,1.wav,Roger that; I got ya!,Roger that; I got ya!
+\voice\acknowledge\spotterEnabled_Jerry,2.wav,Will do!,Will do!
+\voice\acknowledge\spotterEnabled_Jerry,3.wav,"Okay, I got ya!","Okay, I got ya!"
+\voice\acknowledge\spotterEnabled_Jerry,4_male.wav,"Alright, I'm here for ya, man!","Alright, I'm here for ya, man!"
+\voice\acknowledge\spotterEnabled_Jerry,5.wav,"Alright, I'm here for ya!","Alright, I'm here for ya!"
+\voice\acknowledge\spotterEnabled_Jerry,6.wav,Let's do this!,Let's do this!
+\voice\acknowledge\spotterEnabled_Jerry,7.wav,"Copy that, I'll keep an eye out!","Copy that, I'll keep an eye out!"
+\voice\acknowledge\spotterEnabled_Lee,1.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Lee,2.wav,"okay, I can give them calls","okay, I can give them calls"
+\voice\acknowledge\spotterEnabled_Lee,3.wav,"okay, I'll do the spotting","okay, I'll do the spotting"
+\voice\acknowledge\spotterEnabled_Lee,4.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Lee,5.wav,"okay, mate, I'll spot","okay, mate, I'll spot"
+\voice\acknowledge\spotterEnabled_Lee,6.wav,"okay, mate, I'll do the spotting","okay, mate, I'll do the spotting"
+\voice\acknowledge\spotterEnabled_Lee,7.wav,"okay, mate, no problem, I'll do the spotting","okay, mate, no problem, I'll do the spotting"
+\voice\acknowledge\spotterEnabled_Lee,8.wav,"okay, mate, I'll give calls","okay, mate, I'll give calls"
+\voice\acknowledge\spotterEnabled_Matt,1.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Matt,2.wav,"okay, I'll give those calls","okay, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Matt,3.wav,I'm your eye in the sky,I'm your eye in the sky
+\voice\acknowledge\spotterEnabled_Matt,4.wav,I'm your eye in the sky,I'm your eye in the sky
+\voice\acknowledge\spotterEnabled_Micha,01.wav,"okay, I will do it","okay, I will do it"
+\voice\acknowledge\spotterEnabled_Micha,02.wav,"okay, I'll give you those calls","okay, I'll give you those calls"
+\voice\acknowledge\spotterEnabled_Micha,03.wav,"all right, then let's go","all right, then let's go"
+\voice\acknowledge\spotterEnabled_Micha,04.wav,"yes, man","yes, man"
+\voice\acknowledge\spotterEnabled_Micha,05.wav,"let's get it on, I'm in the mood to race, yes, yes, yes","let's get it on, I'm in the mood to race, yes, yes, yes"
+\voice\acknowledge\spotterEnabled_Mike,1.wav,"okay, I'll spot for you","okay, I'll spot for you"
+\voice\acknowledge\spotterEnabled_Mike,2.wav,"okay, I'll give those calls for you","okay, I'll give those calls for you"
+\voice\acknowledge\spotterEnabled_Mike,3.wav,"all right, I'll be your spotter","all right, I'll be your spotter"
+\voice\acknowledge\spotterEnabled_Phil,1.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Phil,2.wav,"all right, I'll spot","all right, I'll spot"
+\voice\acknowledge\spotterEnabled_Phil,3.wav,"okay, I'll spot for you","okay, I'll spot for you"
+\voice\acknowledge\spotterEnabled_Phil,4.wav,"okay, I'll give those calls","okay, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Phil,5.wav,"all right, I'll spot","all right, I'll spot"
+\voice\acknowledge\spotterEnabled_Ross,1.wav,"okay, let's go win this thing","okay, let's go win this thing"
+\voice\acknowledge\spotterEnabled_Ross,10.wav,are you ready to win?,are you ready to win?
+\voice\acknowledge\spotterEnabled_Ross,11.wav,"let's kick the tyres and light the fires, baby","let's kick the tyres and light the fires, baby"
+\voice\acknowledge\spotterEnabled_Ross,12.wav,time to nut up or shut up,time to nut up or shut up
+\voice\acknowledge\spotterEnabled_Ross,13.wav,you can do it,you can do it
+\voice\acknowledge\spotterEnabled_Ross,2.wav,"yeah, it's looking good today","yeah, it's looking good today"
+\voice\acknowledge\spotterEnabled_Ross,3.wav,you've got a spotter,you've got a spotter
+\voice\acknowledge\spotterEnabled_Ross,4.wav,"okay, I'll spot you","okay, I'll spot you"
+\voice\acknowledge\spotterEnabled_Ross,5.wav,"all right, here we go, this should be fun","all right, here we go, this should be fun"
+\voice\acknowledge\spotterEnabled_Ross,6.wav,"I got popcorn and a great view, we're all set","I got popcorn and a great view, we're all set"
+\voice\acknowledge\spotterEnabled_Ross,7.wav,let's do this,let's do this
+\voice\acknowledge\spotterEnabled_Ross,8.wav,"wait, you want me to spot? It's your funeral","wait, you want me to spot? It's your funeral"
+\voice\acknowledge\spotterEnabled_Ross,9.wav,"I came to do two things: chew gum and, and I'm out of gum, so, I guess I'll spot you","I came to do two things: chew gum and, and I'm out of gum, so, I guess I'll spot you"
+\voice\acknowledge\spotterEnabled_Sammy,1.wav,"okay, I'll spot","okay, I'll spot"
+\voice\acknowledge\spotterEnabled_Sammy,2.wav,"okay, I'll get you","okay, I'll get you"
+\voice\acknowledge\spotterEnabled_Sammy,3.wav,"okay, I'll give those calls","okay, I'll give those calls"
+\voice\acknowledge\spotterEnabled_Sammy,4.wav,"okay, I'll make sure to give those calls","okay, I'll make sure to give those calls"
+\voice\codriver\detail_brake_rushed,197.wav,brake,brake
+\voice\codriver\detail_downhill,7.wav,down hill,down hill
+\voice\codriver\detail_downhill,8.wav,down hill,down hill
+\voice\codriver\detail_downhill,9.wav,down hill,down hill
+\voice\codriver\detail_plus,117.wav,plus,plus
+\voice\codriver\detail_uphill,10.wav,up hill,up hill
+\voice\codriver\detail_uphill,11.wav,up hill,up hill
+\voice\codriver\detail_uphill,12.wav,up hill,up hill
+\voice\codriver\number_3,48.wav,3,3
+\voice\conditions\maximum_rain,2.wav,"the rain's absolutely terrible here, be careful","the rain's absolutely terrible here, be careful"
+\voice\conditions\maximum_rain,sweary_1.wav,"it's like a fucking monsoon here, watch out","it's like a fucking monsoon here, watch out"
+\voice\corners\black_sands,96.wav,Black Sands,Black Sands
+\voice\corners\fuchsroehre,2.wav,Foxhole,Foxhole
+\voice\corners\sabine_schmitz_kurve,1.wav,Sabine-Schmitz-Kurve,Sabine-Schmitz-Kurve
+\voice\damage_reporting\are_you_ok_second_try,1_rq_suffix_please.wav,are you okay? Answer me if you can,are you okay? Answer me if you can
+\voice\damage_reporting\busted_transmission,1.wav,"transmission's completely screwed, that's our race done","transmission's completely screwed, that's our race done"
+\voice\damage_reporting\busted_transmission,3_op_prefix_oh_dear.wav,"switch it off, mate, there's nothing left of the transmission, we're done here","switch it off, mate, there's nothing left of the transmission, we're done here"
+\voice\engine_monitor\low_fuel_pressure,1.wav,"your fuel pressure's dropping, it doesn't look good","your fuel pressure's dropping, it doesn't look good"
+\voice\flags\black_flag,2.wav,"black flag, we're being shown the black flag","black flag, we're being shown the black flag"
+\voice\flags\fc_yellow_in_progress_usa,1.wav,"we're under caution, the pace car is out","we're under caution, the pace car is out"
+\voice\flags\fc_yellow_start_usa_no_safetycar,2.wav,"full course caution, watch out","full course caution, watch out"
+\voice\flags\slow_car_in_turn_1_stay_high,2.wav,"stay high in turn 1, we got a slow car","stay high in turn 1, we got a slow car"
+\voice\mandatory_pit_stops\confirm_change_right_side_tyres,1.wav,"acknowledged, we'll change right side tyres only","acknowledged, we'll change right side tyres only"
+\voice\mandatory_pit_stops\confirm_dont_fix_suspension,1.wav,"understood, we won't fix the suspension","understood, we won't fix the suspension"
+\voice\mandatory_pit_stops\confirm_option_tyres,4.wav,"copy that, we're going for option tyres","copy that, we're going for option tyres"
+\voice\multiclass\gtp,19.wav,GTP,GTP
+\voice\multiclass\gtp,20.wav,GTP,GTP
+\voice\multiclass\gtp,21.wav,GTP,GTP
+\voice\multiclass\gtp_runners,13.wav,GTP runners,GTP runners
+\voice\multiclass\gtp_runners,14.wav,GTP class cars,GTP class cars
+\voice\multiclass\gtp_runners,15.wav,GTP cars,GTP cars
+\voice\multiclass\lmdh,3.wav,LMDH,LMDH
+\voice\multiclass\lmdh,4.wav,LMDH,LMDH
+\voice\multiclass\lmdh_runners,19.wav,LMDH cars,LMDH cars
+\voice\multiclass\lmdh_runners,20.wav,LMDH runners,LMDH runners
+\voice\multiclass\lmdh_runners,21.wav,LMDH class cars,LMDH class cars
+\voice\penalties\blue_move_now_or_be_penalized,8.wav,"blue flag, let him go or we'll get a penalty","blue flag, let him go or we'll get a penalty"
+\voice\penalties\cut_track_in_prac_or_qual_next_invalid,7.wav,"track limits, they'll delete the next lap as well as this one","track limits, they'll delete the next lap as well as this one"
+\voice\penalties\drive_through_exceeding_single_stint_time,3.wav,"we've had a drive-through penalty, you've exceeded the maximum driver stint time","we've had a drive-through penalty, you've exceeded the maximum driver stint time"
+\voice\penalties\new_penalty_black_flag,4.wav,"black flag, we'll need to come into the pits to serve the penalty","black flag, we'll need to come into the pits to serve the penalty"
+\voice\penalties\warning_headlights_required,10.wav,headlights required,headlights required
+\voice\penalties\warning_headlights_required,5.wav,you must use your headlights,you must use your headlights
+\voice\penalties\warning_headlights_required,6.wav,headlights required,headlights required
+\voice\penalties\warning_headlights_required,7.wav,headlights are required,headlights are required
+\voice\penalties\warning_headlights_required,8.wav,you must use your headlights,you must use your headlights
+\voice\penalties\warning_headlights_required,9.wav,headlights are required,headlights are required
+\voice\penalties\warning_unsportsmanlike_driving,7.wav,"stay calm, mate, we've had a warning for unsportsmanlike driving","stay calm, mate, we've had a warning for unsportsmanlike driving"
+\voice\push_now\pits_exit_traffic_behind,16.wav,"there's traffic behind, watch your mirrors","there's traffic behind, watch your mirrors"
+\voice\rants\general,10.wav,"this really isn't good for morale, we've been busting our asses here, we might as well not have bothered. Look, we need to sit down, and talk properly when you get back to the pits","this really isn't good for morale, we've been busting our asses here, we might as well not have bothered. Look, we need to sit down, and talk properly when you get back to the pits"
+\voice\rants\general,14_male.wav,"you've been a shambles all day, man, total shit show. We're all sat here wondering why we bothered","you've been a shambles all day, man, total shit show. We're all sat here wondering why we bothered"
+\voice\rants\general,15_male.wav,"all weekend, just useless, useless. Fucking tired of seeing this, man, we're all tired of seeing it. It's like, it's like just wasting our time","all weekend, just useless, useless. Fucking tired of seeing this, man, we're all tired of seeing it. It's like, it's like just wasting our time"
+\voice\rants\general,2.wav,"we're all working our asses off here, you got to start delivering. The car's quick and it's solid, and you've got to get your shit together","we're all working our asses off here, you got to start delivering. The car's quick and it's solid, and you've got to get your shit together"
+\voice\rants\general,3.wav,"great, well, there we are, another weekend down the toilet. You might be content to throw your money away, just making up the numbers, but we've got a strong car and a competitive crew here, and we want some results for our hard work","great, well, there we are, another weekend down the toilet. You might be content to throw your money away, just making up the numbers, but we've got a strong car and a competitive crew here, and we want some results for our hard work"
+\voice\rants\general,5.wav,"right this, this isn't good enough, not by a long shot. I'm starting to wonder why we're bothering here. There's guys finishing way ahead of us who've got half the budget and cars that barely work. You're the weak link. The results are not gonna improve unless you do","right this, this isn't good enough, not by a long shot. I'm starting to wonder why we're bothering here. There's guys finishing way ahead of us who've got half the budget and cars that barely work. You're the weak link. The results are not gonna improve unless you do"
+\voice\strategy\acknowledge_time_pitstop,3.wav,"okay, this is our benchmark stop, race pace until sector 2","okay, this is our benchmark stop, race pace until sector 2"
+\voice\strategy\between,2.wav,between,between
+\voice\strategy\between,5.wav,between,between
+\voice\strategy\between,7.wav,between,between
+\voice\timings\opponent_ahead_has_bad_reputation,3_male.wav,"be careful here, the guy in front's not known for playing fair","be careful here, the guy in front's not known for playing fair"
+\voice\tyre_monitor\rr_inner_and_outer_are_same,4.wav,your inner and outer temps are about the same for your right rear,your inner and outer temps are about the same for your right rear
+\voice\watched_opponents\acknowledge_stop_watching_car_number,3.wav,"acknowledged, we'll stop monitoring car number","acknowledged, we'll stop monitoring car number"

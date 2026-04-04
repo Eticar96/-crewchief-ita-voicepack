@@ -1,0 +1,32 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\flags\name_has_gone_off_intro,3.wav,pensiamo che,pensiamo che
+\voice\flags\name_has_gone_off_intro,7.wav,pensiamo che,pensiamo che
+\voice\lap_counter\give_that_position_back,1.wav,restituisci la posizione,restituisci la posizione
+\voice\lap_counter\give_that_position_back,3_op_suffix_please.wav,restituisci la posizione,restituisci la posizione
+\voice\lap_times\best_lap_in_race,1.wav,il giro piu' veloce,il giro piu' veloce
+\voice\lap_times\time_intro,10.wav,il tempo sul giro era,il tempo sul giro era
+\voice\lap_times\time_intro,9.wav,il tempo sul giro era,il tempo sul giro era
+\voice\mandatory_pit_stops\confirm_fix_front_aero,2.wav,"capito, ripariamo l'aerodinamica anteriore","capito, ripariamo l'aerodinamica anteriore"
+\voice\mandatory_pit_stops\confirm_fix_rear_aero,5.wav,"capito, ripariamo solo l'aerodinamica posteriore","capito, ripariamo solo l'aerodinamica posteriore"
+\voice\mandatory_pit_stops\confirm_refuelling,4.wav,"ok, aggiungiamo carburante","ok, aggiungiamo carburante"
+\voice\mandatory_pit_stops\will_be_serving_penalty,4.wav,sconteremo la penalita',sconteremo la penalita'
+\voice\mandatory_pit_stops\will_change_front_tyres_only,1.wav,cambiamo solo le gomme anteriori,cambiamo solo le gomme anteriori
+\voice\mandatory_pit_stops\will_change_rear_tyres_only,2.wav,cambiamo solo le gomme posteriori,cambiamo solo le gomme posteriori
+\voice\mandatory_pit_stops\will_fix_front_and_rear_aero,4.wav,ripariamo aerodinamica anteriore e posteriore,ripariamo aerodinamica anteriore e posteriore
+\voice\mandatory_pit_stops\will_fix_rear_aero,4.wav,ripariamo l'aerodinamica posteriore,ripariamo l'aerodinamica posteriore
+\voice\mandatory_pit_stops\will_fix_rear_and_leave_front_aero,2.wav,ripariamo il posteriore e lasciamo l'anteriore,ripariamo il posteriore e lasciamo l'anteriore
+\voice\mandatory_pit_stops\will_fix_rear_and_leave_front_aero,3.wav,ripariamo il posteriore e lasciamo l'anteriore,ripariamo il posteriore e lasciamo l'anteriore
+\voice\mandatory_pit_stops\will_fix_rear_and_leave_front_aero,4.wav,ripariamo l'aerodinamica posteriore solo,ripariamo l'aerodinamica posteriore solo
+\voice\mandatory_pit_stops\will_fix_rear_and_leave_front_aero,5.wav,ripariamo il posteriore e lasciamo l'anteriore,ripariamo il posteriore e lasciamo l'anteriore
+\voice\mandatory_pit_stops\will_leave_suspension,2.wav,lasciamo la sospensione,lasciamo la sospensione
+\voice\opponents\cant_pronounce_name,2.wav,non riesco a pronunciare il nome,non riesco a pronunciare il nome
+\voice\pearls_of_wisdom\neutral,20.wav,"fluido e preciso, non forzare la macchina","fluido e preciso, non forzare la macchina"
+\voice\penalties\cut_track_in_prac_or_qual,22.wav,"limiti di pista, il giro non conta","limiti di pista, il giro non conta"
+\voice\penalties\cut_track_in_prac_or_qual,6.wav,"limiti di pista, giro cancellato","limiti di pista, giro cancellato"
+\voice\penalties\cut_track_in_prac_or_qual,8.wav,"questo giro non conta, limiti di pista","questo giro non conta, limiti di pista"
+\voice\penalties\cut_track_prac_or_qual_1,1.wav,"giro cancellato, limiti di pista","giro cancellato, limiti di pista"
+\voice\penalties\cut_track_prac_or_qual_1,3.wav,"giro cancellato, limiti di pista","giro cancellato, limiti di pista"
+\voice\penalties\cut_track_prac_or_qual_1,7.wav,"limiti di pista, giro cancellato","limiti di pista, giro cancellato"
+\voice\penalties\cut_track_prac_or_qual_2,2.wav,"limiti di pista, giro cancellato","limiti di pista, giro cancellato"
+\voice\penalties\cut_track_prac_or_qual_2,22.wav,"limiti di pista, il giro non conta","limiti di pista, il giro non conta"
+\voice\penalties\cut_track_prac_or_qual_2,8.wav,"questo giro non conta, limiti di pista","questo giro non conta, limiti di pista"

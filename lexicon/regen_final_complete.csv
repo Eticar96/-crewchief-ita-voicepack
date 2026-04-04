@@ -1,0 +1,140 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\rants\general,3.wav,"un altro weekend buttato, abbiamo una macchina competitiva e un team forte, dobbiamo fare meglio","un altro weekend buttato, abbiamo una macchina competitiva e un team forte, dobbiamo fare meglio"
+\voice\rants\general,5.wav,"questo non basta, non basta per niente, dobbiamo capire perche' siamo cosi' indietro","questo non basta, non basta per niente, dobbiamo capire perche' siamo cosi' indietro"
+\voice\rants\general,10.wav,"non va bene per il morale, lavoriamo come matti e i risultati non arrivano, dobbiamo parlarne seriamente","non va bene per il morale, lavoriamo come matti e i risultati non arrivano, dobbiamo parlarne seriamente"
+\voice\rants\general,15_male.wav,"tutto il weekend un disastro, sono stanco di vedere questi risultati, stiamo sprecando il nostro tempo","tutto il weekend un disastro, sono stanco di vedere questi risultati, stiamo sprecando il nostro tempo"
+\voice\rants\are_you_ok_second_try,1_rq_suffix_please.wav,"stai bene, rispondimi per favore","stai bene, rispondimi per favore"
+\voice\acknowledge\didnt_understand,15.wav,scusa non ho capito,scusa non ho capito
+\voice\acknowledge\didnt_understand,16.wav,puoi ripetere,puoi ripetere
+\voice\acknowledge\didnt_understand,17.wav,non ho sentito bene,non ho sentito bene
+\voice\acknowledge\didnt_understand,18.wav,ripeti per favore,ripeti per favore
+\voice\acknowledge\didnt_understand,19.wav,come hai detto,come hai detto
+\voice\acknowledge\didnt_understand,20.wav,non ti ho sentito,non ti ho sentito
+\voice\acknowledge\didnt_understand,21.wav,ripeti il messaggio,ripeti il messaggio
+\voice\acknowledge\didnt_understand,22.wav,scusa ripeti,scusa ripeti
+\voice\acknowledge\didnt_understand,23.wav,non ho capito ripeti,non ho capito ripeti
+\voice\acknowledge\didnt_understand,24.wav,cosa hai detto,cosa hai detto
+\voice\acknowledge\didnt_understand,25.wav,parla piu' forte,parla piu' forte
+\voice\acknowledge\didnt_understand,26.wav,non ho sentito,non ho sentito
+\voice\damage_reporting\damage,5.wav,abbiamo dei danni,abbiamo dei danni
+\voice\damage_reporting\damage,6.wav,hai preso dei danni,hai preso dei danni
+\voice\damage_reporting\damage,7.wav,la macchina ha dei danni,la macchina ha dei danni
+\voice\damage_reporting\damage,8.wav,stiamo vedendo dei danni,stiamo vedendo dei danni
+\voice\damage_reporting\busted_transmission,sweary_3.wav,"cambio distrutto, maledizione","cambio distrutto, maledizione"
+\voice\damage_reporting\severe_aero_damage,4.wav,"danni aerodinamici gravi, gestisci la macchina","danni aerodinamici gravi, gestisci la macchina"
+\voice\damage_reporting\wheel_damage,1.wav,ruota danneggiata,ruota danneggiata
+\voice\damage_reporting\wheel_damage,2.wav,hai un danno alla ruota,hai un danno alla ruota
+\voice\damage_reporting\wheel_damage,3.wav,"problemi alla ruota, stai attento","problemi alla ruota, stai attento"
+\voice\fuel\about_to_run_out,3.wav,"benzina quasi finita, rientra subito","benzina quasi finita, rientra subito"
+\voice\fuel\about_to_run_out,8.wav,stai per restare a secco,stai per restare a secco
+\voice\fuel\fuel_will_be_tight,9.wav,la benzina sara' contata fino alla fine,la benzina sara' contata fino alla fine
+\voice\penalties\slow_down_penalty_cutting_track,4.wav,"penalita' per taglio pista, rallenta","penalita' per taglio pista, rallenta"
+\voice\penalties\slow_down_penalty_cutting_track,5.wav,"hai tagliato, devi rallentare","hai tagliato, devi rallentare"
+\voice\penalties\slow_down_penalty_cutting_track,6.wav,"taglio pista, rallenta adesso","taglio pista, rallenta adesso"
+\voice\penalties\slow_down_penalty_cutting_track,7.wav,"penalita' taglio, rallenta","penalita' taglio, rallenta"
+\voice\penalties\slow_down_penalty_cutting_track,8.wav,devi scontare la penalita' per taglio,devi scontare la penalita' per taglio
+\voice\lap_counter\finished_race,5.wav,"gara finita, rientri ai box","gara finita, rientri ai box"
+\voice\lap_counter\finished_race,6.wav,"bandiera a scacchi, gara conclusa","bandiera a scacchi, gara conclusa"
+\voice\lap_counter\finished_race,7.wav,"e' finita, torniamo ai box","e' finita, torniamo ai box"
+\voice\lap_counter\finished_race,8.wav,gara terminata,gara terminata
+\voice\lap_counter\finished_race,9.wav,bandiera a scacchi,bandiera a scacchi
+\voice\lap_counter\finished_race,10.wav,"abbiamo finito, rientri","abbiamo finito, rientri"
+\voice\lap_counter\finished_race,11.wav,fine della gara,fine della gara
+\voice\lap_counter\finished_race,12.wav,"gara conclusa, ben fatto","gara conclusa, ben fatto"
+\voice\lap_counter\finished_race,13.wav,"e' fatta, porta a casa la macchina","e' fatta, porta a casa la macchina"
+\voice\lap_counter\finished_race,14.wav,"ultimo giro completato, gara finita","ultimo giro completato, gara finita"
+\voice\timings\opponent_ahead_has_bad_reputation,6.wav,"quello davanti e' pericoloso, stai attento","quello davanti e' pericoloso, stai attento"
+\voice\timings\opponent_ahead_has_bad_reputation,7.wav,"attenzione al pilota davanti, guida aggressivo","attenzione al pilota davanti, guida aggressivo"
+\voice\timings\opponent_ahead_has_bad_reputation,8.wav,"occhio a quello davanti, e' uno scorretto","occhio a quello davanti, e' uno scorretto"
+\voice\timings\opponent_ahead_has_bad_reputation,9.wav,il pilota davanti ha una brutta reputazione,il pilota davanti ha una brutta reputazione
+\voice\timings\opponent_ahead_has_bad_reputation,10.wav,"stai largo da quello davanti, e' pericoloso","stai largo da quello davanti, e' pericoloso"
+\voice\timings\opponent_ahead_has_bad_reputation,11.wav,"quello davanti e' aggressivo, non fidarti","quello davanti e' aggressivo, non fidarti"
+\voice\timings\opponent_ahead_has_bad_reputation,12.wav,"prudenza con quello davanti, combina guai","prudenza con quello davanti, combina guai"
+\voice\timings\opponent_ahead_has_bad_reputation,13.wav,"il pilota davanti e' imprevedibile, occhio","il pilota davanti e' imprevedibile, occhio"
+\voice\timings\opponent_ahead_has_bad_reputation,14.wav,"attento davanti, quel pilota non e' affidabile","attento davanti, quel pilota non e' affidabile"
+\voice\timings\opponent_ahead_has_bad_reputation,15.wav,"quello davanti fa manovre sporche, stai attento","quello davanti fa manovre sporche, stai attento"
+\voice\timings\opponent_ahead_has_bad_reputation,16.wav,"non ti fidare di quello davanti, e' pericoloso","non ti fidare di quello davanti, e' pericoloso"
+\voice\timings\opponent_behind_has_bad_reputation,6.wav,"quello dietro e' pericoloso, controlla gli specchietti","quello dietro e' pericoloso, controlla gli specchietti"
+\voice\timings\opponent_behind_has_bad_reputation,7.wav,"attenzione a chi ti segue, guida aggressivo","attenzione a chi ti segue, guida aggressivo"
+\voice\timings\opponent_behind_has_bad_reputation,8.wav,"occhio a quello dietro, e' uno scorretto","occhio a quello dietro, e' uno scorretto"
+\voice\timings\opponent_behind_has_bad_reputation,9.wav,il pilota dietro ha una brutta reputazione,il pilota dietro ha una brutta reputazione
+\voice\timings\opponent_behind_has_bad_reputation,10.wav,"quello dietro e' aggressivo, stai attento","quello dietro e' aggressivo, stai attento"
+\voice\timings\opponent_behind_has_bad_reputation,11.wav,"non fidarti di quello dietro, e' pericoloso","non fidarti di quello dietro, e' pericoloso"
+\voice\timings\opponent_behind_has_bad_reputation,12.wav,"prudenza con quello dietro, combina guai","prudenza con quello dietro, combina guai"
+\voice\timings\opponent_behind_has_bad_reputation,13.wav,"il pilota dietro e' imprevedibile, difenditi","il pilota dietro e' imprevedibile, difenditi"
+\voice\timings\opponent_behind_has_bad_reputation,14.wav,"attento dietro, quel pilota non e' affidabile","attento dietro, quel pilota non e' affidabile"
+\voice\timings\opponent_behind_has_bad_reputation,15.wav,"quello dietro fa manovre sporche, occhio","quello dietro fa manovre sporche, occhio"
+\voice\timings\opponent_behind_has_bad_reputation,16.wav,"guarda gli specchietti, quello dietro e' pericoloso","guarda gli specchietti, quello dietro e' pericoloso"
+\voice\timings\opponent_behind_has_bad_reputation,17.wav,"stai largo in frenata, quello dietro e' aggressivo","stai largo in frenata, quello dietro e' aggressivo"
+\voice\timings\opponent_ahead_has_below_average_reputation,5.wav,"quello davanti non e' il piu' pulito, attenzione","quello davanti non e' il piu' pulito, attenzione"
+\voice\timings\opponent_ahead_has_below_average_reputation,6.wav,"il pilota davanti non e' sempre corretto, occhio","il pilota davanti non e' sempre corretto, occhio"
+\voice\timings\opponent_ahead_has_below_average_reputation,7.wav,"quello davanti a volte esagera, stai attento","quello davanti a volte esagera, stai attento"
+\voice\timings\opponent_ahead_has_below_average_reputation,8.wav,"attenzione davanti, non e' il piu' regolare","attenzione davanti, non e' il piu' regolare"
+\voice\timings\opponent_ahead_has_below_average_reputation,9.wav,"quello davanti ha una guida un po' sporca","quello davanti ha una guida un po' sporca"
+\voice\timings\opponent_ahead_has_below_average_reputation,10.wav,"occhio a quello davanti, non e' sempre fair","occhio a quello davanti, non e' sempre corretto"
+\voice\timings\opponent_ahead_has_below_average_reputation,11.wav,"il pilota davanti non e' dei piu' corretti","il pilota davanti non e' dei piu' corretti"
+\voice\timings\opponent_ahead_has_below_average_reputation,12.wav,"prudenza con quello davanti, a volte chiude","prudenza con quello davanti, a volte chiude"
+\voice\timings\opponent_ahead_has_below_average_reputation,13.wav,"quello davanti non ha la guida piu' pulita","quello davanti non ha la guida piu' pulita"
+\voice\timings\opponent_behind_has_below_average_reputation,5.wav,"quello dietro non e' sempre corretto, attenzione","quello dietro non e' sempre corretto, attenzione"
+\voice\timings\opponent_behind_has_below_average_reputation,6.wav,"il pilota dietro non e' il piu' pulito, occhio","il pilota dietro non e' il piu' pulito, occhio"
+\voice\timings\opponent_behind_has_below_average_reputation,7.wav,"quello dietro a volte esagera, stai attento","quello dietro a volte esagera, stai attento"
+\voice\timings\opponent_behind_has_below_average_reputation,8.wav,"attenzione dietro, non e' il piu' regolare","attenzione dietro, non e' il piu' regolare"
+\voice\timings\opponent_behind_has_below_average_reputation,9.wav,"quello dietro ha una guida un po' sporca","quello dietro ha una guida un po' sporca"
+\voice\timings\opponent_behind_has_below_average_reputation,10.wav,"occhio a quello dietro, non e' sempre corretto","occhio a quello dietro, non e' sempre corretto"
+\voice\timings\opponent_behind_has_below_average_reputation,11.wav,"il pilota dietro non e' dei piu' corretti","il pilota dietro non e' dei piu' corretti"
+\voice\timings\opponent_behind_has_below_average_reputation,12.wav,"prudenza con quello dietro, a volte spinge troppo","prudenza con quello dietro, a volte spinge troppo"
+\voice\timings\opponent_behind_has_below_average_reputation,13.wav,"quello dietro non ha la guida piu' pulita","quello dietro non ha la guida piu' pulita"
+\voice\position\p22,1.wav,posizione ventidue,posizione ventidue
+\voice\position\p25,1.wav,posizione venticinque,posizione venticinque
+\voice\position\p26,1.wav,posizione ventisei,posizione ventisei
+\voice\position\p27,1.wav,posizione ventisette,posizione ventisette
+\voice\position\p28,1.wav,posizione ventotto,posizione ventotto
+\voice\position\p29,1.wav,posizione ventinove,posizione ventinove
+\voice\position\p30,1.wav,posizione trenta,posizione trenta
+\voice\position\p31,1.wav,posizione trentuno,posizione trentuno
+\voice\position\p32,1.wav,posizione trentadue,posizione trentadue
+\voice\position\p33,1.wav,posizione trentatre',posizione trentatre'
+\voice\position\p34,1.wav,posizione trentaquattro,posizione trentaquattro
+\voice\position\p35,1.wav,posizione trentacinque,posizione trentacinque
+\voice\position\p36,1.wav,posizione trentasei,posizione trentasei
+\voice\position\p37,1.wav,posizione trentasette,posizione trentasette
+\voice\position\p38,1.wav,posizione trentotto,posizione trentotto
+\voice\position\p39,1.wav,posizione trentanove,posizione trentanove
+\voice\position\p40,1.wav,posizione quaranta,posizione quaranta
+\voice\position\p41,1.wav,posizione quarantuno,posizione quarantuno
+\voice\position\p42,1.wav,posizione quarantadue,posizione quarantadue
+\voice\position\p43,1.wav,posizione quarantatre',posizione quarantatre'
+\voice\position\p44,1.wav,posizione quarantaquattro,posizione quarantaquattro
+\voice\position\p45,1.wav,posizione quarantacinque,posizione quarantacinque
+\voice\position\p46,1.wav,posizione quarantasei,posizione quarantasei
+\voice\position\p47,1.wav,posizione quarantasette,posizione quarantasette
+\voice\position\p48,1.wav,posizione quarantotto,posizione quarantotto
+\voice\position\p49,1.wav,posizione quarantanove,posizione quarantanove
+\voice\position\p50,1.wav,posizione cinquanta,posizione cinquanta
+\voice\position\p51,1.wav,posizione cinquantuno,posizione cinquantuno
+\voice\position\p52,1.wav,posizione cinquantadue,posizione cinquantadue
+\voice\position\p53,1.wav,posizione cinquantatre',posizione cinquantatre'
+\voice\position\p54,1.wav,posizione cinquantaquattro,posizione cinquantaquattro
+\voice\position\p55,1.wav,posizione cinquantacinque,posizione cinquantacinque
+\voice\position\p56,1.wav,posizione cinquantasei,posizione cinquantasei
+\voice\rejoining\rejoin_clear,4.wav,"pista libera, puoi rientrare","pista libera, puoi rientrare"
+\voice\rejoining\rejoin_clear,5.wav,"via libera, rientra in pista","via libera, rientra in pista"
+\voice\rejoining\rejoin_clear,6.wav,"tutto libero, vai","tutto libero, vai"
+\voice\rejoining\rejoin_clear,7.wav,"nessuno in arrivo, rientra","nessuno in arrivo, rientra"
+\voice\rejoining\rejoin_clear,8.wav,"puoi rientrare, pista libera","puoi rientrare, pista libera"
+\voice\rejoining\rejoin_clear,9.wav,"e' libero, esci adesso","e' libero, esci adesso"
+\voice\rejoining\rejoin_clear,10.wav,"rientra ora, via libera","rientra ora, via libera"
+\voice\rejoining\rejoin_wait,4.wav,"aspetta, c'e' traffico","aspetta, c'e' traffico"
+\voice\rejoining\rejoin_wait,5.wav,"non rientrare ancora, aspetta","non rientrare ancora, aspetta"
+\voice\rejoining\rejoin_wait,6.wav,"ferma, sta arrivando qualcuno","ferma, sta arrivando qualcuno"
+\voice\rejoining\rejoin_wait,7.wav,"aspetta prima di rientrare","aspetta prima di rientrare"
+\voice\rejoining\rejoin_wait,8.wav,"non uscire adesso, aspetta","non uscire adesso, aspetta"
+\voice\rejoining\rejoin_wait,9.wav,"traffico in arrivo, resta fermo","traffico in arrivo, resta fermo"
+\voice\rejoining\rejoin_wait,10.wav,"aspetta il passaggio, poi rientri","aspetta il passaggio, poi rientri"
+\voice\rejoining\rejoin_wait,11.wav,"non adesso, aspetta che passino","non adesso, aspetta che passino"
+\voice\lap_times\personal_best,2.wav,miglior tempo personale!,miglior tempo personale!
+\voice\push_now\push_to_improve,1_prefix_come_on.wav,dai spingi per migliorare,dai spingi per migliorare
+\voice\push_now\push_to_improve,3_suffix_come_on.wav,spingi per migliorare dai,spingi per migliorare dai
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,3.wav,stime benzina non affidabili,stime benzina non affidabili
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,3.wav,stime posizione non affidabili,stime posizione non affidabili
+\voice\engine_monitor\all_clear,4.wav,motore tutto a posto,motore tutto a posto

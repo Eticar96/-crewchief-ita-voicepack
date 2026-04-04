@@ -1,0 +1,247 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\acknowledge\didnt_understand,15.wav,non ho capito,non ho capito
+\voice\acknowledge\didnt_understand,16.wav,scusa ripeti,scusa ripeti
+\voice\acknowledge\didnt_understand,17.wav,non ho sentito bene,non ho sentito bene
+\voice\acknowledge\didnt_understand,18.wav,puoi ripetere,puoi ripetere
+\voice\acknowledge\didnt_understand,19.wav,ripeti per favore,ripeti per favore
+\voice\acknowledge\didnt_understand,20.wav,non ti ho capito,non ti ho capito
+\voice\acknowledge\didnt_understand,21.wav,scusa non ho sentito,scusa non ho sentito
+\voice\acknowledge\didnt_understand,22.wav,cosa hai detto,cosa hai detto
+\voice\acknowledge\didnt_understand,23.wav,non era chiaro ripeti,non era chiaro ripeti
+\voice\acknowledge\didnt_understand,24.wav,ridimmi tutto,ridimmi tutto
+\voice\acknowledge\didnt_understand,25.wav,non ho capito niente,non ho capito niente
+\voice\acknowledge\didnt_understand,26.wav,ripeti non ti sentivo,ripeti non ti sentivo
+\voice\damage_reporting\busted_transmission,sweary_3.wav,cambio distrutto maledizione,cambio distrutto maledizione
+\voice\damage_reporting\damage,5.wav,hai dei danni,hai dei danni
+\voice\damage_reporting\damage,6.wav,ci sono danni alla vettura,ci sono danni alla vettura
+\voice\damage_reporting\damage,7.wav,la macchina ha dei danni,la macchina ha dei danni
+\voice\damage_reporting\damage,8.wav,abbiamo preso dei danni,abbiamo preso dei danni
+\voice\damage_reporting\severe_aero_damage,4.wav,danni aerodinamici gravi,danni aerodinamici gravi
+\voice\damage_reporting\wheel_damage,1.wav,ruota danneggiata,ruota danneggiata
+\voice\damage_reporting\wheel_damage,2.wav,abbiamo un danno alla ruota,abbiamo un danno alla ruota
+\voice\damage_reporting\wheel_damage,3.wav,problema a una ruota,problema a una ruota
+\voice\engine_monitor\all_clear,4.wav,motore tutto ok,motore tutto ok
+\voice\flags\stay_below_vsc_speed,3.wav,resta sotto il limite vi esse ci,resta sotto il limite vi esse ci
+\voice\flags\stay_below_vsc_speed,4.wav,non superare la velocita' vi esse ci,non superare la velocita' vi esse ci
+\voice\flags\virtual_safety_car,4.wav,vi esse ci attiva,vi esse ci attiva
+\voice\flags\virtual_safety_car_phase_over,4.wav,vi esse ci terminata,vi esse ci terminata
+\voice\flags\virtual_safety_car_phase_over,5.wav,fase vi esse ci conclusa,fase vi esse ci conclusa
+\voice\flags\virtual_safety_car_speed,3.wav,rispetta il limite vi esse ci,rispetta il limite vi esse ci
+\voice\flags\virtual_safety_car_speed,4.wav,mantieni la velocita' vi esse ci,mantieni la velocita' vi esse ci
+\voice\flags\virtual_safety_car_speed,5.wav,attenzione al limite vi esse ci,attenzione al limite vi esse ci
+\voice\fuel\about_to_run_out,4.wav,benzina quasi finita!,benzina quasi finita!
+\voice\fuel\about_to_run_out,5.wav,stiamo finendo la benzina!,stiamo finendo la benzina!
+\voice\fuel\about_to_run_out,6.wav,carburante quasi a zero!,carburante quasi a zero!
+\voice\fuel\about_to_run_out,7.wav,benzina agli sgoccioli!,benzina agli sgoccioli!
+\voice\fuel\about_to_run_out,8.wav,siamo a secco tra poco!,siamo a secco tra poco!
+\voice\fuel\fuel_will_be_tight,5.wav,benzina contata,benzina contata
+\voice\fuel\fuel_will_be_tight,6.wav,carburante risicato,carburante risicato
+\voice\fuel\fuel_will_be_tight,7.wav,benzina al limite,benzina al limite
+\voice\fuel\fuel_will_be_tight,8.wav,saremo giusti di benzina,saremo giusti di benzina
+\voice\fuel\not_enough_laps_for_average,3.wav,non abbastanza giri per la media,non abbastanza giri per la media
+\voice\lap_counter\finished_race,5.wav,gara finita,gara finita
+\voice\lap_counter\finished_race,6.wav,bandiera a scacchi,bandiera a scacchi
+\voice\lap_counter\finished_race,7.wav,abbiamo finito la gara,abbiamo finito la gara
+\voice\lap_counter\finished_race,8.wav,traguardo tagliato,traguardo tagliato
+\voice\lap_counter\finished_race,9.wav,gara conclusa,gara conclusa
+\voice\lap_counter\finished_race,10.wav,siamo al traguardo,siamo al traguardo
+\voice\lap_counter\finished_race,11.wav,scacchi scacchi gara finita,scacchi scacchi gara finita
+\voice\lap_counter\finished_race,12.wav,ecco la bandiera a scacchi,ecco la bandiera a scacchi
+\voice\lap_counter\finished_race,13.wav,fine della gara,fine della gara
+\voice\lap_counter\finished_race_good_finish,9.wav,gara finita bel risultato!,gara finita bel risultato!
+\voice\lap_counter\finished_race_good_finish,10.wav,ottimo risultato bravo!,ottimo risultato bravo!
+\voice\lap_counter\finished_race_good_finish,11.wav,grande gara complimenti!,grande gara complimenti!
+\voice\lap_counter\finished_race_good_finish,12.wav,bel piazzamento ben fatto!,bel piazzamento ben fatto!
+\voice\lap_counter\finished_race_good_finish,13.wav,buon risultato oggi!,buon risultato oggi!
+\voice\lap_counter\finished_race_good_finish,14.wav,bella gara davvero!,bella gara davvero!
+\voice\lap_counter\finished_race_good_finish,15.wav,ottima prestazione bravo!,ottima prestazione bravo!
+\voice\lap_counter\finished_race_good_finish,16.wav,gara solida ben guidato!,gara solida ben guidato!
+\voice\lap_counter\finished_race_good_finish,17.wav,bravissimo che risultato!,bravissimo che risultato!
+\voice\lap_counter\finished_race_good_finish,18.wav,finita bene gran lavoro!,finita bene gran lavoro!
+\voice\lap_counter\finished_race_last,5.wav,gara finita non e' andata bene,gara finita non e' andata bene
+\voice\lap_counter\finished_race_last,6.wav,ultimo purtroppo giornata storta,ultimo purtroppo giornata storta
+\voice\lap_counter\finished_race_last,7.wav,gara da dimenticare,gara da dimenticare
+\voice\lap_counter\finished_race_last,8.wav,giornata nera purtroppo,giornata nera purtroppo
+\voice\lap_counter\finished_race_last,9.wav,non e' andata come speravamo,non e' andata come speravamo
+\voice\lap_counter\finished_race_last,10.wav,ultimo al traguardo giornata no,ultimo al traguardo giornata no
+\voice\lap_counter\finished_race_last,11.wav,gara difficile mettiamoci una croce,gara difficile mettiamoci una croce
+\voice\lap_counter\finished_race_last,12.wav,purtroppo ultimo oggi,purtroppo ultimo oggi
+\voice\lap_counter\finished_race_last,13.wav,risultato pessimo dimentichiamola,risultato pessimo dimentichiamola
+\voice\lap_counter\laps_make_them_count,4.wav,pochi giri falli contare,pochi giri falli contare
+\voice\lap_counter\last_lap_leading,4.wav,ultimo giro sei primo!,ultimo giro sei primo!
+\voice\lap_counter\podium_finish,5.wav,podio grande risultato!,podio grande risultato!
+\voice\lap_counter\podium_finish,6.wav,siamo sul podio fantastico!,siamo sul podio fantastico!
+\voice\lap_counter\podium_finish,7.wav,podio che bella gara!,podio che bella gara!
+\voice\lap_counter\podium_finish,8.wav,sul podio bravo!,sul podio bravo!
+\voice\lap_counter\podium_finish,9.wav,podio meritatissimo!,podio meritatissimo!
+\voice\lap_counter\podium_finish,10.wav,grande podio complimenti!,grande podio complimenti!
+\voice\lap_counter\podium_finish,11.wav,ce l'abbiamo fatta podio!,ce l'abbiamo fatta podio!
+\voice\lap_counter\podium_finish,12.wav,podio bellissimo risultato!,podio bellissimo risultato!
+\voice\lap_counter\podium_finish,13.wav,terzo o meglio gran lavoro!,terzo o meglio gran lavoro!
+\voice\lap_counter\race_starts_in,5.wav,la gara inizia tra,la gara inizia tra
+\voice\lap_counter\race_starts_in,6.wav,partenza tra,partenza tra
+\voice\lap_counter\race_starts_in,7.wav,si parte tra,si parte tra
+\voice\lap_counter\race_starts_in,8.wav,mancano alla partenza,mancano alla partenza
+\voice\lap_counter\race_starts_in,9.wav,via tra,via tra
+\voice\lap_counter\race_starts_in,10.wav,il via tra,il via tra
+\voice\lap_counter\race_starts_in,11.wav,inizio gara tra,inizio gara tra
+\voice\lap_counter\race_starts_in,12.wav,ci siamo partenza tra,ci siamo partenza tra
+\voice\lap_counter\won_race,8.wav,hai vinto fantastico!,hai vinto fantastico!
+\voice\lap_counter\won_race,9.wav,vittoria grande!,vittoria grande!
+\voice\lap_counter\won_race,10.wav,primo al traguardo bravo!,primo al traguardo bravo!
+\voice\lap_counter\won_race,11.wav,hai vinto che gara!,hai vinto che gara!
+\voice\lap_counter\won_race,12.wav,vittoria meritatissima!,vittoria meritatissima!
+\voice\lap_counter\won_race,13.wav,incredibile hai vinto!,incredibile hai vinto!
+\voice\lap_counter\won_race,14.wav,primo grandissimo!,primo grandissimo!
+\voice\lap_counter\won_race,15.wav,abbiamo vinto che spettacolo!,abbiamo vinto che spettacolo!
+\voice\lap_counter\won_race,16.wav,vittoria stupenda complimenti!,vittoria stupenda complimenti!
+\voice\lap_times\consistent,4.wav,tempi costanti bravo,tempi costanti bravo
+\voice\lap_times\need_to_find_a_few_more_tenths,4.wav,devi trovare qualche decimo,devi trovare qualche decimo
+\voice\lap_times\need_to_find_more_than_a_second,4.wav,devi trovare piu' di un secondo,devi trovare piu' di un secondo
+\voice\lap_times\need_to_find_one_more_tenth,4.wav,ti serve un decimo in piu',ti serve un decimo in piu'
+\voice\lap_times\pace_ok,4.wav,passo ok continua cosi',passo ok continua cosi'
+\voice\lap_times\personal_best,11.wav,miglior tempo personale!,miglior tempo personale!
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,4.wav,stime benzina non affidabili senza tempi pit,stime benzina non affidabili senza tempi pit
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,5.wav,senza tempi ai box stime carburante incerte,senza tempi ai box stime carburante incerte
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_fuel_estimates,6.wav,calcolo benzina impreciso mancano dati pit,calcolo benzina impreciso mancano dati pit
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,4.wav,stime posizione non affidabili,stime posizione non affidabili
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,5.wav,posizione stimata poco precisa,posizione stimata poco precisa
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,6.wav,calcolo posizione incerto senza tempi pit,calcolo posizione incerto senza tempi pit
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,7.wav,previsione posizione inaffidabile,previsione posizione inaffidabile
+\voice\mandatory_pit_stops\no_pit_timings_unreliable_position_estimates,8.wav,stime di posizione approssimative,stime di posizione approssimative
+\voice\penalties\disqualified_no_headlights,3.wav,squalificato fari spenti,squalificato fari spenti
+\voice\penalties\disqualified_no_headlights,4.wav,squalifica per fari non accesi,squalifica per fari non accesi
+\voice\penalties\disqualified_no_headlights,5.wav,fuori gara fari spenti,fuori gara fari spenti
+\voice\penalties\disqualified_no_headlights,6.wav,squalificato non avevi i fari,squalificato non avevi i fari
+\voice\penalties\disqualified_no_headlights,7.wav,bandiera nera fari spenti,bandiera nera fari spenti
+\voice\penalties\slow_down_penalty_clear,3.wav,penalita' scontata vai,penalita' scontata vai
+\voice\penalties\slow_down_penalty_clear,4.wav,penalita' completata riprendi il ritmo,penalita' completata riprendi il ritmo
+\voice\penalties\slow_down_penalty_cutting_track,4.wav,penalita' per taglio pista rallenta,penalita' per taglio pista rallenta
+\voice\penalties\slow_down_penalty_cutting_track,5.wav,hai tagliato rallenta subito,hai tagliato rallenta subito
+\voice\penalties\slow_down_penalty_cutting_track,6.wav,taglio pista devi rallentare,taglio pista devi rallentare
+\voice\penalties\slow_down_penalty_cutting_track,7.wav,penalita' taglio tracciato rallenta,penalita' taglio tracciato rallenta
+\voice\penalties\slow_down_penalty_cutting_track,8.wav,rallenta penalita' per track limits,rallenta penalita' per track limits
+\voice\penalties\slow_down_penalty_cutting_track,9.wav,stai tagliando rallenta ora,stai tagliando rallenta ora
+\voice\penalties\vsc_violation_penalty,3.wav,penalita' per violazione vi esse ci,penalita' per violazione vi esse ci
+\voice\penalties\vsc_violation_penalty,4.wav,violazione vi esse ci penalizzato,violazione vi esse ci penalizzato
+\voice\penalties\vsc_violation_penalty,5.wav,hai violato la vi esse ci penalita',hai violato la vi esse ci penalita'
+\voice\penalties\vsc_violation_penalty,6.wav,penalita' non hai rispettato la vi esse ci,penalita' non hai rispettato la vi esse ci
+\voice\penalties\warning_headlights_required_when_raining,3.wav,piove accendi i fari,piove accendi i fari
+\voice\penalties\warning_headlights_required_when_raining,4.wav,fari obbligatori con la pioggia,fari obbligatori con la pioggia
+\voice\penalties\warning_headlights_required_when_raining,5.wav,sta piovendo accendi i fari,sta piovendo accendi i fari
+\voice\penalties\warning_headlights_required_when_raining,6.wav,pioggia fari accesi per regolamento,pioggia fari accesi per regolamento
+\voice\penalties\warning_headlights_required_when_raining,7.wav,con la pioggia servono i fari,con la pioggia servono i fari
+\voice\position\bad_start,6.wav,brutta partenza,brutta partenza
+\voice\position\leading,4.wav,sei al comando,sei al comando
+\voice\position\leading,5.wav,sei in testa alla gara,sei in testa alla gara
+\voice\position\overtaking,27.wav,bel sorpasso!,bel sorpasso!
+\voice\position\overtaking,28.wav,grande sorpasso bravo!,grande sorpasso bravo!
+\voice\position\p10,1.wav,posizione dieci,posizione dieci
+\voice\position\p11,1.wav,posizione undici,posizione undici
+\voice\position\p12,1.wav,posizione dodici,posizione dodici
+\voice\position\p13,1.wav,posizione tredici,posizione tredici
+\voice\position\p14,1.wav,posizione quattordici,posizione quattordici
+\voice\position\p15,1.wav,posizione quindici,posizione quindici
+\voice\position\p16,1.wav,posizione sedici,posizione sedici
+\voice\position\p17,1.wav,posizione diciassette,posizione diciassette
+\voice\position\p18,1.wav,posizione diciotto,posizione diciotto
+\voice\position\p19,1.wav,posizione diciannove,posizione diciannove
+\voice\position\p20,1.wav,posizione venti,posizione venti
+\voice\position\p21,1.wav,posizione ventuno,posizione ventuno
+\voice\position\p22,1.wav,posizione ventidue,posizione ventidue
+\voice\position\p23,1.wav,posizione ventitre',posizione ventitre'
+\voice\position\p24,1.wav,posizione ventiquattro,posizione ventiquattro
+\voice\position\p25,1.wav,posizione venticinque,posizione venticinque
+\voice\position\p26,1.wav,posizione ventisei,posizione ventisei
+\voice\position\p27,1.wav,posizione ventisette,posizione ventisette
+\voice\position\p28,1.wav,posizione ventotto,posizione ventotto
+\voice\position\p29,1.wav,posizione ventinove,posizione ventinove
+\voice\position\p30,1.wav,posizione trenta,posizione trenta
+\voice\position\p31,1.wav,posizione trentuno,posizione trentuno
+\voice\position\p32,1.wav,posizione trentadue,posizione trentadue
+\voice\position\p33,1.wav,posizione trentatre',posizione trentatre'
+\voice\position\p34,1.wav,posizione trentaquattro,posizione trentaquattro
+\voice\position\p35,1.wav,posizione trentacinque,posizione trentacinque
+\voice\position\p36,1.wav,posizione trentasei,posizione trentasei
+\voice\position\p40,1.wav,posizione quaranta,posizione quaranta
+\voice\position\p50,1.wav,posizione cinquanta,posizione cinquanta
+\voice\position\p56,1.wav,posizione cinquantasei,posizione cinquantasei
+\voice\position\terrible_start,6.wav,partenza disastrosa,partenza disastrosa
+\voice\push_now\push_to_improve,1_prefix_come_on.wav,dai spingi per migliorare,dai spingi per migliorare
+\voice\push_now\push_to_improve,2_prefix_ok.wav,ok spingi per migliorare,ok spingi per migliorare
+\voice\push_now\push_to_improve,3_suffix_come_on.wav,spingi per migliorare dai,spingi per migliorare dai
+\voice\race_time\last_lap,2.wav,ultimo giro,ultimo giro
+\voice\rejoining\rejoin_clear,4.wav,puoi rientrare via libera,puoi rientrare via libera
+\voice\rejoining\rejoin_clear,5.wav,pista libera rientra,pista libera rientra
+\voice\rejoining\rejoin_clear,6.wav,vai rientra e' libero,vai rientra e' libero
+\voice\rejoining\rejoin_clear,7.wav,tutto libero puoi andare,tutto libero puoi andare
+\voice\rejoining\rejoin_clear,8.wav,rientra ora via libera,rientra ora via libera
+\voice\rejoining\rejoin_clear,9.wav,nessuno in arrivo rientra,nessuno in arrivo rientra
+\voice\rejoining\rejoin_clear,10.wav,libero vai vai vai,libero vai vai vai
+\voice\rejoining\rejoin_wait,4.wav,aspetta prima di rientrare,aspetta prima di rientrare
+\voice\rejoining\rejoin_wait,5.wav,non rientrare ancora,non rientrare ancora
+\voice\rejoining\rejoin_wait,6.wav,fermo aspetta il passaggio,fermo aspetta il passaggio
+\voice\rejoining\rejoin_wait,7.wav,attenzione non uscire ora,attenzione non uscire ora
+\voice\rejoining\rejoin_wait,8.wav,resta fermo arrivano macchine,resta fermo arrivano macchine
+\voice\rejoining\rejoin_wait,9.wav,aspetta c'e' traffico,aspetta c'e' traffico
+\voice\rejoining\rejoin_wait,10.wav,non muoverti ancora,non muoverti ancora
+\voice\rejoining\rejoin_wait,11.wav,pazienta un attimo aspetta,pazienta un attimo aspetta
+\voice\timings\car_behind_is_lapping_us,4.wav,quello dietro ci sta doppiando,quello dietro ci sta doppiando
+\voice\timings\car_behind_is_lapping_us,5.wav,attenzione ci doppiano da dietro,attenzione ci doppiano da dietro
+\voice\timings\car_behind_is_lapping_us,6.wav,lascia passare ci sta doppiando,lascia passare ci sta doppiando
+\voice\timings\car_behind_is_unlapping_itself,3.wav,quello dietro si sta sdoppiando,quello dietro si sta sdoppiando
+\voice\timings\car_behind_is_unlapping_itself,4.wav,chi e' dietro si sdoppia,chi e' dietro si sdoppia
+\voice\timings\car_behind_is_unlapping_itself,5.wav,macchina dietro in fase di sdoppiaggio,macchina dietro in fase di sdoppiaggio
+\voice\timings\car_behind_is_unlapping_itself,6.wav,attenzione dietro si sta sdoppiando,attenzione dietro si sta sdoppiando
+\voice\timings\he_is_faster_through_corner,4.wav,e' piu' veloce in curva,e' piu' veloce in curva
+\voice\timings\he_is_faster_through_corner,5.wav,guadagna in curva su di te,guadagna in curva su di te
+\voice\timings\he_is_faster_through_corner,6.wav,ha piu' velocita' nelle curve,ha piu' velocita' nelle curve
+\voice\timings\he_is_slower_through_corner,4.wav,e' piu' lento in curva,e' piu' lento in curva
+\voice\timings\he_is_slower_through_corner,5.wav,perdi meno di lui in curva,perdi meno di lui in curva
+\voice\timings\he_is_slower_through_corner,6.wav,sei piu' forte in curva,sei piu' forte in curva
+\voice\timings\opponent_ahead_has_bad_reputation,6.wav,quello davanti guida sporco,quello davanti guida sporco
+\voice\timings\opponent_ahead_has_bad_reputation,7.wav,attenzione davanti e' uno scorretto,attenzione davanti e' uno scorretto
+\voice\timings\opponent_ahead_has_bad_reputation,8.wav,chi e' davanti e' pericoloso,chi e' davanti e' pericoloso
+\voice\timings\opponent_ahead_has_bad_reputation,9.wav,occhio quello davanti e' aggressivo,occhio quello davanti e' aggressivo
+\voice\timings\opponent_ahead_has_bad_reputation,10.wav,stai attento guida scorrettamente,stai attento guida scorrettamente
+\voice\timings\opponent_ahead_has_bad_reputation,11.wav,quello davanti ha fama pessima,quello davanti ha fama pessima
+\voice\timings\opponent_ahead_has_bad_reputation,12.wav,prudenza davanti guidatore scorretto,prudenza davanti guidatore scorretto
+\voice\timings\opponent_ahead_has_bad_reputation,13.wav,attenzione quello davanti e' duro,attenzione quello davanti e' duro
+\voice\timings\opponent_ahead_has_bad_reputation,14.wav,chi e' davanti non e' corretto,chi e' davanti non e' corretto
+\voice\timings\opponent_ahead_has_bad_reputation,15.wav,occhio davanti guida sporca,occhio davanti guida sporca
+\voice\timings\opponent_ahead_has_bad_reputation,16.wav,massima attenzione e' un pilota duro,massima attenzione e' un pilota duro
+\voice\timings\opponent_ahead_has_below_average_reputation,5.wav,quello davanti non e' pulitissimo,quello davanti non e' pulitissimo
+\voice\timings\opponent_ahead_has_below_average_reputation,6.wav,chi e' davanti a volte e' sporco,chi e' davanti a volte e' sporco
+\voice\timings\opponent_ahead_has_below_average_reputation,7.wav,attenzione davanti non sempre corretto,attenzione davanti non sempre corretto
+\voice\timings\opponent_ahead_has_below_average_reputation,8.wav,quello davanti puo' essere aggressivo,quello davanti puo' essere aggressivo
+\voice\timings\opponent_ahead_has_below_average_reputation,9.wav,occhio davanti guida un po' sporca,occhio davanti guida un po' sporca
+\voice\timings\opponent_ahead_has_below_average_reputation,10.wav,non fidarti troppo di chi e' davanti,non fidarti troppo di chi e' davanti
+\voice\timings\opponent_ahead_has_below_average_reputation,11.wav,davanti pilota non sempre pulito,davanti pilota non sempre pulito
+\voice\timings\opponent_ahead_has_below_average_reputation,12.wav,prudenza quello davanti e' imprevedibile,prudenza quello davanti e' imprevedibile
+\voice\timings\opponent_ahead_has_below_average_reputation,13.wav,attenzione davanti puo' chiudere la porta,attenzione davanti puo' chiudere la porta
+\voice\timings\opponent_behind_has_bad_reputation,6.wav,quello dietro e' pericoloso,quello dietro e' pericoloso
+\voice\timings\opponent_behind_has_bad_reputation,7.wav,attenzione dietro e' uno scorretto,attenzione dietro e' uno scorretto
+\voice\timings\opponent_behind_has_bad_reputation,8.wav,chi e' dietro guida sporco,chi e' dietro guida sporco
+\voice\timings\opponent_behind_has_bad_reputation,9.wav,occhio quello dietro e' aggressivo,occhio quello dietro e' aggressivo
+\voice\timings\opponent_behind_has_bad_reputation,10.wav,stai attento dietro e' pericoloso,stai attento dietro e' pericoloso
+\voice\timings\opponent_behind_has_bad_reputation,11.wav,quello dietro ha pessima reputazione,quello dietro ha pessima reputazione
+\voice\timings\opponent_behind_has_bad_reputation,12.wav,prudenza dietro guidatore scorretto,prudenza dietro guidatore scorretto
+\voice\timings\opponent_behind_has_bad_reputation,13.wav,attenzione dietro e' un duro,attenzione dietro e' un duro
+\voice\timings\opponent_behind_has_bad_reputation,14.wav,chi e' dietro non e' corretto,chi e' dietro non e' corretto
+\voice\timings\opponent_behind_has_bad_reputation,15.wav,occhio dietro guida sporca,occhio dietro guida sporca
+\voice\timings\opponent_behind_has_bad_reputation,16.wav,massima prudenza dietro e' cattivo,massima prudenza dietro e' cattivo
+\voice\timings\opponent_behind_has_bad_reputation,17.wav,dietro c'e' uno che picchia,dietro c'e' uno che picchia
+\voice\timings\opponent_behind_has_below_average_reputation,5.wav,quello dietro a volte e' aggressivo,quello dietro a volte e' aggressivo
+\voice\timings\opponent_behind_has_below_average_reputation,6.wav,chi e' dietro non e' pulitissimo,chi e' dietro non e' pulitissimo
+\voice\timings\opponent_behind_has_below_average_reputation,7.wav,attenzione dietro non sempre corretto,attenzione dietro non sempre corretto
+\voice\timings\opponent_behind_has_below_average_reputation,8.wav,quello dietro puo' essere aggressivo,quello dietro puo' essere aggressivo
+\voice\timings\opponent_behind_has_below_average_reputation,9.wav,occhio dietro guida un po' sporca,occhio dietro guida un po' sporca
+\voice\timings\opponent_behind_has_below_average_reputation,10.wav,non fidarti di chi e' dietro,non fidarti di chi e' dietro
+\voice\timings\opponent_behind_has_below_average_reputation,11.wav,dietro pilota non sempre pulito,dietro pilota non sempre pulito
+\voice\timings\opponent_behind_has_below_average_reputation,12.wav,prudenza quello dietro e' imprevedibile,prudenza quello dietro e' imprevedibile
+\voice\timings\opponent_behind_has_below_average_reputation,13.wav,attenzione dietro puo' fare mosse strane,attenzione dietro puo' fare mosse strane
+\voice\tyre_monitor\worn_all_round,4.wav,gomme consumate su tutte,gomme consumate su tutte
+\voice\tyre_monitor\worn_all_round,5.wav,tutte le gomme sono consumate,tutte le gomme sono consumate
+\voice\tyre_monitor\worn_fronts,4.wav,anteriori consumate,anteriori consumate
+\voice\tyre_monitor\worn_left_front,4.wav,anteriore sinistra consumata,anteriore sinistra consumata
+\voice\tyre_monitor\worn_left_front,5.wav,consumo sulla gomma anteriore sinistra,consumo sulla gomma anteriore sinistra

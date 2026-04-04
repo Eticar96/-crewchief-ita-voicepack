@@ -1,0 +1,45 @@
+======================================================================
+RIEPILOGO ANALISI QUALITA AUDIO - Leonardo Voice Pack
+======================================================================
+File totali analizzati: 27305
+File con problemi:      11
+Problemi totali:        11
+Tempo di analisi:       92.1 secondi
+
+CONTEGGIO PER TIPO DI PROBLEMA:
+--------------------------------------------------
+  File corrotti                                      0
+  Clipping severo (>1% campioni)                     0
+  Volume troppo basso (<-45dB)                       0
+  Volume troppo alto (>-8dB)                         0
+  Durata zero / file vuoto                           0
+  Durata eccessiva (>30s)                            0
+  Sample rate errato (!= 22050Hz)                    0
+  Bit depth errato (!= 16-bit)                       0
+  Canali errati (!= mono)                            0
+  Troppo silenzio (>70%)                            11 <<<
+
+
+--- Troppo silenzio (>70%) (11 file) ---
+  voice\codriver\detail_and_rushed\196.wav
+    -> Silence: 71.8% (threshold 70%)
+  voice\codriver\detail_plus\117-b.wav
+    -> Silence: 71.3% (threshold 70%)
+  voice\codriver\number_3\45.wav
+    -> Silence: 72.1% (threshold 70%)
+  voice\codriver\number_3\46.wav
+    -> Silence: 70.1% (threshold 70%)
+  voice\flags\position3_has_gone_off\9-b.wav
+    -> Silence: 73.8% (threshold 70%)
+  voice\opponents\next_car_is\7_male.wav
+    -> Silence: 72.8% (threshold 70%)
+  voice\position\p7\1-b.wav
+    -> Silence: 75.3% (threshold 70%)
+  voice\strategy\between\4-a.wav
+    -> Silence: 74.0% (threshold 70%)
+  voice\strategy\between\4.wav
+    -> Silence: 70.1% (threshold 70%)
+  voice\tyre_monitor\bar\6-a.wav
+    -> Silence: 72.1% (threshold 70%)
+  voice\tyre_monitor\slicks\29.wav
+    -> Silence: 70.2% (threshold 70%)
