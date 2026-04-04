@@ -14,35 +14,35 @@ defaultLocale = it
 # Ogni variante e' separata da due punti (:)
 ######################################################
 
-HOWS_MY_TYRE_WEAR = come sono le gomme:com'e' l'usura gomme:stato usura gomme:come vanno le gomme
-HOWS_MY_TRANSMISSION = com'e' la trasmissione:com'e' il cambio:stato del cambio
-HOWS_MY_AERO = com'e' l'aerodinamica:com'e' la carrozzeria:stato aerodinamica
-HOWS_MY_ENGINE = com'e' il motore:stato del motore:come va il motore
-HOWS_MY_SUSPENSION = come sono le sospensioni:stato sospensioni:come vanno le sospensioni
-HOWS_MY_BRAKES = come sono i freni:stato dei freni:come vanno i freni
-HOWS_MY_FUEL = com'e' il carburante:stato carburante:come va la benzina
-HOWS_MY_BATTERY = com'e' la batteria:stato della batteria:livello batteria:com'e' il livello energia
-HOWS_MY_PACE = com'e' il mio passo:come va il mio ritmo:il mio passo
-HOWS_MY_SELF_PACE = com'e' il mio delta personale:com'e' il mio passo personale:delta dal mio migliore
-HOW_ARE_MY_TYRE_TEMPS = come sono le temperature gomme:temperature delle gomme
-WHAT_ARE_MY_TYRE_TEMPS = quali sono le temperature gomme:dimmi le temperature gomme:temperature gomme
-HOW_ARE_MY_BRAKE_TEMPS = come sono le temperature freni:temperature dei freni
-WHAT_ARE_MY_BRAKE_TEMPS = quali sono le temperature freni:dimmi le temperature freni:temperature freni
-HOW_ARE_MY_ENGINE_TEMPS = come sono le temperature motore:temperatura del motore:temperature motore
-WHATS_MY_GAP_IN_FRONT = qual e' il distacco davanti:distacco da chi mi precede:gap davanti:quanto ho davanti
-WHATS_MY_GAP_BEHIND = qual e' il distacco dietro:distacco da chi mi segue:gap dietro:quanto ho dietro
-WHAT_WAS_MY_LAST_LAP_TIME = qual e' il mio ultimo giro:tempo ultimo giro:ultimo giro:tempo sul giro
-WHATS_MY_BEST_LAP_TIME = qual e' il mio miglior giro:miglior tempo:miglior giro
-WHATS_THE_FASTEST_LAP_TIME = qual e' il giro piu' veloce:giro veloce della gara:miglior giro in gara
-WHATS_MY_POSITION = qual e' la mia posizione:in che posizione sono:posizione
-WHATS_MY_FUEL_LEVEL = qual e' il mio livello carburante:quanto carburante ho:livello benzina
-WHATS_MY_FUEL_USAGE = qual e' il mio consumo:consumo carburante:quanto consumo:consumo benzina
-WHATS_MY_IRATING = qual e' il mio irating:dimmi il mio irating
-WHATS_MY_LICENSE_CLASS = qual e' la mia classe licenza:dimmi la mia licenza
-WHAT_TYRES_AM_I_ON = che gomme ho:su che gomma sono:che mescola ho montato:tipo di gomma
-IS_MY_PIT_BOX_OCCUPIED = il mio box e' occupato:la mia piazzola e' libera:e' libero il mio box
-HOW_MUCH_FUEL_TO_END_OF_RACE = quanto carburante mi serve per finire:quanta benzina per finire la gara:carburante per finire
-HOW_LONG_WILL_THESE_TYRES_LAST = quanto durano queste gomme:per quanto reggono le gomme:durata gomme
+HOWS_MY_TYRE_WEAR = usura gomme:stato gomme:come sono le gomme:come vanno le gomme
+HOWS_MY_TRANSMISSION = stato cambio:trasmissione:come va il cambio
+HOWS_MY_AERO = stato aerodinamica:aerodinamica:carrozzeria
+HOWS_MY_ENGINE = stato motore:come va il motore:motore
+HOWS_MY_SUSPENSION = stato sospensioni:sospensioni:come vanno le sospensioni
+HOWS_MY_BRAKES = stato freni:come vanno i freni:freni
+HOWS_MY_FUEL = stato carburante:benzina:come va la benzina:carburante
+HOWS_MY_BATTERY = stato batteria:batteria:livello batteria:energia
+HOWS_MY_PACE = il mio passo:mio ritmo:passo gara
+HOWS_MY_SELF_PACE = delta personale:passo personale:mio delta
+HOW_ARE_MY_TYRE_TEMPS = temperature gomme:gomme calde:stato termico gomme
+WHAT_ARE_MY_TYRE_TEMPS = temperature gomme:dimmi temperature gomme:calore gomme
+HOW_ARE_MY_BRAKE_TEMPS = temperature freni:freni caldi:calore freni
+WHAT_ARE_MY_BRAKE_TEMPS = temperature freni:dimmi temperature freni
+HOW_ARE_MY_ENGINE_TEMPS = temperatura motore:motore caldo:temperature motore
+WHATS_MY_GAP_IN_FRONT = distacco davanti:vantaggio:gap davanti:quanto ho davanti:distacco
+WHATS_MY_GAP_BEHIND = distacco dietro:quanto ho dietro:gap dietro:chi ho dietro quanto
+WHAT_WAS_MY_LAST_LAP_TIME = ultimo giro:tempo sul giro:ultimo tempo:tempo giro
+WHATS_MY_BEST_LAP_TIME = miglior giro:miglior tempo:mio migliore
+WHATS_THE_FASTEST_LAP_TIME = giro veloce:miglior giro in gara:giro record
+WHATS_MY_POSITION = posizione:che posizione:dove sono:classifica
+WHATS_MY_FUEL_LEVEL = livello benzina:quanta benzina:livello carburante:quanto carburante
+WHATS_MY_FUEL_USAGE = consumo benzina:consumo carburante:quanto consumo
+WHATS_MY_IRATING = mio irating:irating
+WHATS_MY_LICENSE_CLASS = mia licenza:classe licenza
+WHAT_TYRES_AM_I_ON = che gomme ho:tipo gomma:mescola montata:che mescola
+IS_MY_PIT_BOX_OCCUPIED = box occupato:box libero:piazzola libera
+HOW_MUCH_FUEL_TO_END_OF_RACE = carburante per finire:benzina per finire:basta la benzina
+HOW_LONG_WILL_THESE_TYRES_LAST = durata gomme:quanto durano le gomme:reggono le gomme
 
 ### combinato con un numero di giri o un tempo per stimare il carburante necessario (servono 3-4 giri di dati)
 ### es. "calcola carburante per dieci minuti", "calcola carburante per un'ora", "calcola carburante per trenta giri"
@@ -52,61 +52,60 @@ CALCULATE_FUEL_FOR = calcola carburante per:quanto carburante mi serve per:quant
 WHAT_ARE_THE_RELATIVE_TYRE_PERFORMANCES = differenze tra le mescole:confronta le mescole:differenze di passo tra gomme:confronta le gomme
 
 
-KEEP_QUIET = stai zitto:silenzio:so quello che faccio:lasciami in pace:parla meno
-KEEP_ME_INFORMED = tienimi aggiornato:tienimi informato:aggiornami
-TELL_ME_THE_GAPS = dimmi i distacchi:dimmi i gap:dammi i distacchi:distacchi ogni giro
-DONT_TELL_ME_THE_GAPS = non dirmi i distacchi:basta distacchi:non dirmi i gap:basta gap
-ENABLE_YELLOW_FLAG_MESSAGES = dimmi le bandiere gialle:dammi gli aggiornamenti incidenti:segnalami le gialle
-DISABLE_YELLOW_FLAG_MESSAGES = basta bandiere gialle:non dirmi le gialle:basta aggiornamenti incidenti
-ENABLE_MANUAL_FORMATION_LAP = questo e' il giro di formazione:giro di formazione:partenza lanciata
-DISABLE_MANUAL_FORMATION_LAP = partenza da fermo:niente giro di formazione
-TALK_TO_ME_ANYWHERE = parlami ovunque:messaggi in qualsiasi punto
-DONT_TALK_IN_THE_CORNERS = non parlare in curva:niente messaggi in curva:non parlare in frenata:niente messaggi in frenata
-SPOT = spotter attivo:attiva lo spotter:inizia a spottare
-DONT_SPOT = disattiva lo spotter:spotter disattivo
+KEEP_QUIET = stai zitto:silenzio:basta:zitto
+KEEP_ME_INFORMED = aggiornami:tienimi informato:parla
+TELL_ME_THE_GAPS = dimmi i distacchi:distacchi:gap:dammi i distacchi
+DONT_TELL_ME_THE_GAPS = basta distacchi:basta gap:niente distacchi
+ENABLE_YELLOW_FLAG_MESSAGES = segnala gialle:bandiere gialle:dimmi le gialle
+DISABLE_YELLOW_FLAG_MESSAGES = basta gialle:niente gialle
+ENABLE_MANUAL_FORMATION_LAP = giro di formazione:formazione:partenza lanciata
+DISABLE_MANUAL_FORMATION_LAP = partenza da fermo:niente formazione
+TALK_TO_ME_ANYWHERE = parlami ovunque:parla sempre
+DONT_TALK_IN_THE_CORNERS = non parlare in curva:silenzio in curva:zitto in curva
+SPOT = spotter attivo:attiva spotter:spotter
+DONT_SPOT = disattiva spotter:spotter spento:niente spotter
 
+WHOS_IN_FRONT_IN_THE_RACE = chi ho davanti:chi e' davanti:davanti chi e'
+WHOS_BEHIND_IN_THE_RACE = chi ho dietro:chi e' dietro:dietro chi e'
+WHOS_IN_FRONT_ON_TRACK = davanti in pista:chi mi precede
+WHOS_BEHIND_ON_TRACK = dietro in pista:chi mi segue
+WHOS_LEADING = chi e' in testa:chi comanda:primo chi e':leader
 
-WHOS_IN_FRONT_IN_THE_RACE = chi e' davanti in gara:chi mi precede in classifica:chi ho davanti:chi e' davanti
-WHOS_BEHIND_IN_THE_RACE = chi e' dietro in gara:chi mi segue in classifica:chi ho dietro:chi e' dietro
-WHOS_IN_FRONT_ON_TRACK = chi ho davanti in pista:chi mi precede in pista
-WHOS_BEHIND_ON_TRACK = chi ho dietro in pista:chi mi segue in pista
-WHOS_LEADING = chi e' in testa:chi comanda la gara:chi e' al comando:chi guida la gara
+WHERE_AM_I_FASTER = dove sono veloce:dove attacco:punto forte
+WHERE_AM_I_SLOWER = dove sono lento:dove mi attacca:punto debole
 
-WHERE_AM_I_FASTER = dove sono piu' veloce:dove posso attaccare:dove devo attaccare
-WHERE_AM_I_SLOWER = dove sono piu' lento:dove devo difendermi:dove mi attacca:dove e' piu' veloce lui
+HOW_LONGS_LEFT = quanto manca:quanti giri:giri rimasti:manca quanto
+WHATS_THE_TIME = che ore sono:ora
+REPEAT_LAST_MESSAGE = ripeti:cosa hai detto:non ho capito
+HAVE_I_SERVED_MY_PENALTY = penalita' scontata:scontata la penalita'
+DO_I_HAVE_A_PENALTY = ho penalita':sono penalizzato:penalita'
+DO_I_STILL_HAVE_A_PENALTY = ancora penalita':sono ancora penalizzato
+DO_I_HAVE_A_MANDATORY_PIT_STOP = sosta obbligatoria:devo rientrare:pit obbligatorio:devo fare pit
+WHAT_ARE_MY_SECTOR_TIMES = tempi settore:settori:miei settori
+WHATS_MY_LAST_SECTOR_TIME = ultimo settore:tempo settore
+WHATS_THE_AIR_TEMP = temperatura aria:aria quanti gradi:gradi aria
+WHATS_THE_TRACK_TEMP = temperatura pista:pista quanti gradi:gradi pista
+RADIO_CHECK = mi ricevi:mi senti:prova radio:radio
 
-HOW_LONGS_LEFT = quanto manca:quanti giri mancano:quanto manca alla fine
-WHATS_THE_TIME = che ore sono:che ora e':dimmi l'ora
-REPEAT_LAST_MESSAGE = ripeti l'ultimo messaggio:ripeti:cosa hai detto
-HAVE_I_SERVED_MY_PENALTY = ho scontato la penalita':penalita' scontata
-DO_I_HAVE_A_PENALTY = ho una penalita':sono penalizzato
-DO_I_STILL_HAVE_A_PENALTY = ho ancora una penalita':sono ancora penalizzato
-DO_I_HAVE_A_MANDATORY_PIT_STOP = devo fare una sosta:devo rientrare ai box:ho una sosta obbligatoria:devo fare un pit stop obbligatorio:ho un pit stop obbligatorio
-WHAT_ARE_MY_SECTOR_TIMES = quali sono i miei tempi settore:tempi nei settori:i miei settori
-WHATS_MY_LAST_SECTOR_TIME = qual e' il mio ultimo tempo settore:ultimo settore
-WHATS_THE_AIR_TEMP = qual e' la temperatura dell'aria:temperatura aria
-WHATS_THE_TRACK_TEMP = qual e' la temperatura della pista:temperatura pista
-RADIO_CHECK = mi senti:prova radio:mi ricevi
+PLAY_CORNER_NAMES = nomi curve:elenca curve:dimmi le curve
+DAMAGE_REPORT = rapporto danni:stato danni:danni:la macchina
+CAR_STATUS = stato macchina:stato vettura:la macchina come va
+SESSION_STATUS = stato gara:sessione:stato sessione
+STATUS = stato completo:aggiornamento:dimmi tutto
 
-PLAY_CORNER_NAMES = dimmi i nomi delle curve:nomi delle curve:elenca le curve
-DAMAGE_REPORT = rapporto danni:com'e' la macchina:la macchina e' a posto:stato danni
-CAR_STATUS = stato della macchina:stato vettura
-SESSION_STATUS = stato della sessione:stato gara
-STATUS = aggiornamento completo:stato completo:aggiornami su tutto
+START_PACE_NOTES_PLAYBACK = avvia note:note di passo:inizia note
+STOP_PACE_NOTES_PLAYBACK = ferma note:stop note
 
-START_PACE_NOTES_PLAYBACK = inizia le note di passo:avvia note di passo
-STOP_PACE_NOTES_PLAYBACK = ferma le note di passo:stop note di passo
+IS_CAR_AHEAD_MY_CLASS = davanti mia classe:quello davanti che classe:stessa classe davanti
+IS_CAR_BEHIND_MY_CLASS = dietro mia classe:quello dietro che classe:stessa classe dietro
+WHAT_CLASS_IS_CAR_AHEAD = classe davanti:che classe davanti
+WHAT_CLASS_IS_CAR_BEHIND = classe dietro:che classe dietro
 
-IS_CAR_AHEAD_MY_CLASS = la macchina davanti e' della mia classe:quello davanti e' della mia classe:chi ho davanti e' della mia classe
-IS_CAR_BEHIND_MY_CLASS = la macchina dietro e' della mia classe:quello dietro e' della mia classe:chi ho dietro e' della mia classe
-WHAT_CLASS_IS_CAR_AHEAD = che classe e' la macchina davanti:di che classe e' quello davanti:classe della macchina davanti
-WHAT_CLASS_IS_CAR_BEHIND = che classe e' la macchina dietro:di che classe e' quello dietro:classe della macchina dietro
+MORE_INFO = dimmi di piu':dettagli:approfondisci
+I_AM_OK = si:ok:sto bene:tutto ok:va bene
 
-MORE_INFO = dimmi di piu':piu' informazioni:piu' dettagli:chiarisci
-I_AM_OK = si:va bene:ok:sto bene:si sto bene:tutto ok
-
-PLAY_POST_PIT_POSITION_ESTIMATE = dove esco se mi fermo:stima posizioni dopo la sosta:cosa succede se mi fermo
-PRACTICE_PIT_STOP = cronometra questa sosta:prova pit stop:cronometra il pit stop:test pit stop
+PLAY_POST_PIT_POSITION_ESTIMATE = stima dopo pit:dove esco:posizione dopo sosta
+PRACTICE_PIT_STOP = cronometra sosta:prova pit:test pit stop
 
 SET_ALARM_CLOCK = imposta sveglia alle:svegliami alle
 CLEAR_ALARM_CLOCK = cancella sveglia:cancella le sveglie

@@ -1,0 +1,11 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\test_ottimizzato\01_tecnico_distacco,1.wav,il distacco davanti,il distacco davanti e' di
+\voice\test_ottimizzato\02_tecnico_gomme,1.wav,anteriore sinistra consumata,anteriore sinistra consumata
+\voice\test_ottimizzato\03_tecnico_benzina,1.wav,occhio alla benzina gestisci bene,occhio alla benzina gestisci bene
+\voice\test_ottimizzato\04_spotter_macchina,1.wav,macchina a sinistra,macchina a sinistra
+\voice\test_ottimizzato\05_emotivo_vittoria,1.wav,hai vinto fantastico che gara,hai vinto fantastico che gara
+\voice\test_ottimizzato\06_emotivo_sorpasso,1.wav,bel sorpasso bravo,bel sorpasso bravo
+\voice\test_ottimizzato\07_tecnico_temperatura,1.wav,temperatura pista in salita adesso e',temperatura pista in salita adesso e'
+\voice\test_ottimizzato\08_penalita,1.wav,hai tagliato la pista rischi penalita',hai tagliato la pista rischi una penalita'
+\voice\test_ottimizzato\09_spotter_libero,1.wav,libero tutto,libero tutto
+\voice\test_ottimizzato\10_acknowledge,1.wav,ok ricevuto,ok ricevuto
