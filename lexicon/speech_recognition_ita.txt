@@ -14,26 +14,26 @@ defaultLocale = it
 # Ogni variante e' separata da due punti (:)
 ######################################################
 
-HOWS_MY_TYRE_WEAR = usura gomme:stato gomme:come sono le gomme:come vanno le gomme
-HOWS_MY_TRANSMISSION = stato cambio:trasmissione:come va il cambio
-HOWS_MY_AERO = stato aerodinamica:aerodinamica:carrozzeria
-HOWS_MY_ENGINE = stato motore:come va il motore:motore
-HOWS_MY_SUSPENSION = stato sospensioni:sospensioni:come vanno le sospensioni
-HOWS_MY_BRAKES = stato freni:come vanno i freni:freni
-HOWS_MY_FUEL = stato carburante:benzina:come va la benzina:carburante
-HOWS_MY_BATTERY = stato batteria:batteria:livello batteria:energia
-HOWS_MY_PACE = il mio passo:mio ritmo:passo gara
-HOWS_MY_SELF_PACE = delta personale:passo personale:mio delta
+HOWS_MY_TYRE_WEAR = usura gomme:stato gomme:le gomme:gomme
+HOWS_MY_TRANSMISSION = stato cambio:trasmissione:il cambio
+HOWS_MY_AERO = aerodinamica:carrozzeria:stato aero
+HOWS_MY_ENGINE = stato motore:il motore:motore
+HOWS_MY_SUSPENSION = sospensioni:stato sospensioni
+HOWS_MY_BRAKES = stato freni:i freni:freni
+HOWS_MY_FUEL = carburante:benzina:stato benzina
+HOWS_MY_BATTERY = batteria:energia:stato batteria
+HOWS_MY_PACE = mio passo:ritmo:passo
+HOWS_MY_SELF_PACE = delta personale:mio delta
 HOW_ARE_MY_TYRE_TEMPS = temperature gomme:gomme calde:stato termico gomme
 WHAT_ARE_MY_TYRE_TEMPS = temperature gomme:dimmi temperature gomme:calore gomme
 HOW_ARE_MY_BRAKE_TEMPS = temperature freni:freni caldi:calore freni
 WHAT_ARE_MY_BRAKE_TEMPS = temperature freni:dimmi temperature freni
 HOW_ARE_MY_ENGINE_TEMPS = temperatura motore:motore caldo:temperature motore
 WHATS_MY_GAP_IN_FRONT = distacco davanti:vantaggio:gap davanti:quanto ho davanti:distacco
-WHATS_MY_GAP_BEHIND = distacco dietro:quanto ho dietro:gap dietro:chi ho dietro quanto
+WHATS_MY_GAP_BEHIND = distacco dietro:quanto ho dietro:gap dietro
 WHAT_WAS_MY_LAST_LAP_TIME = ultimo giro:tempo sul giro:ultimo tempo:tempo giro
 WHATS_MY_BEST_LAP_TIME = miglior giro:miglior tempo:mio migliore
-WHATS_THE_FASTEST_LAP_TIME = giro veloce:miglior giro in gara:giro record
+WHATS_THE_FASTEST_LAP_TIME = giro veloce:giro record:record
 WHATS_MY_POSITION = posizione:che posizione:dove sono:classifica
 WHATS_MY_FUEL_LEVEL = livello benzina:quanta benzina:livello carburante:quanto carburante
 WHATS_MY_FUEL_USAGE = consumo benzina:consumo carburante:quanto consumo
@@ -42,14 +42,14 @@ WHATS_MY_LICENSE_CLASS = mia licenza:classe licenza
 WHAT_TYRES_AM_I_ON = che gomme ho:tipo gomma:mescola montata:che mescola
 IS_MY_PIT_BOX_OCCUPIED = box occupato:box libero:piazzola libera
 HOW_MUCH_FUEL_TO_END_OF_RACE = carburante per finire:benzina per finire:basta la benzina
-HOW_LONG_WILL_THESE_TYRES_LAST = durata gomme:quanto durano le gomme:reggono le gomme
+HOW_LONG_WILL_THESE_TYRES_LAST = durata gomme:reggono le gomme
 
 ### combinato con un numero di giri o un tempo per stimare il carburante necessario (servono 3-4 giri di dati)
 ### es. "calcola carburante per dieci minuti", "calcola carburante per un'ora", "calcola carburante per trenta giri"
-CALCULATE_FUEL_FOR = calcola carburante per:quanto carburante mi serve per:quanta benzina per
+CALCULATE_FUEL_FOR = calcola carburante per:benzina per:carburante per
 
 ### differenze di passo tra mescole
-WHAT_ARE_THE_RELATIVE_TYRE_PERFORMANCES = differenze tra le mescole:confronta le mescole:differenze di passo tra gomme:confronta le gomme
+WHAT_ARE_THE_RELATIVE_TYRE_PERFORMANCES = confronta mescole:confronta gomme:differenza gomme
 
 
 KEEP_QUIET = stai zitto:silenzio:basta:zitto
@@ -61,7 +61,7 @@ DISABLE_YELLOW_FLAG_MESSAGES = basta gialle:niente gialle
 ENABLE_MANUAL_FORMATION_LAP = giro di formazione:formazione:partenza lanciata
 DISABLE_MANUAL_FORMATION_LAP = partenza da fermo:niente formazione
 TALK_TO_ME_ANYWHERE = parlami ovunque:parla sempre
-DONT_TALK_IN_THE_CORNERS = non parlare in curva:silenzio in curva:zitto in curva
+DONT_TALK_IN_THE_CORNERS = silenzio in curva:zitto in curva
 SPOT = spotter attivo:attiva spotter:spotter
 DONT_SPOT = disattiva spotter:spotter spento:niente spotter
 
@@ -69,7 +69,7 @@ WHOS_IN_FRONT_IN_THE_RACE = chi ho davanti:chi e' davanti:davanti chi e'
 WHOS_BEHIND_IN_THE_RACE = chi ho dietro:chi e' dietro:dietro chi e'
 WHOS_IN_FRONT_ON_TRACK = davanti in pista:chi mi precede
 WHOS_BEHIND_ON_TRACK = dietro in pista:chi mi segue
-WHOS_LEADING = chi e' in testa:chi comanda:primo chi e':leader
+WHOS_LEADING = chi comanda:in testa:leader
 
 WHERE_AM_I_FASTER = dove sono veloce:dove attacco:punto forte
 WHERE_AM_I_SLOWER = dove sono lento:dove mi attacca:punto debole
@@ -96,8 +96,8 @@ STATUS = stato completo:aggiornamento:dimmi tutto
 START_PACE_NOTES_PLAYBACK = avvia note:note di passo:inizia note
 STOP_PACE_NOTES_PLAYBACK = ferma note:stop note
 
-IS_CAR_AHEAD_MY_CLASS = davanti mia classe:quello davanti che classe:stessa classe davanti
-IS_CAR_BEHIND_MY_CLASS = dietro mia classe:quello dietro che classe:stessa classe dietro
+IS_CAR_AHEAD_MY_CLASS = davanti mia classe:stessa classe davanti
+IS_CAR_BEHIND_MY_CLASS = dietro mia classe:stessa classe dietro
 WHAT_CLASS_IS_CAR_AHEAD = classe davanti:che classe davanti
 WHAT_CLASS_IS_CAR_BEHIND = classe dietro:che classe dietro
 
@@ -135,9 +135,9 @@ WHERE_IS = dove si trova
 WHOS_IN = chi e' in
 WHATS = qual e'
 BEST_LAP = miglior giro
-BEST_LAP_TIME = miglior tempo sul giro
+BEST_LAP_TIME = miglior tempo
 LAST_LAP = ultimo giro
-LAST_LAP_TIME = ultimo tempo sul giro
+LAST_LAP_TIME = ultimo tempo
 THE_LEADER = il leader
 THE_CAR_AHEAD = la macchina davanti
 THE_CAR_IN_FRONT = la macchina davanti
@@ -170,37 +170,37 @@ HOURS = ore
 # Comandi pit stop - usati per iRacing e altri simulatori
 #################################################
 
-PIT_STOP = pit stop
-PIT_STOP_ADD = pit stop aggiungi
-PIT_STOP_TEAROFF = pit stop strappo visiera:pit stop parabrezza
-PIT_STOP_FAST_REPAIR = pit stop riparazione rapida:pit stop ripara
-PIT_STOP_CLEAR_ALL = pit stop cancella tutto
-PIT_STOP_CLEAR_TYRES = pit stop cancella gomme
-PIT_STOP_CLEAR_WIND_SCREEN = pit stop cancella strappo visiera:pit stop cancella parabrezza
-PIT_STOP_CLEAR_FAST_REPAIR = pit stop cancella riparazione rapida
-PIT_STOP_CLEAR_FUEL = pit stop cancella carburante
+PIT_STOP = pit stop:box
+PIT_STOP_ADD = box aggiungi
+PIT_STOP_TEAROFF = box visiera:box parabrezza
+PIT_STOP_FAST_REPAIR = box ripara:riparazione rapida
+PIT_STOP_CLEAR_ALL = box cancella tutto
+PIT_STOP_CLEAR_TYRES = box cancella gomme
+PIT_STOP_CLEAR_WIND_SCREEN = box cancella visiera
+PIT_STOP_CLEAR_FAST_REPAIR = box cancella riparazione
+PIT_STOP_CLEAR_FUEL = box cancella benzina
 
-PIT_STOP_CHANGE_ALL_TYRES = pit stop cambia tutte le gomme:box cambia tutte le gomme
-PIT_STOP_CHANGE_FRONT_LEFT_TYRE = pit stop cambia anteriore sinistra
-PIT_STOP_CHANGE_FRONT_RIGHT_TYRE = pit stop cambia anteriore destra
-PIT_STOP_CHANGE_REAR_LEFT_TYRE = pit stop cambia posteriore sinistra
-PIT_STOP_CHANGE_REAR_RIGHT_TYRE = pit stop cambia posteriore destra
-PIT_STOP_CHANGE_LEFT_SIDE_TYRES = pit stop cambia gomme lato sinistro
-PIT_STOP_CHANGE_RIGHT_SIDE_TYRES = pit stop cambia gomme lato destro
+PIT_STOP_CHANGE_ALL_TYRES = box tutte le gomme:cambia gomme
+PIT_STOP_CHANGE_FRONT_LEFT_TYRE = box anteriore sinistra
+PIT_STOP_CHANGE_FRONT_RIGHT_TYRE = box anteriore destra
+PIT_STOP_CHANGE_REAR_LEFT_TYRE = box posteriore sinistra
+PIT_STOP_CHANGE_REAR_RIGHT_TYRE = box posteriore destra
+PIT_STOP_CHANGE_LEFT_SIDE_TYRES = box gomme sinistra
+PIT_STOP_CHANGE_RIGHT_SIDE_TYRES = box gomme destra
 
-PIT_STOP_CHANGE_TYRE_PRESSURE = pit stop cambia pressione gomme
-PIT_STOP_CHANGE_FRONT_LEFT_TYRE_PRESSURE = pit stop cambia pressione anteriore sinistra
-PIT_STOP_CHANGE_FRONT_RIGHT_TYRE_PRESSURE = pit stop cambia pressione anteriore destra
-PIT_STOP_CHANGE_REAR_LEFT_TYRE_PRESSURE = pit stop cambia pressione posteriore sinistra
-PIT_STOP_CHANGE_REAR_RIGHT_TYRE_PRESSURE = pit stop cambia pressione posteriore destra
-PIT_STOP_FUEL_TO_THE_END = pit stop benzina fino alla fine:pit stop carburante fino alla fine della gara
+PIT_STOP_CHANGE_TYRE_PRESSURE = box pressione gomme
+PIT_STOP_CHANGE_FRONT_LEFT_TYRE_PRESSURE = box pressione anteriore sinistra
+PIT_STOP_CHANGE_FRONT_RIGHT_TYRE_PRESSURE = box pressione anteriore destra
+PIT_STOP_CHANGE_REAR_LEFT_TYRE_PRESSURE = box pressione posteriore sinistra
+PIT_STOP_CHANGE_REAR_RIGHT_TYRE_PRESSURE = box pressione posteriore destra
+PIT_STOP_FUEL_TO_THE_END = box benzina pieno:box pieno
 
 LITERS = litri
 GALLONS = galloni
 
-HOW_MANY_INCIDENT_POINTS = quanti incidenti ho:qual e' il mio conteggio incidenti:quanti punti incidente ho
-WHATS_THE_INCIDENT_LIMIT = qual e' il limite incidenti:limite incidenti
-WHATS_THE_SOF = qual e' il sof:qual e' la forza del campo:forza del campo
+HOW_MANY_INCIDENT_POINTS = quanti incidenti:punti incidente:incidenti
+WHATS_THE_INCIDENT_LIMIT = limite incidenti
+WHATS_THE_SOF = forza del campo:sof
 
 #################################################
 # Numeri - testo che il riconoscitore vocale ascoltera' (non riconosce bene i caratteri numerici).

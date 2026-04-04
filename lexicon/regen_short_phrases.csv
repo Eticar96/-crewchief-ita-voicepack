@@ -1,0 +1,137 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\acknowledge\OK,1.wav,ok ricevuto,ok ricevuto
+\voice\acknowledge\no,1.wav,"no, negativo","no, negativo"
+\voice\acknowledge\no,2.wav,"no, negativo","no, negativo"
+\voice\acknowledge\no,3.wav,"no, negativo","no, negativo"
+\voice\acknowledge\no,4.wav,"no, negativo","no, negativo"
+\voice\lap_counter\green_green_green,12.wav,"vai vai, forza!","vai vai, forza!"
+\voice\lap_counter\green_green_green,13.wav,"vai vai, forza!","vai vai, forza!"
+\voice\lap_counter\green_green_green,18.wav,"vai vai, forza!","vai vai, forza!"
+\voice\lap_counter\green_green_green,19.wav,andiamo forza!,andiamo forza!
+\voice\lap_counter\green_green_green,7.wav,"vai vai, forza!","vai vai, forza!"
+\voice\mandatory_pit_stops\will_put_fuel_in,3.wav,faremo rifornimento,faremo rifornimento
+\voice\multiclass\gt1,10.wav,giti uno,giti uno
+\voice\multiclass\gt1,11.wav,giti uno,giti uno
+\voice\multiclass\gt1,12.wav,giti uno,giti uno
+\voice\multiclass\gt2,13.wav,giti due,giti due
+\voice\multiclass\gt2,14.wav,giti due,giti due
+\voice\multiclass\gt2,15.wav,giti due,giti due
+\voice\multiclass\gt3,25.wav,giti tre,giti tre
+\voice\multiclass\gt3,26.wav,giti tre,giti tre
+\voice\multiclass\gt3,27.wav,giti tre,giti tre
+\voice\multiclass\gt4,28.wav,giti quattro,giti quattro
+\voice\multiclass\gt4,29.wav,giti quattro,giti quattro
+\voice\multiclass\gt4,30.wav,giti quattro,giti quattro
+\voice\multiclass\gt5,31.wav,giti cinque,giti cinque
+\voice\multiclass\gt5,32.wav,giti cinque,giti cinque
+\voice\multiclass\gt5,33.wav,giti cinque,giti cinque
+\voice\multiclass\gtlm,22.wav,giti elle emme,giti elle emme
+\voice\multiclass\gtlm,23.wav,giti elle emme,giti elle emme
+\voice\multiclass\gtlm,24.wav,giti elle emme,giti elle emme
+\voice\multiclass\gto,61.wav,giti o,giti o
+\voice\multiclass\gto,62.wav,giti o,giti o
+\voice\multiclass\gto,63.wav,giti o,giti o
+\voice\multiclass\lmp1,1.wav,elle emme pi uno,elle emme pi uno
+\voice\multiclass\lmp1,2.wav,elle emme pi uno,elle emme pi uno
+\voice\multiclass\lmp1,3.wav,elle emme pi uno,elle emme pi uno
+\voice\multiclass\lmp2,4.wav,elle emme pi due,elle emme pi due
+\voice\multiclass\lmp2,5.wav,elle emme pi due,elle emme pi due
+\voice\multiclass\lmp2,6.wav,elle emme pi due,elle emme pi due
+\voice\multiclass\lmp3,7.wav,elle emme pi tre,elle emme pi tre
+\voice\multiclass\lmp3,8.wav,elle emme pi tre,elle emme pi tre
+\voice\multiclass\lmp3,9.wav,elle emme pi tre,elle emme pi tre
+\voice\multiclass\tc1,64.wav,ti ci uno,ti ci uno
+\voice\multiclass\tc1,65.wav,ti ci uno,ti ci uno
+\voice\multiclass\tc1,66.wav,ti ci uno,ti ci uno
+\voice\multiclass\tc2,67.wav,ti ci due,ti ci due
+\voice\multiclass\tc2,68.wav,ti ci due,ti ci due
+\voice\multiclass\tc2,69.wav,ti ci due,ti ci due
+\voice\position\p10,10.wav,posizione dieci,posizione dieci
+\voice\position\p11,1.wav,posizione undici,posizione undici
+\voice\position\p11,11.wav,posizione undici,posizione undici
+\voice\position\p12,12.wav,posizione dodici,posizione dodici
+\voice\position\p12,2.wav,posizione dodici,posizione dodici
+\voice\position\p13,1.wav,posizione tredici,posizione tredici
+\voice\position\p13,13.wav,posizione tredici,posizione tredici
+\voice\position\p14,14.wav,posizione quattordici,posizione quattordici
+\voice\position\p14,3.wav,posizione quattordici,posizione quattordici
+\voice\position\p15,15.wav,posizione quindici,posizione quindici
+\voice\position\p15,2.wav,posizione quindici,posizione quindici
+\voice\position\p16,16.wav,posizione sedici,posizione sedici
+\voice\position\p16,2.wav,posizione sedici,posizione sedici
+\voice\position\p17,1.wav,posizione diciassette,posizione diciassette
+\voice\position\p17,17.wav,posizione diciassette,posizione diciassette
+\voice\position\p18,18.wav,posizione diciotto,posizione diciotto
+\voice\position\p18,2.wav,posizione diciotto,posizione diciotto
+\voice\position\p19,19.wav,posizione diciannove,posizione diciannove
+\voice\position\p19,2.wav,posizione diciannove,posizione diciannove
+\voice\position\p1,1.wav,posizione uno,posizione uno
+\voice\position\p1,2.wav,posizione uno,posizione uno
+\voice\position\p1,3.wav,posizione uno,posizione uno
+\voice\position\p1,5.wav,posizione uno,posizione uno
+\voice\position\p20,1.wav,posizione venti,posizione venti
+\voice\position\p20,20.wav,posizione venti,posizione venti
+\voice\position\p21,1.wav,posizione ventuno,posizione ventuno
+\voice\position\p21,21.wav,posizione ventuno,posizione ventuno
+\voice\position\p22,22.wav,posizione ventidue,posizione ventidue
+\voice\position\p23,1.wav,posizione ventitre,posizione ventitre
+\voice\position\p23,23.wav,posizione ventitre,posizione ventitre
+\voice\position\p24,1.wav,posizione ventiquattro,posizione ventiquattro
+\voice\position\p24,24.wav,posizione ventiquattro,posizione ventiquattro
+\voice\position\p25,25.wav,posizione venticinque,posizione venticinque
+\voice\position\p26,26.wav,posizione ventisei,posizione ventisei
+\voice\position\p27,27.wav,posizione ventisette,posizione ventisette
+\voice\position\p28,28.wav,posizione ventotto,posizione ventotto
+\voice\position\p29,29.wav,posizione ventinove,posizione ventinove
+\voice\position\p2,1.wav,posizione due,posizione due
+\voice\position\p2,3.wav,posizione due,posizione due
+\voice\position\p2,4.wav,posizione due,posizione due
+\voice\position\p2,5.wav,posizione due,posizione due
+\voice\position\p30,30.wav,posizione trenta,posizione trenta
+\voice\position\p31,31.wav,posizione trentuno,posizione trentuno
+\voice\position\p32,32.wav,posizione trentadue,posizione trentadue
+\voice\position\p33,33.wav,posizione trentatre,posizione trentatre
+\voice\position\p34,34.wav,posizione trentaquattro,posizione trentaquattro
+\voice\position\p35,35.wav,posizione trentacinque,posizione trentacinque
+\voice\position\p36,36.wav,posizione trentasei,posizione trentasei
+\voice\position\p37,37.wav,posizione trentasette,posizione trentasette
+\voice\position\p38,38.wav,posizione trentotto,posizione trentotto
+\voice\position\p39,39.wav,posizione trentanove,posizione trentanove
+\voice\position\p3,1.wav,posizione tre,posizione tre
+\voice\position\p3,2.wav,posizione tre,posizione tre
+\voice\position\p3,3.wav,posizione tre,posizione tre
+\voice\position\p3,4.wav,posizione tre,posizione tre
+\voice\position\p40,40.wav,posizione quaranta,posizione quaranta
+\voice\position\p41,41.wav,posizione quarantuno,posizione quarantuno
+\voice\position\p42,42.wav,posizione quarantadue,posizione quarantadue
+\voice\position\p43,43.wav,posizione quarantatre,posizione quarantatre
+\voice\position\p44,44.wav,posizione quarantaquattro,posizione quarantaquattro
+\voice\position\p45,45.wav,posizione quarantacinque,posizione quarantacinque
+\voice\position\p46,46.wav,posizione quarantasei,posizione quarantasei
+\voice\position\p47,47.wav,posizione quarantasette,posizione quarantasette
+\voice\position\p48,48.wav,posizione quarantotto,posizione quarantotto
+\voice\position\p49,49.wav,posizione quarantanove,posizione quarantanove
+\voice\position\p4,1.wav,posizione quattro,posizione quattro
+\voice\position\p4,2.wav,posizione quattro,posizione quattro
+\voice\position\p4,3.wav,posizione quattro,posizione quattro
+\voice\position\p4,4.wav,posizione quattro,posizione quattro
+\voice\position\p50,50.wav,posizione cinquanta,posizione cinquanta
+\voice\position\p51,51.wav,posizione cinquantuno,posizione cinquantuno
+\voice\position\p52,52.wav,posizione cinquantadue,posizione cinquantadue
+\voice\position\p53,53.wav,posizione cinquantatre,posizione cinquantatre
+\voice\position\p54,54.wav,posizione cinquantaquattro,posizione cinquantaquattro
+\voice\position\p55,55.wav,posizione cinquantacinque,posizione cinquantacinque
+\voice\position\p56,56.wav,posizione cinquantasei,posizione cinquantasei
+\voice\position\p5,1.wav,posizione cinque,posizione cinque
+\voice\position\p5,2.wav,posizione cinque,posizione cinque
+\voice\position\p6,2.wav,posizione sei,posizione sei
+\voice\position\p6,3.wav,posizione sei,posizione sei
+\voice\position\p7,1.wav,posizione sette,posizione sette
+\voice\position\p7,2.wav,posizione sette,posizione sette
+\voice\position\p8,1.wav,posizione otto,posizione otto
+\voice\position\p8,8.wav,posizione otto,posizione otto
+\voice\position\p9,1.wav,posizione nove,posizione nove
+\voice\position\p9,9.wav,posizione nove,posizione nove
+\composite_personalisation_stubs\ok,1.wav,ok ricevuto,ok ricevuto
+\composite_personalisation_stubs\ok,2.wav,ok ricevuto,ok ricevuto
+\composite_personalisation_stubs\ok,3.wav,ok ricevuto,ok ricevuto
