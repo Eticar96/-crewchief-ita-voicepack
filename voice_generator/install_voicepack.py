@@ -396,21 +396,36 @@ def install_voicepack(
             dry_run=dry_run, validate=validate,
         )
 
-    # Copia file spotter
+    # Copia file spotter — in ENTRAMBE le destinazioni:
+    #   1. sounds/voice/spotter_<Voice>/  (destinazione specifica)
+    #   2. sounds/alt/<Voice>/voice/spotter/ (dentro il voice pack)
+    # CrewChief cerca in entrambe le posizioni.
     if spotter_files:
         logger.info("%sInstallazione file spotter in: %s", prefix, spotter_dest)
-        # Per lo spotter, i percorsi relativi partono dalla sotto-cartella spotter
-        # Troviamo la radice comune dei file spotter
         _copy_spotter_files(
             spotter_files, source_dir, spotter_dest, result,
             dry_run=dry_run, validate=validate,
         )
+        # Copia anche dentro alt/ per compatibilità CrewChief
+        logger.info("%sCopia spotter anche in: %s", prefix, alt_dest)
+        _copy_files(
+            spotter_files, source_dir, alt_dest, result,
+            dry_run=dry_run, validate=validate,
+        )
 
-    # Copia file radio check
+    # Copia file radio check — in ENTRAMBE le destinazioni:
+    #   1. sounds/voice/radio_check_<Voice>/  (destinazione specifica)
+    #   2. sounds/alt/<Voice>/voice/radio_check/ (dentro il voice pack)
     if radio_check_files:
         logger.info("%sInstallazione file radio check in: %s", prefix, radio_dest)
         _copy_radio_check_files(
             radio_check_files, source_dir, radio_dest, result,
+            dry_run=dry_run, validate=validate,
+        )
+        # Copia anche dentro alt/ per compatibilità CrewChief
+        logger.info("%sCopia radio check anche in: %s", prefix, alt_dest)
+        _copy_files(
+            radio_check_files, source_dir, alt_dest, result,
             dry_run=dry_run, validate=validate,
         )
 
