@@ -239,9 +239,25 @@ def _classify_source_files(
         rel = wav.relative_to(source_dir)
         parts_lower = [p.lower() for p in rel.parts]
 
-        if "spotter" in parts_lower or any("spotter" in p for p in parts_lower):
+        # Classifica in base alla struttura del percorso relativo.
+        #
+        # Struttura sorgente (sotto output/<Voice>/):
+        #   voice/spotter_<Voice>/...     -> spotter
+        #   voice/radio_check_<Voice>/... -> radio_check
+        #   voice/radio_check/test/...    -> radio_check (test avvio)
+        #   voice/acknowledge/radio_check/ -> MAIN (risposte "mi ricevi")
+        #   tutto il resto                -> main
+        #
+        # La chiave: "acknowledge/radio_check" è un file principale,
+        # ma "radio_check" e "radio_check_<Voice>" come figli diretti
+        # di "voice/" sono file radio_check/spotter.
+
+        # Secondo livello (primo sotto voice/)
+        sub_dir = parts_lower[1] if len(parts_lower) >= 2 else ""
+
+        if sub_dir.startswith("spotter"):
             spotter_files.append(wav)
-        elif "radio_check" in parts_lower or any("radio_check" in p for p in parts_lower):
+        elif sub_dir.startswith("radio_check"):
             radio_check_files.append(wav)
         else:
             main_files.append(wav)
@@ -397,6 +413,14 @@ def install_voicepack(
             radio_check_files, source_dir, radio_dest, result,
             dry_run=dry_run, validate=validate,
         )
+
+    # Imposta sound_pack_language.txt a "it" per l'italiano
+    lang_file = sounds_dir / "sound_pack_language.txt"
+    if dry_run:
+        logger.info("[DRY-RUN] Imposterei sound_pack_language.txt a 'it'")
+    else:
+        lang_file.write_text("it", encoding="utf-8")
+        logger.info("sound_pack_language.txt impostato a 'it'")
 
     return result
 

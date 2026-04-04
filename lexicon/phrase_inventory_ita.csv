@@ -1041,9 +1041,9 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\codriver\detail_bad_camber,4.wav,brutta pendenza,brutta pendenza,bad camber
 \voice\codriver\detail_bad_camber,5.wav,brutta pendenza,brutta pendenza,bad camber
 \voice\codriver\detail_bad_camber,6.wav,brutta pendenza,brutta pendenza,bad camber
-\voice\codriver\detail_big_jump,1.wav,big salto,big salto,big jump
-\voice\codriver\detail_big_jump,2.wav,big salto,big salto,big jump
-\voice\codriver\detail_big_jump,3.wav,big salto,big salto,big jump
+\voice\codriver\detail_big_jump,1.wav,grande salto,grande salto,big jump
+\voice\codriver\detail_big_jump,2.wav,grande salto,grande salto,big jump
+\voice\codriver\detail_big_jump,3.wav,grande salto,grande salto,big jump
 \voice\codriver\detail_brake,5.wav,frena,frena,brake
 \voice\codriver\detail_brake,6.wav,frena,frena,brake
 \voice\codriver\detail_brake,7.wav,frena,frena,brake
@@ -1695,14 +1695,14 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\codriver\detail_slippy_rushed,258.wav,scivoloso,scivoloso,slippy
 \voice\codriver\detail_slippy_rushed,259.wav,scivoloso,scivoloso,slippy
 \voice\codriver\detail_slippy_rushed,260.wav,scivoloso,scivoloso,slippy
-\voice\codriver\detail_small_crest,161.wav,small dosso,small dosso,small crest
-\voice\codriver\detail_small_crest,162.wav,small dosso,small dosso,small crest
-\voice\codriver\detail_small_crest,163.wav,small dosso,small dosso,small crest
-\voice\codriver\detail_small_crest,164.wav,small dosso,small dosso,small crest
-\voice\codriver\detail_small_crest_rushed,261.wav,small dosso,small dosso,small crest
-\voice\codriver\detail_small_crest_rushed,262.wav,small dosso,small dosso,small crest
-\voice\codriver\detail_small_crest_rushed,263.wav,small dosso,small dosso,small crest
-\voice\codriver\detail_small_crest_rushed,264.wav,small dosso,small dosso,small crest
+\voice\codriver\detail_small_crest,161.wav,piccolo dosso,piccolo dosso,small crest
+\voice\codriver\detail_small_crest,162.wav,piccolo dosso,piccolo dosso,small crest
+\voice\codriver\detail_small_crest,163.wav,piccolo dosso,piccolo dosso,small crest
+\voice\codriver\detail_small_crest,164.wav,piccolo dosso,piccolo dosso,small crest
+\voice\codriver\detail_small_crest_rushed,261.wav,piccolo dosso,piccolo dosso,small crest
+\voice\codriver\detail_small_crest_rushed,262.wav,piccolo dosso,piccolo dosso,small crest
+\voice\codriver\detail_small_crest_rushed,263.wav,piccolo dosso,piccolo dosso,small crest
+\voice\codriver\detail_small_crest_rushed,264.wav,piccolo dosso,piccolo dosso,small crest
 \voice\codriver\detail_snow,165.wav,neve,neve,snow
 \voice\codriver\detail_snow,166.wav,neve,neve,snow
 \voice\codriver\detail_snow,167.wav,neve,neve,snow
@@ -2111,34 +2111,34 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\conditions\heavy_rain_increasing,3_op_suffix_please.wav,sta diluviando adesso,sta diluviando adesso,it's chucking it down now
 \voice\conditions\heavy_rain_increasing,4_op_prefix_ok.wav,piove piu' forte vai piano,piove piu' forte vai piano,"getting harder, take it easy"
 \voice\conditions\light_rain_decreasing,1.wav,non piove cosi' forte adesso sembra che stia migliorando,non piove cosi' forte adesso sembra che stia migliorando,"it's not raining so heavily now, seems to be improving"
-\voice\conditions\light_rain_decreasing,2_op_prefix_ok.wav,"light pioggia now, sembra che e' getting better","light pioggia now, sembra che e' getting better","light rain now, looks like it's getting better"
+\voice\conditions\light_rain_decreasing,2_op_prefix_ok.wav,"pioggia leggera ora, sembra che stia migliorando","pioggia leggera ora, sembra che stia migliorando","light rain now, looks like it's getting better"
 \voice\conditions\light_rain_decreasing,3.wav,la pioggia e' quasi cessata adesso,la pioggia e' quasi cessata adesso,the rain's easy right off now
-\voice\conditions\light_rain_decreasing,4.wav,"abbiamo light pioggia qui, e' clearing up","abbiamo light pioggia qui, e' clearing up","we've got light rain here, it's clearing up"
+\voice\conditions\light_rain_decreasing,4.wav,"abbiamo pioggia leggera qui, si sta schiarendo","abbiamo pioggia leggera qui, si sta schiarendo","we've got light rain here, it's clearing up"
 \voice\conditions\light_rain_increasing,1.wav,"abbiamo un po' di pioggia adesso, sembra che stia aumentando","abbiamo un po' di pioggia adesso, sembra che stia aumentando","we've got a bit of rain now, looks like it's getting harder"
 \voice\conditions\light_rain_increasing,2_op_prefix_ok.wav,"vediamo qualche goccia di pioggia, sembra in aumento","vediamo qualche goccia di pioggia, sembra in aumento","we're seeing a few spots of rain, seems to be increasing"
-\voice\conditions\light_rain_increasing,3.wav,"abbiamo light pioggia qui, getting harder","abbiamo light pioggia qui, getting harder","we've got light rain here, getting harder"
+\voice\conditions\light_rain_increasing,3.wav,"abbiamo pioggia leggera qui, sta aumentando","abbiamo pioggia leggera qui, sta aumentando","we've got light rain here, getting harder"
 \voice\conditions\maximum_rain,1.wav,sembra un cazzo di monsone qui attenzione,sembra un cazzo di monsone qui attenzione,"it's like a fucking monsoon here, watch out"
 \voice\conditions\maximum_rain,2.wav,"la pioggia e' terribile qui, fai attenzione","la pioggia e' terribile qui, fai attenzione","the rain's absolutely terrible here, be careful"
 \voice\conditions\maximum_rain,sweary_3.wav,e' sta diluviando qui,e' sta diluviando qui,"it's properly pissing it down here, mate"
 \voice\conditions\mid_rain_decreasing,2.wav,"la pioggia si sta allentando, le condizioni sembrano migliorare","la pioggia si sta allentando, le condizioni sembrano migliorare","the rain's easing now, looks like conditions are improving"
-\voice\conditions\mid_rain_increasing,1_op_prefix_ok.wav,"siamo getting proper pioggia now, sembra che e' getting harder","siamo getting proper pioggia now, sembra che e' getting harder","we're getting proper rain now, looks like it's getting harder"
+\voice\conditions\mid_rain_increasing,1_op_prefix_ok.wav,"sta arrivando pioggia vera adesso, sembra che stia aumentando","sta arrivando pioggia vera adesso, sembra che stia aumentando","we're getting proper rain now, looks like it's getting harder"
 \voice\conditions\mid_rain_increasing,2.wav,sta piovendo sembra in aumento,sta piovendo sembra in aumento,"it's raining now, seems to be increasing"
 \voice\conditions\mid_rain_increasing,3.wav,piove parecchio ora e sta peggiorando,piove parecchio ora e sta peggiorando,"it's quite rainy now, and getting harder"
-\voice\conditions\seeing_some_rain,1_op_prefix_ok.wav,stiamo vedendo some pioggia,stiamo vedendo some pioggia,we're seeing some rain
+\voice\conditions\seeing_some_rain,1_op_prefix_ok.wav,stiamo vedendo un po' di pioggia,stiamo vedendo un po' di pioggia,we're seeing some rain
 \voice\conditions\seeing_some_rain,2_op_prefix_ok.wav,iniziamo a vedere un po' di pioggia,iniziamo a vedere un po' di pioggia,we're starting to see some rain
 \voice\conditions\seeing_some_rain,3_op_prefix_ok.wav,sembra che stia piovendo,sembra che stia piovendo,it looks like it's raining
 \voice\conditions\seeing_some_rain,4_op_prefix_ok.wav,sta piovendo qui,sta piovendo qui,it's raining here
-\voice\conditions\seeing_some_rain,5_op_prefix_ok.wav,stiamo vedendo some pioggia,stiamo vedendo some pioggia,we're seeing some rain
+\voice\conditions\seeing_some_rain,5_op_prefix_ok.wav,stiamo vedendo un po' di pioggia,stiamo vedendo un po' di pioggia,we're seeing some rain
 \voice\conditions\seeing_some_rain,sweary_6.wav,sta iniziando a piovere forte qui fuori,sta iniziando a piovere forte qui fuori,it's starting to piss down out here
 \voice\conditions\stopped_raining,1_op_prefix_ok.wav,ha smesso di piovere,ha smesso di piovere,it stopped raining
 \voice\conditions\stopped_raining,2_op_prefix_ok.wav,sembra che abbia smesso di piovere,sembra che abbia smesso di piovere,it looks like it stopped raining
 \voice\conditions\stopped_raining,3_op_prefix_ok.wav,non piove piu',non piove piu',no more rain
 \voice\conditions\stopped_raining,4_op_prefix_ok.wav,ha smesso di piovere,ha smesso di piovere,it's stopped raining
-\voice\conditions\track_temp_decreasing_its_now,1.wav,"la temperatura della pista sta scendendo, e' now","la temperatura della pista sta scendendo, e' now","the track temperature's decreasing, it's now"
-\voice\conditions\track_temp_decreasing_its_now,2.wav,"la temperatura della pista sta calando, e' now","la temperatura della pista sta calando, e' now","the track temperature's falling, it's now"
-\voice\conditions\track_temp_decreasing_its_now,3.wav,"la temperatura della pista sta scendendo, e' now","la temperatura della pista sta scendendo, e' now","the track temperature's decreasing, it's now"
-\voice\conditions\track_temp_increasing_its_now,1.wav,"la temperatura della pista sta salendo, e' now","la temperatura della pista sta salendo, e' now","the track temperature's increasing, it's now"
-\voice\conditions\track_temp_increasing_its_now,2.wav,"la temperatura della pista sta aumentando, e' now","la temperatura della pista sta aumentando, e' now","the track temperature's rising, it's now"
+\voice\conditions\track_temp_decreasing_its_now,1.wav,"la temperatura della pista sta scendendo, adesso è","la temperatura della pista sta scendendo, adesso è","the track temperature's decreasing, it's now"
+\voice\conditions\track_temp_decreasing_its_now,2.wav,"la temperatura della pista sta calando, adesso è","la temperatura della pista sta calando, adesso è","the track temperature's falling, it's now"
+\voice\conditions\track_temp_decreasing_its_now,3.wav,"la temperatura della pista sta scendendo, adesso è","la temperatura della pista sta scendendo, adesso è","the track temperature's decreasing, it's now"
+\voice\conditions\track_temp_increasing_its_now,1.wav,"la temperatura della pista sta salendo, adesso è","la temperatura della pista sta salendo, adesso è","the track temperature's increasing, it's now"
+\voice\conditions\track_temp_increasing_its_now,2.wav,"la temperatura della pista sta aumentando, adesso è","la temperatura della pista sta aumentando, adesso è","the track temperature's rising, it's now"
 \voice\conditions\track_temp_increasing_its_now,3.wav,temperatura pista in aumento e' ora,temperatura pista in aumento e' ora,"the track temp's increasing, it's now"
 \voice\conditions\track_temp_is,1.wav,la temperatura pista e',la temperatura pista e',the track temp is
 \voice\conditions\track_temp_is,2.wav,la temperatura pista e',la temperatura pista e',the track temp is
@@ -2994,8 +2994,8 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\corners\the_kink,6.wav,la piega,la piega,The Kink
 \voice\corners\the_left_out_of_duffus_dip,3.wav,la sinistra in uscita da Duffus Dip,la sinistra in uscita da Duffus Dip,The Left out of Duffus Dip
 \voice\corners\the_left_out_of_duffus_dip,4.wav,la sinistra in uscita da Duffus Dip,la sinistra in uscita da Duffus Dip,The Left out of Duffus Dip
-\voice\corners\the_left_right_before_the_mountain,27.wav,The Left-Right before the Mountain,The Left-Right before the Mountain,The Left-Right before the Mountain
-\voice\corners\the_left_right_before_the_mountain,28.wav,The Left-Right before the Mountain,The Left-Right before the Mountain,The Left-Right before the Mountain
+\voice\corners\the_left_right_before_the_mountain,27.wav,La sinistra-destra prima della Montagna,La sinistra-destra prima della Montagna,The Left-Right before the Mountain
+\voice\corners\the_left_right_before_the_mountain,28.wav,La sinistra-destra prima della Montagna,La sinistra-destra prima della Montagna,The Left-Right before the Mountain
 \voice\corners\the_loop,9.wav,The Loop,The Loop,The Loop
 \voice\corners\the_middle_of_the_complex,47.wav,il centro del complesso,il centro del complesso,The Middle of the Complex
 \voice\corners\the_middle_of_the_complex,48.wav,il centro del complesso,il centro del complesso,The Middle of the Complex
@@ -3004,12 +3004,12 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\corners\the_old_hairpin,39.wav,The Old Hairpin,The Old Hairpin,The Old Hairpin
 \voice\corners\the_outer_loop,3.wav,The Outer Loop,The Outer Loop,The Outer Loop
 \voice\corners\the_outer_loop,4.wav,The Outer Loop,The Outer Loop,The Outer Loop
-\voice\corners\the_right_hander_before_charlies,13.wav,The Right-Hander before Charlies,The Right-Hander before Charlies,The Right-Hander before Charlies
-\voice\corners\the_right_hander_before_charlies,14.wav,The Right-Hander before Charlies,The Right-Hander before Charlies,The Right-Hander before Charlies
+\voice\corners\the_right_hander_before_charlies,13.wav,La destra prima di Charlies,La destra prima di Charlies,The Right-Hander before Charlies
+\voice\corners\the_right_hander_before_charlies,14.wav,La destra prima di Charlies,La destra prima di Charlies,The Right-Hander before Charlies
 \voice\corners\the_right_into_duffus_dip,1.wav,The Right in Duffus Dip,The Right in Duffus Dip,The Right into Duffus Dip
 \voice\corners\the_right_into_duffus_dip,2.wav,The Right in Duffus Dip,The Right in Duffus Dip,The Right into Duffus Dip
-\voice\corners\the_right_left_after_mansfield,25.wav,The Right-Left dopo Mansfield,The Right-Left dopo Mansfield,The Right-Left after Mansfield
-\voice\corners\the_right_left_after_mansfield,26.wav,The Right-Left dopo Mansfield,The Right-Left dopo Mansfield,The Right-Left after Mansfield
+\voice\corners\the_right_left_after_mansfield,25.wav,La destra-sinistra dopo Mansfield,La destra-sinistra dopo Mansfield,The Right-Left after Mansfield
+\voice\corners\the_right_left_after_mansfield,26.wav,La destra-sinistra dopo Mansfield,La destra-sinistra dopo Mansfield,The Right-Left after Mansfield
 \voice\corners\the_second_chicane,13.wav,The Second Chicayne,The Second Chicayne,The Second Chicayne
 \voice\corners\the_second_chicane,14.wav,The Second Chicayne,The Second Chicayne,The Second Chicayne
 \voice\corners\the_second_chicane,15.wav,The Second Chicayne,The Second Chicayne,The Second Chicayne
@@ -3221,8 +3221,8 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\damage_reporting\minor_aero_damage,4_op_prefix_ok.wav,"hai qualche danno aerodinamico minore, rimani in pista, non e' cosi' grave","hai qualche danno aerodinamico minore, rimani in pista, non e' cosi' grave","you had some minor aero damage, stay out, it's not that bad"
 \voice\damage_reporting\minor_aero_damage,5.wav,"hai subito un po' di danno alla carrozzeria, rimani in pista, non e' troppo grave","hai subito un po' di danno alla carrozzeria, rimani in pista, non e' troppo grave","you've had a bit of bodywork damage, stay out, it's not too bad"
 \voice\damage_reporting\minor_aero_damage,6.wav,hai un piccolo danno alla carrozzeria,hai un piccolo danno alla carrozzeria,you've got a little bit of bodywork damage there
-\voice\damage_reporting\minor_aero_damage,7.wav,some minor aerodinamica danno,some minor aerodinamica danno,some minor aero damage
-\voice\damage_reporting\minor_aero_damage,8.wav,stiamo vedendo some minor aerodinamica danno,stiamo vedendo some minor aerodinamica danno,we're seeing some minor aero damage
+\voice\damage_reporting\minor_aero_damage,7.wav,danno aerodinamico minore,danno aerodinamico minore,some minor aero damage
+\voice\damage_reporting\minor_aero_damage,8.wav,stiamo vedendo danno aerodinamico minore,stiamo vedendo danno aerodinamico minore,we're seeing some minor aero damage
 \voice\damage_reporting\minor_aero_damage,9.wav,vediamo un piccolo danno alla carrozzeria,vediamo un piccolo danno alla carrozzeria,we're seeing a little bit of bodywork damage there
 \voice\damage_reporting\minor_aero_damage_general,10.wav,hai subito un piccolo danno alla carrozzeria,hai subito un piccolo danno alla carrozzeria,you've picked up a little bit of bodywork damage
 \voice\damage_reporting\minor_aero_damage_general,11.wav,vediamo un piccolo danno aerodinamico,vediamo un piccolo danno aerodinamico,we're seeing a little bit of aero damage
@@ -3231,8 +3231,8 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\damage_reporting\minor_aero_damage_general,2_op_prefix_ok.wav,hai subito un po' di danno aerodinamico,hai subito un po' di danno aerodinamico,you picked up a bit of aero damage
 \voice\damage_reporting\minor_aero_damage_general,3_op_prefix_ok.wav,hai subito un po' di danno alla carrozzeria,hai subito un po' di danno alla carrozzeria,you've had a bit of bodywork damage there
 \voice\damage_reporting\minor_aero_damage_general,6.wav,hai un piccolo danno alla carrozzeria,hai un piccolo danno alla carrozzeria,you've got a little bit of bodywork damage there
-\voice\damage_reporting\minor_aero_damage_general,7.wav,some minor aerodinamica danno,some minor aerodinamica danno,some minor aero damage
-\voice\damage_reporting\minor_aero_damage_general,8.wav,stiamo vedendo some minor aerodinamica danno,stiamo vedendo some minor aerodinamica danno,we're seeing some minor aero damage
+\voice\damage_reporting\minor_aero_damage_general,7.wav,danno aerodinamico minore,danno aerodinamico minore,some minor aero damage
+\voice\damage_reporting\minor_aero_damage_general,8.wav,stiamo vedendo danno aerodinamico minore,stiamo vedendo danno aerodinamico minore,we're seeing some minor aero damage
 \voice\damage_reporting\minor_aero_damage_general,9.wav,vediamo un piccolo danno alla carrozzeria,vediamo un piccolo danno alla carrozzeria,we're seeing a little bit of bodywork damage there
 \voice\damage_reporting\minor_brake_damage,1.wav,hai qualche danno ai freni,hai qualche danno ai freni,you've got a bit of brake damage
 \voice\damage_reporting\minor_brake_damage,2.wav,vediamo qualche danno minore ai freni,vediamo qualche danno minore ai freni,we're seeing some minor brake damage
@@ -3245,19 +3245,19 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\damage_reporting\minor_suspension_damage,2_op_prefix_ok.wav,"hai subito qualche danno alle sospensioni, rimani in pista","hai subito qualche danno alle sospensioni, rimani in pista","you've had some suspension damage there, stay out"
 \voice\damage_reporting\minor_suspension_damage,3_op_prefix_ok.wav,hai subito qualche danno alle sospensioni,hai subito qualche danno alle sospensioni,you've had a bit of suspension damage
 \voice\damage_reporting\minor_suspension_damage,4.wav,c'e' qualche danno minore alle sospensioni,c'e' qualche danno minore alle sospensioni,there's some minor suspension damage
-\voice\damage_reporting\minor_suspension_damage,5.wav,stiamo vedendo some danno minore alle sospensioni,stiamo vedendo some danno minore alle sospensioni,we're seeing some minor suspension damage
+\voice\damage_reporting\minor_suspension_damage,5.wav,stiamo vedendo un danno minore alle sospensioni,stiamo vedendo un danno minore alle sospensioni,we're seeing some minor suspension damage
 \voice\damage_reporting\minor_suspension_damage,6.wav,hai un piccolo danno alle sospensioni,hai un piccolo danno alle sospensioni,you've got a little bit of suspension damage
 \voice\damage_reporting\minor_suspension_damage,7.wav,sembra che le sospensioni siano un po' fuori,sembra che le sospensioni siano un po' fuori,it looks like your suspension's a little bit off
 \voice\damage_reporting\minor_suspension_damage,8.wav,vediamo un piccolo danno alle sospensioni,vediamo un piccolo danno alle sospensioni,we're seeing a little bit of suspension damage
-\voice\damage_reporting\minor_suspension_damage,9.wav,hai some minor sospensione danno there,hai some minor sospensione danno there,you've got some minor suspension damage there
+\voice\damage_reporting\minor_suspension_damage,9.wav,hai un danno minore alle sospensioni,hai un danno minore alle sospensioni,you've got some minor suspension damage there
 \voice\damage_reporting\minor_suspension_damage_general,10.wav,hai un piccolo danno alle sospensioni,hai un piccolo danno alle sospensioni,you got a little bit of suspension damage
 \voice\damage_reporting\minor_suspension_damage_general,3_op_prefix_ok.wav,hai subito qualche danno alle sospensioni,hai subito qualche danno alle sospensioni,you've had a bit of suspension damage
 \voice\damage_reporting\minor_suspension_damage_general,4.wav,c'e' qualche danno minore alle sospensioni,c'e' qualche danno minore alle sospensioni,there's some minor suspension damage
-\voice\damage_reporting\minor_suspension_damage_general,5.wav,stiamo vedendo some danno minore alle sospensioni,stiamo vedendo some danno minore alle sospensioni,we're seeing some minor suspension damage
+\voice\damage_reporting\minor_suspension_damage_general,5.wav,stiamo vedendo un danno minore alle sospensioni,stiamo vedendo un danno minore alle sospensioni,we're seeing some minor suspension damage
 \voice\damage_reporting\minor_suspension_damage_general,6.wav,hai un piccolo danno alle sospensioni,hai un piccolo danno alle sospensioni,you've got a little bit of suspension damage
 \voice\damage_reporting\minor_suspension_damage_general,7.wav,sembra che le sospensioni siano un po' fuori,sembra che le sospensioni siano un po' fuori,it looks like your suspension's a little bit off
 \voice\damage_reporting\minor_suspension_damage_general,8.wav,vediamo un piccolo danno alle sospensioni,vediamo un piccolo danno alle sospensioni,we're seeing a little bit of suspension damage
-\voice\damage_reporting\minor_suspension_damage_general,9.wav,hai some minor sospensione danno there,hai some minor sospensione danno there,you've got some minor suspension damage there
+\voice\damage_reporting\minor_suspension_damage_general,9.wav,hai un danno minore alle sospensioni,hai un danno minore alle sospensioni,you've got some minor suspension damage there
 \voice\damage_reporting\minor_transmission_damage,1.wav,non forzare il cambio,non forzare il cambio,go easy on the transmission
 \voice\damage_reporting\minor_transmission_damage,2.wav,"attenzione alle scalate, non forzare il cambio","attenzione alle scalate, non forzare il cambio","watch those downshifts, go easy on the transmission"
 \voice\damage_reporting\minor_transmission_damage,3.wav,attento con le cambiate o il cambio non regge la gara,attento con le cambiate o il cambio non regge la gara,careful with those gearshifts or the transmission ain't gonna last the race
@@ -3276,7 +3276,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\damage_reporting\no_engine_damage,1.wav,il motore sembra a posto,il motore sembra a posto,engine looks fine
 \voice\damage_reporting\no_engine_damage,2.wav,"motore looks buono,","motore looks buono,","engine looks good, mate"
 \voice\damage_reporting\no_engine_damage,3.wav,motore looks ok,motore looks ok,engine looks okay
-\voice\damage_reporting\no_suspension_damage,1.wav,your sospensione sembra a posto,your sospensione sembra a posto,"your suspension looks fine, mate"
+\voice\damage_reporting\no_suspension_damage,1.wav,la tua sospensione sembra a posto,la tua sospensione sembra a posto,"your suspension looks fine, mate"
 \voice\damage_reporting\no_suspension_damage,2.wav,le sospensioni sono a posto,le sospensioni sono a posto,your suspension's fine
 \voice\damage_reporting\no_suspension_damage,3.wav,non stiamo seeing any danno alle sospensioni,non stiamo seeing any danno alle sospensioni,we're not seeing any suspension damage
 \voice\damage_reporting\no_transmission_damage,1.wav,la trasmissione sembra a posto,la trasmissione sembra a posto,the transmission looks fine
@@ -3305,8 +3305,8 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\damage_reporting\severe_engine_damage,1.wav,"il motore e' agli ultimi respiri, cerca di dargli un po' di respiro","il motore e' agli ultimi respiri, cerca di dargli un po' di respiro","the engine's on its last legs, mate, try and give it some breathing space"
 \voice\damage_reporting\severe_engine_damage,2.wav,"il motore suonava assolutamente terribile, fai quello che puoi","il motore suonava assolutamente terribile, fai quello che puoi","the engine sounded absolutely terrible, just do what you can, mate"
 \voice\damage_reporting\severe_engine_damage,3.wav,"il motore e' messo male, vai piano, vediamo se riusciamo ad arrivare al traguardo","il motore e' messo male, vai piano, vediamo se riusciamo ad arrivare al traguardo","that engine's in a bad way, just take it easy, let's see if we can get it to the finish"
-\voice\damage_reporting\severe_suspension_damage,1.wav,hai some serious sospensione danno there,hai some serious sospensione danno there,you got some serious suspension damage there
-\voice\damage_reporting\severe_suspension_damage,2.wav,your sospensione's looking piuttosto brutto,your sospensione's looking piuttosto brutto,"your suspension's looking pretty bad, mate"
+\voice\damage_reporting\severe_suspension_damage,1.wav,hai un danno serio alle sospensioni,hai un danno serio alle sospensioni,you got some serious suspension damage there
+\voice\damage_reporting\severe_suspension_damage,2.wav,la tua sospensione sembra messa piuttosto male,la tua sospensione sembra messa piuttosto male,"your suspension's looking pretty bad, mate"
 \voice\damage_reporting\severe_suspension_damage,3.wav,"le sospensioni devono essere sistemate, dovrai rientrare","le sospensioni devono essere sistemate, dovrai rientrare","your suspension's gonna need sorting, you'll need to come in"
 \voice\damage_reporting\severe_transmission_damage,1.wav,"il cambio e' messo male, potresti non arrivare alla fine","il cambio e' messo male, potresti non arrivare alla fine","your transmission's in a bad way, mate, you might not make it to the end"
 \voice\damage_reporting\severe_transmission_damage,2.wav,hai fatto un bel casino con il cambio,hai fatto un bel casino con il cambio,"you made a right mess of this transmission, mate"
@@ -3359,7 +3359,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\driver_swaps\5_minutes_left_in_stint,4.wav,dovremo cambiare pilota tra cinque minuti,dovremo cambiare pilota tra cinque minuti,we'll need to swap drivers in 5 minutes
 \voice\driver_swaps\5_minutes_left_in_stint,5.wav,abbiamo bisogno di un cambio pilota tra 5 minuti,abbiamo bisogno di un cambio pilota tra 5 minuti,we need a driver change in 5 minutes
 \voice\driver_swaps\pit_now_for_driver_change,1.wav,"pilota change, box, box, box","pilota change, box, box, box","driver change, box, box, box"
-\voice\driver_swaps\pit_now_for_driver_change,2.wav,"pilota change, pit now","pilota change, pit now","driver change, pit now"
+\voice\driver_swaps\pit_now_for_driver_change,2.wav,"cambio pilota, ai box adesso","cambio pilota, ai box adesso","driver change, pit now"
 \voice\driver_swaps\pit_now_for_driver_change,3.wav,rientriamo ai box per il cambio pilota,rientriamo ai box per il cambio pilota,we're pitting now for a driver change
 \voice\driver_swaps\pit_now_for_driver_change,4.wav,dobbiamo fare il pit stop adesso per il cambio pilota,dobbiamo fare il pit stop adesso per il cambio pilota,we need to pit now for a driver change
 \voice\driver_swaps\pit_now_for_driver_change,5.wav,"box, box, box, facciamo il cambio pilota questa volta","box, box, box, facciamo il cambio pilota questa volta","box, box, box, we're doing a driver change this time"
@@ -3473,14 +3473,14 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\flags\fc_yellow_last_lap_next_usa,1.wav,la pace car rientra alla fine del prossimo giro,la pace car rientra alla fine del prossimo giro,pace car's in at the end of the next lap
 \voice\flags\fc_yellow_last_lap_next_usa,2.wav,la gara riprendera' alla fine del prossimo giro,la gara riprendera' alla fine del prossimo giro,race will resume at the end of the next lap
 \voice\flags\fc_yellow_last_lap_next_usa,3.wav,la pace car rientra alla fine del prossimo giro,la pace car rientra alla fine del prossimo giro,pace car's coming in end of next lap
-\voice\flags\fc_yellow_pits_closed,1.wav,"siamo under caution, pits closed","siamo under caution, pits closed","we're under caution, pits closed"
+\voice\flags\fc_yellow_pits_closed,1.wav,"siamo in regime di neutralizzazione, box chiusi","siamo in regime di neutralizzazione, box chiusi","we're under caution, pits closed"
 \voice\flags\fc_yellow_pits_closed,2.wav,gialla totale box chiusi,gialla totale box chiusi,"full course yellow, pits are closed"
 \voice\flags\fc_yellow_pits_closed_eu,1.wav,"la safety car e' in pista, i box sono chiusi","la safety car e' in pista, i box sono chiusi","safety car's out, pits are closed"
 \voice\flags\fc_yellow_pits_closed_eu,2.wav,gialla totale box chiusi,gialla totale box chiusi,"full course yellow, pits are closed"
 \voice\flags\fc_yellow_pits_closed_eu,3.wav,"la safety car e' in pista, i box sono chiusi","la safety car e' in pista, i box sono chiusi","safety car's out, pits are closed"
 \voice\flags\fc_yellow_pits_closed_usa,1.wav,"pace car in pista, box chiusi","pace car in pista, box chiusi","pace car is out, pits are closed"
 \voice\flags\fc_yellow_pits_closed_usa,2.wav,"siamo in regime di cautela, i box sono chiusi","siamo in regime di cautela, i box sono chiusi","we're under caution, pits are closed"
-\voice\flags\fc_yellow_pits_closed_usa,3.wav,"siamo under caution, pits closed","siamo under caution, pits closed","we're under caution, pits closed"
+\voice\flags\fc_yellow_pits_closed_usa,3.wav,"siamo in regime di neutralizzazione, box chiusi","siamo in regime di neutralizzazione, box chiusi","we're under caution, pits closed"
 \voice\flags\fc_yellow_pits_open,1.wav,"safety car in pista, box ora aperti","safety car in pista, box ora aperti","safety car is out, pits are now open"
 \voice\flags\fc_yellow_pits_open,2.wav,gialla totale box aperti,gialla totale box aperti,"full course yellow, pits are open"
 \voice\flags\fc_yellow_pits_open,3.wav,box aperti,box aperti,pits are open
@@ -3496,39 +3496,39 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\flags\fc_yellow_pits_open_usa,3.wav,box aperti,box aperti,pits are open
 \voice\flags\fc_yellow_prepare_for_green,1_op_prefix_ok.wav,"preparati, la safety car sta rientrando","preparati, la safety car sta rientrando","get ready, safety car's coming in"
 \voice\flags\fc_yellow_prepare_for_green,2.wav,attenzione preparati per bandiera verde,attenzione preparati per bandiera verde,"heads up, prepare for green flag"
-\voice\flags\fc_yellow_prepare_for_green,3_op_prefix_ok.wav,"be ready, stiamo andando green","be ready, stiamo andando green","be ready, we're going green"
+\voice\flags\fc_yellow_prepare_for_green,3_op_prefix_ok.wav,"preparati, si riparte","preparati, si riparte","be ready, we're going green"
 \voice\flags\fc_yellow_prepare_for_green_eu,1_op_prefix_ok.wav,"preparati, la safety car sta rientrando","preparati, la safety car sta rientrando","get ready, safety car's coming in"
 \voice\flags\fc_yellow_prepare_for_green_eu,2.wav,attenzione preparati per bandiera verde,attenzione preparati per bandiera verde,"heads up, prepare for green flag"
-\voice\flags\fc_yellow_prepare_for_green_eu,3_op_prefix_ok.wav,"be ready, stiamo andando green","be ready, stiamo andando green","be ready, we're going green"
+\voice\flags\fc_yellow_prepare_for_green_eu,3_op_prefix_ok.wav,"preparati, si riparte","preparati, si riparte","be ready, we're going green"
 \voice\flags\fc_yellow_prepare_for_green_usa,1.wav,"la pace car sta rientrando, preparati","la pace car sta rientrando, preparati","pace car's coming in, be ready"
 \voice\flags\fc_yellow_prepare_for_green_usa,2.wav,attenzione preparati per bandiera verde,attenzione preparati per bandiera verde,"heads up, prepare for green flag"
-\voice\flags\fc_yellow_prepare_for_green_usa,3_op_prefix_ok.wav,"be ready, stiamo andando green","be ready, stiamo andando green","be ready, we're going green"
+\voice\flags\fc_yellow_prepare_for_green_usa,3_op_prefix_ok.wav,"preparati, si riparte","preparati, si riparte","be ready, we're going green"
 \voice\flags\fc_yellow_prepare_for_green_usa,4.wav,"la pace car sta rientrando, tieniti pronto","la pace car sta rientrando, tieniti pronto","pace car's coming in, get ready"
 \voice\flags\fc_yellow_start,1.wav,safety car in pista,safety car in pista,safety car out
 \voice\flags\fc_yellow_start,2.wav,safety car in pista,safety car in pista,safety car deployed
-\voice\flags\fc_yellow_start,3.wav,"safety macchina out, siamo under caution","safety macchina out, siamo under caution","safety car out, we're under caution"
+\voice\flags\fc_yellow_start,3.wav,"safety car in pista, siamo in regime di neutralizzazione","safety car in pista, siamo in regime di neutralizzazione","safety car out, we're under caution"
 \voice\flags\fc_yellow_start,4.wav,"gialla totale, esce la safety car","gialla totale, esce la safety car","full course yellow, safety car's coming out"
 \voice\flags\fc_yellow_start,5.wav,"esce la safety car, gialla totale","esce la safety car, gialla totale","safety car's coming out, full course yellow"
-\voice\flags\fc_yellow_start,6.wav,"safety macchina out, siamo under caution","safety macchina out, siamo under caution","safety car out, we're under caution"
+\voice\flags\fc_yellow_start,6.wav,"safety car in pista, siamo in regime di neutralizzazione","safety car in pista, siamo in regime di neutralizzazione","safety car out, we're under caution"
 \voice\flags\fc_yellow_start_eu,1.wav,safety car in pista,safety car in pista,safety car out
 \voice\flags\fc_yellow_start_eu,2.wav,safety car in pista,safety car in pista,safety car deployed
 \voice\flags\fc_yellow_start_eu,3.wav,"esce la safety car, bandiera gialla","esce la safety car, bandiera gialla","safety car's coming out, yellow flag"
 \voice\flags\fc_yellow_start_eu,4.wav,"gialla totale, esce la safety car","gialla totale, esce la safety car","full course yellow, safety car's coming out"
 \voice\flags\fc_yellow_start_eu,5.wav,"esce la safety car, gialla totale","esce la safety car, gialla totale","safety car's coming out, full course yellow"
 \voice\flags\fc_yellow_start_eu,6.wav,"bandiera gialla, safety car in pista","bandiera gialla, safety car in pista","yellow flag, safety car is out"
-\voice\flags\fc_yellow_start_eu,7.wav,"safety macchina's out, full course yellow","safety macchina's out, full course yellow","safety car's out, full course yellow"
+\voice\flags\fc_yellow_start_eu,7.wav,"safety car in pista, bandiera gialla su tutto il circuito","safety car in pista, bandiera gialla su tutto il circuito","safety car's out, full course yellow"
 \voice\flags\fc_yellow_start_eu_no_safetycar,1.wav,gialla totale attenzione,gialla totale attenzione,"full course yellow, watch out"
 \voice\flags\fc_yellow_start_eu_no_safetycar,2.wav,gialla totale stai attento,gialla totale stai attento,"full course yellow, be careful"
 \voice\flags\fc_yellow_start_eu_no_safetycar,3.wav,gialla totale attenzione,gialla totale attenzione,"full course yellow, watch out"
 \voice\flags\fc_yellow_start_eu_no_safetycar,4.wav,abbiamo una gialla totale,abbiamo una gialla totale,we got a full course yellow
 \voice\flags\fc_yellow_start_eu_no_safetycar,5.wav,gialla totale attenzione,gialla totale attenzione,"full course yellow, watch out"
-\voice\flags\fc_yellow_start_usa,1.wav,"pace macchina's out, siamo under caution","pace macchina's out, siamo under caution","pace car's out, we're under caution"
+\voice\flags\fc_yellow_start_usa,1.wav,"pace car in pista, siamo in regime di neutralizzazione","pace car in pista, siamo in regime di neutralizzazione","pace car's out, we're under caution"
 \voice\flags\fc_yellow_start_usa,2.wav,"la pace car e' in pista, siamo in regime di cautela","la pace car e' in pista, siamo in regime di cautela","pace car is out, we're under caution"
 \voice\flags\fc_yellow_start_usa,3.wav,la pace car e' in pista,la pace car e' in pista,pace car's out
-\voice\flags\fc_yellow_start_usa_no_safetycar,1.wav,caution totale stai attento,caution totale stai attento,"full course caution, be careful"
-\voice\flags\fc_yellow_start_usa_no_safetycar,2.wav,caution totale attenzione,caution totale attenzione,"full course caution, watch out"
-\voice\flags\fc_yellow_start_usa_no_safetycar,3.wav,"be careful, abbiamo a full course caution","be careful, abbiamo a full course caution","be careful, we got a full course caution"
-\voice\flags\fc_yellow_start_usa_no_safetycar,4.wav,caution totale,caution totale,full course caution
+\voice\flags\fc_yellow_start_usa_no_safetycar,1.wav,"neutralizzazione totale, stai attento","neutralizzazione totale, stai attento","full course caution, be careful"
+\voice\flags\fc_yellow_start_usa_no_safetycar,2.wav,"neutralizzazione totale, attenzione","neutralizzazione totale, attenzione","full course caution, watch out"
+\voice\flags\fc_yellow_start_usa_no_safetycar,3.wav,"stai attento, abbiamo una neutralizzazione totale","stai attento, abbiamo una neutralizzazione totale","be careful, we got a full course caution"
+\voice\flags\fc_yellow_start_usa_no_safetycar,4.wav,neutralizzazione totale,neutralizzazione totale,full course caution
 \voice\flags\fc_yellow_start_usa_no_safetycar,5.wav,"bandiera gialla totale, attenzione","bandiera gialla totale, attenzione","we got a full course caution, watch out"
 \voice\flags\give_one_position_back_first_warning,1_op_prefix_ok.wav,dobbiamo ridare questa posizione,dobbiamo ridare questa posizione,we need to give this place back
 \voice\flags\give_one_position_back_first_warning,2.wav,hai sorpassato sotto gialla ridai la posizione,hai sorpassato sotto gialla ridai la posizione,"you've passed under yellow, give the place back"
@@ -3536,9 +3536,9 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\flags\give_one_position_back_next_warning,1.wav,dobbiamo ancora ridare una posizione,dobbiamo ancora ridare una posizione,we still need to give one place back
 \voice\flags\give_one_position_back_next_warning,2.wav,dobbiamo far passare questo,dobbiamo far passare questo,we need to let this guy through
 \voice\flags\give_one_position_back_next_warning,3.wav,dobbiamo cedere un'altra posizione,dobbiamo cedere un'altra posizione,we need to give up one more position
-\voice\flags\give_positions_back_completed,1.wav,"ok, siamo all buono now","ok, siamo all buono now","okay, we're all good now"
+\voice\flags\give_positions_back_completed,1.wav,"ok, siamo a posto adesso","ok, siamo a posto adesso","okay, we're all good now"
 \voice\flags\give_positions_back_completed,2.wav,"ok, all sorted","ok, all sorted","okay, all sorted"
-\voice\flags\give_positions_back_completed,3.wav,"ok, enough","ok, enough","okay, that's enough"
+\voice\flags\give_positions_back_completed,3.wav,"ok, abbastanza","ok, abbastanza","okay, that's enough"
 \voice\flags\give_positions_back_first_warning_intro,1.wav,"ok, hai sorpassato in regime di gialla, devi restituire la posizione","ok, hai sorpassato in regime di gialla, devi restituire la posizione","okay, you've passed under yellow, you need to give back"
 \voice\flags\give_positions_back_first_warning_intro,2_op_prefix_ok.wav,"hai sorpassato in regime di gialla, devi restituire la posizione","hai sorpassato in regime di gialla, devi restituire la posizione","you've passed under yellow, you need to give back"
 \voice\flags\give_positions_back_first_warning_intro,3.wav,"hai sorpassato in regime di bandiera gialla, devi restituire la posizione","hai sorpassato in regime di bandiera gialla, devi restituire la posizione","you've passed under yellow flag, you need to give back"
@@ -3551,14 +3551,14 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\flags\give_positions_back_next_warning_outro,1_op_suffix_please.wav,posizioni,posizioni,positions
 \voice\flags\give_positions_back_next_warning_outro,2.wav,posizioni,posizioni,places
 \voice\flags\give_positions_back_next_warning_outro,3.wav,posizioni,posizioni,positions
-\voice\flags\green_flag_sector_1,1.wav,"green flag, settore 1","green flag, settore 1","green flag, sector 1"
-\voice\flags\green_flag_sector_1,2.wav,"green flag, settore 1","green flag, settore 1","green flag, sector 1"
+\voice\flags\green_flag_sector_1,1.wav,"bandiera verde, settore 1","bandiera verde, settore 1","green flag, sector 1"
+\voice\flags\green_flag_sector_1,2.wav,"bandiera verde, settore 1","bandiera verde, settore 1","green flag, sector 1"
 \voice\flags\green_flag_sector_1,3.wav,il settore 1 e' libero,il settore 1 e' libero,sector 1 is clear
-\voice\flags\green_flag_sector_1,4.wav,"green flag, settore 1","green flag, settore 1","green flag, sector 1"
-\voice\flags\green_flag_sector_1,5.wav,"green flag, settore 1","green flag, settore 1","green flag, sector 1"
-\voice\flags\green_flag_sector_1,6.wav,"green flag, settore 1","green flag, settore 1","green flag, sector 1"
-\voice\flags\green_flag_sector_1,7.wav,"green flag, settore 1","green flag, settore 1","green flag, sector 1"
-\voice\flags\green_flag_sector_1,8.wav,"green flag, settore 1","green flag, settore 1","green flag, sector 1"
+\voice\flags\green_flag_sector_1,4.wav,"bandiera verde, settore 1","bandiera verde, settore 1","green flag, sector 1"
+\voice\flags\green_flag_sector_1,5.wav,"bandiera verde, settore 1","bandiera verde, settore 1","green flag, sector 1"
+\voice\flags\green_flag_sector_1,6.wav,"bandiera verde, settore 1","bandiera verde, settore 1","green flag, sector 1"
+\voice\flags\green_flag_sector_1,7.wav,"bandiera verde, settore 1","bandiera verde, settore 1","green flag, sector 1"
+\voice\flags\green_flag_sector_1,8.wav,"bandiera verde, settore 1","bandiera verde, settore 1","green flag, sector 1"
 \voice\flags\green_flag_sector_2,1.wav,bandiera verde settore 2,bandiera verde settore 2,green flag sector 2
 \voice\flags\green_flag_sector_2,2.wav,bandiera verde settore 2,bandiera verde settore 2,green flag sector 2
 \voice\flags\green_flag_sector_2,3.wav,bandiera verde settore 2,bandiera verde settore 2,green flag sector 2
@@ -3737,14 +3737,14 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\flags\remind_lucky_dog,3.wav,sei il lucky dog,sei il lucky dog,you are the lucky dog
 \voice\flags\remind_lucky_dog,4.wav,sei il lucky dog,sei il lucky dog,you are the lucky dog
 \voice\flags\remind_lucky_dog,5.wav,sei il lucky dog,sei il lucky dog,you are the lucky dog
-\voice\flags\slow_car_ahead,1.wav,slow macchina davanti,slow macchina davanti,slow car ahead
-\voice\flags\slow_car_ahead,2.wav,hai a slow macchina davanti,hai a slow macchina davanti,you got a slow car ahead
-\voice\flags\slow_car_ahead,3.wav,slow macchina davanti,slow macchina davanti,slow car ahead
+\voice\flags\slow_car_ahead,1.wav,macchina lenta davanti,macchina lenta davanti,slow car ahead
+\voice\flags\slow_car_ahead,2.wav,hai a macchina lenta davanti,hai a macchina lenta davanti,you got a slow car ahead
+\voice\flags\slow_car_ahead,3.wav,macchina lenta davanti,macchina lenta davanti,slow car ahead
 \voice\flags\slow_car_ahead,4.wav,c'e' una macchina lenta davanti,c'e' una macchina lenta davanti,there's a slow car ahead
-\voice\flags\slow_car_ahead,5.wav,slow macchina davanti,slow macchina davanti,slow car ahead
-\voice\flags\slow_car_ahead_stay_high,1.wav,"slow macchina davanti, stay alta","slow macchina davanti, stay alta","slow car ahead, stay high"
+\voice\flags\slow_car_ahead,5.wav,macchina lenta davanti,macchina lenta davanti,slow car ahead
+\voice\flags\slow_car_ahead_stay_high,1.wav,"macchina lenta davanti, resta alta","macchina lenta davanti, resta alta","slow car ahead, stay high"
 \voice\flags\slow_car_ahead_stay_high,2.wav,"c'e' una macchina lenta davanti, tieniti alto","c'e' una macchina lenta davanti, tieniti alto","we got a slow car ahead, stay high"
-\voice\flags\slow_car_ahead_stay_high,3.wav,"slow macchina davanti, stay alta","slow macchina davanti, stay alta","slow car ahead, stay high"
+\voice\flags\slow_car_ahead_stay_high,3.wav,"macchina lenta davanti, resta alta","macchina lenta davanti, resta alta","slow car ahead, stay high"
 \voice\flags\slow_car_ahead_stay_high,4.wav,"c'e' una macchina lenta davanti, tieniti alto","c'e' una macchina lenta davanti, tieniti alto","there's a slow car ahead, stay high"
 \voice\flags\slow_car_ahead_stay_high,5.wav,"tieniti alto, c'e' una macchina lenta davanti","tieniti alto, c'e' una macchina lenta davanti","stay high, we got a slow car ahead"
 \voice\flags\slow_car_in,1.wav,c'e' una macchina lenta in,c'e' una macchina lenta in,we got a slow car in
@@ -3905,7 +3905,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\flags\we_have_been_waved_around,4.wav,"ok, siamo stati segnalati, superiamo la pace car e recuperiamo il giro","ok, siamo stati segnalati, superiamo la pace car e recuperiamo il giro","okay, we're a wave-around, pass the pace car, let's get the lap back"
 \voice\flags\white_flag,1.wav,bandiera bianca,bandiera bianca,white flag
 \voice\flags\white_flag,2.wav,c'e' una bandiera bianca,c'e' una bandiera bianca,there's a white flag
-\voice\flags\white_flag,3.wav,"white flag,","white flag,","white flag, mate"
+\voice\flags\white_flag,3.wav,"bandiera bianca,","bandiera bianca,","white flag, mate"
 \voice\flags\yellow_flag,1.wav,bandiera gialla,bandiera gialla,yellow flag
 \voice\flags\yellow_flag,2.wav,bandiera gialla attenzione,bandiera gialla attenzione,"yellow flag, watch out"
 \voice\flags\yellow_flag,3.wav,"bandiera gialla, tieni gli occhi aperti","bandiera gialla, tieni gli occhi aperti","yellow flag, keep your wits about you, mate"
@@ -3915,7 +3915,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\flags\yellow_flag,7.wav,bandiera gialla,bandiera gialla,yellow flag
 \voice\flags\yellow_flag,8.wav,bandiera gialla,bandiera gialla,yellow flag
 \voice\flags\yellow_flag,9.wav,bandiera gialla,bandiera gialla,yellow flag
-\voice\flags\yellow_flag_sector_1,1.wav,"yellow flag, settore 1","yellow flag, settore 1","yellow flag, sector 1"
+\voice\flags\yellow_flag_sector_1,1.wav,"bandiera gialla, settore 1","bandiera gialla, settore 1","yellow flag, sector 1"
 \voice\flags\yellow_flag_sector_1,10.wav,bandiera gialla nel settore 1,bandiera gialla nel settore 1,yellow flag in sector 1
 \voice\flags\yellow_flag_sector_1,2.wav,bandiera gialla nel settore 1,bandiera gialla nel settore 1,yellow flag in sector 1
 \voice\flags\yellow_flag_sector_1,3.wav,il settore 1 e' giallo,il settore 1 e' giallo,sector 1 is yellow
@@ -3927,7 +3927,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\flags\yellow_flag_sector_1,9.wav,bandiera gialla nel settore 1,bandiera gialla nel settore 1,yellow flag in sector 1
 \voice\flags\yellow_flag_sector_2,1.wav,il settore 2 e' giallo,il settore 2 e' giallo,sector 2 is yellow
 \voice\flags\yellow_flag_sector_2,10.wav,il settore 2 e' giallo,il settore 2 e' giallo,sector 2 is yellow
-\voice\flags\yellow_flag_sector_2,2.wav,"yellow flag, settore 2","yellow flag, settore 2","yellow flag, sector 2"
+\voice\flags\yellow_flag_sector_2,2.wav,"bandiera gialla, settore 2","bandiera gialla, settore 2","yellow flag, sector 2"
 \voice\flags\yellow_flag_sector_2,3.wav,bandiera gialla nel settore 2,bandiera gialla nel settore 2,yellow flag in sector 2
 \voice\flags\yellow_flag_sector_2,4.wav,il settore 2 e' giallo,il settore 2 e' giallo,sector 2 is yellow
 \voice\flags\yellow_flag_sector_2,5.wav,"incidente nel settore 2, settore 2 giallo","incidente nel settore 2, settore 2 giallo","incident in sector 2, sector 2 is yellow"
@@ -3935,7 +3935,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\flags\yellow_flag_sector_2,7.wav,il settore 2 e' giallo,il settore 2 e' giallo,sector 2 is yellow
 \voice\flags\yellow_flag_sector_2,8.wav,il settore 2 e' giallo,il settore 2 e' giallo,sector 2 is yellow
 \voice\flags\yellow_flag_sector_2,9.wav,il settore 2 e' giallo,il settore 2 e' giallo,sector 2 is yellow
-\voice\flags\yellow_flag_sector_3,1.wav,"yellow flag, settore 3","yellow flag, settore 3","yellow flag, sector 3"
+\voice\flags\yellow_flag_sector_3,1.wav,"bandiera gialla, settore 3","bandiera gialla, settore 3","yellow flag, sector 3"
 \voice\flags\yellow_flag_sector_3,10.wav,bandiera gialla nel settore 3,bandiera gialla nel settore 3,yellow flag in sector 3
 \voice\flags\yellow_flag_sector_3,2.wav,bandiera gialla nel settore 3,bandiera gialla nel settore 3,yellow flag in sector 3
 \voice\flags\yellow_flag_sector_3,3.wav,il settore 3 e' giallo,il settore 3 e' giallo,sector 3 is yellow
@@ -4135,11 +4135,11 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\frozen_order\stay_in_pole_in_right_column,2.wav,resta nella fila della pole nella colonna destra,resta nella fila della pole nella colonna destra,stay in the pole row in the right column
 \voice\frozen_order\stay_in_pole_in_right_column,3.wav,resta nella fila della pole nella colonna destra,resta nella fila della pole nella colonna destra,stay in the pole row in the right column
 \voice\frozen_order\stay_in_pole_in_right_column,4.wav,resta nella fila della pole nella colonna destra,resta nella fila della pole nella colonna destra,stay in the pole row in the right column
-\voice\frozen_order\thats_a_rolling_start,1.wav,"ok, rolling start","ok, rolling start","okay, rolling start"
+\voice\frozen_order\thats_a_rolling_start,1.wav,"ok, partenza lanciata","ok, partenza lanciata","okay, rolling start"
 \voice\frozen_order\thats_a_rolling_start,2.wav,partenza lanciata preparati,partenza lanciata preparati,"rolling start, get ready"
 \voice\frozen_order\thats_a_rolling_start,3.wav,questa e' una partenza lanciata,questa e' una partenza lanciata,this is a rolling start
 \voice\frozen_order\thats_a_standing_start,4.wav,partenza da fermo adesso,partenza da fermo adesso,standing start now
-\voice\frozen_order\thats_a_standing_start,5.wav,"ok, standing start","ok, standing start","okay, standing start"
+\voice\frozen_order\thats_a_standing_start,5.wav,"ok, partenza da fermo","ok, partenza da fermo","okay, standing start"
 \voice\frozen_order\thats_a_standing_start,6.wav,sara' una partenza da fermo,sara' una partenza da fermo,this'll be a standing start
 \voice\frozen_order\the_pace_car,49.wav,la pace car,la pace car,the pace car
 \voice\frozen_order\the_pace_car,50.wav,la pace car,la pace car,the pace car
@@ -4176,7 +4176,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\fuel\and_will_close_on_lap,4.wav,si chiudera' al giro,si chiudera' al giro,it'll close on lap
 \voice\fuel\and_will_close_on_lap,5.wav,e si chiudera' al giro,e si chiudera' al giro,and it'll close on lap
 \voice\fuel\and_will_close_on_lap,6.wav,e dovrebbe chiudersi al giro,e dovrebbe chiudersi al giro,and it should close on lap
-\voice\fuel\five_minutes_fuel,1_op_prefix_ok.wav,"5 minutes of carburante remaining, 5 minutes","5 minutes of carburante remaining, 5 minutes","5 minutes of fuel remaining, 5 minutes"
+\voice\fuel\five_minutes_fuel,1_op_prefix_ok.wav,"5 minuti di carburante rimasti, 5 minuti","5 minuti di carburante rimasti, 5 minuti","5 minutes of fuel remaining, 5 minutes"
 \voice\fuel\five_minutes_fuel,2.wav,sono 5 minuti di carburante rimasti,sono 5 minuti di carburante rimasti,that's 5 minutes of fuel left
 \voice\fuel\five_minutes_fuel,3_op_prefix_ok.wav,stimiamo che hai 5 minuti di carburante rimasti,stimiamo che hai 5 minuti di carburante rimasti,we estimate you got 5 minutes of fuel remaining
 \voice\fuel\for,1.wav,per,per,for
@@ -4222,7 +4222,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\fuel\half_distance_good_fuel,10.wav,"siamo a meta' gara, col carburante siamo a posto","siamo a meta' gara, col carburante siamo a posto","we're half-way home, we're okay on fuel"
 \voice\fuel\half_distance_good_fuel,11.wav,"meta' distanza, il carburante ok","meta' distanza, il carburante ok","that's half-distance, the fuel's okay"
 \voice\fuel\half_distance_good_fuel,12.wav,"half-distance, carburante looks buono","half-distance, carburante looks buono","half-distance, fuel looks good"
-\voice\fuel\half_distance_good_fuel,1_op_prefix_ok.wav,"meta' distanza, looking buono per carburante","meta' distanza, looking buono per carburante","that's half-distance, you're looking good for fuel"
+\voice\fuel\half_distance_good_fuel,1_op_prefix_ok.wav,"metà distanza, sembra buono per il carburante","metà distanza, sembra buono per il carburante","that's half-distance, you're looking good for fuel"
 \voice\fuel\half_distance_good_fuel,2.wav,"half-distance, carburante looks buono","half-distance, carburante looks buono","half-distance, fuel looks good"
 \voice\fuel\half_distance_good_fuel,3_op_prefix_ok.wav,"sei a meta' strada, hai carburante in abbondanza","sei a meta' strada, hai carburante in abbondanza","you're half-way home, got plenty of fuel"
 \voice\fuel\half_distance_good_fuel,4.wav,"siamo half-way home, carburante looks ok","siamo half-way home, carburante looks ok","we're half-way home, fuel looks okay"
@@ -4231,11 +4231,11 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\fuel\half_distance_good_fuel,op_prefix_ok_7.wav,"half-way home, abbiamo plenty of carburante","half-way home, abbiamo plenty of carburante","half-way home, we got plenty of fuel"
 \voice\fuel\half_distance_good_fuel,op_prefix_ok_8.wav,"half-way home, carburante's buono","half-way home, carburante's buono","half-way home, fuel's good"
 \voice\fuel\half_distance_good_fuel,op_prefix_ok_9.wav,"meta' distanza, carburante levels are fine","meta' distanza, carburante levels are fine","that's half-distance, fuel levels are fine"
-\voice\fuel\half_distance_low_fuel,1.wav,"meta' distanza, sembra che gonna need to save some carburante","meta' distanza, sembra che gonna need to save some carburante","that's half-distance, looks like you're gonna need to save some fuel"
+\voice\fuel\half_distance_low_fuel,1.wav,"metà distanza, sembra che dovremo risparmiare un po' di carburante","metà distanza, sembra che dovremo risparmiare un po' di carburante","that's half-distance, looks like you're gonna need to save some fuel"
 \voice\fuel\half_distance_low_fuel,2.wav,"sei a meta' strada, ma non ce la farai con il carburante","sei a meta' strada, ma non ce la farai con il carburante","you're half-way home, but you will not make it to the end on fuel"
-\voice\fuel\half_distance_low_fuel,3.wav,"meta' distanza, dovrai save some carburante","meta' distanza, dovrai save some carburante","that's half-distance, you'll need to save some fuel"
+\voice\fuel\half_distance_low_fuel,3.wav,"metà distanza, dovrai risparmiare un po' di carburante","metà distanza, dovrai risparmiare un po' di carburante","that's half-distance, you'll need to save some fuel"
 \voice\fuel\half_tank_warning,1_op_prefix_ok.wav,hai usato meta' del carburante,hai usato meta' del carburante,you've used half your fuel
-\voice\fuel\half_tank_warning,2.wav,"half-carburante, hai used half your carburante","half-carburante, hai used half your carburante","that's half-fuel, you've used half your fuel"
+\voice\fuel\half_tank_warning,2.wav,"metà carburante, hai usato metà del tuo carburante","metà carburante, hai usato metà del tuo carburante","that's half-fuel, you've used half your fuel"
 \voice\fuel\half_tank_warning,3_op_prefix_ok.wav,ti rimane meta' del carburante,ti rimane meta' del carburante,you've got half your fuel left
 \voice\fuel\into_the_race,1.wav,nella gara,nella gara,into the race
 \voice\fuel\into_the_race,2.wav,nella gara,nella gara,into the race
@@ -4311,9 +4311,9 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\fuel\three_laps_fuel,2.wav,stimiamo 3 giri di carburante rimasti,stimiamo 3 giri di carburante rimasti,we estimate 3 laps of fuel left
 \voice\fuel\three_laps_fuel,3.wav,3 giri di carburante rimasti,3 giri di carburante rimasti,3 laps of fuel remaining
 \voice\fuel\two_laps_fuel,1.wav,solo 2 giri di carburante rimasti,solo 2 giri di carburante rimasti,only 2 laps of fuel left
-\voice\fuel\two_laps_fuel,2.wav,2 giri of carburante remaining,2 giri of carburante remaining,2 laps of fuel remaining
+\voice\fuel\two_laps_fuel,2.wav,2 giri di carburante rimasti,2 giri di carburante rimasti,2 laps of fuel remaining
 \voice\fuel\two_laps_fuel,3.wav,solo 2 giri di carburante rimasti,solo 2 giri di carburante rimasti,only 2 more laps of fuel
-\voice\fuel\two_minutes_fuel,1.wav,hai 2 minutes of carburante remaining,hai 2 minutes of carburante remaining,you've got 2 minutes of fuel remaining
+\voice\fuel\two_minutes_fuel,1.wav,hai 2 minuti di carburante rimasti,hai 2 minuti di carburante rimasti,you've got 2 minutes of fuel remaining
 \voice\fuel\two_minutes_fuel,2.wav,2 minuti di carburante rimasti,2 minuti di carburante rimasti,2 minutes of fuel remaining
 \voice\fuel\two_minutes_fuel,3.wav,2 minuti di carburante rimasti,2 minuti di carburante rimasti,2 minutes of fuel remaining
 \voice\fuel\we_estimate,1.wav,stimiamo,stimiamo,we estimate
@@ -4376,14 +4376,14 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_counter\finished_race,6.wav,"ok, siamo done","ok, siamo done","okay, we're done"
 \voice\lap_counter\finished_race,7.wav,"e' la fine della gara, non importa","e' la fine della gara, non importa","that's the end of the race, never mind"
 \voice\lap_counter\finished_race,8.wav,"e' la fine della gara, sfortuna","e' la fine della gara, sfortuna","that's the end of the race, bad luck, mate"
-\voice\lap_counter\finished_race_good_finish,1.wav,"ok, e' over, ben fatto, , buono finish","ok, e' over, ben fatto, , buono finish","okay, it's over, well done, mate, good finish"
-\voice\lap_counter\finished_race_good_finish,2.wav,"ok, the finish, ben fatto","ok, the finish, ben fatto","okay, that's the finish, well done, mate"
-\voice\lap_counter\finished_race_good_finish,3.wav,"ok, e' over, buono drive","ok, e' over, buono drive","okay, it's over, good drive"
-\voice\lap_counter\finished_race_good_finish,4.wav,"well done, , buono finish","well done, , buono finish","well done, mate, good finish"
-\voice\lap_counter\finished_race_good_finish,5.wav,"c'e' the finish, buono drive","c'e' the finish, buono drive","there's the finish, good drive"
-\voice\lap_counter\finished_race_good_finish,6.wav,"e c'e' the finish, buono result, , ben fatto","e c'e' the finish, buono result, , ben fatto","and there's the finish, good result, mate, well done"
+\voice\lap_counter\finished_race_good_finish,1.wav,"ok, è finita, ben fatto, buon risultato","ok, è finita, ben fatto, buon risultato","okay, it's over, well done, mate, good finish"
+\voice\lap_counter\finished_race_good_finish,2.wav,"ok, è il traguardo, ben fatto","ok, è il traguardo, ben fatto","okay, that's the finish, well done, mate"
+\voice\lap_counter\finished_race_good_finish,3.wav,"ok, e' over, bella guida","ok, e' over, bella guida","okay, it's over, good drive"
+\voice\lap_counter\finished_race_good_finish,4.wav,"ben fatto, buon risultato","ben fatto, buon risultato","well done, mate, good finish"
+\voice\lap_counter\finished_race_good_finish,5.wav,"ecco il traguardo, bella guida","ecco il traguardo, bella guida","there's the finish, good drive"
+\voice\lap_counter\finished_race_good_finish,6.wav,"ed ecco il traguardo, buon risultato, ben fatto","ed ecco il traguardo, buon risultato, ben fatto","and there's the finish, good result, mate, well done"
 \voice\lap_counter\finished_race_good_finish,7.wav,ecco il traguardo bravo,ecco il traguardo bravo,"there's the finish, well done"
-\voice\lap_counter\finished_race_good_finish,8.wav,"ok the end, buono finish, , ben fatto","ok the end, buono finish, , ben fatto","okay that's the end, good finish, mate, well done"
+\voice\lap_counter\finished_race_good_finish,8.wav,"ok è la fine, buon risultato, ben fatto","ok è la fine, buon risultato, ben fatto","okay that's the end, good finish, mate, well done"
 \voice\lap_counter\finished_race_last,1.wav,ecco la bandiera a scacchi deludente,ecco la bandiera a scacchi deludente,"there's the checkered flag, that's disappointing"
 \voice\lap_counter\finished_race_last,2.wav,"ok, e' over, bloody awful result","ok, e' over, bloody awful result","okay, it's over, bloody awful result, mate"
 \voice\lap_counter\finished_race_last,3.wav,"ok, e' finita, andiamo via e cerchiamo di dimenticare questa","ok, e' finita, andiamo via e cerchiamo di dimenticare questa","okay, that's the end, let's get out of here, try and forget this one, eh"
@@ -4396,7 +4396,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_counter\form_up_behind,4.wav,mettiti in fila dietro,mettiti in fila dietro,form up behind
 \voice\lap_counter\form_up_behind,5.wav,take posizione dietro,take posizione dietro,take position behind
 \voice\lap_counter\get_ready,10.wav,"ok, preparati","ok, preparati","okay, get ready"
-\voice\lap_counter\get_ready,11.wav,"preparati, , e' hammer time","preparati, , e' hammer time","get ready, mate, it's hammer time"
+\voice\lap_counter\get_ready,11.wav,"preparati, è il momento di spingere","preparati, è il momento di spingere","get ready, mate, it's hammer time"
 \voice\lap_counter\get_ready,12_op_prefix_ok.wav,preparati guarda i semafori,preparati guarda i semafori,"be ready, watch for the lights"
 \voice\lap_counter\get_ready,13.wav,guarda i semafori,guarda i semafori,watch for the lights
 \voice\lap_counter\get_ready,14.wav,preparati e stai pulito,preparati e stai pulito,"get ready, keep your nose clean"
@@ -4415,7 +4415,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_counter\get_ready,30.wav,"preparati, stiamo per partire","preparati, stiamo per partire","be ready, we're about to go green"
 \voice\lap_counter\get_ready,31.wav,"ok, preparati, rilassati","ok, preparati, rilassati","okay, mate, get ready, relax"
 \voice\lap_counter\get_ready,32.wav,attenzione preparati,attenzione preparati,"heads up, get ready"
-\voice\lap_counter\get_ready,33.wav,"heads up, stiamo andando green","heads up, stiamo andando green","heads up, we're going green"
+\voice\lap_counter\get_ready,33.wav,"attenzione, si riparte","attenzione, si riparte","heads up, we're going green"
 \voice\lap_counter\get_ready,34.wav,"ok, preparati","ok, preparati","okay, mate, get ready"
 \voice\lap_counter\get_ready,3_op_prefix_ok.wav,preparati,preparati,be ready
 \voice\lap_counter\get_ready,4.wav,preparati,preparati,get ready
@@ -4469,7 +4469,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_counter\last_lap,4.wav,ultimo giro,ultimo giro,last lap
 \voice\lap_counter\last_lap_leading,1.wav,"un altro giro per la vittoria, dai","un altro giro per la vittoria, dai","one more lap for the win, come on"
 \voice\lap_counter\last_lap_leading,2_op_suffix_come_on.wav,"un altro giro al termine, rimani concentrato","un altro giro al termine, rimani concentrato","one more lap to go, stay focused"
-\voice\lap_counter\last_lap_leading,3.wav,"one more giro, p1","one more giro, p1","one more lap, you're P1"
+\voice\lap_counter\last_lap_leading,3.wav,"ancora un giro, primo","ancora un giro, primo","one more lap, you're P1"
 \voice\lap_counter\last_lap_leading,4_op_prefix_come_on.wav,"un altro giro, tieni duro, vinceremo","un altro giro, tieni duro, vinceremo","one more lap, keep it together, we'll win this"
 \voice\lap_counter\last_lap_leading,sweary_5_op_prefix_come_on.wav,"ultimo giro, tieni duro, non sei ancora arrivato","ultimo giro, tieni duro, non sei ancora arrivato","last lap, keep your shit together, you're not home yet"
 \voice\lap_counter\last_lap_top_three,1.wav,"ultimo giro, sembra buono per un podio","ultimo giro, sembra buono per un podio","last lap, looking good for a podium"
@@ -4485,12 +4485,12 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_counter\leader_has_gone,3.wav,il leader ha dato gas,il leader ha dato gas,the leader's floored it
 \voice\lap_counter\leader_has_gone,4.wav,il leader e' partito,il leader e' partito,the leader has gone
 \voice\lap_counter\leader_has_gone,5.wav,il leader e' partito,il leader e' partito,the leader's started
-\voice\lap_counter\manual_formation_lap_mode_disabled,1.wav,"ricevuto, no formation giro","ricevuto, no formation giro","acknowledged, no formation lap"
+\voice\lap_counter\manual_formation_lap_mode_disabled,1.wav,"ricevuto, niente giro di formazione","ricevuto, niente giro di formazione","acknowledged, no formation lap"
 \voice\lap_counter\manual_formation_lap_mode_disabled,2.wav,capito niente partenza lanciata,capito niente partenza lanciata,"understood, no rolling start"
-\voice\lap_counter\manual_formation_lap_mode_disabled,3.wav,"ricevuto, no formation giro","ricevuto, no formation giro","acknowledged, no formation lap"
+\voice\lap_counter\manual_formation_lap_mode_disabled,3.wav,"ricevuto, niente giro di formazione","ricevuto, niente giro di formazione","acknowledged, no formation lap"
 \voice\lap_counter\manual_formation_lap_mode_enabled,1.wav,ricevuto partenza lanciata manuale,ricevuto partenza lanciata manuale,"acknowledged, manual rolling start"
-\voice\lap_counter\manual_formation_lap_mode_enabled,2.wav,"capito, manual formation giro","capito, manual formation giro","understood, manual formation lap"
-\voice\lap_counter\manual_formation_lap_mode_enabled,3.wav,"ok, rolling start","ok, rolling start","okay, rolling start"
+\voice\lap_counter\manual_formation_lap_mode_enabled,2.wav,"capito, giro di formazione manuale","capito, giro di formazione manuale","understood, manual formation lap"
+\voice\lap_counter\manual_formation_lap_mode_enabled,3.wav,"ok, partenza lanciata","ok, partenza lanciata","okay, rolling start"
 \voice\lap_counter\minutes_you_need_to_get_on_with_it,1.wav,"minuti, devi sbrigarti","minuti, devi sbrigarti","minutes, you'll need to get on with this"
 \voice\lap_counter\minutes_you_need_to_get_on_with_it,2.wav,minuti non hai molto tempo per sistemarti,minuti non hai molto tempo per sistemarti,"minutes, you've not got much time to sort this out"
 \voice\lap_counter\minutes_you_need_to_get_on_with_it,3.wav,minuti devi davvero sbrigarti,minuti devi davvero sbrigarti,"minutes, you really need to get on with it"
@@ -4502,7 +4502,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_counter\ok_youre_in,5_rq_prefix_ok.wav,sei in,sei in,you're in
 \voice\lap_counter\podium_finish,1_op_suffix_well_done.wav,podio bella li',podio bella li',"podium finish, nice one"
 \voice\lap_counter\podium_finish,2_op_suffix_well_done.wav,"siamo sul podio, bella gara","siamo sul podio, bella gara","we're on the podium, good drive"
-\voice\lap_counter\podium_finish,3_op_prefix_well_done.wav,"ottimo drive, a podium","ottimo drive, a podium","great drive, that's a podium"
+\voice\lap_counter\podium_finish,3_op_prefix_well_done.wav,"ottima guida, un podio","ottima guida, un podio","great drive, that's a podium"
 \voice\lap_counter\podium_finish,4.wav,bravo buona guida,bravo buona guida,"well done, decent drive"
 \voice\lap_counter\rejoin_at_back,1_op_prefix_oh_dear.wav,dovrai rientrare in fondo,dovrai rientrare in fondo,you'll need to rejoin at the back
 \voice\lap_counter\rejoin_at_back,2_op_prefix_ok.wav,dovrai aspettare il gruppo e rientrare in fondo,dovrai aspettare il gruppo e rientrare in fondo,you'll need to wait for the field and rejoin at the back
@@ -4515,11 +4515,11 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_counter\starting_in_right_lane_behind,2.wav,saremo nella colonna destra dietro,saremo nella colonna destra dietro,we'll be in the right pace column behind
 \voice\lap_counter\starting_in_right_lane_behind,3.wav,saremo sul lato destro dietro,saremo sul lato destro dietro,we'll be on the right-hand side behind
 \voice\lap_counter\starting_in_right_lane_behind,4.wav,saremo nella corsia destra dietro,saremo nella corsia destra dietro,we'll be in the right lane behind
-\voice\lap_counter\two_to_go,1.wav,two giri left,two giri left,two laps left
+\voice\lap_counter\two_to_go,1.wav,due giri rimasti,due giri rimasti,two laps left
 \voice\lap_counter\two_to_go,2.wav,due alla fine,due alla fine,two to go
-\voice\lap_counter\two_to_go,3.wav,two giri remaining,two giri remaining,two laps remaining
+\voice\lap_counter\two_to_go,3.wav,two giri rimasti,two giri rimasti,two laps remaining
 \voice\lap_counter\two_to_go_leading,1_op_suffix_come_on.wav,"due al termine, sei in testa","due al termine, sei in testa","two to go, you're in the lead"
-\voice\lap_counter\two_to_go_leading,2_op_prefix_come_on.wav,"two giri left, p1","two giri left, p1","two laps left, you're P1"
+\voice\lap_counter\two_to_go_leading,2_op_prefix_come_on.wav,"due giri rimasti, primo","due giri rimasti, primo","two laps left, you're P1"
 \voice\lap_counter\two_to_go_leading,3_op_prefix_come_on.wav,due alla fine resta concentrato possiamo vincere,due alla fine resta concentrato possiamo vincere,"two to go, stay focused, we can win this"
 \voice\lap_counter\two_to_go_leading,4_male.wav,due alla fine dai sei un grande,due alla fine dai sei un grande,"two to go, come on, you're the man"
 \voice\lap_counter\two_to_go_top_three,1.wav,"due giri al termine, siamo in lizza per il podio","due giri al termine, siamo in lizza per il podio","two laps left, we're on for a podium here"
@@ -4530,14 +4530,14 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_counter\until_start_line,3_op_suffix_please.wav,alla linea di partenza,alla linea di partenza,until the start line
 \voice\lap_counter\white_flag_last_lap,1.wav,bandiera bianca ancora uno,bandiera bianca ancora uno,"white flag, one more to go"
 \voice\lap_counter\white_flag_last_lap,2.wav,"bandiera bianca, ancora un giro","bandiera bianca, ancora un giro","white flag, one more lap"
-\voice\lap_counter\white_flag_last_lap,3.wav,"white flag, last giro","white flag, last giro","white flag, last lap"
+\voice\lap_counter\white_flag_last_lap,3.wav,"bandiera bianca, ultimo giro","bandiera bianca, ultimo giro","white flag, last lap"
 \voice\lap_counter\won_race,1_op_suffix_well_done.wav,hai vinto guida fantastica,hai vinto guida fantastica,"you won, fantastic drive"
-\voice\lap_counter\won_race,2.wav,"ben fatto, , that was absolutely perfect, ottimo win","ben fatto, , that was absolutely perfect, ottimo win","well done, mate, that was absolutely perfect, great win"
+\voice\lap_counter\won_race,2.wav,"ben fatto, è stato assolutamente perfetto, ottima vittoria","ben fatto, è stato assolutamente perfetto, ottima vittoria","well done, mate, that was absolutely perfect, great win"
 \voice\lap_counter\won_race,3_op_prefix_well_done.wav,"grande vittoria, te la sei meritata oggi","grande vittoria, te la sei meritata oggi","great win, you deserve that today"
-\voice\lap_counter\won_race,4.wav,"a win, ottimo job, ben fatto","a win, ottimo job, ben fatto","that's a win, great job, well done"
+\voice\lap_counter\won_race,4.wav,"una vittoria, ottimo lavoro, ben fatto","una vittoria, ottimo lavoro, ben fatto","that's a win, great job, well done"
 \voice\lap_counter\won_race,5.wav,"ben fatto, li hai fatti sembrare tutti ridicoli oggi","ben fatto, li hai fatti sembrare tutti ridicoli oggi","well done, mate, you made 'em all look silly today"
 \voice\lap_counter\won_race,6_op_suffix_well_done.wav,guida perfetta assolutamente impeccabile,guida perfetta assolutamente impeccabile,"perfect drive, absolutely flawless"
-\voice\lap_counter\won_race,sweary_7.wav,"fucking awesome result, , well done","fucking awesome result, , well done","fucking awesome result, mate, well done"
+\voice\lap_counter\won_race,sweary_7.wav,"risultato pazzesco, ben fatto","risultato pazzesco, ben fatto","fucking awesome result, mate, well done"
 \voice\lap_counter\won_race,sweary_8_op_suffix_well_done.wav,cazzo abbiamo vinto,cazzo abbiamo vinto,"shit, we won, wow"
 \voice\lap_times\best_lap_in_race,1.wav,the il piu' veloce giro,the il piu' veloce giro,that's the fastest lap
 \voice\lap_times\best_lap_in_race,2.wav,e' il giro piu' veloce della gara,e' il giro piu' veloce della gara,that's the fastest lap of the race
@@ -4557,7 +4557,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_times\gap_outro_off_pace,3.wav,dal ritmo del leader,dal ritmo del leader,off the leader's pace
 \voice\lap_times\good_lap,1.wav,"buon giro, ma puoi andare piu' veloce","buon giro, ma puoi andare piu' veloce","decent lap, but you can go quicker"
 \voice\lap_times\good_lap,2_op_prefix_well_done.wav,buon giro,buon giro,good lap
-\voice\lap_times\good_lap,3.wav,nice giro,nice giro,nice lap
+\voice\lap_times\good_lap,3.wav,bel giro,bel giro,nice lap
 \voice\lap_times\good_lap,4.wav,buon giro,buon giro,good lap
 \voice\lap_times\good_lap,5_op_suffix_well_done.wav,a decent giro,a decent giro,that's a decent lap
 \voice\lap_times\improving,1_op_suffix_come_on.wav,i tuoi tempi sul giro stanno migliorando,i tuoi tempi sul giro stanno migliorando,your lap times are improving
@@ -4602,13 +4602,13 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_times\pace_ok,1.wav,il ritmo va bene,il ritmo va bene,pace is okay
 \voice\lap_times\pace_ok,2.wav,il tuo ritmo va bene,il tuo ritmo va bene,your pace is all right
 \voice\lap_times\pace_ok,3.wav,il ritmo va bene,il ritmo va bene,pace is okay
-\voice\lap_times\personal_best,1.wav,your il piu' veloce giro today,your il piu' veloce giro today,that's your fastest lap today
-\voice\lap_times\personal_best,10.wav,"buono giro, your il piu' veloce finora","buono giro, your il piu' veloce finora","good lap, that's your quickest so far"
+\voice\lap_times\personal_best,1.wav,il tuo giro più veloce oggi,il tuo giro più veloce oggi,that's your fastest lap today
+\voice\lap_times\personal_best,10.wav,"buon giro, il tuo più veloce finora","buon giro, il tuo più veloce finora","good lap, that's your quickest so far"
 \voice\lap_times\personal_best,11.wav,e' il tuo miglior giro in questa sessione,e' il tuo miglior giro in questa sessione,that's your best lap in this session
 \voice\lap_times\personal_best,12.wav,"buon giro, e' il tuo miglior tempo della sessione","buon giro, e' il tuo miglior tempo della sessione","good lap, that's your best in the session"
-\voice\lap_times\personal_best,3.wav,"buono giro, your il piu' veloce today","buono giro, your il piu' veloce today","good lap, that's your quickest today"
-\voice\lap_times\personal_best,4.wav,your il piu' veloce giro,your il piu' veloce giro,that's your fastest lap
-\voice\lap_times\personal_best,5.wav,your il piu' veloce giro,your il piu' veloce giro,that's your quickest lap
+\voice\lap_times\personal_best,3.wav,"buon giro, il tuo più veloce oggi","buon giro, il tuo più veloce oggi","good lap, that's your quickest today"
+\voice\lap_times\personal_best,4.wav,il tuo il piu' veloce giro,il tuo il piu' veloce giro,that's your fastest lap
+\voice\lap_times\personal_best,5.wav,il tuo il piu' veloce giro,il tuo il piu' veloce giro,that's your quickest lap
 \voice\lap_times\personal_best,6.wav,e' il tuo giro piu' veloce in questa sessione,e' il tuo giro piu' veloce in questa sessione,that's your quickest lap in this session
 \voice\lap_times\personal_best,7.wav,e' il tuo miglior giro in questa sessione,e' il tuo miglior giro in questa sessione,that's your best lap in this session
 \voice\lap_times\personal_best,8.wav,e' il tuo miglior giro in questa sessione,e' il tuo miglior giro in questa sessione,that's your best lap in this session
@@ -4818,7 +4818,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\lap_times\sector_all_two_tenths_off_self_pace,3.wav,sei 2 decimi sotto il tuo miglior tempo in tutti e 3 i settori,sei 2 decimi sotto il tuo miglior tempo in tutti e 3 i settori,you're 2 tenths off your best in all 3 sectors
 \voice\lap_times\setting_current_race_pace,1.wav,siamo i piu' veloci al momento,siamo i piu' veloci al momento,we're quickest at the moment
 \voice\lap_times\setting_current_race_pace,2.wav,al momento stiamo dettando il ritmo,al momento stiamo dettando il ritmo,we're current setting the pace
-\voice\lap_times\setting_current_race_pace,3.wav,siamo quickest right now,siamo quickest right now,we're quickest right now
+\voice\lap_times\setting_current_race_pace,3.wav,siamo i più veloci adesso,siamo i più veloci adesso,we're quickest right now
 \voice\lap_times\setting_current_race_pace,4.wav,stiamo dettando il ritmo,stiamo dettando il ritmo,we're setting the pace
 \voice\lap_times\time_intro,1.wav,hai appena fatto un,hai appena fatto un,you've just done a
 \voice\lap_times\time_intro,10.wav,that giro time was,that giro time was,that lap time was
@@ -4883,8 +4883,8 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\mandatory_pit_stops\can_now_fit_options,1.wav,possiamo montare le option adesso,possiamo montare le option adesso,we can now fit options
 \voice\mandatory_pit_stops\can_now_fit_options,2.wav,ora puoi montare le gomme option,ora puoi montare le gomme option,you can now fit option tyres
 \voice\mandatory_pit_stops\can_now_fit_options,3.wav,puoi montare le option,puoi montare le option,you can put options on
-\voice\mandatory_pit_stops\can_now_fit_options,4.wav,puoi now switch to options,puoi now switch to options,you can now switch to options
-\voice\mandatory_pit_stops\can_now_fit_primes,1.wav,puoi now switch to primes,puoi now switch to primes,you can now switch to primes
+\voice\mandatory_pit_stops\can_now_fit_options,4.wav,puoi adesso passare alle opzioni,puoi adesso passare alle opzioni,you can now switch to options
+\voice\mandatory_pit_stops\can_now_fit_primes,1.wav,puoi adesso passare alle prime,puoi adesso passare alle prime,you can now switch to primes
 \voice\mandatory_pit_stops\can_now_fit_primes,2.wav,ora puoi montare le prime,ora puoi montare le prime,you can now put primes on
 \voice\mandatory_pit_stops\can_now_fit_primes,3.wav,ora puoi montare le gomme prime,ora puoi montare le gomme prime,you can now fit prime tyres
 \voice\mandatory_pit_stops\can_now_fit_primes,4.wav,possiamo passare alle prime adesso,possiamo passare alle prime adesso,we can now switch to primes
@@ -5305,7 +5305,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\mandatory_pit_stops\will_change_all_four_tyres,3.wav,cambio tutte e 4 le gomme,cambio tutte e 4 le gomme,we'll change all 4 tyres
 \voice\mandatory_pit_stops\will_change_all_four_tyres,4.wav,cambiamo tutte e 4 le gomme,cambiamo tutte e 4 le gomme,we're gonna change all 4 tyres
 \voice\mandatory_pit_stops\will_change_all_four_tyres,5.wav,stiamo cambiando all 4 gomme,stiamo cambiando all 4 gomme,we're changing all 4 tyres
-\voice\mandatory_pit_stops\will_change_front_tyres_only,1.wav,stiamo cambiando your gomme anteriori solo,stiamo cambiando your gomme anteriori solo,we're changing your front tyres only
+\voice\mandatory_pit_stops\will_change_front_tyres_only,1.wav,stiamo cambiando il tuo gomme anteriori solo,stiamo cambiando il tuo gomme anteriori solo,we're changing your front tyres only
 \voice\mandatory_pit_stops\will_change_front_tyres_only,2.wav,stiamo cambiando gomme anteriori solo questa volta,stiamo cambiando gomme anteriori solo questa volta,we're changing front tyres only this time
 \voice\mandatory_pit_stops\will_change_front_tyres_only,3.wav,cambiamo solo le gomme anteriori,cambiamo solo le gomme anteriori,we're changing front tyres only
 \voice\mandatory_pit_stops\will_change_front_tyres_only,4.wav,cambiamo le gomme anteriori solo,cambiamo le gomme anteriori solo,we'll change the front tyres only
@@ -5402,7 +5402,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\multiclass\faster_car_behind_racing_player,1_male.wav,"c'e' a macchina piu' veloce in arrivo, lui e' in lotta con noi per posizione, non expect a blue flag","c'e' a macchina piu' veloce in arrivo, lui e' in lotta con noi per posizione, non expect a blue flag","there's a faster car approaching, he's racing us for position, don't expect a blue flag"
 \voice\multiclass\faster_car_behind_racing_player,2.wav,"c'e' una macchina piu' veloce in avvicinamento, e' sullo stesso giro, nessuna bandiera blu","c'e' una macchina piu' veloce in avvicinamento, e' sullo stesso giro, nessuna bandiera blu","there's a faster car approaching, they're on our lap so there'll be no blue flag"
 \voice\multiclass\faster_car_behind_racing_player,2_male.wav,"c'e' una macchina piu' veloce dietro, e' sullo stesso giro, nessuna bandiera blu","c'e' una macchina piu' veloce dietro, e' sullo stesso giro, nessuna bandiera blu","there's a faster car behind, he's on our lap, we're not gonna get a blue flag"
-\voice\multiclass\faster_car_behind_racing_player,3.wav,"macchina piu' veloce in arrivo, they're in lotta con noi per posizione - non expect e blue flag","macchina piu' veloce in arrivo, they're in lotta con noi per posizione - non expect e blue flag","faster car approaching, they're racing us for position - don't expect and blue flag"
+\voice\multiclass\faster_car_behind_racing_player,3.wav,"macchina più veloce in arrivo, sono in lotta con noi per la posizione, non aspettarti bandiere blu","macchina più veloce in arrivo, sono in lotta con noi per la posizione, non aspettarti bandiere blu","faster car approaching, they're racing us for position - don't expect and blue flag"
 \voice\multiclass\faster_car_behind_racing_player,3_male.wav,"macchina piu' veloce in arrivo, lui e' in lotta con noi per posizione, non expect a blue","macchina piu' veloce in arrivo, lui e' in lotta con noi per posizione, non expect a blue","faster car approaching, he's racing us for position, don't expect a blue"
 \voice\multiclass\faster_car_behind_racing_player,4.wav,"c'e' una macchina piu' veloce dietro, stiamo gareggiando per posizione, nessuna bandiera blu","c'e' una macchina piu' veloce dietro, stiamo gareggiando per posizione, nessuna bandiera blu","there's a faster car behind, we're racing them for position so there'll be no blue flag"
 \voice\multiclass\faster_car_behind_racing_player,4_male.wav,"c'e' una macchina piu' veloce dietro, sta gareggiando con noi per posizione, non penso che avremo una bandiera blu","c'e' una macchina piu' veloce dietro, sta gareggiando con noi per posizione, non penso che avremo una bandiera blu","there's a faster car behind, he's racing us for position, I don't think we'll get a blue flag"
@@ -5429,7 +5429,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\multiclass\faster_cars_fighting_behind_inc_class_leader,1.wav,"macchine piu' veloci in arrivo, stanno lottando per la posizione, nel gruppo c'e' il leader di classe","macchine piu' veloci in arrivo, stanno lottando per la posizione, nel gruppo c'e' il leader di classe","faster cars approaching, they're battling for position, the group includes the class leader"
 \voice\multiclass\faster_cars_fighting_behind_inc_class_leader,2.wav,"macchine piu' veloci in avvicinamento, stanno lottando per la posizione, il leader della classe e' in questo gruppo","macchine piu' veloci in avvicinamento, stanno lottando per la posizione, il leader della classe e' in questo gruppo","faster cars approaching, they're scrapping for position, the class leader's in this group"
 \voice\multiclass\faster_cars_fighting_behind_inc_class_leader,3.wav,"c'e' un gruppo di macchine piu' veloci in avvicinamento, stanno lottando per la posizione, il loro leader di classe e' nel gruppo","c'e' un gruppo di macchine piu' veloci in avvicinamento, stanno lottando per la posizione, il loro leader di classe e' nel gruppo","there's a group of faster cars approaching, they're fighting for position, their class leader's in the group"
-\voice\multiclass\faster_cars_fighting_behind_inc_class_leader,4.wav,"c'e' some faster cars in arrivo, they're in lotta per posizione, the group includes the leader di classe","c'e' some faster cars in arrivo, they're in lotta per posizione, the group includes the leader di classe","there's some faster cars approaching, they're fighting for position, the group includes the class leader"
+\voice\multiclass\faster_cars_fighting_behind_inc_class_leader,4.wav,"ci sono macchine più veloci in arrivo, sono in lotta per la posizione, il gruppo include il leader di classe","ci sono macchine più veloci in arrivo, sono in lotta per la posizione, il gruppo include il leader di classe","there's some faster cars approaching, they're fighting for position, the group includes the class leader"
 \voice\multiclass\group4,52.wav,Gruppo 4,Gruppo 4,Group 4
 \voice\multiclass\group4,53.wav,Gruppo 4,Gruppo 4,Group 4
 \voice\multiclass\group4,54.wav,Gruppo 4,Gruppo 4,Group 4
@@ -5559,18 +5559,18 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\multiclass\same_class_as_us,6.wav,come noi,come noi,same as us
 \voice\multiclass\same_class_as_us,7.wav,come noi,come noi,same as we are
 \voice\multiclass\same_class_as_us,8.wav,stessa nostra classe,stessa nostra classe,same as our class
-\voice\multiclass\slower_car_ahead,1.wav,slower class macchina davanti,slower class macchina davanti,slower class car ahead
+\voice\multiclass\slower_car_ahead,1.wav,macchina di classe più lenta davanti,macchina di classe più lenta davanti,slower class car ahead
 \voice\multiclass\slower_car_ahead,2.wav,ti stai avvicinando a una macchina di classe piu' lenta,ti stai avvicinando a una macchina di classe piu' lenta,you're coming up on a slower class car
-\voice\multiclass\slower_car_ahead,3.wav,slower class macchina davanti,slower class macchina davanti,slower class car ahead
+\voice\multiclass\slower_car_ahead,3.wav,macchina di classe più lenta davanti,macchina di classe più lenta davanti,slower class car ahead
 \voice\multiclass\slower_car_ahead,4.wav,ti stai avvicinando a una macchina piu' lenta,ti stai avvicinando a una macchina piu' lenta,you're coming up on a slower car
 \voice\multiclass\slower_car_ahead,5.wav,ti stai avvicinando a una macchina di classe piu' lenta,ti stai avvicinando a una macchina di classe piu' lenta,you're coming up on a slower class car
-\voice\multiclass\slower_car_ahead,6.wav,slower class macchina davanti,slower class macchina davanti,slower class car ahead
+\voice\multiclass\slower_car_ahead,6.wav,macchina di classe più lenta davanti,macchina di classe più lenta davanti,slower class car ahead
 \voice\multiclass\slower_car_ahead_is_class_leader,1.wav,"macchina piu' lenta davanti, e' il leader della loro classe","macchina piu' lenta davanti, e' il leader della loro classe","slower car ahead, this is their class leader"
 \voice\multiclass\slower_car_ahead_is_class_leader,1_male.wav,"macchina piu' lenta davanti, e' il leader della loro classe","macchina piu' lenta davanti, e' il leader della loro classe","slower car ahead, this guy's their class leader"
 \voice\multiclass\slower_car_ahead_is_class_leader,2.wav,"macchina piu' lenta davanti, e' their leader di classe","macchina piu' lenta davanti, e' their leader di classe","slower car ahead, it's their class leader"
 \voice\multiclass\slower_car_ahead_is_class_leader,2_male.wav,"macchina di classe inferiore davanti, e' il loro leader di classe","macchina di classe inferiore davanti, e' il loro leader di classe","slower class car ahead, he's their class leader"
 \voice\multiclass\slower_car_ahead_is_class_leader,3.wav,"macchina lenta davanti, e' il leader della loro classe","macchina lenta davanti, e' il leader della loro classe","slow car ahead, this is the leader for their class"
-\voice\multiclass\slower_car_ahead_is_class_leader,3_male.wav,"macchina piu' lenta davanti, lui e' the leader di classe per these guys","macchina piu' lenta davanti, lui e' the leader di classe per these guys","slower car ahead, he's the class leader for these guys"
+\voice\multiclass\slower_car_ahead_is_class_leader,3_male.wav,"macchina più lenta davanti, lui è il leader di classe per quelli","macchina più lenta davanti, lui è il leader di classe per quelli","slower car ahead, he's the class leader for these guys"
 \voice\multiclass\slower_car_ahead_is_class_leader,4_male.wav,"macchina piu' lenta davanti, e' il leader della classe","macchina piu' lenta davanti, e' il leader della classe","slower car ahead, this guy's the class leader"
 \voice\multiclass\slower_car_ahead_is_class_leader,5_male.wav,"macchina lenta davanti, e' il leader della loro classe","macchina lenta davanti, e' il leader della loro classe","slow car ahead, this guy's their class leader"
 \voice\multiclass\slower_car_ahead_racing_player,1.wav,"macchina lenta davanti, siamo sullo stesso giro, non avra' bandiera blu","macchina lenta davanti, siamo sullo stesso giro, non avra' bandiera blu","slow car ahead, we're on the same lap so they'll get no blue flag"
@@ -5596,7 +5596,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\multiclass\slower_cars_ahead,4.wav,ti stai avvicinando a un gruppo di macchine piu' lente,ti stai avvicinando a un gruppo di macchine piu' lente,you're approaching a group of slower cars
 \voice\multiclass\slower_cars_ahead,5.wav,slower class cars davanti,slower class cars davanti,slower class cars ahead
 \voice\multiclass\slower_cars_ahead,6.wav,ti stai avvicinando a un gruppo di macchine di classe piu' lenta,ti stai avvicinando a un gruppo di macchine di classe piu' lenta,you're approaching a group of slower class cars
-\voice\multiclass\slower_cars_ahead_fighting,1_op_prefix_ok.wav,"in arrivo some slower cars, these guys are in lotta per posizione","in arrivo some slower cars, these guys are in lotta per posizione","you're approaching some slower cars, these guys are fighting for position"
+\voice\multiclass\slower_cars_ahead_fighting,1_op_prefix_ok.wav,"in arrivo macchine più lente, sono in lotta per la posizione","in arrivo macchine più lente, sono in lotta per la posizione","you're approaching some slower cars, these guys are fighting for position"
 \voice\multiclass\slower_cars_ahead_fighting,2_op_prefix_ok.wav,"c'e' un gruppo di macchine piu' lente davanti, stanno lottando tra loro","c'e' un gruppo di macchine piu' lente davanti, stanno lottando tra loro","there's a group of slower cars ahead, these guys are busy fighting each other"
 \voice\multiclass\slower_cars_ahead_fighting,3_op_prefix_ok.wav,"macchine piu' lente davanti, staranno lottando per la posizione, potrebbero non vederti","macchine piu' lente davanti, staranno lottando per la posizione, potrebbero non vederti","slower cars ahead, these guys will be fighting for position, they might not see you"
 \voice\multiclass\slower_cars_ahead_fighting,4_op_prefix_ok.wav,stai arrivando su macchine piu' lente questi stanno lottando tra loro potrebbero non vederti,stai arrivando su macchine piu' lente questi stanno lottando tra loro potrebbero non vederti,"you're coming up on some slower cars, these guys are busy fighting, they might not notice you"
@@ -5725,9 +5725,9 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\opponents\reputation_intro,2.wav,la sua reputazione e',la sua reputazione e',their reputation is
 \voice\opponents\reputation_intro,3.wav,la sua reputazione e',la sua reputazione e',their reputation is
 \voice\opponents\reputation_intro,4.wav,la sua reputazione e',la sua reputazione e',their reputation is
-\voice\opponents\slow_car_ahead,1.wav,hai a slow macchina davanti,hai a slow macchina davanti,you got a slow car ahead
+\voice\opponents\slow_car_ahead,1.wav,hai a macchina lenta davanti,hai a macchina lenta davanti,you got a slow car ahead
 \voice\opponents\slow_car_ahead,2.wav,c'e' una macchina lenta davanti,c'e' una macchina lenta davanti,there's a slow car ahead
-\voice\opponents\slow_car_ahead,3.wav,hai a slow macchina davanti,hai a slow macchina davanti,you got a slow car ahead
+\voice\opponents\slow_car_ahead,3.wav,hai a macchina lenta davanti,hai a macchina lenta davanti,you got a slow car ahead
 \voice\opponents\the_car_ahead_has_just_done_a,1.wav,la macchina davanti ha appena fatto un,la macchina davanti ha appena fatto un,the car ahead has just done a
 \voice\opponents\the_car_ahead_has_just_done_a,10.wav,la macchina davanti ha appena fatto un,la macchina davanti ha appena fatto un,the car in front has just done a
 \voice\opponents\the_car_ahead_has_just_done_a,11.wav,la macchina davanti ha appena fatto un,la macchina davanti ha appena fatto un,the car ahead has just done a
@@ -5839,7 +5839,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\pace_notes\recording_ended,3.wav,ok note di passo finite,ok note di passo finite,"ok, pace notes finished"
 \voice\pace_notes\recording_ended,4.wav,registrazione note di passo fermata,registrazione note di passo fermata,pace notes recording stopped
 \voice\pace_notes\recording_ended,5.wav,registrazione note di passo fermata,registrazione note di passo fermata,pace notes recording stopped
-\voice\pace_notes\recording_started,1.wav,"ok, siamo now recording pace notes","ok, siamo now recording pace notes","ok, we're now recording pace notes"
+\voice\pace_notes\recording_started,1.wav,"ok, stiamo registrando le note di passo","ok, stiamo registrando le note di passo","ok, we're now recording pace notes"
 \voice\pace_notes\recording_started,2.wav,registrazione note di passo iniziata,registrazione note di passo iniziata,pace notes recording started
 \voice\pace_notes\recording_started,3.wav,registrazione note di passo iniziata,registrazione note di passo iniziata,pace notes recording started
 \voice\pace_notes\recording_started,4.wav,le note di passo stanno registrando,le note di passo stanno registrando,pace notes are now recording
@@ -5866,13 +5866,13 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\pearls_of_wisdom\must_do_better,10.wav,dai dovremmo andare meglio di cosi',dai dovremmo andare meglio di cosi',"come on, we should be doing better than this"
 \voice\pearls_of_wisdom\must_do_better,11.wav,"cosa sta succedendo, dai, mettiti in ordine","cosa sta succedendo, dai, mettiti in ordine","what's going on, mate, come on, get your act together"
 \voice\pearls_of_wisdom\must_do_better,12.wav,"questo non e' davvero abbastanza, dai, inizia a concentrarti","questo non e' davvero abbastanza, dai, inizia a concentrarti","this really isn't good enough, come on, start concentrating"
-\voice\pearls_of_wisdom\must_do_better,19.wav,"we need quali-pace every giro now, , there might ancora be chances qui","we need quali-pace every giro now, , there might ancora be chances qui","we need quali-pace every lap now, mate, there might still be chances here"
+\voice\pearls_of_wisdom\must_do_better,19.wav,"dobbiamo avere ritmo da qualifica ogni giro adesso, potrebbero esserci ancora possibilità","dobbiamo avere ritmo da qualifica ogni giro adesso, potrebbero esserci ancora possibilità","we need quali-pace every lap now, mate, there might still be chances here"
 \voice\pearls_of_wisdom\must_do_better,2.wav,dai riconcentrati tieni la guida fluida concentrati sulle traiettorie,dai riconcentrati tieni la guida fluida concentrati sulle traiettorie,"come on, get your head back into it, keep it smooth, focus on these lines"
 \voice\pearls_of_wisdom\must_do_better,21_male.wav,"dai, questo e' deludente, questa macchina ha un buon ritmo","dai, questo e' deludente, questa macchina ha un buon ritmo","come on, man, this is disappointing, there's decent pace in this car"
 \voice\pearls_of_wisdom\must_do_better,22_male.wav,sei dappertutto dai rimettiti in sesto,sei dappertutto dai rimettiti in sesto,"you're all over the place, come on, man, get your head back together"
 \voice\pearls_of_wisdom\must_do_better,23_male.wav,dai fluido e' veloce e ci serve veloce adesso,dai fluido e' veloce e ci serve veloce adesso,"come on, man, smooth is fast, and we need fast right now"
 \voice\pearls_of_wisdom\must_do_better,24_male.wav,"sei migliore di questo, la macchina e' migliore, rimettiti in sesto","sei migliore di questo, la macchina e' migliore, rimettiti in sesto","you're better than this, the car's better than this, get it together, man"
-\voice\pearls_of_wisdom\must_do_better,27.wav,"qualifying pace now, come on, puoi salvage something qui","qualifying pace now, come on, puoi salvage something qui","qualifying pace now, come on, you can salvage something here"
+\voice\pearls_of_wisdom\must_do_better,27.wav,"ritmo da qualifica adesso, dai, puoi salvare qualcosa qui","ritmo da qualifica adesso, dai, puoi salvare qualcosa qui","qualifying pace now, come on, you can salvage something here"
 \voice\pearls_of_wisdom\must_do_better,28.wav,dai basta errori concentrati,dai basta errori concentrati,"come on, no more mistakes, concentrate"
 \voice\pearls_of_wisdom\must_do_better,29.wav,"massimizza ogni giro, recuperiamo quello che possiamo","massimizza ogni giro, recuperiamo quello che possiamo","maximize every lap, let's salvage what we can"
 \voice\pearls_of_wisdom\must_do_better,3.wav,dai concentrati ci serve piu' velocita' non provare a frenare piu' tardi concentrati di piu',dai concentrati ci serve piu' velocita' non provare a frenare piu' tardi concentrati di piu',"come on, focus, we need more speed, don't try to brake later, just concentrate harder"
@@ -5954,7 +5954,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\penalties\cut_track_in_prac_or_qual,9_op_prefix_oh_dear.wav,"limiti di pista, dai, questo giro sara' cancellato","limiti di pista, dai, questo giro sara' cancellato","track limits, come on, this lap will be deleted"
 \voice\penalties\cut_track_in_prac_or_qual_next_invalid,1_op__prefix_oh_dear.wav,"limiti di pista, dai, concentrati, cancelleranno anche il prossimo giro","limiti di pista, dai, concentrati, cancelleranno anche il prossimo giro","track limits, come on, concentrate, they're gonna delete the next lap, too"
 \voice\penalties\cut_track_in_prac_or_qual_next_invalid,2.wav,"limiti di pista, cancelleranno questo giro e il prossimo","limiti di pista, cancelleranno questo giro e il prossimo","track limits, they'll delete this lap and the next one"
-\voice\penalties\cut_track_in_prac_or_qual_next_invalid,3.wav,"hai cut the track, they're gonna cancellare the giro e they'll cancellare the next one, too","hai cut the track, they're gonna cancellare the giro e they'll cancellare the next one, too","you've cut the track, they're gonna delete the lap and they'll delete the next one, too"
+\voice\penalties\cut_track_in_prac_or_qual_next_invalid,3.wav,"hai tagliato la pista, cancelleranno il giro e they'll cancellare the next one, too","hai tagliato la pista, cancelleranno il giro e they'll cancellare the next one, too","you've cut the track, they're gonna delete the lap and they'll delete the next one, too"
 \voice\penalties\cut_track_in_prac_or_qual_next_invalid,4_op_prefix_bad_luck.wav,"sei uscito dai limiti di pista, cancelleranno questo giro e il prossimo","sei uscito dai limiti di pista, cancelleranno questo giro e il prossimo","you've gone out of track limits, they'll delete this lap and the one after it"
 \voice\penalties\cut_track_in_prac_or_qual_next_invalid,5.wav,"limiti di pista, dai, cancelleranno questo giro e anche il prossimo","limiti di pista, dai, cancelleranno questo giro e anche il prossimo","track limits, come on, they're gonna delete this lap and they'll delete the next one, too"
 \voice\penalties\cut_track_in_prac_or_qual_next_invalid,6.wav,"dai, concentrati, tieni la macchina tra le linee bianche, hai perso questo giro e il prossimo","dai, concentrati, tieni la macchina tra le linee bianche, hai perso questo giro e il prossimo","come on, concentrate, keep it between the white lines, you've lost this lap and the next one"
@@ -6252,7 +6252,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\penalties\penalty_one_lap_left_to_pit,4.wav,dobbiamo rientrare e scontare la penalita' in questo giro,dobbiamo rientrare e scontare la penalita' in questo giro,we need to come and serve our penalty on this lap
 \voice\penalties\penalty_served,1.wav,hai scontato la tua penalita',hai scontato la tua penalita',you served your penalty
 \voice\penalties\penalty_served,2.wav,la tua penalita' e' completata,la tua penalita' e' completata,your penalty's completed
-\voice\penalties\penalty_served,3.wav,hai scontata your penalita',hai scontata your penalita',you've served your penalty
+\voice\penalties\penalty_served,3.wav,hai scontata il tuo penalita',hai scontata il tuo penalita',you've served your penalty
 \voice\penalties\penalty_three_laps_left,1.wav,hai 3 giri per scontare questa penalita',hai 3 giri per scontare questa penalita',you got 3 laps to serve this penalty
 \voice\penalties\penalty_three_laps_left,2.wav,devi rientrare per questa penalita' nei prossimi 3 giri,devi rientrare per questa penalita' nei prossimi 3 giri,you need to come in for this penalty in the next 3 laps
 \voice\penalties\penalty_three_laps_left,3.wav,hai 3 giri per scontare questa penalita',hai 3 giri per scontare questa penalita',you've got 3 laps to serve this penalty
@@ -6335,7 +6335,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\penalties\warning_driving_too_slow,5.wav,stai guidando troppo piano,stai guidando troppo piano,you're driving too slowly
 \voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,1.wav,entra ai box per non superare il limite di giri,entra ai box per non superare il limite di giri,enter the pits to avoid exceeding the lap allowance
 \voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,2.wav,"abbiamo esaurito il numero di giri, dobbiamo fare il pit stop in questo giro","abbiamo esaurito il numero di giri, dobbiamo fare il pit stop in questo giro","we've used our lap allowance, we need to pit this lap"
-\voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,3.wav,"we've used our giro allowance, pit this giro","we've used our giro allowance, pit this giro","we've used our lap allowance, pit this lap"
+\voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,3.wav,"abbiamo esaurito i giri consentiti, ai box questo giro","abbiamo esaurito i giri consentiti, ai box questo giro","we've used our lap allowance, pit this lap"
 \voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,4.wav,entra ai box per non superare il tuo limite di giri,entra ai box per non superare il tuo limite di giri,enter the pits to avoid exceeding your lap allowance
 \voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,5.wav,ai box questo giro per non superare il numero massimo di giri,ai box questo giro per non superare il numero massimo di giri,box this lap to avoid exceeding your lap allowance
 \voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,6.wav,"we've done as many giri as siamo allowed, box this giro","we've done as many giri as siamo allowed, box this giro","we've done as many laps as we're allowed, box this lap"
@@ -6458,14 +6458,14 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\position\expected_position_win_mid_race,3.wav,il nostro obiettivo era vincere,il nostro obiettivo era vincere,our target was to win this
 \voice\position\expected_position_win_mid_race,4.wav,il nostro obiettivo era vincere,il nostro obiettivo era vincere,our target was to win this
 \voice\position\expected_position_win_mid_race,5.wav,ci aspettavamo di essere davanti,ci aspettavamo di essere davanti,we expected to be at the front
-\voice\position\good_start,1.wav,"buono start, , nice one","buono start, , nice one","good start, mate, nice one"
+\voice\position\good_start,1.wav,"buona partenza, , nice one","buona partenza, , nice one","good start, mate, nice one"
 \voice\position\good_start,11.wav,"partenza perfetta, ottimo","partenza perfetta, ottimo","perfect start, mate, this is great"
 \voice\position\good_start,12.wav,"buona partenza, continua cosi'","buona partenza, continua cosi'","good start, keep it up"
-\voice\position\good_start,13.wav,"ottimo start, well done","ottimo start, well done","great start, well done"
-\voice\position\good_start,2.wav,"nice start, , well done","nice start, , well done","nice start, mate, well done"
-\voice\position\good_start,3_op_prefix_well_done.wav,buono start,buono start,good start
-\voice\position\good_start,4_op_suffix_well_done.wav,buono start,buono start,good start
-\voice\position\good_start,5.wav,"buono start,","buono start,","good start, mate"
+\voice\position\good_start,13.wav,"ottimo start, ben fatto","ottimo start, ben fatto","great start, well done"
+\voice\position\good_start,2.wav,"bella partenza, ben fatto","bella partenza, ben fatto","nice start, mate, well done"
+\voice\position\good_start,3_op_prefix_well_done.wav,buona partenza,buona partenza,good start
+\voice\position\good_start,4_op_suffix_well_done.wav,buona partenza,buona partenza,good start
+\voice\position\good_start,5.wav,"buona partenza,","buona partenza,","good start, mate"
 \voice\position\good_start,6_op_suffix_come_on.wav,bella partenza,bella partenza,nice start
 \voice\position\good_start,7.wav,"ottima partenza, continua cosi'","ottima partenza, continua cosi'","sweet start, mate, keep it coming"
 \voice\position\good_start,9.wav,"ottimo lavoro alla partenza, benissimo","ottimo lavoro alla partenza, benissimo","good work on the start, mate, this is great"
@@ -6489,7 +6489,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\position\ok_start,2.wav,"partenza ok, sistemiamoci","partenza ok, sistemiamoci","start's okay, let's get settled in"
 \voice\position\ok_start,3_op_suffix_come_on.wav,"la partenza e' ok, mettiamoci sotto","la partenza e' ok, mettiamoci sotto","the start's okay, let's get stuck in"
 \voice\position\ok_start,4.wav,"la tua partenza e' ok, possiamo costruire qualcosa da qui","la tua partenza e' ok, possiamo costruire qualcosa da qui","your start's okay, we can build something from this"
-\voice\position\ok_start,5_op_suffix_come_on.wav,"ok, let's find a buono rhythm, make some places","ok, let's find a buono rhythm, make some places","okay, let's find a good rhythm, make some places"
+\voice\position\ok_start,5_op_suffix_come_on.wav,"ok, troviamo un buon ritmo, guadagniamo posizioni","ok, troviamo un buon ritmo, guadagniamo posizioni","okay, let's find a good rhythm, make some places"
 \voice\position\ok_start,6.wav,"partenza ok, siamo ancora in gara","partenza ok, siamo ancora in gara","start's okay, we're still in this"
 \voice\position\ok_start,8.wav,la partenza e' ok costruiamo da li',la partenza e' ok costruiamo da li',"the start's all right, let's build on it"
 \voice\position\ok_start,9.wav,"la partenza e' ok, trova il tuo ritmo","la partenza e' ok, trova il tuo ritmo","the start's okay, now find your groove"
@@ -6499,7 +6499,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\position\one_lap_down,1.wav,a giro down,a giro down,you're a lap down
 \voice\position\one_lap_down,2.wav,1 giro down,1 giro down,you're 1 lap down
 \voice\position\one_lap_down,3.wav,a giro down,a giro down,you're a lap down
-\voice\position\overtaking,1.wav,"buono pass, well done","buono pass, well done","good pass, well done"
+\voice\position\overtaking,1.wav,"bel sorpasso, ben fatto","bel sorpasso, ben fatto","good pass, well done"
 \voice\position\overtaking,12_op_suffix_well_done.wav,dai cosi' si fa,dai cosi' si fa,"come on, that's the stuff"
 \voice\position\overtaking,13.wav,cosi' si fa ancora cosi',cosi' si fa ancora cosi',"that's the stuff, we'll have some more of that"
 \voice\position\overtaking,14_op_suffix_come_on.wav,fantastico bene cosi',fantastico bene cosi',"brilliant, nice one"
@@ -6511,23 +6511,23 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\position\overtaking,21.wav,"ottimo lavoro, continua cosi'","ottimo lavoro, continua cosi'","good work, mate, keep it up"
 \voice\position\overtaking,22.wav,"sweet pass,","sweet pass,","sweet pass, mate"
 \voice\position\overtaking,23.wav,prendilo bella li',prendilo bella li',"have it, nice one"
-\voice\position\overtaking,24.wav,buono pass,buono pass,good pass
-\voice\position\overtaking,26.wav,"buono pass, now keep pushing","buono pass, now keep pushing","good pass, now keep pushing"
+\voice\position\overtaking,24.wav,bel sorpasso,bel sorpasso,good pass
+\voice\position\overtaking,26.wav,"bel sorpasso, adesso continua a spingere","bel sorpasso, adesso continua a spingere","good pass, now keep pushing"
 \voice\position\overtaking,27.wav,"ben fatto, , that was ottimo","ben fatto, , that was ottimo","well done, mate, that was great"
 \voice\position\overtaking,29.wav,fantastico bravo,fantastico bravo,"awesome, well done"
 \voice\position\overtaking,2_op_suffix_well_done.wav,"nice one,","nice one,","nice one, mate"
 \voice\position\overtaking,3_op_prefix_well_done.wav,"ottima mossa, continua cosi'","ottima mossa, continua cosi'","great move, keep it up"
 \voice\position\overtaking,4_op_prefix_well_done.wav,"nice move,","nice move,","nice move, mate"
 \voice\position\overtaking,5_op_prefix_come_on.wav,"ottimo lavoro, continua cosi'","ottimo lavoro, continua cosi'","good stuff, keep it coming"
-\voice\position\overtaking,5_op_prefix_well_done.wav,"buono pass, eyes front","buono pass, eyes front","good pass, eyes front"
-\voice\position\overtaking,6.wav,"well done, buono pass","well done, buono pass","well done, good pass"
+\voice\position\overtaking,5_op_prefix_well_done.wav,"bel sorpasso, eyes front","bel sorpasso, eyes front","good pass, eyes front"
+\voice\position\overtaking,6.wav,"ben fatto, bel sorpasso","ben fatto, bel sorpasso","well done, good pass"
 \voice\position\overtaking,7.wav,bravo occhi avanti adesso,bravo occhi avanti adesso,"well done, eyes front now"
-\voice\position\overtaking,sweary_10.wav,"buono pass, , that was fucking brilliant","buono pass, , that was fucking brilliant","good pass, mate, that was fucking brilliant"
-\voice\position\overtaking,sweary_11.wav,"buono pass, , fucking awesome","buono pass, , fucking awesome","good pass, mate, fucking awesome"
+\voice\position\overtaking,sweary_10.wav,"bel sorpasso, , that was fucking brilliant","bel sorpasso, , that was fucking brilliant","good pass, mate, that was fucking brilliant"
+\voice\position\overtaking,sweary_11.wav,"bel sorpasso, , fucking awesome","bel sorpasso, , fucking awesome","good pass, mate, fucking awesome"
 \voice\position\overtaking,sweary_20.wav,si' fregato quello stronzo,si' fregato quello stronzo,"yeah, nailed that fucker"
 \voice\position\overtaking,sweary_25.wav,fan-tas-ti-co adesso continua a spingere,fan-tas-ti-co adesso continua a spingere,"fan-fucking-tastic, now keep pushing"
 \voice\position\overtaking,sweary_28.wav,cazzo dai lo hai fregato,cazzo dai lo hai fregato,"fucking come on, you nailed him"
-\voice\position\overtaking,sweary_7.wav,"fucking ottimo pass, , well done","fucking ottimo pass, , well done","fucking great pass, mate, well done"
+\voice\position\overtaking,sweary_7.wav,"fucking ottimo pass, , ben fatto","fucking ottimo pass, , ben fatto","fucking great pass, mate, well done"
 \voice\position\overtaking,sweary_8.wav,"fucking awesome move,","fucking awesome move,","fucking awesome move, mate"
 \voice\position\overtaking,sweary_9.wav,"fucking excellent pass, nice one,","fucking excellent pass, nice one,","fucking excellent pass, nice one, mate"
 \voice\position\p10,10.wav,P10,P10,P10
@@ -6759,7 +6759,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\race_time\half_way,op_prefix_ok_9.wav,e' meta' gara,e' meta' gara,that's half-distance
 \voice\race_time\laps_remaining,1.wav,giri left,giri left,laps left
 \voice\race_time\laps_remaining,2.wav,giri al termine,giri al termine,laps to go
-\voice\race_time\laps_remaining,3.wav,giri remaining,giri remaining,laps remaining
+\voice\race_time\laps_remaining,3.wav,giri rimasti,giri rimasti,laps remaining
 \voice\race_time\last_lap,1.wav,un altro giro,un altro giro,1 more lap to go
 \voice\race_time\last_lap,3.wav,un altro giro,un altro giro,1 more lap to go
 \voice\race_time\last_lap,4.wav,ultimo giro,ultimo giro,last lap
@@ -6789,7 +6789,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\race_time\this_is_the_last_lap,2.wav,e' l'ultimo giro,e' l'ultimo giro,this is the last lap
 \voice\race_time\this_is_the_last_lap,3.wav,e' il tuo ultimo giro,e' il tuo ultimo giro,this is your last lap
 \voice\race_time\twenty_minutes_left,1.wav,venti minuti alla fine venti minuti,venti minuti alla fine venti minuti,"that's 20 minutes to go, 20 minutes"
-\voice\race_time\twenty_minutes_left,2.wav,"20 minutes remaining, hai 20 minutes left","20 minutes remaining, hai 20 minutes left","20 minutes remaining, you got 20 minutes left"
+\voice\race_time\twenty_minutes_left,2.wav,"20 minuti rimasti, hai 20 minuti left","20 minuti rimasti, hai 20 minuti left","20 minutes remaining, you got 20 minutes left"
 \voice\race_time\twenty_minutes_left,3.wav,venti minuti alla fine,venti minuti alla fine,that's 20 minutes to go
 \voice\race_time\two_minutes_left,1.wav,due minuti alla fine due minuti,due minuti alla fine due minuti,"2 minutes to go, 2 minutes"
 \voice\race_time\two_minutes_left,2.wav,solo due minuti rimasti due minuti alla fine,solo due minuti rimasti due minuti alla fine,"just 2 minutes left, 2 minutes to go"
@@ -7074,18 +7074,18 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\strategy\we_should_emerge_in_position,5.wav,quando usciamo dai box dovremmo essere in posizione,quando usciamo dai box dovremmo essere in posizione,when we exit the pits we should be in position
 \voice\strategy\we_should_emerge_in_position,6.wav,ci aspettiamo di uscire dai box in posizione,ci aspettiamo di uscire dai box in posizione,we expect to exit the pits in position
 \voice\strategy\we_should_emerge_in_position,7.wav,in uscita dovremmo essere in posizione,in uscita dovremmo essere in posizione,on exit we should be in position
-\voice\strategy\will_calculate_time_loss_from_next_lap,1.wav,calculate your time loss da your next flying giro,calculate your time loss da your next flying giro,we'll calculate your time loss from your next flying lap
+\voice\strategy\will_calculate_time_loss_from_next_lap,1.wav,calcola la tua perdita di tempo dal tuo prossimo giro veloce,calcola la tua perdita di tempo dal tuo prossimo giro veloce,we'll calculate your time loss from your next flying lap
 \voice\strategy\will_calculate_time_loss_from_next_lap,2.wav,calcoleremo la perdita di tempo in base al tuo prossimo giro lanciato,calcoleremo la perdita di tempo in base al tuo prossimo giro lanciato,we'll calculate the time loss based on your next flying lap
 \voice\strategy\will_calculate_time_loss_from_next_lap,3.wav,calcoleremo la perdita di tempo in base al tuo prossimo giro lanciato,calcoleremo la perdita di tempo in base al tuo prossimo giro lanciato,we'll work out the time loss based on your next flying lap
-\voice\timings\ahead_is_increasing,1.wav,"davanti is sta salendo, e' now","davanti is sta salendo, e' now","ahead is increasing, it's now"
-\voice\timings\ahead_is_increasing,2.wav,"davanti is sta salendo, e' now","davanti is sta salendo, e' now","ahead is increasing, it's now"
-\voice\timings\ahead_is_increasing,3.wav,"davanti is sta salendo, e' now","davanti is sta salendo, e' now","ahead is increasing, it's now"
+\voice\timings\ahead_is_increasing,1.wav,"davanti sta salendo, adesso è","davanti sta salendo, adesso è","ahead is increasing, it's now"
+\voice\timings\ahead_is_increasing,2.wav,"davanti sta salendo, adesso è","davanti sta salendo, adesso è","ahead is increasing, it's now"
+\voice\timings\ahead_is_increasing,3.wav,"davanti sta salendo, adesso è","davanti sta salendo, adesso è","ahead is increasing, it's now"
 \voice\timings\ahead_is_now,1.wav,il distacco davanti e' ora,il distacco davanti e' ora,ahead is now
 \voice\timings\ahead_is_now,2.wav,il distacco davanti e' ora,il distacco davanti e' ora,ahead is now
 \voice\timings\ahead_is_now,3.wav,il distacco davanti e' ora,il distacco davanti e' ora,in front is now
-\voice\timings\behind_is_increasing,1.wav,"dietro is sta salendo, e' now","dietro is sta salendo, e' now","behind is increasing, it's now"
-\voice\timings\behind_is_increasing,2.wav,"dietro is sta salendo, e' now","dietro is sta salendo, e' now","behind is increasing, it's now"
-\voice\timings\behind_is_increasing,3.wav,"dietro is sta salendo, e' now","dietro is sta salendo, e' now","behind is increasing, it's now"
+\voice\timings\behind_is_increasing,1.wav,"dietro sta salendo, adesso è","dietro sta salendo, adesso è","behind is increasing, it's now"
+\voice\timings\behind_is_increasing,2.wav,"dietro sta salendo, adesso è","dietro sta salendo, adesso è","behind is increasing, it's now"
+\voice\timings\behind_is_increasing,3.wav,"dietro sta salendo, adesso è","dietro sta salendo, adesso è","behind is increasing, it's now"
 \voice\timings\behind_is_now,1.wav,il distacco dietro e' ora,il distacco dietro e' ora,behind is now
 \voice\timings\behind_is_now,2.wav,il distacco dietro e' ora,il distacco dietro e' ora,behind is now
 \voice\timings\behind_is_now,3.wav,il distacco dietro e' ora,il distacco dietro e' ora,behind is now
@@ -7095,7 +7095,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\timings\being_held_up,13_male.wav,dai sorpassalo una buona volta,dai sorpassalo una buona volta,"come on, pass him already"
 \voice\timings\being_held_up,14_male.wav,stai perdendo tempo qui dobbiamo sorpassarlo,stai perdendo tempo qui dobbiamo sorpassarlo,"you're losing time here, man, we need to pass him"
 \voice\timings\being_held_up,15_male.wav,ci deve essere un'occasione qui continua a pressarlo,ci deve essere un'occasione qui continua a pressarlo,"there's gotta be a chance here, keep harrying him"
-\voice\timings\being_held_up,16.wav,"non wait too long, find that distacco","non wait too long, find that distacco","don't wait too long, find that gap"
+\voice\timings\being_held_up,16.wav,"non aspettare troppo, trova quel distacco","non aspettare troppo, trova quel distacco","don't wait too long, find that gap"
 \voice\timings\being_held_up,1_op_prefix_ok_male.wav,"continua a fare pressione, fara' un errore","continua a fare pressione, fara' un errore","keep piling on the pressure, he'll make a mistake"
 \voice\timings\being_held_up,2.wav,dobbiamo davvero essere davanti a questa macchina,dobbiamo davvero essere davanti a questa macchina,we really need to be in front of this car
 \voice\timings\being_held_up,20.wav,"continua a cercare, troverai uno spazio","continua a cercare, troverai uno spazio","keep searching, you'll find a gap"
@@ -7134,7 +7134,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\timings\being_pressured,1.wav,"usa tutta la pista, costringili a trovare il varco","usa tutta la pista, costringili a trovare il varco","use all the track, force them to find the gap"
 \voice\timings\being_pressured,10_male.wav,"difendi la posizione, non lasciarlo passare","difendi la posizione, non lasciarlo passare","defend your position, don't let him through"
 \voice\timings\being_pressured,11_male.wav,"non farti intimidire, tienilo dietro","non farti intimidire, tienilo dietro","don't be intimidated, keep him behind you"
-\voice\timings\being_pressured,13.wav,"non be distracted, defend your posizione","non be distracted, defend your posizione","don't be distracted, defend your position"
+\voice\timings\being_pressured,13.wav,"non be distracted, defend il tuo posizione","non be distracted, defend il tuo posizione","don't be distracted, defend your position"
 \voice\timings\being_pressured,14.wav,vediamo quanto riesci ad allargare il distacco,vediamo quanto riesci ad allargare il distacco,let's see how wide you can make this thing
 \voice\timings\being_pressured,16.wav,e' il momento di difendersi,e' il momento di difendersi,"time to get defensive, mate"
 \voice\timings\being_pressured,17_male.wav,fagli fare tutto il lavoro concentrati sulle uscite,fagli fare tutto il lavoro concentrati sulle uscite,"make him do all the work, focus on your exits"
@@ -7160,7 +7160,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\timings\gap_behind_decreasing,2_male.wav,"quello dietro ti sta recuperando, il distacco e' ora di","quello dietro ti sta recuperando, il distacco e' ora di","the guy behind's reeling you in, the gap's now"
 \voice\timings\gap_behind_decreasing,3.wav,il distacco dietro e' ora diminuito a,il distacco dietro e' ora diminuito a,the gap behind has now decreased to
 \voice\timings\gap_behind_increasing,1.wav,"pulling away, il distacco dietro e' ora","pulling away, il distacco dietro e' ora","you're pulling away, the gap behind is now"
-\voice\timings\gap_behind_increasing,2_male.wav,"pulling away da the guy dietro, il distacco's now","pulling away da the guy dietro, il distacco's now","you're pulling away from the guy behind, the gap's now"
+\voice\timings\gap_behind_increasing,2_male.wav,"pulling away da quello dietro, il distacco's now","pulling away da quello dietro, il distacco's now","you're pulling away from the guy behind, the gap's now"
 \voice\timings\gap_behind_increasing,3.wav,il distacco dietro's increased to,il distacco dietro's increased to,the gap behind's increased to
 \voice\timings\gap_behind_is_now,1.wav,il distacco dietro e' ora,il distacco dietro e' ora,the gap behind is now
 \voice\timings\gap_behind_is_now,2.wav,il distacco dietro e' ora,il distacco dietro e' ora,the gap behind is now
@@ -7172,7 +7172,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\timings\gap_in_front_decreasing,3_op_prefix_ok.wav,"stai guadagnando sulla macchina davanti, il distacco e' ora di","stai guadagnando sulla macchina davanti, il distacco e' ora di","you're gaining on the car in front, the gap's now"
 \voice\timings\gap_in_front_decreasing,3_op_prefix_ok_male.wav,"stai guadagnando su quello davanti, il distacco e'","stai guadagnando su quello davanti, il distacco e'","you're gaining on the guy in front, the gap is"
 \voice\timings\gap_in_front_increasing,1.wav,"il distacco davanti sta crescendo, il distacco e' ora","il distacco davanti sta crescendo, il distacco e' ora","the gap in front is increasing, the gap is now"
-\voice\timings\gap_in_front_increasing,2.wav,"il distacco davanti has increased, e' now about","il distacco davanti has increased, e' now about","the gap in front has increased, it's now about"
+\voice\timings\gap_in_front_increasing,2.wav,"il distacco davanti è aumentato, adesso è circa","il distacco davanti è aumentato, adesso è circa","the gap in front has increased, it's now about"
 \voice\timings\gap_in_front_increasing,3.wav,il distacco davanti e' aumentato a,il distacco davanti e' aumentato a,the gap in front has increased to
 \voice\timings\gap_in_front_is_now,1.wav,il distacco davanti e' ora,il distacco davanti e' ora,the gap in front is now
 \voice\timings\gap_in_front_is_now,2.wav,il distacco davanti e' ora,il distacco davanti e' ora,the gap in front is now
@@ -7205,15 +7205,15 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\timings\in_the_gap_is_now,2.wav,"si avvicina, il distacco e' ora","si avvicina, il distacco e' ora","in, the gap is now"
 \voice\timings\in_the_gap_is_now,3.wav,"in, il distacco is","in, il distacco is","in, the gap is"
 \voice\timings\is_reeling_you_in,1.wav,"ti sta recuperando, il distacco e' ora di","ti sta recuperando, il distacco e' ora di","is reeling you in, the gap's now"
-\voice\timings\is_reeling_you_in,10.wav,"is closing il distacco, e' now","is closing il distacco, e' now","is closing the gap, it's now"
-\voice\timings\is_reeling_you_in,11.wav,"is getting closer, il distacco's now","is getting closer, il distacco's now","is getting closer, the gap's now"
+\voice\timings\is_reeling_you_in,10.wav,"sta chiudendo il distacco, adesso è","sta chiudendo il distacco, adesso è","is closing the gap, it's now"
+\voice\timings\is_reeling_you_in,11.wav,"si sta avvicinando, il distacco adesso è","si sta avvicinando, il distacco adesso è","is getting closer, the gap's now"
 \voice\timings\is_reeling_you_in,2.wav,"ti sta guadagnando, il distacco e' ora di","ti sta guadagnando, il distacco e' ora di","is gaining on you, the gap's now"
 \voice\timings\is_reeling_you_in,3.wav,"ti sta recuperando, il distacco e' ora di","ti sta recuperando, il distacco e' ora di","is reeling you in, the gap's now"
 \voice\timings\is_reeling_you_in,4.wav,"ti sta guadagnando, il distacco e' ora di","ti sta guadagnando, il distacco e' ora di","is gaining on you, the gap is now"
 \voice\timings\is_reeling_you_in,5.wav,"si sta avvicinando, il distacco e' sceso a","si sta avvicinando, il distacco e' sceso a","is getting closer, the gap's come down to"
 \voice\timings\is_reeling_you_in,6.wav,"si sta avvicinando, il distacco e' sceso a","si sta avvicinando, il distacco e' sceso a","is closing you down, the gap has come down to"
 \voice\timings\is_reeling_you_in,7.wav,"si sta avvicinando, il distacco e' ora","si sta avvicinando, il distacco e' ora","is closing in, the gap is now"
-\voice\timings\is_reeling_you_in,8.wav,"is getting closer, il distacco's now","is getting closer, il distacco's now","is getting closer, the gap's now"
+\voice\timings\is_reeling_you_in,8.wav,"si sta avvicinando, il distacco adesso è","si sta avvicinando, il distacco adesso è","is getting closer, the gap's now"
 \voice\timings\is_reeling_you_in,9.wav,"si sta avvicinando, il distacco e' ora","si sta avvicinando, il distacco e' ora","is getting closer, the gap is now"
 \voice\timings\opponent_ahead_has_bad_reputation,1.wav,il pilota davanti ha una cattiva reputazione,il pilota davanti ha una cattiva reputazione,the driver in front's got a bad reputation
 \voice\timings\opponent_ahead_has_bad_reputation,1_male.wav,quello davanti ha una cattiva reputazione,quello davanti ha una cattiva reputazione,the guy in front's got a bad reputation
@@ -7253,7 +7253,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\timings\opponent_behind_has_bad_reputation,10_male.wav,"quello dietro ha avuto molti incidenti, attenzione","quello dietro ha avuto molti incidenti, attenzione","the guy behind's had loads of incidents, be careful"
 \voice\timings\opponent_behind_has_bad_reputation,1_male.wav,"quello dietro ha una pessima reputazione, preparati ai problemi","quello dietro ha una pessima reputazione, preparati ai problemi","the guy behind's got a poor reputation, prepare for trouble"
 \voice\timings\opponent_behind_has_bad_reputation,2.wav,"il pilota dietro e' molto incidentato, attenzione","il pilota dietro e' molto incidentato, attenzione","the driver behind is really accident prone, be careful here"
-\voice\timings\opponent_behind_has_bad_reputation,2_male.wav,"the guy dietro's davvero accident-prone, fai attenzione qui","the guy dietro's davvero accident-prone, fai attenzione qui","the guy behind's really accident-prone, be careful here"
+\voice\timings\opponent_behind_has_bad_reputation,2_male.wav,"quello dietro's davvero accident-prone, fai attenzione qui","quello dietro's davvero accident-prone, fai attenzione qui","the guy behind's really accident-prone, be careful here"
 \voice\timings\opponent_behind_has_bad_reputation,3.wav,"la reputazione del pilota dietro e' davvero pessima, attenzione","la reputazione del pilota dietro e' davvero pessima, attenzione","the driver behind's reputation is really bad, be careful"
 \voice\timings\opponent_behind_has_bad_reputation,3.wav,"la reputazione del pilota dietro e' davvero pessima, attenzione","la reputazione del pilota dietro e' davvero pessima, attenzione","the driver behind's reputation is really bad, be careful"
 \voice\timings\opponent_behind_has_bad_reputation,4.wav,"il pilota dietro ha una cattiva reputazione, attenzione","il pilota dietro ha una cattiva reputazione, attenzione","the driver behind has got a bad rep, take care"
@@ -7262,7 +7262,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\timings\opponent_behind_has_bad_reputation,5_male.wav,quello dietro ha una cattiva reputazione,quello dietro ha una cattiva reputazione,the guy behind's got a bad rep
 \voice\timings\opponent_behind_has_bad_reputation,6.wav,"il pilota dietro ha avuto molti incidenti, attenzione","il pilota dietro ha avuto molti incidenti, attenzione","the driver behind's had loads of incidents, be careful"
 \voice\timings\opponent_behind_has_bad_reputation,6_male.wav,"quello dietro ha una cattiva reputazione, attenzione","quello dietro ha una cattiva reputazione, attenzione","the guy behind's got a bad reputation, take care"
-\voice\timings\opponent_behind_has_bad_reputation,7_male.wav,"the guy dietro's davvero accident-prone, fai attenzione","the guy dietro's davvero accident-prone, fai attenzione","the guy behind's really accident-prone, be careful"
+\voice\timings\opponent_behind_has_bad_reputation,7_male.wav,"quello dietro's davvero accident-prone, fai attenzione","quello dietro's davvero accident-prone, fai attenzione","the guy behind's really accident-prone, be careful"
 \voice\timings\opponent_behind_has_bad_reputation,8_male.wav,"quello dietro non e' noto per una guida pulita, stai attento","quello dietro non e' noto per una guida pulita, stai attento","the guy behind's not know for driving clean, watch yourself here"
 \voice\timings\opponent_behind_has_bad_reputation,9_male.wav,quello dietro ha una cattiva reputazione,quello dietro ha una cattiva reputazione,the guy behind's got a bad reputation
 \voice\timings\opponent_behind_has_below_average_reputation,1.wav,"il pilota dietro e' un po' imprevedibile, occhio agli specchi","il pilota dietro e' un po' imprevedibile, occhio agli specchi","the driver behind's a bit sketchy, watch your mirrors here"
@@ -7279,7 +7279,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\timings\opponent_behind_has_below_average_reputation,6.wav,"il pilota dietro ha una reputazione discutibile, attenzione","il pilota dietro ha una reputazione discutibile, attenzione","the driver behind's got a sketchy reputation, be careful"
 \voice\timings\opponent_behind_has_below_average_reputation,6_male.wav,"quello dietro ha una reputazione un po' discutibile, attenzione","quello dietro ha una reputazione un po' discutibile, attenzione","the guy behind's got a bit of a sketchy reputation, be careful"
 \voice\timings\opponent_behind_has_below_average_reputation,7.wav,"il pilota dietro ha avuto qualche incidente ultimamente, tienilo presente","il pilota dietro ha avuto qualche incidente ultimamente, tienilo presente","the driver behind's had a few incidents lately, bare it in mind"
-\voice\timings\opponent_behind_has_below_average_reputation,7_male.wav,the guy dietro doesn't gara molto clean,the guy dietro doesn't gara molto clean,the guy behind doesn't race very clean
+\voice\timings\opponent_behind_has_below_average_reputation,7_male.wav,quello dietro non gareggia molto pulito,quello dietro non gareggia molto pulito,the guy behind doesn't race very clean
 \voice\timings\opponent_behind_has_below_average_reputation,8_male.wav,"la reputazione di quello dietro non e' buona, attenzione","la reputazione di quello dietro non e' buona, attenzione","the guy behind's reputation isn't as good as it should be, take care"
 \voice\timings\opponent_behind_has_below_average_reputation,9_male.wav,quello dietro ha avuto qualche incidente recentemente,quello dietro ha avuto qualche incidente recentemente,the guy behind's had a few incidents recently
 \voice\timings\seconds,1.wav,secondi,secondi,seconds
@@ -7404,25 +7404,25 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\cooking_front_tyres,1.wav,stai cuocendo le tue gomme anteriori,stai cuocendo le tue gomme anteriori,"you're cooking your front tyres, mate"
 \voice\tyre_monitor\cooking_front_tyres,2.wav,le gomme anteriori sono davvero calde,le gomme anteriori sono davvero calde,your front tyres are really hot
 \voice\tyre_monitor\cooking_front_tyres,3.wav,le gomme anteriori sono troppo calde,le gomme anteriori sono troppo calde,your front tyres are far too hot
-\voice\tyre_monitor\cooking_left_front_tyre,1.wav,stai cuocendo le tue left gomma anteriore,stai cuocendo le tue left gomma anteriore,you're cooking your left front tyre
+\voice\tyre_monitor\cooking_left_front_tyre,1.wav,stai cuocendo le tue gomma anteriore sinistra,stai cuocendo le tue gomma anteriore sinistra,you're cooking your left front tyre
 \voice\tyre_monitor\cooking_left_front_tyre,2.wav,la gomma anteriore sinistra e' davvero calda,la gomma anteriore sinistra e' davvero calda,your left front tyre is really hot
 \voice\tyre_monitor\cooking_left_front_tyre,3.wav,la tua anteriore sinistra e' bollente,la tua anteriore sinistra e' bollente,your left front's cooking
-\voice\tyre_monitor\cooking_left_rear_tyre,1.wav,stai cuocendo le tue left gomma posteriore,stai cuocendo le tue left gomma posteriore,you're cooking your left rear tyre
+\voice\tyre_monitor\cooking_left_rear_tyre,1.wav,stai cuocendo le tue gomma posteriore sinistra,stai cuocendo le tue gomma posteriore sinistra,you're cooking your left rear tyre
 \voice\tyre_monitor\cooking_left_rear_tyre,2.wav,la tua posteriore sinistra e' molto calda,la tua posteriore sinistra e' molto calda,your left rear is really hot
-\voice\tyre_monitor\cooking_left_rear_tyre,3.wav,your left rear's stai surriscaldando,your left rear's stai surriscaldando,"your left rear's cooking, mate"
+\voice\tyre_monitor\cooking_left_rear_tyre,3.wav,la tua posteriore sinistra's stai surriscaldando,la tua posteriore sinistra's stai surriscaldando,"your left rear's cooking, mate"
 \voice\tyre_monitor\cooking_left_tyres,1.wav,stai cuocendo le tue gomme del lato sinistro,stai cuocendo le tue gomme del lato sinistro,you're cooking your left side tyres
 \voice\tyre_monitor\cooking_left_tyres,2.wav,le gomme del lato sinistro sono troppo calde,le gomme del lato sinistro sono troppo calde,your left side tyres are far too hot
 \voice\tyre_monitor\cooking_left_tyres,3.wav,le gomme del lato sinistro sono davvero calde,le gomme del lato sinistro sono davvero calde,your left side tyres are really hot
-\voice\tyre_monitor\cooking_rear_brakes,1.wav,"your rear freni have surriscaldati, they're davvero hot","your rear freni have surriscaldati, they're davvero hot","your rear brakes have overheated, they're really hot"
+\voice\tyre_monitor\cooking_rear_brakes,1.wav,"i tuoi freni posteriori si sono surriscaldati, sono davvero caldi","i tuoi freni posteriori si sono surriscaldati, sono davvero caldi","your rear brakes have overheated, they're really hot"
 \voice\tyre_monitor\cooking_rear_brakes,2.wav,i freni posteriori sono troppo caldi,i freni posteriori sono troppo caldi,"your rear brakes are too hot, mate"
 \voice\tyre_monitor\cooking_rear_brakes,3.wav,i freni posteriori sono davvero caldi,i freni posteriori sono davvero caldi,your rear brakes are really hot
 \voice\tyre_monitor\cooking_rear_tyres,1.wav,stai cuocendo le tue gomme posteriori,stai cuocendo le tue gomme posteriori,"you're cooking your rear tyres, mate"
 \voice\tyre_monitor\cooking_rear_tyres,2.wav,le gomme posteriori sono davvero calde,le gomme posteriori sono davvero calde,your rear tyres are really hot
 \voice\tyre_monitor\cooking_rear_tyres,3.wav,"le gomme posteriori sono troppo calde, non reggeranno","le gomme posteriori sono troppo calde, non reggeranno","your rear tyres are too hot, they're not gonna last"
-\voice\tyre_monitor\cooking_right_front_tyre,1.wav,stai cuocendo le tue right gomma anteriore,stai cuocendo le tue right gomma anteriore,you're cooking your right front tyre
+\voice\tyre_monitor\cooking_right_front_tyre,1.wav,stai cuocendo le tue gomma anteriore destra,stai cuocendo le tue gomma anteriore destra,you're cooking your right front tyre
 \voice\tyre_monitor\cooking_right_front_tyre,2.wav,la gomma anteriore destra sta bollendo,la gomma anteriore destra sta bollendo,your right front tyre is cooking
 \voice\tyre_monitor\cooking_right_front_tyre,3.wav,la tua anteriore destra e' molto calda,la tua anteriore destra e' molto calda,your right front's really hot
-\voice\tyre_monitor\cooking_right_rear_tyre,1.wav,stai cuocendo le tue right gomma posteriore,stai cuocendo le tue right gomma posteriore,"you're cooking your right rear tyre, mate"
+\voice\tyre_monitor\cooking_right_rear_tyre,1.wav,stai cuocendo le tue gomma posteriore destra,stai cuocendo le tue gomma posteriore destra,"you're cooking your right rear tyre, mate"
 \voice\tyre_monitor\cooking_right_rear_tyre,2.wav,la tua posteriore destra e' caldissima,la tua posteriore destra e' caldissima,"your right rear's really, really hot"
 \voice\tyre_monitor\cooking_right_rear_tyre,3.wav,la gomma posteriore destra sta bollendo,la gomma posteriore destra sta bollendo,your right rear tyre is cooking
 \voice\tyre_monitor\cooking_right_tyres,1.wav,stai cuocendo le tue gomme del lato destro,stai cuocendo le tue gomme del lato destro,"you're cooking your right side tyres, mate"
@@ -7434,21 +7434,21 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\damage_to_front_tyres,1.wav,hai danneggiato both gomme anteriori,hai danneggiato both gomme anteriori,you've damaged both front tyres
 \voice\tyre_monitor\damage_to_front_tyres,2.wav,hai danneggiato both gomme anteriori,hai danneggiato both gomme anteriori,you've damaged both front tyres
 \voice\tyre_monitor\damage_to_front_tyres,3.wav,hai danneggiato both gomme anteriori,hai danneggiato both gomme anteriori,you've damaged both front tyres
-\voice\tyre_monitor\damage_to_left_front_tyre,1.wav,hai danneggiato your left gomma anteriore,hai danneggiato your left gomma anteriore,you've damaged your left front tyre
-\voice\tyre_monitor\damage_to_left_front_tyre,2.wav,hai danneggiato your left gomma anteriore,hai danneggiato your left gomma anteriore,you've damaged your left front tyre
-\voice\tyre_monitor\damage_to_left_front_tyre,3.wav,hai danneggiato your left gomma anteriore,hai danneggiato your left gomma anteriore,you've damaged your left front tyre
-\voice\tyre_monitor\damage_to_left_rear_tyre,1.wav,hai danneggiato your left gomma posteriore,hai danneggiato your left gomma posteriore,you've damaged your left rear tyre
-\voice\tyre_monitor\damage_to_left_rear_tyre,2.wav,hai danneggiato your left gomma posteriore,hai danneggiato your left gomma posteriore,you've damaged your left rear tyre
-\voice\tyre_monitor\damage_to_left_rear_tyre,3.wav,hai danneggiato your left gomma posteriore,hai danneggiato your left gomma posteriore,you've damaged your left rear tyre
+\voice\tyre_monitor\damage_to_left_front_tyre,1.wav,hai danneggiato la tua gomma anteriore sinistra,hai danneggiato la tua gomma anteriore sinistra,you've damaged your left front tyre
+\voice\tyre_monitor\damage_to_left_front_tyre,2.wav,hai danneggiato la tua gomma anteriore sinistra,hai danneggiato la tua gomma anteriore sinistra,you've damaged your left front tyre
+\voice\tyre_monitor\damage_to_left_front_tyre,3.wav,hai danneggiato la tua gomma anteriore sinistra,hai danneggiato la tua gomma anteriore sinistra,you've damaged your left front tyre
+\voice\tyre_monitor\damage_to_left_rear_tyre,1.wav,hai danneggiato la tua gomma posteriore sinistra,hai danneggiato la tua gomma posteriore sinistra,you've damaged your left rear tyre
+\voice\tyre_monitor\damage_to_left_rear_tyre,2.wav,hai danneggiato la tua gomma posteriore sinistra,hai danneggiato la tua gomma posteriore sinistra,you've damaged your left rear tyre
+\voice\tyre_monitor\damage_to_left_rear_tyre,3.wav,hai danneggiato la tua gomma posteriore sinistra,hai danneggiato la tua gomma posteriore sinistra,you've damaged your left rear tyre
 \voice\tyre_monitor\damage_to_rear_tyres,1.wav,hai danneggiato both gomme posteriori,hai danneggiato both gomme posteriori,you've damaged both rear tyres
 \voice\tyre_monitor\damage_to_rear_tyres,2.wav,hai danneggiato both gomme posteriori,hai danneggiato both gomme posteriori,you've damaged both rear tyres
 \voice\tyre_monitor\damage_to_rear_tyres,3.wav,hai danneggiato both gomme posteriori,hai danneggiato both gomme posteriori,you've damaged both rear tyres
-\voice\tyre_monitor\damage_to_right_front_tyre,1.wav,hai danneggiato your right gomma anteriore,hai danneggiato your right gomma anteriore,you've damaged your right front tyre
-\voice\tyre_monitor\damage_to_right_front_tyre,2.wav,hai danneggiato your right gomma anteriore,hai danneggiato your right gomma anteriore,you've damaged your right front tyre
-\voice\tyre_monitor\damage_to_right_front_tyre,3.wav,hai danneggiato your right gomma anteriore,hai danneggiato your right gomma anteriore,you've damaged your right front tyre
-\voice\tyre_monitor\damage_to_right_rear_tyre,1.wav,hai danneggiato your right gomma posteriore,hai danneggiato your right gomma posteriore,you've damaged your right rear tyre
-\voice\tyre_monitor\damage_to_right_rear_tyre,2.wav,hai danneggiato your right gomma posteriore,hai danneggiato your right gomma posteriore,you've damaged your right rear tyre
-\voice\tyre_monitor\damage_to_right_rear_tyre,3.wav,hai danneggiato your right gomma posteriore,hai danneggiato your right gomma posteriore,you've damaged your right rear tyre
+\voice\tyre_monitor\damage_to_right_front_tyre,1.wav,hai danneggiato la tua gomma anteriore destra,hai danneggiato la tua gomma anteriore destra,you've damaged your right front tyre
+\voice\tyre_monitor\damage_to_right_front_tyre,2.wav,hai danneggiato la tua gomma anteriore destra,hai danneggiato la tua gomma anteriore destra,you've damaged your right front tyre
+\voice\tyre_monitor\damage_to_right_front_tyre,3.wav,hai danneggiato la tua gomma anteriore destra,hai danneggiato la tua gomma anteriore destra,you've damaged your right front tyre
+\voice\tyre_monitor\damage_to_right_rear_tyre,1.wav,hai danneggiato la tua gomma posteriore destra,hai danneggiato la tua gomma posteriore destra,you've damaged your right rear tyre
+\voice\tyre_monitor\damage_to_right_rear_tyre,2.wav,hai danneggiato la tua gomma posteriore destra,hai danneggiato la tua gomma posteriore destra,you've damaged your right rear tyre
+\voice\tyre_monitor\damage_to_right_rear_tyre,3.wav,hai danneggiato la tua gomma posteriore destra,hai danneggiato la tua gomma posteriore destra,you've damaged your right rear tyre
 \voice\tyre_monitor\faster_than,4.wav,piu' veloce di,piu' veloce di,faster than
 \voice\tyre_monitor\faster_than,5.wav,piu' veloce di,piu' veloce di,quicker than
 \voice\tyre_monitor\faster_than,6.wav,piu' veloce di,piu' veloce di,faster than
@@ -7485,10 +7485,10 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\good_tyre_temps,7.wav,le temperature delle gomme sono buone,le temperature delle gomme sono buone,tyre temps are good
 \voice\tyre_monitor\good_tyre_temps,8.wav,le temperature delle gomme sono buone,le temperature delle gomme sono buone,tyre temperatures are good
 \voice\tyre_monitor\good_tyre_temps,9.wav,le temperature delle gomme sembrano buone,le temperature delle gomme sembrano buone,your tyre temperatures look good
-\voice\tyre_monitor\good_wear,1.wav,your gomma usura sembra a posto,your gomma usura sembra a posto,"your tyre wear looks fine, mate"
+\voice\tyre_monitor\good_wear,1.wav,il tuo gomma usura sembra a posto,il tuo gomma usura sembra a posto,"your tyre wear looks fine, mate"
 \voice\tyre_monitor\good_wear,2.wav,non stiamo seeing any significant gomma usura,non stiamo seeing any significant gomma usura,we're not seeing any significant tyre wear
 \voice\tyre_monitor\good_wear,3.wav,"le gomme sono a posto, spingi","le gomme sono a posto, spingi","your tyres are fine, mate, just push"
-\voice\tyre_monitor\good_wear_general,1.wav,your gomma usura sembra a posto,your gomma usura sembra a posto,"your tyre wear looks fine, mate"
+\voice\tyre_monitor\good_wear_general,1.wav,il tuo gomma usura sembra a posto,il tuo gomma usura sembra a posto,"your tyre wear looks fine, mate"
 \voice\tyre_monitor\good_wear_general,2.wav,non stiamo seeing any significant gomma usura,non stiamo seeing any significant gomma usura,we're not seeing any significant tyre wear
 \voice\tyre_monitor\hards,16.wav,dure,dure,hards
 \voice\tyre_monitor\hards,17.wav,dure,dure,hards
@@ -7536,14 +7536,14 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\intermediates,19.wav,intermedie,intermedie,inters
 \voice\tyre_monitor\intermediates,20.wav,intermedie,intermedie,inters
 \voice\tyre_monitor\intermediates,21.wav,intermedie,intermedie,intermediates
-\voice\tyre_monitor\knackered_all_round,1.wav,gonna need new gomme all around,gonna need new gomme all around,you're gonna need new tyres all around
+\voice\tyre_monitor\knackered_all_round,1.wav,serviranno gomme nuove su tutte e quattro,serviranno gomme nuove su tutte e quattro,you're gonna need new tyres all around
 \voice\tyre_monitor\knackered_all_round,2.wav,tutte le gomme sembrano piuttosto mal messe,tutte le gomme sembrano piuttosto mal messe,"your tyres all look pretty bad, mate"
 \voice\tyre_monitor\knackered_all_round,3.wav,tutte le gomme sono esaurite,tutte le gomme sono esaurite,your tyres are all worn out
 \voice\tyre_monitor\knackered_fronts,1.wav,le gomme anteriori sono abbastanza consumate,le gomme anteriori sono abbastanza consumate,your front tyres are pretty knackered
 \voice\tyre_monitor\knackered_fronts,2.wav,le gomme anteriori sono esaurite,le gomme anteriori sono esaurite,"your front tyres are worn out, mate"
 \voice\tyre_monitor\knackered_fronts,3.wav,le tue gomme anteriori sono finite,le tue gomme anteriori sono finite,your front tyres have gone
 \voice\tyre_monitor\knackered_left_front,1.wav,l'anteriore sinistra sembra molto consumata,l'anteriore sinistra sembra molto consumata,that left front's looking heavily worn
-\voice\tyre_monitor\knackered_left_front,2.wav,your left gomma anteriore sembra distrutta,your left gomma anteriore sembra distrutta,"your left front tyre looks knackered, mate"
+\voice\tyre_monitor\knackered_left_front,2.wav,la tua gomma anteriore sinistra sembra distrutta,la tua gomma anteriore sinistra sembra distrutta,"your left front tyre looks knackered, mate"
 \voice\tyre_monitor\knackered_left_front,3.wav,penso che la tua anteriore sinistra sia andata,penso che la tua anteriore sinistra sia andata,I think your left front's gone
 \voice\tyre_monitor\knackered_left_rear,1.wav,la posteriore sinistra e' andata,la posteriore sinistra e' andata,that left rear tyre's shot
 \voice\tyre_monitor\knackered_left_rear,2.wav,la posteriore sinistra e' andata,la posteriore sinistra e' andata,"your left rear's had it, mate"
@@ -7555,11 +7555,11 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\knackered_rears,2.wav,le gomme posteriori sono consumate,le gomme posteriori sono consumate,"your rear tyres are knackered, mate"
 \voice\tyre_monitor\knackered_rears,3.wav,le gomme posteriori sono esaurite,le gomme posteriori sono esaurite,your rear tyres are worn out
 \voice\tyre_monitor\knackered_right_front,1.wav,l'anteriore destra sembra distrutta,l'anteriore destra sembra distrutta,that right front tyre looks knackered
-\voice\tyre_monitor\knackered_right_front,2.wav,"that right front's gone,","that right front's gone,","that right front's gone, mate"
+\voice\tyre_monitor\knackered_right_front,2.wav,"that anteriore destra's gone,","that anteriore destra's gone,","that right front's gone, mate"
 \voice\tyre_monitor\knackered_right_front,3.wav,la tua anteriore destra sembra piuttosto consumata,la tua anteriore destra sembra piuttosto consumata,your right front looks pretty worn out
 \voice\tyre_monitor\knackered_right_rear,1.wav,la posteriore destra e' andata,la posteriore destra e' andata,that right rear's had it
 \voice\tyre_monitor\knackered_right_rear,2.wav,pensiamo che la posteriore destra sia probabilmente andata,pensiamo che la posteriore destra sia probabilmente andata,we think that right rear is probably gone
-\voice\tyre_monitor\knackered_right_rear,3.wav,your right rear's completamente consumata,your right rear's completamente consumata,"your right rear's completely worn out, mate"
+\voice\tyre_monitor\knackered_right_rear,3.wav,la tua posteriore destra's completamente consumata,la tua posteriore destra's completamente consumata,"your right rear's completely worn out, mate"
 \voice\tyre_monitor\knackered_rights,1.wav,le gomme del lato destro sono esaurite,le gomme del lato destro sono esaurite,your right side tyres are worn out
 \voice\tyre_monitor\knackered_rights,2.wav,le gomme del lato destro sono andate,le gomme del lato destro sono andate,your right side tyres have had it
 \voice\tyre_monitor\knackered_rights,3.wav,le gomme del lato destro sono consumate,le gomme del lato destro sono consumate,"your right sides are knackered, mate"
@@ -7580,8 +7580,8 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\left_front_pressure_high,2.wav,la pressione dell'anteriore sinistra sembra piuttosto alta,la pressione dell'anteriore sinistra sembra piuttosto alta,your left front pressure looks quite high
 \voice\tyre_monitor\left_front_pressure_low,4.wav,la pressione dell'anteriore sinistra sembra piuttosto bassa,la pressione dell'anteriore sinistra sembra piuttosto bassa,your left front pressure looks quite low
 \voice\tyre_monitor\left_front_pressure_ok,3.wav,la pressione dell'anteriore sinistra va bene,la pressione dell'anteriore sinistra va bene,your left front pressure looks okay
-\voice\tyre_monitor\left_front_pressure_very_high,1.wav,your left front la pressione sembra molto alta,your left front la pressione sembra molto alta,your left front pressure looks very high
-\voice\tyre_monitor\left_front_pressure_very_low,5.wav,your left front la pressione sembra molto bassa,your left front la pressione sembra molto bassa,your left front pressure looks very low
+\voice\tyre_monitor\left_front_pressure_very_high,1.wav,la tua anteriore sinistra la pressione sembra molto alta,la tua anteriore sinistra la pressione sembra molto alta,your left front pressure looks very high
+\voice\tyre_monitor\left_front_pressure_very_low,5.wav,la tua anteriore sinistra la pressione sembra molto bassa,la tua anteriore sinistra la pressione sembra molto bassa,your left front pressure looks very low
 \voice\tyre_monitor\left_rear,1.wav,posteriore sinistra,posteriore sinistra,left rear
 \voice\tyre_monitor\left_rear,2.wav,posteriore sinistra,posteriore sinistra,left rear
 \voice\tyre_monitor\left_rear,3.wav,posteriore sinistra,posteriore sinistra,rear left
@@ -7615,7 +7615,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\locking_fronts_corner_warning,8.wav,stai bloccando le anteriori in entrata a,stai bloccando le anteriori in entrata a,you're locking your fronts going into
 \voice\tyre_monitor\locking_fronts_corner_warning,9.wav,stiamo vedendo bloccaggio delle anteriori going into,stiamo vedendo bloccaggio delle anteriori going into,we're seeing front locking going into
 \voice\tyre_monitor\locking_fronts_lap_warning,1_op_prefix_ok.wav,stiamo vedendo lots of bloccaggio delle anteriori,stiamo vedendo lots of bloccaggio delle anteriori,we're seeing lots of front locking
-\voice\tyre_monitor\locking_fronts_lap_warning,2.wav,locking your front freni,locking your front freni,you're locking your front brakes
+\voice\tyre_monitor\locking_fronts_lap_warning,2.wav,locking il tuo front freni,locking il tuo front freni,you're locking your front brakes
 \voice\tyre_monitor\locking_fronts_lap_warning,3_op_prefix_ok.wav,stai bloccando molto le anteriori,stai bloccando molto le anteriori,you're locking up your fronts a lot
 \voice\tyre_monitor\locking_left_front_corner_warning,1.wav,stai bloccando l'anteriore sinistra in entrata a,stai bloccando l'anteriore sinistra in entrata a,you're locking your left front going into
 \voice\tyre_monitor\locking_left_front_corner_warning,2.wav,stai bloccando l'anteriore sinistra in frenata per,stai bloccando l'anteriore sinistra in frenata per,you're locking your left front braking for
@@ -7630,7 +7630,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\locking_rears_corner_warning,11.wav,stai bloccando le posteriori in,stai bloccando le posteriori in,you're locking your rears into
 \voice\tyre_monitor\locking_rears_corner_warning,12.wav,stiamo vedendo bloccaggio delle posteriori into,stiamo vedendo bloccaggio delle posteriori into,we're seeing rear locking into
 \voice\tyre_monitor\locking_rears_lap_warning,1_op_prefix_ok.wav,stai bloccando molto le posteriori,stai bloccando molto le posteriori,you're locking your rears a lot
-\voice\tyre_monitor\locking_rears_lap_warning,2.wav,stiamo vedendo lots of rear brake locking,stiamo vedendo lots of rear brake locking,we're seeing lots of rear brake locking
+\voice\tyre_monitor\locking_rears_lap_warning,2.wav,stiamo vedendo molti bloccaggi del freno posteriore,stiamo vedendo molti bloccaggi del freno posteriore,we're seeing lots of rear brake locking
 \voice\tyre_monitor\locking_rears_lap_warning,3_op_prefix_ok.wav,stiamo vedendo lots of bloccaggio delle posteriori,stiamo vedendo lots of bloccaggio delle posteriori,we're seeing lots of rear locking
 \voice\tyre_monitor\locking_right_front_corner_warning,4.wav,stai bloccando l'anteriore destra in entrata a,stai bloccando l'anteriore destra in entrata a,you're locking your right front going into
 \voice\tyre_monitor\locking_right_front_corner_warning,5.wav,stai bloccando l'anteriore destra in,stai bloccando l'anteriore destra in,you're locking your right front into
@@ -7782,7 +7782,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\spinning_left_front_lap_warning,3.wav,stai pattinando l'anteriore sinistra,stai pattinando l'anteriore sinistra,you're spinning your left front
 \voice\tyre_monitor\spinning_left_rear_corner_warning,1.wav,vediamo pattinamento della ruota posteriore sinistra in uscita da,vediamo pattinamento della ruota posteriore sinistra in uscita da,we're seeing left rear wheel spin on the exit of
 \voice\tyre_monitor\spinning_left_rear_corner_warning,2.wav,stai pattinando la posteriore sinistra in uscita da,stai pattinando la posteriore sinistra in uscita da,you're spinning your left rear coming out of
-\voice\tyre_monitor\spinning_left_rear_corner_warning,3.wav,stiamo vedendo left rear pattinamento in,stiamo vedendo left rear pattinamento in,we're seeing left rear wheel spin in
+\voice\tyre_monitor\spinning_left_rear_corner_warning,3.wav,stiamo vedendo posteriore sinistra pattinamento in,stiamo vedendo posteriore sinistra pattinamento in,we're seeing left rear wheel spin in
 \voice\tyre_monitor\spinning_left_rear_lap_warning,1.wav,stai pattinando la posteriore sinistra,stai pattinando la posteriore sinistra,you're spinning your rear left
 \voice\tyre_monitor\spinning_left_rear_lap_warning,2.wav,stiamo vedendo lots of rear left pattinamento,stiamo vedendo lots of rear left pattinamento,we're seeing lots of rear left wheel spin
 \voice\tyre_monitor\spinning_left_rear_lap_warning,3.wav,stiamo vedendo lots of rear left pattinamento,stiamo vedendo lots of rear left pattinamento,we're seeing lots of rear left wheel spin
@@ -7806,7 +7806,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\spinning_right_rear_corner_warning,5.wav,vediamo pattinamento della ruota posteriore destra in uscita da,vediamo pattinamento della ruota posteriore destra in uscita da,we're seeing right rear wheel spin on the exit of
 \voice\tyre_monitor\spinning_right_rear_corner_warning,6.wav,stai pattinando la posteriore destra in,stai pattinando la posteriore destra in,you're spinning your right rear in
 \voice\tyre_monitor\spinning_right_rear_lap_warning,1.wav,stai pattinando la posteriore destra,stai pattinando la posteriore destra,you're spinning up your rear right
-\voice\tyre_monitor\spinning_right_rear_lap_warning,2.wav,spinning your rear right gomma,spinning your rear right gomma,you're spinning your rear right tyre
+\voice\tyre_monitor\spinning_right_rear_lap_warning,2.wav,spinning il tuo rear right gomma,spinning il tuo rear right gomma,you're spinning your rear right tyre
 \voice\tyre_monitor\spinning_right_rear_lap_warning,3.wav,stiamo vedendo lots of rear right pattinamento,stiamo vedendo lots of rear right pattinamento,we're seeing lots of rear right wheel spin
 \voice\tyre_monitor\super_softs,34.wav,super morbide,super morbide,super softs
 \voice\tyre_monitor\super_softs,35.wav,super morbide,super morbide,super softs
@@ -7840,7 +7840,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \voice\tyre_monitor\worn_right_front,3.wav,l'anteriore destra ha un po' di usura adesso,l'anteriore destra ha un po' di usura adesso,your right front's carrying some wear now
 \voice\tyre_monitor\worn_right_rear,1.wav,vediamo un po' di usura sulla posteriore destra,vediamo un po' di usura sulla posteriore destra,we're seeing some wear on your right rear
 \voice\tyre_monitor\worn_right_rear,2.wav,la gomma posteriore destra ha un po' di usura adesso,la gomma posteriore destra ha un po' di usura adesso,your right rear tyre's got some wear now
-\voice\tyre_monitor\worn_right_rear,3.wav,"lookout per your right gomma posteriore, , e' looking piuttosto worn","lookout per your right gomma posteriore, , e' looking piuttosto worn","lookout for your right rear tyre, mate, it's looking pretty worn"
+\voice\tyre_monitor\worn_right_rear,3.wav,"attenzione alla tua gomma posteriore destra, sembra piuttosto consumata","attenzione alla tua gomma posteriore destra, sembra piuttosto consumata","lookout for your right rear tyre, mate, it's looking pretty worn"
 \voice\tyre_monitor\worn_rights,1.wav,le gomme del lato destro sembrano abbastanza consumate adesso,le gomme del lato destro sembrano abbastanza consumate adesso,your right side tyres are looking quite worn now
 \voice\tyre_monitor\worn_rights,2.wav,vediamo usura significativa su entrambe le gomme del lato destro,vediamo usura significativa su entrambe le gomme del lato destro,we're seeing significant wear on both tyres on the right side
 \voice\tyre_monitor\worn_rights,3.wav,le gomme del lato destro si stanno invecchiando,le gomme del lato destro si stanno invecchiando,your right side tyres are getting old
@@ -9118,13 +9118,13 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \personalisations\YOUR_NAME\prefixes_and_suffixes\please,4.wav,per favore YOUR_NAME,per favore YOUR_NAME,"Please, YOUR_NAME"
 \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,1.wav,fantastico YOUR_NAME,fantastico YOUR_NAME,"Hell yeah, YOUR_NAME!"
 \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,2.wav,allora YOUR_NAME,allora YOUR_NAME,"Alright, YOUR_NAME"
-\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,3.wav,"buono job, your_name","buono job, your_name","Good job, YOUR_NAME"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,3.wav,"bravo, your_name","bravo, your_name","Good job, YOUR_NAME"
 \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,4.wav,fantastico YOUR_NAME,fantastico YOUR_NAME,"Hell yeah, YOUR_NAME!"
 \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,sweary_5.wav,cazzo si' YOUR_NAME,cazzo si' YOUR_NAME,"Shit yeah, YOUR_NAME."
 \personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,6.wav,fantastico YOUR_NAME,fantastico YOUR_NAME,"Hell yeah, YOUR_NAME!"
-\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,7.wav,"ottimo job, your_name","ottimo job, your_name","Great job, YOUR_NAME"
-\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,8.wav,"buono job, your_name","buono job, your_name","Good job, YOUR_NAME"
-\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,9.wav,"ottimo job, your_name","ottimo job, your_name","Great job, YOUR_NAME"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,7.wav,"ottimo lavoro, your_name","ottimo lavoro, your_name","Great job, YOUR_NAME"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,8.wav,"bravo, your_name","bravo, your_name","Good job, YOUR_NAME"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,9.wav,"ottimo lavoro, your_name","ottimo lavoro, your_name","Great job, YOUR_NAME"
 \composite_personalisation_stubs\bad_luck,1.wav,"ahh, brutto luck","ahh, brutto luck","Ahh, bad luck"
 \composite_personalisation_stubs\bad_luck,2.wav,che sfortuna,che sfortuna,"Ahh, tough luck"
 \composite_personalisation_stubs\bad_luck,3.wav,"oof, brutto luck","oof, brutto luck","Oof, bad luck"
@@ -9140,7 +9140,7 @@ audio_path,audio_filename,subtitle,text_for_tts,original_english
 \composite_personalisation_stubs\please,1.wav,per favore,per favore,Please
 \composite_personalisation_stubs\please,2.wav,per favore,per favore,Please
 \composite_personalisation_stubs\please,3.wav,per favore,per favore,Please
-\composite_personalisation_stubs\well_done,1.wav,buono job,buono job,Good job
-\composite_personalisation_stubs\well_done,2.wav,ottimo job,ottimo job,Great job
+\composite_personalisation_stubs\well_done,1.wav,bravo,bravo,Good job
+\composite_personalisation_stubs\well_done,2.wav,ottimo lavoro,ottimo lavoro,Great job
 \composite_personalisation_stubs\well_done,3.wav,fantastico,fantastico,Hell yeah
 \composite_personalisation_stubs\well_done,sweary_4.wav,cazzo si',cazzo si',Shit yeah

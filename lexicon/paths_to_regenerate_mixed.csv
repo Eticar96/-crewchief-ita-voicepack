@@ -1,0 +1,200 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\codriver\detail_big_jump,1.wav,grande salto,grande salto
+\voice\codriver\detail_big_jump,2.wav,grande salto,grande salto
+\voice\codriver\detail_big_jump,3.wav,grande salto,grande salto
+\voice\codriver\detail_small_crest,161.wav,piccolo dosso,piccolo dosso
+\voice\codriver\detail_small_crest,162.wav,piccolo dosso,piccolo dosso
+\voice\codriver\detail_small_crest,163.wav,piccolo dosso,piccolo dosso
+\voice\codriver\detail_small_crest,164.wav,piccolo dosso,piccolo dosso
+\voice\codriver\detail_small_crest_rushed,261.wav,piccolo dosso,piccolo dosso
+\voice\codriver\detail_small_crest_rushed,262.wav,piccolo dosso,piccolo dosso
+\voice\codriver\detail_small_crest_rushed,263.wav,piccolo dosso,piccolo dosso
+\voice\codriver\detail_small_crest_rushed,264.wav,piccolo dosso,piccolo dosso
+\voice\conditions\light_rain_decreasing,2_op_prefix_ok.wav,"pioggia leggera ora, sembra che stia migliorando","pioggia leggera ora, sembra che stia migliorando"
+\voice\conditions\light_rain_decreasing,4.wav,"abbiamo pioggia leggera qui, si sta schiarendo","abbiamo pioggia leggera qui, si sta schiarendo"
+\voice\conditions\light_rain_increasing,3.wav,"abbiamo pioggia leggera qui, sta aumentando","abbiamo pioggia leggera qui, sta aumentando"
+\voice\conditions\mid_rain_increasing,1_op_prefix_ok.wav,"sta arrivando pioggia vera adesso, sembra che stia aumentando","sta arrivando pioggia vera adesso, sembra che stia aumentando"
+\voice\conditions\seeing_some_rain,1_op_prefix_ok.wav,stiamo vedendo un po' di pioggia,stiamo vedendo un po' di pioggia
+\voice\conditions\seeing_some_rain,5_op_prefix_ok.wav,stiamo vedendo un po' di pioggia,stiamo vedendo un po' di pioggia
+\voice\conditions\track_temp_decreasing_its_now,1.wav,"la temperatura della pista sta scendendo, adesso è","la temperatura della pista sta scendendo, adesso è"
+\voice\conditions\track_temp_decreasing_its_now,2.wav,"la temperatura della pista sta calando, adesso è","la temperatura della pista sta calando, adesso è"
+\voice\conditions\track_temp_decreasing_its_now,3.wav,"la temperatura della pista sta scendendo, adesso è","la temperatura della pista sta scendendo, adesso è"
+\voice\conditions\track_temp_increasing_its_now,1.wav,"la temperatura della pista sta salendo, adesso è","la temperatura della pista sta salendo, adesso è"
+\voice\conditions\track_temp_increasing_its_now,2.wav,"la temperatura della pista sta aumentando, adesso è","la temperatura della pista sta aumentando, adesso è"
+\voice\corners\the_left_right_before_the_mountain,27.wav,La sinistra-destra prima della Montagna,La sinistra-destra prima della Montagna
+\voice\corners\the_left_right_before_the_mountain,28.wav,La sinistra-destra prima della Montagna,La sinistra-destra prima della Montagna
+\voice\corners\the_right_hander_before_charlies,13.wav,La destra prima di Charlies,La destra prima di Charlies
+\voice\corners\the_right_hander_before_charlies,14.wav,La destra prima di Charlies,La destra prima di Charlies
+\voice\corners\the_right_left_after_mansfield,25.wav,La destra-sinistra dopo Mansfield,La destra-sinistra dopo Mansfield
+\voice\corners\the_right_left_after_mansfield,26.wav,La destra-sinistra dopo Mansfield,La destra-sinistra dopo Mansfield
+\voice\damage_reporting\minor_aero_damage,7.wav,danno aerodinamico minore,danno aerodinamico minore
+\voice\damage_reporting\minor_aero_damage,8.wav,stiamo vedendo danno aerodinamico minore,stiamo vedendo danno aerodinamico minore
+\voice\damage_reporting\minor_aero_damage_general,7.wav,danno aerodinamico minore,danno aerodinamico minore
+\voice\damage_reporting\minor_aero_damage_general,8.wav,stiamo vedendo danno aerodinamico minore,stiamo vedendo danno aerodinamico minore
+\voice\damage_reporting\minor_suspension_damage,5.wav,stiamo vedendo un danno minore alle sospensioni,stiamo vedendo un danno minore alle sospensioni
+\voice\damage_reporting\minor_suspension_damage,9.wav,hai un danno minore alle sospensioni,hai un danno minore alle sospensioni
+\voice\damage_reporting\minor_suspension_damage_general,5.wav,stiamo vedendo un danno minore alle sospensioni,stiamo vedendo un danno minore alle sospensioni
+\voice\damage_reporting\minor_suspension_damage_general,9.wav,hai un danno minore alle sospensioni,hai un danno minore alle sospensioni
+\voice\damage_reporting\no_suspension_damage,1.wav,la tua sospensione sembra a posto,la tua sospensione sembra a posto
+\voice\damage_reporting\severe_suspension_damage,1.wav,hai un danno serio alle sospensioni,hai un danno serio alle sospensioni
+\voice\damage_reporting\severe_suspension_damage,2.wav,la tua sospensione sembra messa piuttosto male,la tua sospensione sembra messa piuttosto male
+\voice\driver_swaps\pit_now_for_driver_change,2.wav,"cambio pilota, ai box adesso","cambio pilota, ai box adesso"
+\voice\flags\fc_yellow_pits_closed,1.wav,"siamo in regime di neutralizzazione, box chiusi","siamo in regime di neutralizzazione, box chiusi"
+\voice\flags\fc_yellow_pits_closed_usa,3.wav,"siamo in regime di neutralizzazione, box chiusi","siamo in regime di neutralizzazione, box chiusi"
+\voice\flags\fc_yellow_prepare_for_green,3_op_prefix_ok.wav,"preparati, si riparte","preparati, si riparte"
+\voice\flags\fc_yellow_prepare_for_green_eu,3_op_prefix_ok.wav,"preparati, si riparte","preparati, si riparte"
+\voice\flags\fc_yellow_prepare_for_green_usa,3_op_prefix_ok.wav,"preparati, si riparte","preparati, si riparte"
+\voice\flags\fc_yellow_start,3.wav,"safety car in pista, siamo in regime di neutralizzazione","safety car in pista, siamo in regime di neutralizzazione"
+\voice\flags\fc_yellow_start,6.wav,"safety car in pista, siamo in regime di neutralizzazione","safety car in pista, siamo in regime di neutralizzazione"
+\voice\flags\fc_yellow_start_eu,7.wav,"safety car in pista, bandiera gialla su tutto il circuito","safety car in pista, bandiera gialla su tutto il circuito"
+\voice\flags\fc_yellow_start_usa,1.wav,"pace car in pista, siamo in regime di neutralizzazione","pace car in pista, siamo in regime di neutralizzazione"
+\voice\flags\fc_yellow_start_usa_no_safetycar,1.wav,"neutralizzazione totale, stai attento","neutralizzazione totale, stai attento"
+\voice\flags\fc_yellow_start_usa_no_safetycar,2.wav,"neutralizzazione totale, attenzione","neutralizzazione totale, attenzione"
+\voice\flags\fc_yellow_start_usa_no_safetycar,3.wav,"stai attento, abbiamo una neutralizzazione totale","stai attento, abbiamo una neutralizzazione totale"
+\voice\flags\fc_yellow_start_usa_no_safetycar,4.wav,neutralizzazione totale,neutralizzazione totale
+\voice\flags\give_positions_back_completed,1.wav,"ok, siamo a posto adesso","ok, siamo a posto adesso"
+\voice\flags\give_positions_back_completed,3.wav,"ok, abbastanza","ok, abbastanza"
+\voice\flags\green_flag_sector_1,1.wav,"bandiera verde, settore 1","bandiera verde, settore 1"
+\voice\flags\green_flag_sector_1,2.wav,"bandiera verde, settore 1","bandiera verde, settore 1"
+\voice\flags\green_flag_sector_1,4.wav,"bandiera verde, settore 1","bandiera verde, settore 1"
+\voice\flags\green_flag_sector_1,5.wav,"bandiera verde, settore 1","bandiera verde, settore 1"
+\voice\flags\green_flag_sector_1,6.wav,"bandiera verde, settore 1","bandiera verde, settore 1"
+\voice\flags\green_flag_sector_1,7.wav,"bandiera verde, settore 1","bandiera verde, settore 1"
+\voice\flags\green_flag_sector_1,8.wav,"bandiera verde, settore 1","bandiera verde, settore 1"
+\voice\flags\slow_car_ahead,1.wav,macchina lenta davanti,macchina lenta davanti
+\voice\flags\slow_car_ahead,2.wav,hai a macchina lenta davanti,hai a macchina lenta davanti
+\voice\flags\slow_car_ahead,3.wav,macchina lenta davanti,macchina lenta davanti
+\voice\flags\slow_car_ahead,5.wav,macchina lenta davanti,macchina lenta davanti
+\voice\flags\slow_car_ahead_stay_high,1.wav,"macchina lenta davanti, resta alta","macchina lenta davanti, resta alta"
+\voice\flags\slow_car_ahead_stay_high,3.wav,"macchina lenta davanti, resta alta","macchina lenta davanti, resta alta"
+\voice\flags\white_flag,3.wav,"bandiera bianca,","bandiera bianca,"
+\voice\flags\yellow_flag_sector_1,1.wav,"bandiera gialla, settore 1","bandiera gialla, settore 1"
+\voice\flags\yellow_flag_sector_2,2.wav,"bandiera gialla, settore 2","bandiera gialla, settore 2"
+\voice\flags\yellow_flag_sector_3,1.wav,"bandiera gialla, settore 3","bandiera gialla, settore 3"
+\voice\frozen_order\thats_a_rolling_start,1.wav,"ok, partenza lanciata","ok, partenza lanciata"
+\voice\frozen_order\thats_a_standing_start,5.wav,"ok, partenza da fermo","ok, partenza da fermo"
+\voice\fuel\five_minutes_fuel,1_op_prefix_ok.wav,"5 minuti di carburante rimasti, 5 minuti","5 minuti di carburante rimasti, 5 minuti"
+\voice\fuel\half_distance_good_fuel,1_op_prefix_ok.wav,"metà distanza, sembra buono per il carburante","metà distanza, sembra buono per il carburante"
+\voice\fuel\half_distance_low_fuel,1.wav,"metà distanza, sembra che dovremo risparmiare un po' di carburante","metà distanza, sembra che dovremo risparmiare un po' di carburante"
+\voice\fuel\half_distance_low_fuel,3.wav,"metà distanza, dovrai risparmiare un po' di carburante","metà distanza, dovrai risparmiare un po' di carburante"
+\voice\fuel\half_tank_warning,2.wav,"metà carburante, hai usato metà del tuo carburante","metà carburante, hai usato metà del tuo carburante"
+\voice\fuel\two_laps_fuel,2.wav,2 giri di carburante rimasti,2 giri di carburante rimasti
+\voice\fuel\two_minutes_fuel,1.wav,hai 2 minuti di carburante rimasti,hai 2 minuti di carburante rimasti
+\voice\lap_counter\finished_race_good_finish,1.wav,"ok, è finita, ben fatto, buon risultato","ok, è finita, ben fatto, buon risultato"
+\voice\lap_counter\finished_race_good_finish,2.wav,"ok, è il traguardo, ben fatto","ok, è il traguardo, ben fatto"
+\voice\lap_counter\finished_race_good_finish,3.wav,"ok, e' over, bella guida","ok, e' over, bella guida"
+\voice\lap_counter\finished_race_good_finish,4.wav,"ben fatto, buon risultato","ben fatto, buon risultato"
+\voice\lap_counter\finished_race_good_finish,5.wav,"ecco il traguardo, bella guida","ecco il traguardo, bella guida"
+\voice\lap_counter\finished_race_good_finish,6.wav,"ed ecco il traguardo, buon risultato, ben fatto","ed ecco il traguardo, buon risultato, ben fatto"
+\voice\lap_counter\finished_race_good_finish,8.wav,"ok è la fine, buon risultato, ben fatto","ok è la fine, buon risultato, ben fatto"
+\voice\lap_counter\get_ready,11.wav,"preparati, è il momento di spingere","preparati, è il momento di spingere"
+\voice\lap_counter\get_ready,33.wav,"attenzione, si riparte","attenzione, si riparte"
+\voice\lap_counter\last_lap_leading,3.wav,"ancora un giro, primo","ancora un giro, primo"
+\voice\lap_counter\manual_formation_lap_mode_disabled,1.wav,"ricevuto, niente giro di formazione","ricevuto, niente giro di formazione"
+\voice\lap_counter\manual_formation_lap_mode_disabled,3.wav,"ricevuto, niente giro di formazione","ricevuto, niente giro di formazione"
+\voice\lap_counter\manual_formation_lap_mode_enabled,2.wav,"capito, giro di formazione manuale","capito, giro di formazione manuale"
+\voice\lap_counter\manual_formation_lap_mode_enabled,3.wav,"ok, partenza lanciata","ok, partenza lanciata"
+\voice\lap_counter\podium_finish,3_op_prefix_well_done.wav,"ottima guida, un podio","ottima guida, un podio"
+\voice\lap_counter\two_to_go,1.wav,due giri rimasti,due giri rimasti
+\voice\lap_counter\two_to_go,3.wav,two giri rimasti,two giri rimasti
+\voice\lap_counter\two_to_go_leading,2_op_prefix_come_on.wav,"due giri rimasti, primo","due giri rimasti, primo"
+\voice\lap_counter\white_flag_last_lap,3.wav,"bandiera bianca, ultimo giro","bandiera bianca, ultimo giro"
+\voice\lap_counter\won_race,2.wav,"ben fatto, è stato assolutamente perfetto, ottima vittoria","ben fatto, è stato assolutamente perfetto, ottima vittoria"
+\voice\lap_counter\won_race,4.wav,"una vittoria, ottimo lavoro, ben fatto","una vittoria, ottimo lavoro, ben fatto"
+\voice\lap_counter\won_race,sweary_7.wav,"risultato pazzesco, ben fatto","risultato pazzesco, ben fatto"
+\voice\lap_times\good_lap,3.wav,bel giro,bel giro
+\voice\lap_times\personal_best,1.wav,il tuo giro più veloce oggi,il tuo giro più veloce oggi
+\voice\lap_times\personal_best,10.wav,"buon giro, il tuo più veloce finora","buon giro, il tuo più veloce finora"
+\voice\lap_times\personal_best,3.wav,"buon giro, il tuo più veloce oggi","buon giro, il tuo più veloce oggi"
+\voice\lap_times\personal_best,4.wav,il tuo il piu' veloce giro,il tuo il piu' veloce giro
+\voice\lap_times\personal_best,5.wav,il tuo il piu' veloce giro,il tuo il piu' veloce giro
+\voice\lap_times\setting_current_race_pace,3.wav,siamo i più veloci adesso,siamo i più veloci adesso
+\voice\mandatory_pit_stops\can_now_fit_options,4.wav,puoi adesso passare alle opzioni,puoi adesso passare alle opzioni
+\voice\mandatory_pit_stops\can_now_fit_primes,1.wav,puoi adesso passare alle prime,puoi adesso passare alle prime
+\voice\mandatory_pit_stops\will_change_front_tyres_only,1.wav,stiamo cambiando il tuo gomme anteriori solo,stiamo cambiando il tuo gomme anteriori solo
+\voice\multiclass\faster_car_behind_racing_player,3.wav,"macchina più veloce in arrivo, sono in lotta con noi per la posizione, non aspettarti bandiere blu","macchina più veloce in arrivo, sono in lotta con noi per la posizione, non aspettarti bandiere blu"
+\voice\multiclass\faster_cars_fighting_behind_inc_class_leader,4.wav,"ci sono macchine più veloci in arrivo, sono in lotta per la posizione, il gruppo include il leader di classe","ci sono macchine più veloci in arrivo, sono in lotta per la posizione, il gruppo include il leader di classe"
+\voice\multiclass\slower_car_ahead,1.wav,macchina di classe più lenta davanti,macchina di classe più lenta davanti
+\voice\multiclass\slower_car_ahead,3.wav,macchina di classe più lenta davanti,macchina di classe più lenta davanti
+\voice\multiclass\slower_car_ahead,6.wav,macchina di classe più lenta davanti,macchina di classe più lenta davanti
+\voice\multiclass\slower_car_ahead_is_class_leader,3_male.wav,"macchina più lenta davanti, lui è il leader di classe per quelli","macchina più lenta davanti, lui è il leader di classe per quelli"
+\voice\multiclass\slower_cars_ahead_fighting,1_op_prefix_ok.wav,"in arrivo macchine più lente, sono in lotta per la posizione","in arrivo macchine più lente, sono in lotta per la posizione"
+\voice\opponents\slow_car_ahead,1.wav,hai a macchina lenta davanti,hai a macchina lenta davanti
+\voice\opponents\slow_car_ahead,3.wav,hai a macchina lenta davanti,hai a macchina lenta davanti
+\voice\pace_notes\recording_started,1.wav,"ok, stiamo registrando le note di passo","ok, stiamo registrando le note di passo"
+\voice\pearls_of_wisdom\must_do_better,19.wav,"dobbiamo avere ritmo da qualifica ogni giro adesso, potrebbero esserci ancora possibilità","dobbiamo avere ritmo da qualifica ogni giro adesso, potrebbero esserci ancora possibilità"
+\voice\pearls_of_wisdom\must_do_better,27.wav,"ritmo da qualifica adesso, dai, puoi salvare qualcosa qui","ritmo da qualifica adesso, dai, puoi salvare qualcosa qui"
+\voice\penalties\cut_track_in_prac_or_qual_next_invalid,3.wav,"hai tagliato la pista, cancelleranno il giro e they'll cancellare the next one, too","hai tagliato la pista, cancelleranno il giro e they'll cancellare the next one, too"
+\voice\penalties\penalty_served,3.wav,hai scontata il tuo penalita',hai scontata il tuo penalita'
+\voice\penalties\warning_enter_pits_to_avoid_exceeding_laps,3.wav,"abbiamo esaurito i giri consentiti, ai box questo giro","abbiamo esaurito i giri consentiti, ai box questo giro"
+\voice\position\good_start,1.wav,"buona partenza, , nice one","buona partenza, , nice one"
+\voice\position\good_start,13.wav,"ottimo start, ben fatto","ottimo start, ben fatto"
+\voice\position\good_start,2.wav,"bella partenza, ben fatto","bella partenza, ben fatto"
+\voice\position\good_start,3_op_prefix_well_done.wav,buona partenza,buona partenza
+\voice\position\good_start,4_op_suffix_well_done.wav,buona partenza,buona partenza
+\voice\position\good_start,5.wav,"buona partenza,","buona partenza,"
+\voice\position\ok_start,5_op_suffix_come_on.wav,"ok, troviamo un buon ritmo, guadagniamo posizioni","ok, troviamo un buon ritmo, guadagniamo posizioni"
+\voice\position\overtaking,1.wav,"bel sorpasso, ben fatto","bel sorpasso, ben fatto"
+\voice\position\overtaking,24.wav,bel sorpasso,bel sorpasso
+\voice\position\overtaking,26.wav,"bel sorpasso, adesso continua a spingere","bel sorpasso, adesso continua a spingere"
+\voice\position\overtaking,5_op_prefix_well_done.wav,"bel sorpasso, eyes front","bel sorpasso, eyes front"
+\voice\position\overtaking,6.wav,"ben fatto, bel sorpasso","ben fatto, bel sorpasso"
+\voice\position\overtaking,sweary_10.wav,"bel sorpasso, , that was fucking brilliant","bel sorpasso, , that was fucking brilliant"
+\voice\position\overtaking,sweary_11.wav,"bel sorpasso, , fucking awesome","bel sorpasso, , fucking awesome"
+\voice\position\overtaking,sweary_7.wav,"fucking ottimo pass, , ben fatto","fucking ottimo pass, , ben fatto"
+\voice\race_time\laps_remaining,3.wav,giri rimasti,giri rimasti
+\voice\race_time\twenty_minutes_left,2.wav,"20 minuti rimasti, hai 20 minuti left","20 minuti rimasti, hai 20 minuti left"
+\voice\strategy\will_calculate_time_loss_from_next_lap,1.wav,calcola la tua perdita di tempo dal tuo prossimo giro veloce,calcola la tua perdita di tempo dal tuo prossimo giro veloce
+\voice\timings\ahead_is_increasing,1.wav,"davanti sta salendo, adesso è","davanti sta salendo, adesso è"
+\voice\timings\ahead_is_increasing,2.wav,"davanti sta salendo, adesso è","davanti sta salendo, adesso è"
+\voice\timings\ahead_is_increasing,3.wav,"davanti sta salendo, adesso è","davanti sta salendo, adesso è"
+\voice\timings\behind_is_increasing,1.wav,"dietro sta salendo, adesso è","dietro sta salendo, adesso è"
+\voice\timings\behind_is_increasing,2.wav,"dietro sta salendo, adesso è","dietro sta salendo, adesso è"
+\voice\timings\behind_is_increasing,3.wav,"dietro sta salendo, adesso è","dietro sta salendo, adesso è"
+\voice\timings\being_held_up,16.wav,"non aspettare troppo, trova quel distacco","non aspettare troppo, trova quel distacco"
+\voice\timings\being_pressured,13.wav,"non be distracted, defend il tuo posizione","non be distracted, defend il tuo posizione"
+\voice\timings\gap_behind_increasing,2_male.wav,"pulling away da quello dietro, il distacco's now","pulling away da quello dietro, il distacco's now"
+\voice\timings\gap_in_front_increasing,2.wav,"il distacco davanti è aumentato, adesso è circa","il distacco davanti è aumentato, adesso è circa"
+\voice\timings\is_reeling_you_in,10.wav,"sta chiudendo il distacco, adesso è","sta chiudendo il distacco, adesso è"
+\voice\timings\is_reeling_you_in,11.wav,"si sta avvicinando, il distacco adesso è","si sta avvicinando, il distacco adesso è"
+\voice\timings\is_reeling_you_in,8.wav,"si sta avvicinando, il distacco adesso è","si sta avvicinando, il distacco adesso è"
+\voice\timings\opponent_behind_has_bad_reputation,2_male.wav,"quello dietro's davvero accident-prone, fai attenzione qui","quello dietro's davvero accident-prone, fai attenzione qui"
+\voice\timings\opponent_behind_has_bad_reputation,7_male.wav,"quello dietro's davvero accident-prone, fai attenzione","quello dietro's davvero accident-prone, fai attenzione"
+\voice\timings\opponent_behind_has_below_average_reputation,7_male.wav,quello dietro non gareggia molto pulito,quello dietro non gareggia molto pulito
+\voice\tyre_monitor\cooking_left_front_tyre,1.wav,stai cuocendo le tue gomma anteriore sinistra,stai cuocendo le tue gomma anteriore sinistra
+\voice\tyre_monitor\cooking_left_rear_tyre,1.wav,stai cuocendo le tue gomma posteriore sinistra,stai cuocendo le tue gomma posteriore sinistra
+\voice\tyre_monitor\cooking_left_rear_tyre,3.wav,la tua posteriore sinistra's stai surriscaldando,la tua posteriore sinistra's stai surriscaldando
+\voice\tyre_monitor\cooking_rear_brakes,1.wav,"i tuoi freni posteriori si sono surriscaldati, sono davvero caldi","i tuoi freni posteriori si sono surriscaldati, sono davvero caldi"
+\voice\tyre_monitor\cooking_right_front_tyre,1.wav,stai cuocendo le tue gomma anteriore destra,stai cuocendo le tue gomma anteriore destra
+\voice\tyre_monitor\cooking_right_rear_tyre,1.wav,stai cuocendo le tue gomma posteriore destra,stai cuocendo le tue gomma posteriore destra
+\voice\tyre_monitor\damage_to_left_front_tyre,1.wav,hai danneggiato la tua gomma anteriore sinistra,hai danneggiato la tua gomma anteriore sinistra
+\voice\tyre_monitor\damage_to_left_front_tyre,2.wav,hai danneggiato la tua gomma anteriore sinistra,hai danneggiato la tua gomma anteriore sinistra
+\voice\tyre_monitor\damage_to_left_front_tyre,3.wav,hai danneggiato la tua gomma anteriore sinistra,hai danneggiato la tua gomma anteriore sinistra
+\voice\tyre_monitor\damage_to_left_rear_tyre,1.wav,hai danneggiato la tua gomma posteriore sinistra,hai danneggiato la tua gomma posteriore sinistra
+\voice\tyre_monitor\damage_to_left_rear_tyre,2.wav,hai danneggiato la tua gomma posteriore sinistra,hai danneggiato la tua gomma posteriore sinistra
+\voice\tyre_monitor\damage_to_left_rear_tyre,3.wav,hai danneggiato la tua gomma posteriore sinistra,hai danneggiato la tua gomma posteriore sinistra
+\voice\tyre_monitor\damage_to_right_front_tyre,1.wav,hai danneggiato la tua gomma anteriore destra,hai danneggiato la tua gomma anteriore destra
+\voice\tyre_monitor\damage_to_right_front_tyre,2.wav,hai danneggiato la tua gomma anteriore destra,hai danneggiato la tua gomma anteriore destra
+\voice\tyre_monitor\damage_to_right_front_tyre,3.wav,hai danneggiato la tua gomma anteriore destra,hai danneggiato la tua gomma anteriore destra
+\voice\tyre_monitor\damage_to_right_rear_tyre,1.wav,hai danneggiato la tua gomma posteriore destra,hai danneggiato la tua gomma posteriore destra
+\voice\tyre_monitor\damage_to_right_rear_tyre,2.wav,hai danneggiato la tua gomma posteriore destra,hai danneggiato la tua gomma posteriore destra
+\voice\tyre_monitor\damage_to_right_rear_tyre,3.wav,hai danneggiato la tua gomma posteriore destra,hai danneggiato la tua gomma posteriore destra
+\voice\tyre_monitor\good_wear,1.wav,il tuo gomma usura sembra a posto,il tuo gomma usura sembra a posto
+\voice\tyre_monitor\good_wear_general,1.wav,il tuo gomma usura sembra a posto,il tuo gomma usura sembra a posto
+\voice\tyre_monitor\knackered_all_round,1.wav,serviranno gomme nuove su tutte e quattro,serviranno gomme nuove su tutte e quattro
+\voice\tyre_monitor\knackered_left_front,2.wav,la tua gomma anteriore sinistra sembra distrutta,la tua gomma anteriore sinistra sembra distrutta
+\voice\tyre_monitor\knackered_right_front,2.wav,"that anteriore destra's gone,","that anteriore destra's gone,"
+\voice\tyre_monitor\knackered_right_rear,3.wav,la tua posteriore destra's completamente consumata,la tua posteriore destra's completamente consumata
+\voice\tyre_monitor\left_front_pressure_very_high,1.wav,la tua anteriore sinistra la pressione sembra molto alta,la tua anteriore sinistra la pressione sembra molto alta
+\voice\tyre_monitor\left_front_pressure_very_low,5.wav,la tua anteriore sinistra la pressione sembra molto bassa,la tua anteriore sinistra la pressione sembra molto bassa
+\voice\tyre_monitor\locking_fronts_lap_warning,2.wav,locking il tuo front freni,locking il tuo front freni
+\voice\tyre_monitor\locking_rears_lap_warning,2.wav,stiamo vedendo molti bloccaggi del freno posteriore,stiamo vedendo molti bloccaggi del freno posteriore
+\voice\tyre_monitor\spinning_left_rear_corner_warning,3.wav,stiamo vedendo posteriore sinistra pattinamento in,stiamo vedendo posteriore sinistra pattinamento in
+\voice\tyre_monitor\spinning_right_rear_lap_warning,2.wav,spinning il tuo rear right gomma,spinning il tuo rear right gomma
+\voice\tyre_monitor\worn_right_rear,3.wav,"attenzione alla tua gomma posteriore destra, sembra piuttosto consumata","attenzione alla tua gomma posteriore destra, sembra piuttosto consumata"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,3.wav,"bravo, your_name","bravo, your_name"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,7.wav,"ottimo lavoro, your_name","ottimo lavoro, your_name"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,8.wav,"bravo, your_name","bravo, your_name"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,9.wav,"ottimo lavoro, your_name","ottimo lavoro, your_name"
+\composite_personalisation_stubs\well_done,1.wav,bravo,bravo
+\composite_personalisation_stubs\well_done,2.wav,ottimo lavoro,ottimo lavoro
