@@ -1,0 +1,123 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\acknowledge\yellowDisabled,3.wav,ok niente piu' avvisi bandiera gialla,ok niente piu' avvisi bandiera gialla
+\voice\alarm_clock\alarms,1.wav,sveglia,sveglia
+\voice\codriver\detail_through_gate,1.wav,attraverso il cancello,attraverso il cancello
+\voice\codriver\detail_through_gate,2.wav,attraverso il cancello,attraverso il cancello
+\voice\codriver\detail_through_gate,3.wav,attraverso il cancello,attraverso il cancello
+\voice\damage_reporting\busted_transmission,sweary_2.wav,"cambio distrutto, non puoi tornare ai box","cambio distrutto, non puoi tornare ai box"
+\voice\damage_reporting\minor_aero_damage,5.wav,"danno alla carrozzeria, rimani in pista, non e' grave","danno alla carrozzeria, rimani in pista, non e' grave"
+\voice\damage_reporting\no_damage,1.wav,"macchina sembra a posto, nessun danno significativo","macchina sembra a posto, nessun danno significativo"
+\voice\damage_reporting\no_suspension_damage,3.wav,non vediamo danni alle sospensioni,non vediamo danni alle sospensioni
+\voice\damage_reporting\no_transmission_damage,2.wav,la trasmissione sembra a posto,la trasmissione sembra a posto
+\voice\damage_reporting\rolling,2.wav,"che sfortuna, brutto colpo","che sfortuna, brutto colpo"
+\voice\damage_reporting\severe_engine_damage,3.wav,"motore in brutte condizioni, vai piano per arrivare al traguardo","motore in brutte condizioni, vai piano per arrivare al traguardo"
+\voice\damage_reporting\trivial_aero_damage,10.wav,"ignora quel danno aerodinamico, non e' niente","ignora quel danno aerodinamico, non e' niente"
+\voice\damage_reporting\trivial_aero_damage_general,10.wav,"ignora quel danno aerodinamico, non e' niente","ignora quel danno aerodinamico, non e' niente"
+\voice\driver_swaps\10_minutes_left_in_stint,1.wav,dieci minuti rimasti in questo stint del pilota,dieci minuti rimasti in questo stint del pilota
+\voice\driver_swaps\10_minutes_left_in_stint,2.wav,hai dieci minuti rimasti prima che dobbiamo cambiare pilota,hai dieci minuti rimasti prima che dobbiamo cambiare pilota
+\voice\driver_swaps\10_minutes_left_in_stint,3.wav,hai dieci minuti prima che dobbiamo cambiare pilota,hai dieci minuti prima che dobbiamo cambiare pilota
+\voice\driver_swaps\10_minutes_left_in_stint,4.wav,dieci minuti rimasti prima del cambio pilota,dieci minuti rimasti prima del cambio pilota
+\voice\driver_swaps\10_minutes_left_in_stint,5.wav,"dieci minuti rimasti nello stint, dobbiamo fare il cambio pilota","dieci minuti rimasti nello stint, dobbiamo fare il cambio pilota"
+\voice\driver_swaps\15_minutes_left_in_stint,1.wav,quindici minuti rimasti in questo stint del pilota,quindici minuti rimasti in questo stint del pilota
+\voice\driver_swaps\15_minutes_left_in_stint,2.wav,hai quindici minuti prima del cambio pilota,hai quindici minuti prima del cambio pilota
+\voice\driver_swaps\15_minutes_left_in_stint,5.wav,quindici minuti prima del cambio pilota,quindici minuti prima del cambio pilota
+\voice\driver_swaps\2_minutes_left_in_stint,1.wav,due minuti rimasti in questo stint del pilota,due minuti rimasti in questo stint del pilota
+\voice\driver_swaps\2_minutes_left_in_stint,3.wav,abbiamo due minuti rimasti in questo stint del pilota,abbiamo due minuti rimasti in questo stint del pilota
+\voice\driver_swaps\5_minutes_left_in_stint,3.wav,cinque minuti rimasti in questo stint del pilota,cinque minuti rimasti in questo stint del pilota
+\voice\driver_swaps\5_minutes_left_in_stint,5.wav,abbiamo bisogno di un cambio pilota tra cinque minuti,abbiamo bisogno di un cambio pilota tra cinque minuti
+\voice\engine_monitor\hot_oil_and_water,2.wav,"temperature olio e acqua alte, rallenta un po'","temperature olio e acqua alte, rallenta un po'"
+\voice\flags\give_positions_back_completed,2.wav,"ok, tutto a posto","ok, tutto a posto"
+\voice\flags\local_yellow_ahead,1.wav,"incidenti davanti, attenzione","incidenti davanti, attenzione"
+\voice\fuel\five_minutes_fuel,1_op_prefix_ok.wav,"cinque minuti di carburante rimasti, cinque minuti","cinque minuti di carburante rimasti, cinque minuti"
+\voice\fuel\five_minutes_fuel,2.wav,sono cinque minuti di carburante rimasti,sono cinque minuti di carburante rimasti
+\voice\fuel\five_minutes_fuel,3_op_prefix_ok.wav,stimiamo che hai cinque minuti di carburante rimasti,stimiamo che hai cinque minuti di carburante rimasti
+\voice\fuel\four_laps_fuel,1_op_prefix_ok.wav,hai circa quattro giri di carburante rimasti,hai circa quattro giri di carburante rimasti
+\voice\fuel\four_laps_fuel,2.wav,stimiamo quattro giri di carburante rimasti,stimiamo quattro giri di carburante rimasti
+\voice\fuel\four_laps_fuel,3_op_prefix_ok.wav,hai circa quattro giri di carburante rimasti,hai circa quattro giri di carburante rimasti
+\voice\fuel\ten_minutes_fuel,1_op_prefix_ok.wav,dieci minuti di carburante rimasti,dieci minuti di carburante rimasti
+\voice\fuel\ten_minutes_fuel,2_op_prefix_ok.wav,hai dieci minuti di carburante rimasti,hai dieci minuti di carburante rimasti
+\voice\fuel\ten_minutes_fuel,3.wav,hai dieci minuti di carburante rimasti,hai dieci minuti di carburante rimasti
+\voice\fuel\three_laps_fuel,1.wav,hai circa tre giri di carburante rimasti,hai circa tre giri di carburante rimasti
+\voice\fuel\three_laps_fuel,2.wav,stimiamo tre giri di carburante rimasti,stimiamo tre giri di carburante rimasti
+\voice\fuel\three_laps_fuel,3.wav,tre giri di carburante rimasti,tre giri di carburante rimasti
+\voice\fuel\two_laps_fuel,1.wav,solo due giri di carburante rimasti,solo due giri di carburante rimasti
+\voice\fuel\two_laps_fuel,2.wav,due giri di carburante rimasti,due giri di carburante rimasti
+\voice\fuel\two_laps_fuel,3.wav,solo due giri di carburante rimasti,solo due giri di carburante rimasti
+\voice\fuel\two_minutes_fuel,1.wav,hai due minuti di carburante rimasti,hai due minuti di carburante rimasti
+\voice\fuel\two_minutes_fuel,2.wav,due minuti di carburante rimasti,due minuti di carburante rimasti
+\voice\fuel\two_minutes_fuel,3.wav,due minuti di carburante rimasti,due minuti di carburante rimasti
+\voice\mandatory_pit_stops\confirm_change_all_tyres,7.wav,"ricevuto, cambiamo tutte e quattro le gomme","ricevuto, cambiamo tutte e quattro le gomme"
+\voice\mandatory_pit_stops\pit_stop_already_requested,4.wav,"capito, ti stavamo gia' aspettando","capito, ti stavamo gia' aspettando"
+\voice\mandatory_pit_stops\pit_stop_already_requested,5.wav,"capito, ti stavamo gia' aspettando","capito, ti stavamo gia' aspettando"
+\voice\mandatory_pit_stops\pit_stop_not_requested,1.wav,"ok, non ti aspettavamo comunque","ok, non ti aspettavamo comunque"
+\voice\mandatory_pit_stops\pit_stop_not_requested,2.wav,non ti aspettavamo,non ti aspettavamo
+\voice\mandatory_pit_stops\pit_stop_not_requested,5.wav,"ok, non ti aspettavamo comunque","ok, non ti aspettavamo comunque"
+\voice\mandatory_pit_stops\wait_5_seconds,1.wav,cinque secondi,cinque secondi
+\voice\mandatory_pit_stops\wait_5_seconds,2.wav,cinque secondi,cinque secondi
+\voice\mandatory_pit_stops\wait_5_seconds,3.wav,cinque secondi,cinque secondi
+\voice\mandatory_pit_stops\wait_5_seconds,4.wav,cinque secondi,cinque secondi
+\voice\mandatory_pit_stops\will_change_all_four_tyre_and_refuel,3.wav,cambiamo tutte e quattro le gomme e aggiungiamo carburante,cambiamo tutte e quattro le gomme e aggiungiamo carburante
+\voice\mandatory_pit_stops\will_change_all_four_tyre_and_refuel,5.wav,cambiamo tutte e quattro le gomme e aggiungiamo carburante,cambiamo tutte e quattro le gomme e aggiungiamo carburante
+\voice\mandatory_pit_stops\will_change_all_four_tyre_no_fuel,3.wav,"cambiamo tutte e quattro le gomme, niente carburante","cambiamo tutte e quattro le gomme, niente carburante"
+\voice\mandatory_pit_stops\will_change_all_four_tyre_no_fuel,5.wav,"cambiamo tutte e quattro le gomme, niente carburante","cambiamo tutte e quattro le gomme, niente carburante"
+\voice\mandatory_pit_stops\will_change_all_four_tyres,2.wav,cambiamo tutte e quattro le gomme,cambiamo tutte e quattro le gomme
+\voice\mandatory_pit_stops\will_change_all_four_tyres,5.wav,cambiamo tutte e quattro le gomme,cambiamo tutte e quattro le gomme
+\voice\multiclass\dtm,40.wav,ditiemme,ditiemme
+\voice\multiclass\dtm,41.wav,ditiemme,ditiemme
+\voice\multiclass\dtm,42.wav,ditiemme,ditiemme
+\voice\multiclass\dtm_runners,1.wav,macchine classe ditiemme,macchine classe ditiemme
+\voice\multiclass\dtm_runners,2.wav,macchine ditiemme,macchine ditiemme
+\voice\multiclass\dtm_runners,3.wav,piloti ditiemme,piloti ditiemme
+\voice\multiclass\faster_car_behind_racing_player,1_male.wav,"c'e' una macchina piu' veloce in arrivo, sta lottando con noi per la posizione, non aspettarti bandiera blu","c'e' una macchina piu' veloce in arrivo, sta lottando con noi per la posizione, non aspettarti bandiera blu"
+\voice\multiclass\faster_car_behind_racing_player,3_male.wav,"macchina piu' veloce in arrivo, sta lottando con noi per la posizione, non aspettarti bandiera blu","macchina piu' veloce in arrivo, sta lottando con noi per la posizione, non aspettarti bandiera blu"
+\voice\multiclass\faster_car_behind_racing_player,4_male.wav,"macchina veloce dietro, gareggia con noi per posizione, niente bandiera blu","macchina veloce dietro, gareggia con noi per posizione, niente bandiera blu"
+\voice\multiclass\faster_car_behind_racing_player,5_male.wav,"macchina piu' veloce dietro, sta lottando con noi per la posizione, non aspettarti bandiera blu","macchina piu' veloce dietro, sta lottando con noi per la posizione, non aspettarti bandiera blu"
+\voice\multiclass\faster_car_behind_racing_player_is_class_leader,1_male.wav,"macchina veloce dietro, leader di classe ma gareggia con te, nessuna bandiera blu","macchina veloce dietro, leader di classe ma gareggia con te, nessuna bandiera blu"
+\voice\multiclass\faster_car_behind_racing_player_is_class_leader,2_male.wav,"macchina veloce dietro, leader di classe ma gareggia con noi, nessuna bandiera blu","macchina veloce dietro, leader di classe ma gareggia con noi, nessuna bandiera blu"
+\voice\multiclass\faster_car_behind_racing_player_is_class_leader,3_male.wav,"macchina veloce in avvicinamento, leader di classe ma gareggia con noi, nessuna bandiera blu","macchina veloce in avvicinamento, leader di classe ma gareggia con noi, nessuna bandiera blu"
+\voice\multiclass\faster_car_behind_racing_player_is_class_leader,4_male.wav,"macchina veloce in avvicinamento, stesso giro, leader di classe, nessuna bandiera blu","macchina veloce in avvicinamento, stesso giro, leader di classe, nessuna bandiera blu"
+\voice\multiclass\gt300,37.wav,gitiTrecento,gitiTrecento
+\voice\multiclass\gt300,38.wav,gitiTrecento,gitiTrecento
+\voice\multiclass\gt300,39.wav,gitiTrecento,gitiTrecento
+\voice\multiclass\gt500,34.wav,gitiCinquecento,gitiCinquecento
+\voice\multiclass\gt500,35.wav,gitiCinquecento,gitiCinquecento
+\voice\multiclass\gt500,36.wav,gitiCinquecento,gitiCinquecento
+\voice\multiclass\gtc,19.wav,giticì,giticì
+\voice\multiclass\gtc,20.wav,giticì,giticì
+\voice\multiclass\gtc,21.wav,giticì,giticì
+\voice\multiclass\gtc_runners,13.wav,piloti giticì,piloti giticì
+\voice\multiclass\gtc_runners,14.wav,macchine classe giticì,macchine classe giticì
+\voice\multiclass\gtc_runners,15.wav,macchine giticì,macchine giticì
+\voice\multiclass\gte,16.wav,gitiè,gitiè
+\voice\multiclass\gte,17.wav,gitiè,gitiè
+\voice\multiclass\gte,18.wav,gitiè,gitiè
+\voice\multiclass\gte_runners,16.wav,piloti gitiè,piloti gitiè
+\voice\multiclass\gte_runners,17.wav,macchine gitiè,macchine gitiè
+\voice\multiclass\gte_runners,18.wav,macchine classe gitiè,macchine classe gitiè
+\voice\multiclass\slower_car_ahead_racing_player,1_male.wav,"macchina lenta davanti, gareggiamo per posizione, niente bandiera blu","macchina lenta davanti, gareggiamo per posizione, niente bandiera blu"
+\voice\multiclass\slower_car_ahead_racing_player,2_male.wav,"macchina lenta davanti, gareggia con noi per posizione, niente bandiera blu","macchina lenta davanti, gareggia con noi per posizione, niente bandiera blu"
+\voice\multiclass\slower_car_ahead_racing_player,3.wav,"macchina lenta davanti, si gareggia per posizione, niente bandiera blu","macchina lenta davanti, si gareggia per posizione, niente bandiera blu"
+\voice\multiclass\slower_car_ahead_racing_player,3_male.wav,"macchina lenta davanti, gareggia con noi per posizione, niente bandiera blu","macchina lenta davanti, gareggia con noi per posizione, niente bandiera blu"
+\voice\multiclass\slower_car_ahead_racing_player,4_male.wav,"macchina lenta davanti, nostro giro, gareggia con noi, niente bandiera blu","macchina lenta davanti, nostro giro, gareggia con noi, niente bandiera blu"
+\voice\multiclass\slower_car_ahead_racing_player,5_male.wav,"macchina lenta davanti, gareggia con noi per posizione, niente bandiera blu","macchina lenta davanti, gareggia con noi per posizione, niente bandiera blu"
+\voice\multiclass\slower_car_ahead_racing_player,6_male.wav,"macchina lenta davanti, gareggia con noi per posizione, niente bandiera blu","macchina lenta davanti, gareggia con noi per posizione, niente bandiera blu"
+\voice\penalties\penalty_three_laps_left,1.wav,hai tre giri per scontare questa penalita',hai tre giri per scontare questa penalita'
+\voice\penalties\penalty_three_laps_left,2.wav,devi rientrare per questa penalita' nei prossimi tre giri,devi rientrare per questa penalita' nei prossimi tre giri
+\voice\penalties\penalty_three_laps_left,3.wav,hai tre giri per scontare questa penalita',hai tre giri per scontare questa penalita'
+\voice\penalties\penalty_two_laps_left,1.wav,abbiamo due giri rimasti per rientrare e scontare questa penalita',abbiamo due giri rimasti per rientrare e scontare questa penalita'
+\voice\penalties\penalty_two_laps_left,2.wav,dobbiamo rientrare per questa penalita' nei prossimi due giri,dobbiamo rientrare per questa penalita' nei prossimi due giri
+\voice\penalties\penalty_two_laps_left,3.wav,abbiamo due giri per rientrare per questa penalita',abbiamo due giri per rientrare per questa penalita'
+\voice\penalties\penalty_two_laps_left,4.wav,rientra per scontare questa penalita' nei prossimi due giri,rientra per scontare questa penalita' nei prossimi due giri
+\voice\push_now\pits_exit_traffic_behind,1.wav,"c'e' una macchina dietro, fai attenzione rientrando in pista","c'e' una macchina dietro, fai attenzione rientrando in pista"
+\voice\race_time\five_minutes_left_podium,2.wav,"cinque minuti alla fine, sei in buona posizione per il podio","cinque minuti alla fine, sei in buona posizione per il podio"
+\voice\race_time\five_minutes_left_podium,3.wav,"cinque minuti alla fine, ottimo, saremo sul podio se teniamo duro","cinque minuti alla fine, ottimo, saremo sul podio se teniamo duro"
+\voice\race_time\half_way,op_prefix_ok_6.wav,siamo a meta',siamo a meta'
+\voice\race_time\ten_minutes_left,3.wav,"hai dieci minuti rimasti, dieci minuti alla fine","hai dieci minuti rimasti, dieci minuti alla fine"
+\voice\race_time\twenty_minutes_left,2.wav,"venti minuti rimasti, hai venti minuti rimasti","venti minuti rimasti, hai venti minuti rimasti"
+\voice\tyre_monitor\cold_brakes_all_round,6.wav,hai i freni freddi su tutto,hai i freni freddi su tutto
+\voice\tyre_monitor\cold_tyres_all_round,1.wav,gomme fredde su tutto,gomme fredde su tutto
+\voice\tyre_monitor\cold_tyres_all_round,3.wav,"vai piano, hai le gomme fredde","vai piano, hai le gomme fredde"
+\voice\tyre_monitor\good_wear,2.wav,non vediamo usura significativa delle gomme,non vediamo usura significativa delle gomme
+\voice\tyre_monitor\good_wear_general,2.wav,non vediamo usura significativa delle gomme,non vediamo usura significativa delle gomme
+\voice\tyre_monitor\minor_wear_all_round,1.wav,stiamo vedendo usura leggera su tutto,stiamo vedendo usura leggera su tutto
+\voice\tyre_monitor\worn_all_round,2.wav,hai usura significativa delle gomme su tutto,hai usura significativa delle gomme su tutto
