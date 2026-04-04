@@ -1,0 +1,304 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\lap_counter\finished_race,1_op_suffix_bad_luck.wav,"ok, e' over","ok, e' over"
+\voice\lap_counter\finished_race,2.wav,ecco la bandiera a scacchi,ecco la bandiera a scacchi
+\voice\lap_counter\finished_race,3_op_suffix_bad_luck.wav,"it, siamo done","it, siamo done"
+\voice\lap_counter\finished_race,4.wav,"e' la fine della gara, li prenderemo la prossima volta","e' la fine della gara, li prenderemo la prossima volta"
+\voice\lap_counter\finished_race,5.wav,ecco e' finita riporta la macchina,ecco e' finita riporta la macchina
+\voice\lap_counter\finished_race,6.wav,"ok, siamo done","ok, siamo done"
+\voice\lap_counter\finished_race,7.wav,"e' la fine della gara, non importa","e' la fine della gara, non importa"
+\voice\lap_counter\finished_race,8.wav,"e' la fine della gara, sfortuna","e' la fine della gara, sfortuna"
+\voice\lap_counter\finished_race_good_finish,1.wav,"ok, è finita, ben fatto, buon risultato","ok, è finita, ben fatto, buon risultato"
+\voice\lap_counter\finished_race_good_finish,2.wav,"ok, è il traguardo, ben fatto","ok, è il traguardo, ben fatto"
+\voice\lap_counter\finished_race_good_finish,3.wav,"ok, e' over, bella guida","ok, e' over, bella guida"
+\voice\lap_counter\finished_race_good_finish,4.wav,"ben fatto, buon risultato","ben fatto, buon risultato"
+\voice\lap_counter\finished_race_good_finish,5.wav,"ecco il traguardo, bella guida","ecco il traguardo, bella guida"
+\voice\lap_counter\finished_race_good_finish,6.wav,"ed ecco il traguardo, buon risultato, ben fatto","ed ecco il traguardo, buon risultato, ben fatto"
+\voice\lap_counter\finished_race_good_finish,7.wav,ecco il traguardo bravo,ecco il traguardo bravo
+\voice\lap_counter\finished_race_good_finish,8.wav,"ok è la fine, buon risultato, ben fatto","ok è la fine, buon risultato, ben fatto"
+\voice\lap_counter\finished_race_last,1.wav,ecco la bandiera a scacchi deludente,ecco la bandiera a scacchi deludente
+\voice\lap_counter\finished_race_last,2.wav,"ok, e' over, bloody awful result","ok, e' over, bloody awful result"
+\voice\lap_counter\finished_race_last,3.wav,"ok, e' finita, andiamo via e cerchiamo di dimenticare questa","ok, e' finita, andiamo via e cerchiamo di dimenticare questa"
+\voice\lap_counter\finished_race_last,sweary_4.wav,"c'e' la bandiera a scacchi, giornata di merda, raccogliamo e andiamo a casa","c'e' la bandiera a scacchi, giornata di merda, raccogliamo e andiamo a casa"
+\voice\lap_counter\finished_race_last,sweary_5.wav,"shit result, , hard luck","shit result, , hard luck"
+\voice\lap_counter\finished_race_last,sweary_6.wav,e' stata una cazzo di perdita di tempo,e' stata una cazzo di perdita di tempo
+\voice\lap_counter\get_ready,10.wav,"ok, preparati","ok, preparati"
+\voice\lap_counter\get_ready,11.wav,"preparati, è il momento di spingere","preparati, è il momento di spingere"
+\voice\lap_counter\get_ready,12_op_prefix_ok.wav,preparati guarda i semafori,preparati guarda i semafori
+\voice\lap_counter\get_ready,13.wav,guarda i semafori,guarda i semafori
+\voice\lap_counter\get_ready,14.wav,preparati e stai pulito,preparati e stai pulito
+\voice\lap_counter\get_ready,16_op_prefix_ok.wav,pulito e preciso stai fuori dai guai,pulito e preciso stai fuori dai guai
+\voice\lap_counter\get_ready,1_op_prefix_ok.wav,preparati,preparati
+\voice\lap_counter\get_ready,20.wav,preparati,preparati
+\voice\lap_counter\get_ready,21.wav,preparati e' ora di concentrarsi,preparati e' ora di concentrarsi
+\voice\lap_counter\get_ready,22.wav,"ok, preparati","ok, preparati"
+\voice\lap_counter\get_ready,24.wav,ci siamo preparati,ci siamo preparati
+\voice\lap_counter\get_ready,25.wav,ci siamo preparati,ci siamo preparati
+\voice\lap_counter\get_ready,26.wav,preparati,preparati
+\voice\lap_counter\get_ready,27.wav,"ok, preparati","ok, preparati"
+\voice\lap_counter\get_ready,28.wav,concentrati preparati,concentrati preparati
+\voice\lap_counter\get_ready,29.wav,preparati,preparati
+\voice\lap_counter\get_ready,2_op_prefix_ok.wav,preparati,preparati
+\voice\lap_counter\get_ready,30.wav,"preparati, stiamo per partire","preparati, stiamo per partire"
+\voice\lap_counter\get_ready,31.wav,"ok, preparati, rilassati","ok, preparati, rilassati"
+\voice\lap_counter\get_ready,32.wav,attenzione preparati,attenzione preparati
+\voice\lap_counter\get_ready,33.wav,"attenzione, si riparte","attenzione, si riparte"
+\voice\lap_counter\get_ready,34.wav,"ok, preparati","ok, preparati"
+\voice\lap_counter\get_ready,3_op_prefix_ok.wav,preparati,preparati
+\voice\lap_counter\get_ready,4.wav,preparati,preparati
+\voice\lap_counter\get_ready,5_op_prefix_ok.wav,preparati,preparati
+\voice\lap_counter\get_ready,6.wav,preparati,preparati
+\voice\lap_counter\get_ready,7.wav,preparati,preparati
+\voice\lap_counter\get_ready,8_op_prefix_ok.wav,ci siamo,ci siamo
+\voice\lap_counter\get_ready,9_op_prefix_ok.wav,stai calmo concentrati,stai calmo concentrati
+\voice\lap_counter\get_ready,sweary_15_op_prefix_ok.wav,ci siamo non mandare tutto a puttane,ci siamo non mandare tutto a puttane
+\voice\lap_counter\get_ready,sweary_17_op_prefix_ok.wav,facciamolo bene niente cazzate,facciamolo bene niente cazzate
+\voice\lap_counter\get_ready,sweary_18.wav,"ok, cerchiamo di evitare il caos in curva 1","ok, cerchiamo di evitare il caos in curva 1"
+\voice\lap_counter\green_green_green,1.wav,vai vai vai,vai vai vai
+\voice\lap_counter\green_green_green,10.wav,dai gas verde verde verde,dai gas verde verde verde
+\voice\lap_counter\green_green_green,11.wav,vai tutta,vai tutta
+\voice\lap_counter\green_green_green,12.wav,vai,vai
+\voice\lap_counter\green_green_green,13.wav,vai,vai
+\voice\lap_counter\green_green_green,14.wav,verde verde verde,verde verde verde
+\voice\lap_counter\green_green_green,15.wav,vai vai vai,vai vai vai
+\voice\lap_counter\green_green_green,16.wav,vai vai vai,vai vai vai
+\voice\lap_counter\green_green_green,17.wav,verde verde verde,verde verde verde
+\voice\lap_counter\green_green_green,18.wav,vai,vai
+\voice\lap_counter\green_green_green,19.wav,andiamo,andiamo
+\voice\lap_counter\green_green_green,2.wav,verde verde verde,verde verde verde
+\voice\lap_counter\green_green_green,20.wav,dai gas,dai gas
+\voice\lap_counter\green_green_green,3.wav,verde verde verde,verde verde verde
+\voice\lap_counter\green_green_green,4.wav,verde verde verde,verde verde verde
+\voice\lap_counter\green_green_green,5.wav,verde verde verde,verde verde verde
+\voice\lap_counter\green_green_green,6.wav,vai vai vai,vai vai vai
+\voice\lap_counter\green_green_green,7.wav,vai,vai
+\voice\lap_counter\green_green_green,8.wav,vai vai vai,vai vai vai
+\voice\lap_counter\green_green_green,9.wav,verde andiamo andiamo,verde andiamo andiamo
+\voice\lap_counter\last_lap,1.wav,un altro giro al termine,un altro giro al termine
+\voice\lap_counter\last_lap,2.wav,ancora uno,ancora uno
+\voice\lap_counter\last_lap,3.wav,un altro giro al termine,un altro giro al termine
+\voice\lap_counter\last_lap,4.wav,ultimo giro,ultimo giro
+\voice\lap_counter\last_lap_leading,1.wav,"un altro giro per la vittoria, dai","un altro giro per la vittoria, dai"
+\voice\lap_counter\last_lap_leading,2_op_suffix_come_on.wav,"un altro giro al termine, rimani concentrato","un altro giro al termine, rimani concentrato"
+\voice\lap_counter\last_lap_leading,3.wav,"ancora un giro, primo","ancora un giro, primo"
+\voice\lap_counter\last_lap_leading,4_op_prefix_come_on.wav,"un altro giro, tieni duro, vinceremo","un altro giro, tieni duro, vinceremo"
+\voice\lap_counter\last_lap_leading,sweary_5_op_prefix_come_on.wav,"ultimo giro, tieni duro, non sei ancora arrivato","ultimo giro, tieni duro, non sei ancora arrivato"
+\voice\lap_counter\podium_finish,1_op_suffix_well_done.wav,podio bella li',podio bella li'
+\voice\lap_counter\podium_finish,2_op_suffix_well_done.wav,"siamo sul podio, bella gara","siamo sul podio, bella gara"
+\voice\lap_counter\podium_finish,3_op_prefix_well_done.wav,"ottima guida, un podio","ottima guida, un podio"
+\voice\lap_counter\podium_finish,4.wav,bravo buona guida,bravo buona guida
+\voice\lap_counter\two_to_go_leading,1_op_suffix_come_on.wav,"due al termine, sei in testa","due al termine, sei in testa"
+\voice\lap_counter\two_to_go_leading,2_op_prefix_come_on.wav,"due giri rimasti, primo","due giri rimasti, primo"
+\voice\lap_counter\two_to_go_leading,3_op_prefix_come_on.wav,due alla fine resta concentrato possiamo vincere,due alla fine resta concentrato possiamo vincere
+\voice\lap_counter\two_to_go_leading,4_male.wav,due alla fine dai sei un grande,due alla fine dai sei un grande
+\voice\lap_counter\won_race,1_op_suffix_well_done.wav,hai vinto guida fantastica,hai vinto guida fantastica
+\voice\lap_counter\won_race,2.wav,"ben fatto, perfetto, ottima vittoria","ben fatto, perfetto, ottima vittoria"
+\voice\lap_counter\won_race,3_op_prefix_well_done.wav,"grande vittoria, te la sei meritata oggi","grande vittoria, te la sei meritata oggi"
+\voice\lap_counter\won_race,4.wav,"una vittoria, ottimo lavoro, ben fatto","una vittoria, ottimo lavoro, ben fatto"
+\voice\lap_counter\won_race,5.wav,"ben fatto, li hai fatti sembrare tutti ridicoli oggi","ben fatto, li hai fatti sembrare tutti ridicoli oggi"
+\voice\lap_counter\won_race,6_op_suffix_well_done.wav,guida perfetta assolutamente impeccabile,guida perfetta assolutamente impeccabile
+\voice\lap_counter\won_race,sweary_7.wav,"risultato pazzesco, ben fatto","risultato pazzesco, ben fatto"
+\voice\lap_counter\won_race,sweary_8_op_suffix_well_done.wav,cazzo abbiamo vinto,cazzo abbiamo vinto
+\voice\pearls_of_wisdom\keep_it_up,1.wav,"continua cosi', stiamo andando bene","continua cosi', stiamo andando bene"
+\voice\pearls_of_wisdom\keep_it_up,10.wav,"ottimo lavoro, continua cosi'","ottimo lavoro, continua cosi'"
+\voice\pearls_of_wisdom\keep_it_up,11.wav,"ottima guida, continua cosi'","ottima guida, continua cosi'"
+\voice\pearls_of_wisdom\keep_it_up,12.wav,"mi piace, e' perfetto","mi piace, e' perfetto"
+\voice\pearls_of_wisdom\keep_it_up,14.wav,ci piace cosi' continua cosi',ci piace cosi' continua cosi'
+\voice\pearls_of_wisdom\keep_it_up,15.wav,"e' buono, continua a macinare quei tempi sul giro","e' buono, continua a macinare quei tempi sul giro"
+\voice\pearls_of_wisdom\keep_it_up,16_male.wav,sei un grande continua cosi',sei un grande continua cosi'
+\voice\pearls_of_wisdom\keep_it_up,17.wav,"e' eccellente, continua cosi'","e' eccellente, continua cosi'"
+\voice\pearls_of_wisdom\keep_it_up,19_male.wav,"continua cosi', e' ottimo","continua cosi', e' ottimo"
+\voice\pearls_of_wisdom\keep_it_up,2_op_prefix_ok.wav,continua cosi' e' perfetto,continua cosi' e' perfetto
+\voice\pearls_of_wisdom\keep_it_up,3.wav,"ottimo lavoro, continua cosi'","ottimo lavoro, continua cosi'"
+\voice\pearls_of_wisdom\keep_it_up,4.wav,questo e' fantastico continua cosi',questo e' fantastico continua cosi'
+\voice\pearls_of_wisdom\keep_it_up,5_op_prefix_ok.wav,"continua a colpire i tuoi punti di riferimento, sta andando bene","continua a colpire i tuoi punti di riferimento, sta andando bene"
+\voice\pearls_of_wisdom\keep_it_up,6.wav,questo e' fantastico continua cosi',questo e' fantastico continua cosi'
+\voice\pearls_of_wisdom\keep_it_up,7_op_prefix_well_done.wav,"e' ottimo, dai, continua a centrare quelle uscite","e' ottimo, dai, continua a centrare quelle uscite"
+\voice\pearls_of_wisdom\keep_it_up,8_op_prefix_well_done.wav,"stai andando davvero bene, dai, mantieni la concentrazione","stai andando davvero bene, dai, mantieni la concentrazione"
+\voice\pearls_of_wisdom\keep_it_up,9_op_prefix_well_done.wav,questo e' magnifico esattamente quello per cui siamo venuti,questo e' magnifico esattamente quello per cui siamo venuti
+\voice\pearls_of_wisdom\keep_it_up,sweary_13.wav,"e' fantastico, continua cosi'","e' fantastico, continua cosi'"
+\voice\pearls_of_wisdom\keep_it_up,sweary_18.wav,"ottimo lavoro, e' eccellente","ottimo lavoro, e' eccellente"
+\voice\pearls_of_wisdom\must_do_better,1.wav,dai possiamo fare meglio concentrati sulle uscite tieni la guida fluida,dai possiamo fare meglio concentrati sulle uscite tieni la guida fluida
+\voice\pearls_of_wisdom\must_do_better,10.wav,dai dovremmo andare meglio di cosi',dai dovremmo andare meglio di cosi'
+\voice\pearls_of_wisdom\must_do_better,11.wav,"cosa sta succedendo, dai, mettiti in ordine","cosa sta succedendo, dai, mettiti in ordine"
+\voice\pearls_of_wisdom\must_do_better,12.wav,"questo non e' davvero abbastanza, dai, inizia a concentrarti","questo non e' davvero abbastanza, dai, inizia a concentrarti"
+\voice\pearls_of_wisdom\must_do_better,19.wav,"ritmo da qualifica ogni giro, ci sono ancora possibilita'","ritmo da qualifica ogni giro, ci sono possibilita"
+\voice\pearls_of_wisdom\must_do_better,2.wav,dai riconcentrati tieni la guida fluida concentrati sulle traiettorie,dai riconcentrati tieni la guida fluida concentrati sulle traiettorie
+\voice\pearls_of_wisdom\must_do_better,21_male.wav,"dai, questo e' deludente, questa macchina ha un buon ritmo","dai, questo e' deludente, questa macchina ha un buon ritmo"
+\voice\pearls_of_wisdom\must_do_better,22_male.wav,sei dappertutto dai rimettiti in sesto,sei dappertutto dai rimettiti in sesto
+\voice\pearls_of_wisdom\must_do_better,23_male.wav,dai fluido e' veloce e ci serve veloce adesso,dai fluido e' veloce e ci serve veloce adesso
+\voice\pearls_of_wisdom\must_do_better,24_male.wav,"sei migliore di questo, la macchina e' migliore, rimettiti in sesto","sei migliore di questo, la macchina e' migliore, rimettiti in sesto"
+\voice\pearls_of_wisdom\must_do_better,27.wav,"ritmo da qualifica, dai puoi salvare qualcosa","ritmo da qualifica, dai puoi salvare qualcosa"
+\voice\pearls_of_wisdom\must_do_better,28.wav,dai basta errori concentrati,dai basta errori concentrati
+\voice\pearls_of_wisdom\must_do_better,29.wav,"massimizza ogni giro, recuperiamo quello che possiamo","massimizza ogni giro, recuperiamo quello che possiamo"
+\voice\pearls_of_wisdom\must_do_better,3.wav,dai concentrati ci serve piu' velocita' non provare a frenare piu' tardi concentrati di piu',dai concentrati ci serve piu' velocita' non provare a frenare piu' tardi concentrati di piu'
+\voice\pearls_of_wisdom\must_do_better,4.wav,"dai, dobbiamo davvero spingere adesso","dai, dobbiamo davvero spingere adesso"
+\voice\pearls_of_wisdom\must_do_better,5.wav,spingi adesso ci serve piu' velocita',spingi adesso ci serve piu' velocita'
+\voice\pearls_of_wisdom\must_do_better,6.wav,guida pulita potremmo ancora ottenere qualcosa,guida pulita potremmo ancora ottenere qualcosa
+\voice\pearls_of_wisdom\must_do_better,7.wav,"tieni duro, dai, la gara non e' ancora finita","tieni duro, dai, la gara non e' ancora finita"
+\voice\pearls_of_wisdom\must_do_better,9.wav,"non farti prendere dal panico, hai tempo per rimediare","non farti prendere dal panico, hai tempo per rimediare"
+\voice\pearls_of_wisdom\must_do_better,sweary_13.wav,dai prova piu' forte cazzo,dai prova piu' forte cazzo
+\voice\pearls_of_wisdom\must_do_better,sweary_14.wav,"e' un po' una schifezza, dai, mettiti in ordine","e' un po' una schifezza, dai, mettiti in ordine"
+\voice\pearls_of_wisdom\must_do_better,sweary_15.wav,cazzo concentrati,cazzo concentrati
+\voice\pearls_of_wisdom\must_do_better,sweary_16.wav,dai smettila di essere cosi' scarso prova piu' forte,dai smettila di essere cosi' scarso prova piu' forte
+\voice\pearls_of_wisdom\must_do_better,sweary_18_male.wav,dai smettila di mandare tutto a puttane,dai smettila di mandare tutto a puttane
+\voice\pearls_of_wisdom\must_do_better,sweary_20_male.wav,"dai, se qualcuno davanti sbaglia dobbiamo essere pronti ad approfittarne","dai, se qualcuno davanti sbaglia dobbiamo essere pronti ad approfittarne"
+\voice\pearls_of_wisdom\must_do_better,sweary_25.wav,dai smettila di mandare tutto a puttane,dai smettila di mandare tutto a puttane
+\voice\pearls_of_wisdom\must_do_better,sweary_26.wav,fa un po' schifo dai fai di meglio,fa un po' schifo dai fai di meglio
+\voice\pearls_of_wisdom\must_do_better,sweary_8.wav,"dai, mettiti in moto, possiamo fare meglio","dai, mettiti in moto, possiamo fare meglio"
+\voice\position\bad_start,1.wav,"dimentica la partenza, trova il tuo ritmo","dimentica la partenza, trova il tuo ritmo"
+\voice\position\bad_start,11.wav,"non una buona partenza, ma migliorera'","non una buona partenza, ma migliorera'"
+\voice\position\bad_start,12.wav,"brutta partenza, mettiamoci al lavoro","brutta partenza, mettiamoci al lavoro"
+\voice\position\bad_start,13.wav,abbiamo del lavoro da fare adesso,abbiamo del lavoro da fare adesso
+\voice\position\bad_start,15.wav,"brutta partenza, sfortuna, ma dai che ci mettiamo sotto","brutta partenza, sfortuna, ma dai che ci mettiamo sotto"
+\voice\position\bad_start,2.wav,partenza deludente riprendiamo quelle posizioni,partenza deludente riprendiamo quelle posizioni
+\voice\position\bad_start,3.wav,"brutta partenza, ma c'e' ancora tempo per recuperare","brutta partenza, ma c'e' ancora tempo per recuperare"
+\voice\position\bad_start,4_op_prefix_come_on.wav,"dimentica la partenza, mettiamoci sotto","dimentica la partenza, mettiamoci sotto"
+\voice\position\bad_start,5.wav,vediamo se riusciamo a riprendere quelle posizioni,vediamo se riusciamo a riprendere quelle posizioni
+\voice\position\bad_start,5_op_prefix_oh_dear.wav,vediamo se riusciamo a riprendere quelle posizioni,vediamo se riusciamo a riprendere quelle posizioni
+\voice\position\bad_start,9_op_prefix_come_on.wav,calmati trova il tuo ritmo,calmati trova il tuo ritmo
+\voice\position\bad_start,sweary_14.wav,partenza di merda ma niente panico possiamo recuperare,partenza di merda ma niente panico possiamo recuperare
+\voice\position\bad_start,sweary_16.wav,partenza di merda ma niente panico c'e' tempo per recuperare,partenza di merda ma niente panico c'e' tempo per recuperare
+\voice\position\bad_start,sweary_6_op_prefix_oh_dear.wav,"partenza di merda, abbiamo molto lavoro da fare","partenza di merda, abbiamo molto lavoro da fare"
+\voice\position\bad_start,sweary_7.wav,"partenza di merda, testa bassa e recupera","partenza di merda, testa bassa e recupera"
+\voice\position\bad_start,sweary_8.wav,"partenza di merda, ma abbiamo tempo per rimediare","partenza di merda, ma abbiamo tempo per rimediare"
+\voice\position\bad_start,sweary_9_op_prefix_oh_dear.wav,"hai sbagliato la partenza, adesso dai, non rovinare la gara","hai sbagliato la partenza, adesso dai, non rovinare la gara"
+\voice\position\being_overtaken,11.wav,dai continua a spingere,dai continua a spingere
+\voice\position\being_overtaken,12_male.wav,dai difendi piu' forte,dai difendi piu' forte
+\voice\position\being_overtaken,13_male.wav,"non mollare, tienilo sotto pressione","non mollare, tienilo sotto pressione"
+\voice\position\being_overtaken,15_male.wav,"ok, restagli vicino","ok, restagli vicino"
+\voice\position\being_overtaken,1_op_prefix_oh_dear.wav,"dai, difendi la tua posizione","dai, difendi la tua posizione"
+\voice\position\being_overtaken,2_op_prefix_come_on_male.wav,niente panico lo riprenderemo,niente panico lo riprenderemo
+\voice\position\being_overtaken,3.wav,"brutto luck,","brutto luck,"
+\voice\position\being_overtaken,4_op_suffix_come_on.wav,niente panico,niente panico
+\voice\position\being_overtaken,5_op_prefix_come_on_male.wav,non farlo scappare,non farlo scappare
+\voice\position\being_overtaken,7_male.wav,dai non farlo scappare,dai non farlo scappare
+\voice\position\being_overtaken,7_op_prefix_bad_luck_male.wav,dai non farlo scappare,dai non farlo scappare
+\voice\position\being_overtaken,9_op_prefix_come_on_male.wav,continua a spingere potremmo riprenderlo,continua a spingere potremmo riprenderlo
+\voice\position\being_overtaken,sweary_10_op_suffix_come_on.wav,deludente ma capita continua a spingere,deludente ma capita continua a spingere
+\voice\position\being_overtaken,sweary_12_male.wav,merda resta vicino potresti riprenderlo,merda resta vicino potresti riprenderlo
+\voice\position\being_overtaken,sweary_13_male.wav,"cazzo, vedi se riesci a recuperarlo","cazzo, vedi se riesci a recuperarlo"
+\voice\position\being_overtaken,sweary_14.wav,cazzo difendi queste posizioni,cazzo difendi queste posizioni
+\voice\position\being_overtaken,sweary_6.wav,dai resta attaccato al bastardo,dai resta attaccato al bastardo
+\voice\position\being_overtaken,sweary_8.wav,dai spingi come un pazzo prendiamo questo,dai spingi come un pazzo prendiamo questo
+\voice\position\good_start,1.wav,"buona partenza, , nice one","buona partenza, , nice one"
+\voice\position\good_start,11.wav,"partenza perfetta, ottimo","partenza perfetta, ottimo"
+\voice\position\good_start,12.wav,"buona partenza, continua cosi'","buona partenza, continua cosi'"
+\voice\position\good_start,13.wav,"ottimo start, ben fatto","ottimo start, ben fatto"
+\voice\position\good_start,2.wav,"bella partenza, ben fatto","bella partenza, ben fatto"
+\voice\position\good_start,3_op_prefix_well_done.wav,buona partenza,buona partenza
+\voice\position\good_start,4_op_suffix_well_done.wav,buona partenza,buona partenza
+\voice\position\good_start,5.wav,"buona partenza,","buona partenza,"
+\voice\position\good_start,6_op_suffix_come_on.wav,bella partenza,bella partenza
+\voice\position\good_start,7.wav,"ottima partenza, continua cosi'","ottima partenza, continua cosi'"
+\voice\position\good_start,9.wav,"ottimo lavoro alla partenza, benissimo","ottimo lavoro alla partenza, benissimo"
+\voice\position\good_start,sweary_10.wav,partenza eccellente del cazzo bravo,partenza eccellente del cazzo bravo
+\voice\position\ok_start,10.wav,"la partenza e' ok, siamo ancora in buona forma","la partenza e' ok, siamo ancora in buona forma"
+\voice\position\ok_start,11.wav,la partenza e' ok e' ora di darci dentro,la partenza e' ok e' ora di darci dentro
+\voice\position\ok_start,12.wav,"ok, la partenza va bene, e' il momento di lavorare","ok, la partenza va bene, e' il momento di lavorare"
+\voice\position\ok_start,1_op_prefix_ok.wav,partenza decente possiamo costruire da qui,partenza decente possiamo costruire da qui
+\voice\position\ok_start,2.wav,"partenza ok, sistemiamoci","partenza ok, sistemiamoci"
+\voice\position\ok_start,3_op_suffix_come_on.wav,"la partenza e' ok, mettiamoci sotto","la partenza e' ok, mettiamoci sotto"
+\voice\position\ok_start,4.wav,"la tua partenza e' ok, possiamo costruire qualcosa da qui","la tua partenza e' ok, possiamo costruire qualcosa da qui"
+\voice\position\ok_start,5_op_suffix_come_on.wav,"ok, troviamo un buon ritmo, guadagniamo posizioni","ok, troviamo un buon ritmo, guadagniamo posizioni"
+\voice\position\ok_start,6.wav,"partenza ok, siamo ancora in gara","partenza ok, siamo ancora in gara"
+\voice\position\ok_start,8.wav,la partenza e' ok costruiamo da li',la partenza e' ok costruiamo da li'
+\voice\position\ok_start,9.wav,"la partenza e' ok, trova il tuo ritmo","la partenza e' ok, trova il tuo ritmo"
+\voice\position\overtaking,1.wav,"bel sorpasso, ben fatto","bel sorpasso, ben fatto"
+\voice\position\overtaking,12_op_suffix_well_done.wav,dai cosi' si fa,dai cosi' si fa
+\voice\position\overtaking,13.wav,cosi' si fa ancora cosi',cosi' si fa ancora cosi'
+\voice\position\overtaking,14_op_suffix_come_on.wav,fantastico bene cosi',fantastico bene cosi'
+\voice\position\overtaking,15.wav,"buono move,","buono move,"
+\voice\position\overtaking,16.wav,"buono move,","buono move,"
+\voice\position\overtaking,17_op_suffix_well_done.wav,bel sorpasso,bel sorpasso
+\voice\position\overtaking,18_op_prefix_come_on.wav,ben fatto,ben fatto
+\voice\position\overtaking,19_male.wav,bravo amico,bravo amico
+\voice\position\overtaking,21.wav,"ottimo lavoro, continua cosi'","ottimo lavoro, continua cosi'"
+\voice\position\overtaking,22.wav,"sweet pass,","sweet pass,"
+\voice\position\overtaking,23.wav,prendilo bella li',prendilo bella li'
+\voice\position\overtaking,24.wav,bel sorpasso,bel sorpasso
+\voice\position\overtaking,26.wav,"bel sorpasso, adesso continua a spingere","bel sorpasso, adesso continua a spingere"
+\voice\position\overtaking,27.wav,"ben fatto, , that was ottimo","ben fatto, , that was ottimo"
+\voice\position\overtaking,29.wav,fantastico bravo,fantastico bravo
+\voice\position\overtaking,2_op_suffix_well_done.wav,"nice one,","nice one,"
+\voice\position\overtaking,3_op_prefix_well_done.wav,"ottima mossa, continua cosi'","ottima mossa, continua cosi'"
+\voice\position\overtaking,4_op_prefix_well_done.wav,"nice move,","nice move,"
+\voice\position\overtaking,5_op_prefix_come_on.wav,"ottimo lavoro, continua cosi'","ottimo lavoro, continua cosi'"
+\voice\position\overtaking,5_op_prefix_well_done.wav,"bel sorpasso, eyes front","bel sorpasso, eyes front"
+\voice\position\overtaking,6.wav,"ben fatto, bel sorpasso","ben fatto, bel sorpasso"
+\voice\position\overtaking,7.wav,bravo occhi avanti adesso,bravo occhi avanti adesso
+\voice\position\overtaking,sweary_10.wav,"bel sorpasso, , that was fucking brilliant","bel sorpasso, , that was fucking brilliant"
+\voice\position\overtaking,sweary_11.wav,"bel sorpasso, , fucking awesome","bel sorpasso, , fucking awesome"
+\voice\position\overtaking,sweary_20.wav,si' fregato quello stronzo,si' fregato quello stronzo
+\voice\position\overtaking,sweary_25.wav,fan-tas-ti-co adesso continua a spingere,fan-tas-ti-co adesso continua a spingere
+\voice\position\overtaking,sweary_28.wav,cazzo dai lo hai fregato,cazzo dai lo hai fregato
+\voice\position\overtaking,sweary_7.wav,"fucking ottimo pass, , ben fatto","fucking ottimo pass, , ben fatto"
+\voice\position\overtaking,sweary_8.wav,"fucking awesome move,","fucking awesome move,"
+\voice\position\overtaking,sweary_9.wav,"fucking excellent pass, nice one,","fucking excellent pass, nice one,"
+\voice\position\terrible_start,1.wav,partenza terribile dai riprenditi,partenza terribile dai riprenditi
+\voice\position\terrible_start,12.wav,dimentica la partenza proviamo a salvare qualcosa,dimentica la partenza proviamo a salvare qualcosa
+\voice\position\terrible_start,13.wav,"awful start, , ma non mollare","awful start, , ma non mollare"
+\voice\position\terrible_start,14.wav,"sfortuna alla partenza, ma adesso devi creartela tu la fortuna","sfortuna alla partenza, ma adesso devi creartela tu la fortuna"
+\voice\position\terrible_start,17.wav,"partenza disastrosa, calmati e inizia a risalire la classifica","partenza disastrosa, calmati e inizia a risalire la classifica"
+\voice\position\terrible_start,1_op_prefix_oh_dear.wav,partenza terribile dai riprenditi,partenza terribile dai riprenditi
+\voice\position\terrible_start,2.wav,"brutta partenza, abbiamo molto lavoro da fare adesso","brutta partenza, abbiamo molto lavoro da fare adesso"
+\voice\position\terrible_start,2_op_prefix_bad_luck.wav,"brutta partenza, abbiamo molto lavoro da fare adesso","brutta partenza, abbiamo molto lavoro da fare adesso"
+\voice\position\terrible_start,4.wav,"partenza terribile, ma la gara non e' finita","partenza terribile, ma la gara non e' finita"
+\voice\position\terrible_start,5.wav,"ok, abbiamo una bella salita da fare, ma iniziamo","ok, abbiamo una bella salita da fare, ma iniziamo"
+\voice\position\terrible_start,6.wav,vediamo cosa riusciamo a recuperare,vediamo cosa riusciamo a recuperare
+\voice\position\terrible_start,6_op_prefix_ok.wav,vediamo cosa riusciamo a recuperare,vediamo cosa riusciamo a recuperare
+\voice\position\terrible_start,sweary_10.wav,"fucking hell, da incubo start , danno limitation da qui","fucking hell, da incubo start , danno limitation da qui"
+\voice\position\terrible_start,sweary_15.wav,"brutta partenza, ma dobbiamo recuperare qualcosa","brutta partenza, ma dobbiamo recuperare qualcosa"
+\voice\position\terrible_start,sweary_16.wav,"fucking bollocks start, , e' danno limitation da qui","fucking bollocks start, , e' danno limitation da qui"
+\voice\position\terrible_start,sweary_3.wav,partenza di merda dai rimettiti in sesto,partenza di merda dai rimettiti in sesto
+\voice\push_now\push_to_get_second,1_prefix_come_on.wav,spingi adesso potremmo ottenere il secondo posto,spingi adesso potremmo ottenere il secondo posto
+\voice\push_now\push_to_get_second,2_prefix_come_on.wav,spingi spingi spingi potremmo essere secondi qui,spingi spingi spingi potremmo essere secondi qui
+\voice\push_now\push_to_get_second,3_prefix_ok.wav,spingi possiamo ottenere il secondo posto qui,spingi possiamo ottenere il secondo posto qui
+\voice\push_now\push_to_get_third,1_prefix_come_on.wav,c'e' possibilita' di podio qui spingi spingi spingi,c'e' possibilita' di podio qui spingi spingi spingi
+\voice\push_now\push_to_get_third,2_prefix_come_on.wav,spingi piu' forte possiamo ottenere un podio qui,spingi piu' forte possiamo ottenere un podio qui
+\voice\push_now\push_to_get_third,3_prefix_ok.wav,spingi potremmo ottenere il terzo qui,spingi potremmo ottenere il terzo qui
+\voice\push_now\push_to_get_win,1_prefix_come_on.wav,"spingi spingi spingi, abbiamo una chance di vincere","spingi spingi spingi, abbiamo una chance di vincere"
+\voice\push_now\push_to_get_win,2_prefix_ok.wav,spingi adesso potremmo vincere,spingi adesso potremmo vincere
+\voice\push_now\push_to_get_win,3_prefix_ok.wav,spingi spingi spingi possiamo vincere,spingi spingi spingi possiamo vincere
+\voice\push_now\push_to_get_win,sweary_4_suffix_come_on.wav,spingi come un pazzo c'e' una vittoria in palio qui,spingi come un pazzo c'e' una vittoria in palio qui
+\voice\push_now\push_to_hold_position,1_prefix_come_on.wav,devi spingere se vogliamo mantenere questa posizione,devi spingere se vogliamo mantenere questa posizione
+\voice\push_now\push_to_hold_position,2_suffix_come_on.wav,spingi spingi spingi o perderemo questa posizione,spingi spingi spingi o perderemo questa posizione
+\voice\push_now\push_to_hold_position,3_prefix_ok_male.wav,"spingi adesso, quello dietro sta recuperando","spingi adesso, quello dietro sta recuperando"
+\voice\push_now\push_to_improve,1_op_prefix_come_on.wav,"spingi spingi spingi, riusciamo a raggiungere questa macchina","spingi spingi spingi, riusciamo a raggiungere questa macchina"
+\voice\push_now\push_to_improve,1_op_prefix_come_on_male.wav,spingi spingi spingi possiamo prendere questo,spingi spingi spingi possiamo prendere questo
+\voice\push_now\push_to_improve,2_op_prefix_ok.wav,spingi adesso possiamo recuperare qui,spingi adesso possiamo recuperare qui
+\voice\push_now\push_to_improve,2_op_prefix_ok_male.wav,spingi adesso possiamo prendere questo,spingi adesso possiamo prendere questo
+\voice\push_now\push_to_improve,3_op_suffix_come_on.wav,"spingi spingi spingi, riusciamo a prendere questa posizione","spingi spingi spingi, riusciamo a prendere questa posizione"
+\voice\push_now\push_to_improve,3_op_suffix_come_on_male.wav,spingi possiamo prendere questo,spingi possiamo prendere questo
+\voice\race_time\last_lap,1.wav,un altro giro,un altro giro
+\voice\race_time\last_lap,3.wav,un altro giro,un altro giro
+\voice\race_time\last_lap,4.wav,ultimo giro,ultimo giro
+\voice\race_time\last_lap_leading,1.wav,"un altro giro per la vittoria, dai","un altro giro per la vittoria, dai"
+\voice\race_time\last_lap_leading,2.wav,"un altro giro, rimani concentrato","un altro giro, rimani concentrato"
+\voice\race_time\last_lap_leading,3.wav,"1 more giro, p1","1 more giro, p1"
+\voice\race_time\last_lap_leading,4.wav,"un altro giro, tieni duro, vinceremo","un altro giro, tieni duro, vinceremo"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\bad_luck,1.wav,"ah, brutto luck, your_name.","ah, brutto luck, your_name."
+\personalisations\YOUR_NAME\prefixes_and_suffixes\bad_luck,2.wav,"ah, brutto luck, your_name.","ah, brutto luck, your_name."
+\personalisations\YOUR_NAME\prefixes_and_suffixes\bad_luck,3.wav,"ah, brutto luck, your_name.","ah, brutto luck, your_name."
+\personalisations\YOUR_NAME\prefixes_and_suffixes\come_on,1.wav,dai YOUR_NAME,dai YOUR_NAME
+\personalisations\YOUR_NAME\prefixes_and_suffixes\come_on,2.wav,dai YOUR_NAME,dai YOUR_NAME
+\personalisations\YOUR_NAME\prefixes_and_suffixes\come_on,3.wav,dai YOUR_NAME,dai YOUR_NAME
+\personalisations\YOUR_NAME\prefixes_and_suffixes\come_on,4.wav,dai YOUR_NAME,dai YOUR_NAME
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,1.wav,fantastico YOUR_NAME,fantastico YOUR_NAME
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,2.wav,allora YOUR_NAME,allora YOUR_NAME
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,3.wav,"bravo, your_name","bravo, your_name"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,4.wav,fantastico YOUR_NAME,fantastico YOUR_NAME
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,sweary_5.wav,cazzo si' YOUR_NAME,cazzo si' YOUR_NAME
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,6.wav,fantastico YOUR_NAME,fantastico YOUR_NAME
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,7.wav,"ottimo lavoro, your_name","ottimo lavoro, your_name"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,8.wav,"bravo, your_name","bravo, your_name"
+\personalisations\YOUR_NAME\prefixes_and_suffixes\well_done,9.wav,"ottimo lavoro, your_name","ottimo lavoro, your_name"
+\composite_personalisation_stubs\bad_luck,1.wav,"ahh, brutto luck","ahh, brutto luck"
+\composite_personalisation_stubs\bad_luck,2.wav,che sfortuna,che sfortuna
+\composite_personalisation_stubs\bad_luck,3.wav,"oof, brutto luck","oof, brutto luck"
+\composite_personalisation_stubs\come_on,1.wav,dai,dai
+\composite_personalisation_stubs\come_on,2.wav,dai su,dai su
+\composite_personalisation_stubs\come_on,sweary_3.wav,cazzo dai,cazzo dai
+\composite_personalisation_stubs\well_done,1.wav,bravo,bravo
+\composite_personalisation_stubs\well_done,2.wav,ottimo lavoro,ottimo lavoro
+\composite_personalisation_stubs\well_done,3.wav,fantastico,fantastico
+\composite_personalisation_stubs\well_done,sweary_4.wav,cazzo si',cazzo si'

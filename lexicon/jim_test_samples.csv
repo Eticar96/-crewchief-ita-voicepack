@@ -1,0 +1,11 @@
+audio_path,audio_filename,subtitle,text_for_tts
+\voice\test_jim\01_tecnico,1.wav,il distacco davanti e' di tre secondi,il distacco davanti e' di tre secondi
+\voice\test_jim\02_spotter,1.wav,macchina a sinistra,macchina a sinistra
+\voice\test_jim\03_emotivo,1.wav,hai vinto fantastico che gara!,hai vinto fantastico che gara!
+\voice\test_jim\04_benzina,1.wav,occhio alla benzina gestisci bene,occhio alla benzina gestisci bene
+\voice\test_jim\05_gomme,1.wav,le gomme anteriori sono consumate,le gomme anteriori sono consumate
+\voice\test_jim\06_posizione,1.wav,sei in quinta posizione,sei in quinta posizione
+\voice\test_jim\07_partenza,1.wav,semaforo verde vai!,semaforo verde vai!
+\voice\test_jim\08_penalita,1.wav,limiti di pista giro cancellato,limiti di pista giro cancellato
+\voice\test_jim\09_temperatura,1.wav,temperatura pista in calo adesso e',temperatura pista in calo adesso e'
+\voice\test_jim\10_fine_gara,1.wav,bandiera a scacchi gara finita ben fatto!,bandiera a scacchi gara finita ben fatto!

@@ -2,6 +2,22 @@
 # Ogni voce richiede file audio di riferimento (~30 secondi) nella cartella reference_audio/<nome>/
 
 voices:
+  Jim:
+    description: "Voce originale italiana di CrewChief, clonata dai file del mod"
+    reference_audio: "./reference_audio/jim/"
+    language: "it"
+    gpt_cond_len: 30
+    gpt_cond_chunk_len: 12
+    max_ref_length: 60
+    repetition_penalty: 5.0
+    length_penalty: 1.0
+    top_k: 50
+    top_p: 0.85
+    base_temperature: 0.4
+    skip_postprocessing: true
+    use_as_spotter: true
+    variation_count: 0
+
   Marco:
     description: "Ingegnere calmo e professionale"
     reference_audio: "./reference_audio/marco/"

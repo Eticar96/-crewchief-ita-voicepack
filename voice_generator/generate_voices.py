@@ -95,9 +95,9 @@ _EMOTIVE_PARENTS = {
 
 LEVEL_DEFAULTS = {
     "tecnico":      {"temperature": 0.5,  "speed": 1.0},
-    "emotivo":      {"temperature": 0.85, "speed": 1.1},
-    "spotter":      {"temperature": 0.5,  "speed": 1.15},
-    "imprecazione": {"temperature": 0.8,  "speed": 1.1},
+    "emotivo":      {"temperature": 0.65, "speed": 1.05},
+    "spotter":      {"temperature": 0.5,  "speed": 1.1},
+    "imprecazione": {"temperature": 0.65, "speed": 1.05},
 }
 
 
